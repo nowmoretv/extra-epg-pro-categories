@@ -1,0 +1,31 @@
+name: Actualizador EPG
+
+on:
+  schedule:
+    # Se ejecuta automáticamente cada 12 horas
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Descargar repositorio
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Combinar y filtrar EPGs
+      run: python epg_builder.py
+
+    - name: Guardar cambios en GitHub
+      run: |
+        git config --global user.name "EPG AutoBot"
+        git config --global user.email "bot@github.com"
+        git add *.xml
+        git commit -m "Auto-actualización de guías EPG por categoría [skip ci]" || exit 0
+        git push
