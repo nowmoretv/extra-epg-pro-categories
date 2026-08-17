@@ -18,6 +18,26 @@ FUENTES_XML = {
 }
 
 # ==============================================================================
+# LIMPIEZA DE ETIQUETAS POR CATEGORÍA
+# Define qué etiquetas eliminar de <programme> para aligerar el XML.
+# Si pones una lista vacía [], se conserva todo.
+# ==============================================================================
+
+ETIQUETAS_LIMPIEZA = {
+    # Ejemplo: 'nacionales' ultra ligera (sin descripciones, episodios ni iconos)
+    "nacionales": ["desc", "episode-num", "icon", "series-id", "sub-title", "category", "rating", "star-rating"],
+    
+    # Ejemplo: 'cine' conserva todo (lista vacía)
+    "cine": [],
+    
+    # Ejemplo: 'latinoamerica' ligera
+    "norteamerica": ["desc", "icon", "episode-num", "series-id"]
+}
+
+# Etiquetas a eliminar por defecto si una categoría no está en el diccionario anterior
+LIMPIEZA_DEFECTO = ["desc", "icon", "episode-num", "series-id"]
+
+# ==============================================================================
 # CANALES POR CATEGORÍA
 # Estructura: "nombre_archivo": { "ID_ORIGINAL_XML": "ID_NUEVO_DESEADO" }
 # ==============================================================================
@@ -70,9 +90,16 @@ def obtener_arbol_xml(url, archivo_temp):
         tree = ET.parse(archivo_temp)
     return tree
 
+def limpiar_programa(programme_elem, tags_a_borrar):
+    """
+    Elimina los nodos hijos especificados (como <desc>, <icon>, etc.)
+    del elemento <programme> para dejarlo lo más ligero posible.
+    """
+    for tag in tags_a_borrar:
+        for nodo in programme_elem.findall(tag):
+            programme_elem.remove(nodo)
+
 def generar_epgs_por_categoria():
-    # 1. Crear un diccionario inverso para saber rápidamente a qué categoría pertenece cada canal
-    # canal_a_cat[id_original] = (id_nuevo, nombre_categoria)
     canal_a_cat = {}
     arboles_categorias = {}
     canales_agregados = {}
@@ -83,14 +110,12 @@ def generar_epgs_por_categoria():
         for id_orig, id_nuevo in canales.items():
             canal_a_cat[id_orig] = (id_nuevo, cat_nombre)
 
-    # 2. Fechas límite de filtrado
     ahora_utc = datetime.now(timezone.utc)
     fecha_limite_inicio = ahora_utc.replace(hour=0, minute=0, second=0, microsecond=0)
     fecha_limite_fin = fecha_limite_inicio + timedelta(days=DIAS_FUTURO + 1)
 
     print(f"--> Filtrando programación desde {fecha_limite_inicio.strftime('%Y-%m-%d')} hasta {fecha_limite_fin.strftime('%Y-%m-%d')}...")
 
-    # 3. Descargar y clasificar cada fuente
     for pais, url in FUENTES_XML.items():
         ext = ".xml.gz" if url.endswith('.gz') else ".xml"
         archivo_temp = f"temp_{pais}{ext}"
@@ -100,7 +125,7 @@ def generar_epgs_por_categoria():
             tree = obtener_arbol_xml(url, archivo_temp)
             root = tree.getroot()
 
-            # A. Procesar Canales
+            # A. Canales
             for channel in root.findall('channel'):
                 id_orig = channel.get('id')
                 if id_orig in canal_a_cat:
@@ -115,7 +140,7 @@ def generar_epgs_por_categoria():
                         arboles_categorias[cat_nombre].append(channel)
                         canales_agregados[cat_nombre].add(id_nuevo)
 
-            # B. Procesar Programas
+            # B. Programas
             for programme in root.findall('programme'):
                 canal_orig = programme.get('channel')
                 start_time = programme.get('start')
@@ -124,6 +149,12 @@ def generar_epgs_por_categoria():
                     if es_programa_valido(start_time, fecha_limite_inicio, fecha_limite_fin):
                         id_nuevo, cat_nombre = canal_a_cat[canal_orig]
                         programme.set('channel', id_nuevo)
+                        
+                        # --- LIMPIEZA SELECTIVA DE METADATOS ---
+                        tags_a_borrar = ETIQUETAS_LIMPIEZA.get(cat_nombre, LIMPIEZA_DEFECTO)
+                        if tags_a_borrar:
+                            limpiar_programa(programme, tags_a_borrar)
+
                         arboles_categorias[cat_nombre].append(programme)
 
             print(f"    ✔ Procesado {pais} con éxito.")
@@ -134,8 +165,8 @@ def generar_epgs_por_categoria():
             if os.path.exists(archivo_temp):
                 os.remove(archivo_temp)
 
-    # 4. Guardar un archivo .xml para cada categoría
-    print("\n--> Guardando archivos EPG por categoría:")
+    # Guardar los archivos resultantes
+    print("\n--> Guardando archivos EPG limpios por categoría:")
     for cat_nombre, root_cat in arboles_categorias.items():
         nombre_archivo = f"epg_{cat_nombre}.xml"
         tree_cat = ET.ElementTree(root_cat)
@@ -143,7 +174,7 @@ def generar_epgs_por_categoria():
         tree_cat.write(nombre_archivo, encoding="utf-8", xml_declaration=True)
         print(f"    ✔ Generado: {nombre_archivo}")
 
-    print("\n¡Todas las guías por categoría han sido creadas con éxito!")
+    print("\n¡Todas las guías optimizadas han sido creadas con éxito!")
 
 if __name__ == "__main__":
     generar_epgs_por_categoria()
