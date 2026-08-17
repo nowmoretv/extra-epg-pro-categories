@@ -23,8 +23,8 @@ FUENTES_XML = {
 
 ETIQUETAS_LIMPIEZA = {
     "nacionales": ["desc", "episode-num", "icon", "series-id", "sub-title", "category", "rating", "star-rating"],
-    "cine": [],
-    "norteamerica": ["desc", "icon", "episode-num", "series-id"]
+    "cine": ["episode-num", "icon", "series-id", "sub-title", "rating", "star-rating"],
+    "norteamerica": ["desc", "icon", "episode-num", "series-id", "sub-title", "category", "rating", "star-rating"]
 }
 
 # Etiquetas a eliminar por defecto si una categoría no está en el diccionario anterior
