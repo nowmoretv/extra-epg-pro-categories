@@ -8,8 +8,6 @@ from datetime import datetime, timedelta, timezone
 # CONFIGURACIÓN
 # ==============================================================================
 
-DIAS_FUTURO = 3
-
 FUENTES_XML = {
     "Espana": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml",
     "Mexico": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
@@ -24,13 +22,8 @@ FUENTES_XML = {
 # ==============================================================================
 
 ETIQUETAS_LIMPIEZA = {
-    # Ejemplo: 'nacionales' ultra ligera (sin descripciones, episodios ni iconos)
     "nacionales": ["desc", "episode-num", "icon", "series-id", "sub-title", "category", "rating", "star-rating"],
-    
-    # Ejemplo: 'cine' conserva todo (lista vacía)
     "cine": [],
-    
-    # Ejemplo: 'latinoamerica' ligera
     "norteamerica": ["desc", "icon", "episode-num", "series-id"]
 }
 
@@ -66,10 +59,14 @@ CATEGORIAS = {
 }
 
 # ==============================================================================
-# LÓGICA DE PROCESAMIENTO
+# LÓGICA DE PROCESAMIENTO Y FILTRADO TEMPORAL
 # ==============================================================================
 
 def es_programa_valido(fecha_inicio_str, fecha_limite_inicio, fecha_limite_fin):
+    """
+    Verifica si el programa entra en la ventana desde hoy a las 00:00:00
+    hasta pasado mañana a las 05:59:59.
+    """
     try:
         fecha_clean = fecha_inicio_str.split()[0][:14]
         fecha_dt = datetime.strptime(fecha_clean, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
@@ -110,11 +107,16 @@ def generar_epgs_por_categoria():
         for id_orig, id_nuevo in canales.items():
             canal_a_cat[id_orig] = (id_nuevo, cat_nombre)
 
+    # --- VENTANA TEMPORAL: Hoy 00:00:00 hasta Pasado Mañana 05:59:59 ---
     ahora_utc = datetime.now(timezone.utc)
     fecha_limite_inicio = ahora_utc.replace(hour=0, minute=0, second=0, microsecond=0)
-    fecha_limite_fin = fecha_limite_inicio + timedelta(days=DIAS_FUTURO + 1)
+    
+    # Sumamos 2 días + 5 horas + 59 minutos + 59 segundos
+    fecha_limite_fin = fecha_limite_inicio + timedelta(days=2, hours=5, minutes=59, seconds=59)
 
-    print(f"--> Filtrando programación desde {fecha_limite_inicio.strftime('%Y-%m-%d')} hasta {fecha_limite_fin.strftime('%Y-%m-%d')}...")
+    print(f"--> Filtrando programación:")
+    print(f"    Desde: {fecha_limite_inicio.strftime('%Y-%m-%d %H:%M:%S UTC')}")
+    print(f"    Hasta: {fecha_limite_fin.strftime('%Y-%m-%d %H:%M:%S UTC')}")
 
     for pais, url in FUENTES_XML.items():
         ext = ".xml.gz" if url.endswith('.gz') else ".xml"
@@ -140,7 +142,7 @@ def generar_epgs_por_categoria():
                         arboles_categorias[cat_nombre].append(channel)
                         canales_agregados[cat_nombre].add(id_nuevo)
 
-            # B. Programas
+            # B. Programas (Filtrados por ventana horaria y limpiados de etiquetas)
             for programme in root.findall('programme'):
                 canal_orig = programme.get('channel')
                 start_time = programme.get('start')
@@ -150,7 +152,6 @@ def generar_epgs_por_categoria():
                         id_nuevo, cat_nombre = canal_a_cat[canal_orig]
                         programme.set('channel', id_nuevo)
                         
-                        # --- LIMPIEZA SELECTIVA DE METADATOS ---
                         tags_a_borrar = ETIQUETAS_LIMPIEZA.get(cat_nombre, LIMPIEZA_DEFECTO)
                         if tags_a_borrar:
                             limpiar_programa(programme, tags_a_borrar)
@@ -165,7 +166,6 @@ def generar_epgs_por_categoria():
             if os.path.exists(archivo_temp):
                 os.remove(archivo_temp)
 
-    # Guardar los archivos resultantes
     print("\n--> Guardando archivos EPG limpios por categoría:")
     for cat_nombre, root_cat in arboles_categorias.items():
         nombre_archivo = f"epg_{cat_nombre}.xml"
