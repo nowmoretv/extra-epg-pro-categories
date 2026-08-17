@@ -23,6 +23,9 @@ FUENTES_XML = {
 # ==============================================================================
 
 CATEGORIAS = {
+    "cine": {
+        "5f1ac1f1b66c76000790ef27": "Pluto TV Cine Estelar"
+    },
     "nacionales": {
         "La 1 HD": "La 1",
         "LA 1.es": "La 1 Light",
@@ -30,10 +33,7 @@ CATEGORIAS = {
         "Telecinco.es": "Telecinco",
         "LaSexta.es": "La Sexta"
     },
-    "cine": {
-        "5f1ac1f1b66c76000790ef27": "Pluto TV Cine Estelar"
-    },
-    "latinoamerica": {
+    "norteamerica": {
         "AztecaUno.mx": "Azteca Uno",
         "LasEstrellas.mx": "Las Estrellas",
         "Telefe.ar": "Telefe",
