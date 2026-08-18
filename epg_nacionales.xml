@@ -11,51 +11,6 @@
     <display-name>La 1 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" />
   </channel>
-  <programme start="20260817070000 +0200" stop="20260817083000 +0200" channel="La 1">
-    <title>Telediario Matinal</title>
-  </programme>
-  <programme start="20260817083000 +0200" stop="20260817103500 +0200" channel="La 1">
-    <title>La hora de La 1: La hora de la actualidad T9 E161</title>
-  </programme>
-  <programme start="20260817103500 +0200" stop="20260817145500 +0200" channel="La 1">
-    <title>Mañaneros 360 T2 E246</title>
-  </programme>
-  <programme start="20260817145500 +0200" stop="20260817153000 +0200" channel="La 1">
-    <title>Telediario 1</title>
-  </programme>
-  <programme start="20260817153000 +0200" stop="20260817153500 +0200" channel="La 1">
-    <title>Deportes 1</title>
-  </programme>
-  <programme start="20260817153500 +0200" stop="20260817154000 +0200" channel="La 1">
-    <title>El tiempo</title>
-  </programme>
-  <programme start="20260817154000 +0200" stop="20260817155000 +0200" channel="La 1">
-    <title>Informativo territorial 2</title>
-  </programme>
-  <programme start="20260817155000 +0200" stop="20260817174500 +0200" channel="La 1">
-    <title>Directo al grano T2 E161</title>
-  </programme>
-  <programme start="20260817174500 +0200" stop="20260817183500 +0200" channel="La 1">
-    <title>Valle Salvaje T4 E46</title>
-  </programme>
-  <programme start="20260817183500 +0200" stop="20260817193500 +0200" channel="La 1">
-    <title>La Promesa T1 E886</title>
-  </programme>
-  <programme start="20260817193500 +0200" stop="20260817202500 +0200" channel="La 1">
-    <title>Malas lenguas T2 E233</title>
-  </programme>
-  <programme start="20260817202500 +0200" stop="20260817205500 +0200" channel="La 1">
-    <title>Aquí la Tierra T15 E803</title>
-  </programme>
-  <programme start="20260817205500 +0200" stop="20260817214000 +0200" channel="La 1">
-    <title>Telediario 2</title>
-  </programme>
-  <programme start="20260817214000 +0200" stop="20260817214500 +0200" channel="La 1">
-    <title>Deportes 2</title>
-  </programme>
-  <programme start="20260817214500 +0200" stop="20260818005500 +0200" channel="La 1">
-    <title>El Grand Prix del Verano T4 · Muros vs Blanca</title>
-  </programme>
   <programme start="20260818005500 +0200" stop="20260818032500 +0200" channel="La 1">
     <title>El Grand Prix del Verano T4 · Pravia vs Serraniillos del Valle</title>
   </programme>
@@ -87,7 +42,7 @@
     <title>Directo al grano T2</title>
   </programme>
   <programme start="20260818174500 +0200" stop="20260818183500 +0200" channel="La 1">
-    <title>Valle Salvaje T4</title>
+    <title>Valle Salvaje</title>
   </programme>
   <programme start="20260818183500 +0200" stop="20260818193500 +0200" channel="La 1">
     <title>La Promesa T1</title>
@@ -119,113 +74,158 @@
   <programme start="20260819041500 +0200" stop="20260819060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
   </programme>
+  <programme start="20260819060000 +0200" stop="20260819075000 +0200" channel="La 1">
+    <title>Telediario Matinal</title>
+  </programme>
+  <programme start="20260819075000 +0200" stop="20260819103500 +0200" channel="La 1">
+    <title>La hora de La 1: La hora de la actualidad T9</title>
+  </programme>
+  <programme start="20260819103500 +0200" stop="20260819145500 +0200" channel="La 1">
+    <title>Mañaneros 360 T2</title>
+  </programme>
+  <programme start="20260819145500 +0200" stop="20260819153500 +0200" channel="La 1">
+    <title>Telediario 1</title>
+  </programme>
+  <programme start="20260819153500 +0200" stop="20260819154000 +0200" channel="La 1">
+    <title>Deportes 1</title>
+  </programme>
+  <programme start="20260819154000 +0200" stop="20260819154500 +0200" channel="La 1">
+    <title>El tiempo</title>
+  </programme>
+  <programme start="20260819154500 +0200" stop="20260819155500 +0200" channel="La 1">
+    <title>Informativo territorial 2</title>
+  </programme>
+  <programme start="20260819155500 +0200" stop="20260819174500 +0200" channel="La 1">
+    <title>Directo al grano T2</title>
+  </programme>
+  <programme start="20260819174500 +0200" stop="20260819183500 +0200" channel="La 1">
+    <title>Valle Salvaje T4</title>
+  </programme>
+  <programme start="20260819183500 +0200" stop="20260819193500 +0200" channel="La 1">
+    <title>La Promesa T1</title>
+  </programme>
+  <programme start="20260819193500 +0200" stop="20260819202500 +0200" channel="La 1">
+    <title>Malas lenguas T2</title>
+  </programme>
+  <programme start="20260819202500 +0200" stop="20260819205500 +0200" channel="La 1">
+    <title>Aquí la Tierra</title>
+  </programme>
+  <programme start="20260819205500 +0200" stop="20260819214000 +0200" channel="La 1">
+    <title>Telediario 2</title>
+  </programme>
+  <programme start="20260819214000 +0200" stop="20260819214500 +0200" channel="La 1">
+    <title>Deportes 2</title>
+  </programme>
+  <programme start="20260819214500 +0200" stop="20260819230000 +0200" channel="La 1">
+    <title>El Grand Prix del Verano T4</title>
+  </programme>
+  <programme start="20260819230000 +0200" stop="20260820001500 +0200" channel="La 1">
+    <title>Operación África</title>
+  </programme>
+  <programme start="20260820001500 +0200" stop="20260820014500 +0200" channel="La 1">
+    <title>Operación África</title>
+  </programme>
+  <programme start="20260820014500 +0200" stop="20260820042000 +0200" channel="La 1">
+    <title>La noche en 24 horas</title>
+  </programme>
+  <programme start="20260820042000 +0200" stop="20260820060000 +0200" channel="La 1">
+    <title>Noticias 24H</title>
+  </programme>
   <channel id="La 1 Light">
     <display-name>La 1 Light</display-name>
     <icon src="https://images.open-epg.com/12901077.png" />
   </channel>
-  <programme start="20260817014500 +0000" stop="20260817040000 +0000" channel="La 1 Light">
-    <title>Noticias 24H</title>
-  </programme>
-  <programme start="20260817040000 +0000" stop="20260817050000 +0000" channel="La 1 Light">
-    <title>Noticias 24H</title>
-  </programme>
-  <programme start="20260817050000 +0000" stop="20260817080500 +0000" channel="La 1 Light">
-    <title>Noticias 24H</title>
-  </programme>
-  <programme start="20260817080500 +0000" stop="20260817090000 +0000" channel="La 1 Light">
-    <title>Viaje al centro de la tele</title>
-  </programme>
-  <programme start="20260817090000 +0000" stop="20260817100500 +0000" channel="La 1 Light">
-    <title>Viaje al centro de la tele</title>
-  </programme>
-  <programme start="20260817100500 +0000" stop="20260817110500 +0000" channel="La 1 Light">
-    <title>Viaje al centro de la tele</title>
-  </programme>
-  <programme start="20260817110500 +0000" stop="20260817125500 +0000" channel="La 1 Light">
-    <title>D Corazón</title>
-  </programme>
-  <programme start="20260817125500 +0000" stop="20260817133000 +0000" channel="La 1 Light">
-    <title>Telediario 1 Fin de Semana</title>
-  </programme>
-  <programme start="20260817133000 +0000" stop="20260817145500 +0000" channel="La 1 Light">
-    <title>Sin rastro</title>
-  </programme>
-  <programme start="20260817145500 +0000" stop="20260817165000 +0000" channel="La 1 Light">
-    <title>Pretemporada (T26/27)</title>
-  </programme>
-  <programme start="20260817165000 +0000" stop="20260817182500 +0000" channel="La 1 Light">
-    <title>Mira cómo corren</title>
-  </programme>
-  <programme start="20260817182500 +0000" stop="20260817185500 +0000" channel="La 1 Light">
-    <title>Aquí la Tierra</title>
-  </programme>
-  <programme start="20260817185500 +0000" stop="20260817200000 +0000" channel="La 1 Light">
-    <title>Telediario 2 Fin de Semana</title>
-  </programme>
-  <programme start="20260817200000 +0000" stop="20260817214500 +0000" channel="La 1 Light">
-    <title>Robin Hood. Forajido, héroe, leyenda</title>
-  </programme>
-  <programme start="20260817214500 +0000" stop="20260817234500 +0000" channel="La 1 Light">
-    <title>El escuadrón suicida</title>
-  </programme>
-  <programme start="20260817234500 +0000" stop="20260818014500 +0000" channel="La 1 Light">
-    <title>La gran apuesta</title>
-  </programme>
-  <programme start="20260818014500 +0000" stop="20260818040000 +0000" channel="La 1 Light">
+  <programme start="20260818012500 +0000" stop="20260818040000 +0000" channel="La 1 Light">
     <title>Noticias 24H</title>
   </programme>
   <programme start="20260818040000 +0000" stop="20260818050000 +0000" channel="La 1 Light">
     <title>Noticias 24H</title>
   </programme>
-  <programme start="20260818050000 +0000" stop="20260818080500 +0000" channel="La 1 Light">
-    <title>Noticias 24H</title>
+  <programme start="20260818050000 +0000" stop="20260818063000 +0000" channel="La 1 Light">
+    <title>Telediario Matinal</title>
   </programme>
-  <programme start="20260818080500 +0000" stop="20260818090000 +0000" channel="La 1 Light">
-    <title>Viaje al centro de la tele</title>
+  <programme start="20260818063000 +0000" stop="20260818083500 +0000" channel="La 1 Light">
+    <title>La hora de La 1: La hora de la actualidad</title>
   </programme>
-  <programme start="20260818090000 +0000" stop="20260818100500 +0000" channel="La 1 Light">
-    <title>Viaje al centro de la tele</title>
+  <programme start="20260818083500 +0000" stop="20260818125500 +0000" channel="La 1 Light">
+    <title>Mañaneros 360</title>
   </programme>
-  <programme start="20260818100500 +0000" stop="20260818110500 +0000" channel="La 1 Light">
-    <title>Viaje al centro de la tele</title>
+  <programme start="20260818125500 +0000" stop="20260818135000 +0000" channel="La 1 Light">
+    <title>Telediario 1</title>
   </programme>
-  <programme start="20260818110500 +0000" stop="20260818125500 +0000" channel="La 1 Light">
-    <title>D Corazón</title>
+  <programme start="20260818135000 +0000" stop="20260818154500 +0000" channel="La 1 Light">
+    <title>Directo al grano</title>
   </programme>
-  <programme start="20260818125500 +0000" stop="20260818133000 +0000" channel="La 1 Light">
-    <title>Telediario 1 Fin de Semana</title>
+  <programme start="20260818154500 +0000" stop="20260818163500 +0000" channel="La 1 Light">
+    <title>Valle Salvaje (T4)</title>
   </programme>
-  <programme start="20260818133000 +0000" stop="20260818145500 +0000" channel="La 1 Light">
-    <title>Sin rastro</title>
+  <programme start="20260818163500 +0000" stop="20260818173500 +0000" channel="La 1 Light">
+    <title>La Promesa (T1)</title>
   </programme>
-  <programme start="20260818145500 +0000" stop="20260818165000 +0000" channel="La 1 Light">
-    <title>Pretemporada (T26/27)</title>
-  </programme>
-  <programme start="20260818165000 +0000" stop="20260818182500 +0000" channel="La 1 Light">
-    <title>Mira cómo corren</title>
+  <programme start="20260818173500 +0000" stop="20260818182500 +0000" channel="La 1 Light">
+    <title>Malas lenguas</title>
   </programme>
   <programme start="20260818182500 +0000" stop="20260818185500 +0000" channel="La 1 Light">
     <title>Aquí la Tierra</title>
   </programme>
-  <programme start="20260818185500 +0000" stop="20260818200000 +0000" channel="La 1 Light">
-    <title>Telediario 2 Fin de Semana</title>
+  <programme start="20260818185500 +0000" stop="20260818194500 +0000" channel="La 1 Light">
+    <title>Telediario 2</title>
   </programme>
-  <programme start="20260818200000 +0000" stop="20260818214500 +0000" channel="La 1 Light">
-    <title>Robin Hood. Forajido, héroe, leyenda</title>
+  <programme start="20260818194500 +0000" stop="20260818225500 +0000" channel="La 1 Light">
+    <title>El Grand Prix del Verano</title>
   </programme>
-  <programme start="20260818214500 +0000" stop="20260818234500 +0000" channel="La 1 Light">
-    <title>El escuadrón suicida</title>
+  <programme start="20260818225500 +0000" stop="20260819012500 +0000" channel="La 1 Light">
+    <title>El Grand Prix del Verano</title>
   </programme>
-  <programme start="20260818234500 +0000" stop="20260819014500 +0000" channel="La 1 Light">
-    <title>La gran apuesta</title>
-  </programme>
-  <programme start="20260819014500 +0000" stop="20260819040000 +0000" channel="La 1 Light">
+  <programme start="20260819012500 +0000" stop="20260819040000 +0000" channel="La 1 Light">
     <title>Noticias 24H</title>
   </programme>
   <programme start="20260819040000 +0000" stop="20260819050000 +0000" channel="La 1 Light">
     <title>Noticias 24H</title>
   </programme>
-  <programme start="20260819050000 +0000" stop="20260819080500 +0000" channel="La 1 Light">
+  <programme start="20260819050000 +0000" stop="20260819063000 +0000" channel="La 1 Light">
+    <title>Telediario Matinal</title>
+  </programme>
+  <programme start="20260819063000 +0000" stop="20260819083500 +0000" channel="La 1 Light">
+    <title>La hora de La 1: La hora de la actualidad</title>
+  </programme>
+  <programme start="20260819083500 +0000" stop="20260819125500 +0000" channel="La 1 Light">
+    <title>Mañaneros 360</title>
+  </programme>
+  <programme start="20260819125500 +0000" stop="20260819135000 +0000" channel="La 1 Light">
+    <title>Telediario 1</title>
+  </programme>
+  <programme start="20260819135000 +0000" stop="20260819154500 +0000" channel="La 1 Light">
+    <title>Directo al grano</title>
+  </programme>
+  <programme start="20260819154500 +0000" stop="20260819163500 +0000" channel="La 1 Light">
+    <title>Valle Salvaje (T4)</title>
+  </programme>
+  <programme start="20260819163500 +0000" stop="20260819173500 +0000" channel="La 1 Light">
+    <title>La Promesa (T1)</title>
+  </programme>
+  <programme start="20260819173500 +0000" stop="20260819182500 +0000" channel="La 1 Light">
+    <title>Malas lenguas</title>
+  </programme>
+  <programme start="20260819182500 +0000" stop="20260819185500 +0000" channel="La 1 Light">
+    <title>Aquí la Tierra</title>
+  </programme>
+  <programme start="20260819185500 +0000" stop="20260819194500 +0000" channel="La 1 Light">
+    <title>Telediario 2</title>
+  </programme>
+  <programme start="20260819194500 +0000" stop="20260819225500 +0000" channel="La 1 Light">
+    <title>El Grand Prix del Verano</title>
+  </programme>
+  <programme start="20260819225500 +0000" stop="20260820012500 +0000" channel="La 1 Light">
+    <title>El Grand Prix del Verano</title>
+  </programme>
+  <programme start="20260820012500 +0000" stop="20260820040000 +0000" channel="La 1 Light">
     <title>Noticias 24H</title>
+  </programme>
+  <programme start="20260820040000 +0000" stop="20260820050000 +0000" channel="La 1 Light">
+    <title>Noticias 24H</title>
+  </programme>
+  <programme start="20260820050000 +0000" stop="20260820063000 +0000" channel="La 1 Light">
+    <title>Telediario Matinal</title>
   </programme>
 </tv>
