@@ -10,7 +10,7 @@ from datetime import datetime, timedelta, timezone
 
 FUENTES_XML = {
     "Espana": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml",
-    "Mexico": "https://www.open-epg.com/generate/CmMYPab4EY.xml",
+    "Mexico": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
     "Argentina": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml",
     "Colombia": "https://iptv-org.github.io/epg/guides/co.xml"
 }
@@ -41,7 +41,7 @@ CATEGORIAS = {
     },
     "nacionales": {
         "La 1 HD": "La 1",
-        "LA 1.es": "La 1 Light",
+        "LA1.es": "La 1 Light",
         "Cuatro.es": "Cuatro",
         "Telecinco.es": "Telecinco",
         "LaSexta.es": "La Sexta"
