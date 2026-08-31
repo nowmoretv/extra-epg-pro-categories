@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 import os
 import gzip
 import base64
+import copy
 from datetime import datetime, timedelta, timezone
 
 # ==============================================================================
