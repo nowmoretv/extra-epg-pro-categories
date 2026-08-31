@@ -35,6 +35,9 @@ LIMPIEZA_DEFECTO = ["desc", "icon", "episode-num", "series-id"]
 # ==============================================================================
 
 CATEGORIAS = {
+    "deportes": {
+        "5f1ac1f1b66c76000790ef27": "Pluto TV Cine Estelar"
+    },
     "cine": {
         "5f1ac1f1b66c76000790ef27": "Pluto TV Cine Estelar"
     },
