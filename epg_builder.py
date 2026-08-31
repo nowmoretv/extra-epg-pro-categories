@@ -114,13 +114,14 @@ def generar_epgs_por_categoria():
         arboles_categorias[cat_nombre] = ET.Element('tv', generator_info_name=f"EPG - {cat_nombre.capitalize()}")
         canales_agregados[cat_nombre] = set()
         for id_orig, id_nuevo in canales.items():
-            canal_a_cat[id_orig] = (id_nuevo, cat_nombre)
+            if id_orig not in canal_a_cat:
+                canal_a_cat[id_orig] = []
+            # Guardamos todas las categorías a las que pertenece el canal
+            canal_a_cat[id_orig].append((id_nuevo, cat_nombre))
 
     # --- VENTANA TEMPORAL: Hoy 00:00:00 hasta Pasado Mañana 05:59:59 ---
     ahora_utc = datetime.now(timezone.utc)
     fecha_limite_inicio = ahora_utc.replace(hour=0, minute=0, second=0, microsecond=0)
-    
-    # Sumamos 2 días + 5 horas + 59 minutos + 59 segundos
     fecha_limite_fin = fecha_limite_inicio + timedelta(days=2, hours=5, minutes=59, seconds=59)
 
     print(f"--> Filtrando programación:")
@@ -140,32 +141,35 @@ def generar_epgs_por_categoria():
             for channel in root.findall('channel'):
                 id_orig = channel.get('id')
                 if id_orig in canal_a_cat:
-                    id_nuevo, cat_nombre = canal_a_cat[id_orig]
-                    
-                    if id_nuevo not in canales_agregados[cat_nombre]:
-                        channel.set('id', id_nuevo)
-                        display_name = channel.find('display-name')
-                        if display_name is not None:
-                            display_name.text = id_nuevo
+                    # Recorremos todas las categorías donde debe aparecer el canal
+                    for id_nuevo, cat_nombre in canal_a_cat[id_orig]:
+                        if id_nuevo not in canales_agregados[cat_nombre]:
+                            ch_copy = copy.deepcopy(channel)
+                            ch_copy.set('id', id_nuevo)
+                            display_name = ch_copy.find('display-name')
+                            if display_name is not None:
+                                display_name.text = id_nuevo
 
-                        arboles_categorias[cat_nombre].append(channel)
-                        canales_agregados[cat_nombre].add(id_nuevo)
+                            arboles_categorias[cat_nombre].append(ch_copy)
+                            canales_agregados[cat_nombre].add(id_nuevo)
 
-            # B. Programas (Filtrados por ventana horaria y limpiados de etiquetas)
+            # B. Programas
             for programme in root.findall('programme'):
                 canal_orig = programme.get('channel')
                 start_time = programme.get('start')
 
                 if canal_orig in canal_a_cat and start_time:
                     if es_programa_valido(start_time, fecha_limite_inicio, fecha_limite_fin):
-                        id_nuevo, cat_nombre = canal_a_cat[canal_orig]
-                        programme.set('channel', id_nuevo)
-                        
-                        tags_a_borrar = ETIQUETAS_LIMPIEZA.get(cat_nombre, LIMPIEZA_DEFECTO)
-                        if tags_a_borrar:
-                            limpiar_programa(programme, tags_a_borrar)
+                        # Insertamos el programa en cada una de las categorías correspondientes
+                        for id_nuevo, cat_nombre in canal_a_cat[canal_orig]:
+                            prog_copy = copy.deepcopy(programme)
+                            prog_copy.set('channel', id_nuevo)
 
-                        arboles_categorias[cat_nombre].append(programme)
+                            tags_a_borrar = ETIQUETAS_LIMPIEZA.get(cat_nombre, LIMPIEZA_DEFECTO)
+                            if tags_a_borrar:
+                                limpiar_programa(prog_copy, tags_a_borrar)
+
+                            arboles_categorias[cat_nombre].append(prog_copy)
 
             print(f"    ✔ Procesado {pais} con éxito.")
 
