@@ -20,6 +20,10 @@ jobs:
         python-version: '3.x'
 
     - name: Combinar y filtrar EPGs
+      env:
+        EPG_URL_PRINCIPAL: ${{ secrets.EPG_URL_PRINCIPAL }}
+        EPG_URL_PLUTO: ${{ secrets.EPG_URL_PLUTO }}
+        EPG_URL_DMUMA: ${{ secrets.EPG_URL_DMUMA }}
       run: python epg_builder.py
 
     - name: Guardar cambios en GitHub
