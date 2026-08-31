@@ -29,6 +29,7 @@ if not FUENTES_XML:
 # ==============================================================================
 
 ETIQUETAS_LIMPIEZA = {
+    "deportes": ["desc", "episode-num", "icon", "series-id", "sub-title", "category", "rating", "star-rating"],
     "nacionales": ["desc", "episode-num", "icon", "series-id", "sub-title", "category", "rating", "star-rating"],
     "cine": ["episode-num", "icon", "series-id", "sub-title", "rating", "star-rating"],
     "norteamerica": ["desc", "icon", "episode-num", "series-id", "sub-title", "category", "rating", "star-rating"]
