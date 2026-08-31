@@ -28,7 +28,7 @@ FUENTES_XML = {
 # ==============================================================================
 
 ETIQUETAS_LIMPIEZA = {
-    "deportes": ["desc", "episode-num", "icon", "series-id", "sub-title", "category", "rating", "star-rating"],
+    "deportes": ["episode-num", "icon", "series-id", "sub-title", "category", "rating", "star-rating"],
     "nacionales": ["desc", "episode-num", "icon", "series-id", "sub-title", "category", "rating", "star-rating"],
     "cine": ["episode-num", "icon", "series-id", "sub-title", "rating", "star-rating"],
     "norteamerica": ["desc", "icon", "episode-num", "series-id", "sub-title", "category", "rating", "star-rating"]
@@ -44,14 +44,60 @@ LIMPIEZA_DEFECTO = ["desc", "icon", "episode-num", "series-id"]
 
 CATEGORIAS = {
     "deportes": {
-        "5f1ac1f1b66c76000790ef27": "Pluto TV Cine Estelar"
+        "LaLigaTVHypermotion.es": "Hypermotion",
+        "LaLigaTVHypermotion2.es": "Hypermotion 2",
+        "LaLigaTVHypermotion3.es": "Hypermotion 3",
+        "DSports.uy": "DSPORTS UY",
+        "DSportsArgentina.uy": "DSPORTS AR",
+        "DSports2.uy": "DSPORTS 2 UY",
+        "DSportsPlus.uy": "DSPORTS Plus UY",
+        "Setanta Sports.ee": "Setanta Sports EE",
+        "Setanta Sports.lv": "Setanta Sports LV",
+        "Setanta Sports 2.lv": "Setanta Sports 2 LV",
+        "beINSports1.au": "beIN Sports 1 AU",
+        "beINSports2.au": "beIN Sports 2 AU",
+        "beINSports3.au": "beIN Sports 3 AU",
+        "PremierSports1.uk": "Premier Sports UK",
+        "PremierSports2.uk": "Premier Sports 2 UK",
+        "Espn.ar": "ESPN AR",
+        "Espn2.ar": "ESPN 2 AR",
+        "Espn3.ar": "ESPN 3 AR",
+        "Espn4.ar": "ESPN 4 AR",
+        "Espn6.ar": "ESPN 6 AR",
+        "EspnPremium.ar": "ESPN Premium AR",
+        "ESPN HD.cl": "ESPN CL",
+        "ESPN 2.cl": "ESPN 2 CL",
+        "ESPN 3.cl": "ESPN 3 CL",
+        "ESPN 4.cl": "ESPN 4 CL",
+        "ESPN 5.cl": "ESPN 5 CL",
+        "ESPN 6.cl": "ESPN 6 CL",
+        "ESPN 7.cl": "ESPN 7 CL",
+        "ESPN Premium.cl": "ESPN Premium CL",
+        "ESPN.co": "ESPN CO",
+        "ESPN 2.co": "ESPN 2 CO",
+        "ESPN 3.co": "ESPN 3 CO",
+        "ESPN 4.co": "ESPN 4 CO",
+        "ESPN 5.co": "ESPN 5 CO",
+        "ESPN 6 HD.co": "ESPN 6 CO",
+        "ESPN 7 HD.co": "ESPN 7 CO",
+        "Arenasport1.hr": "Arena Sport 1 HR",
+        "Arenasport2.hr": "Arena Sport 2 HR",
+        "Arenasport3.hr": "Arena Sport 3 HR",
+        "Arenasport4.hr": "Arena Sport 4 HR",
+        "Arenasport5.hr": "Arena Sport 5 HR",
+        "Arenasport6.hr": "Arena Sport 6 HR",
+        "Arenasport7.hr": "Arena Sport 7 HR",
+        "Arenasport8.hr": "Arena Sport 8 HR",
+        "Arenasport9.hr": "Arena Sport 9 HR",
+        "Arenasport10.hr": "Arena Sport 10 HR",
     },
     "cine": {
         "5f1ac1f1b66c76000790ef27": "Pluto TV Cine Estelar"
     },
     "nacionales": {
-        "La 1 HD": "La 1",
-        "LA1.es": "La 1 Light",
+        "LA1.es": "La 1 OpB",
+        "La 1 HD": "La 1", #DMUMA
+        "La2.es": "La 2 OpB",
         "Cuatro.es": "Cuatro",
         "Telecinco.es": "Telecinco",
         "LaSexta.es": "La Sexta"
