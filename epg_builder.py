@@ -2,7 +2,6 @@ import urllib.request
 import xml.etree.ElementTree as ET
 import os
 import gzip
-import sys
 from datetime import datetime, timedelta, timezone
 
 # ==============================================================================
@@ -10,17 +9,11 @@ from datetime import datetime, timedelta, timezone
 # ==============================================================================
 
 FUENTES_XML = {
-    "Principal": os.getenv("EPG_URL_PRINCIPAL"),
-    "Pluto TV": os.getenv("EPG_URL_PLUTO"),
-    "Spain": os.getenv("EPG_URL_DMUMA"),
-    "Siguiente lista": ""
+    "Principal": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
+    "Pluto TV": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml",
+    "Spain": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml",
+    "Siguiente lista": "https://"
 }
-
-FUENTES_XML = {pais: url for pais, url in FUENTES_XML.items() if url}
-
-if not FUENTES_XML:
-    print("❌ Error crítico: No se encontraron las URLs en las variables de entorno de GitHub.")
-    sys.exit(1)
 
 # ==============================================================================
 # LIMPIEZA DE ETIQUETAS POR CATEGORÍA
