@@ -2,16 +2,26 @@ import urllib.request
 import xml.etree.ElementTree as ET
 import os
 import gzip
+import base64
 from datetime import datetime, timedelta, timezone
 
 # ==============================================================================
 # CONFIGURACIÓN
 # ==============================================================================
 
+# Función auxiliar para decodificar en memoria
+def _dec(b64_str):
+    return base64.b64decode(b64_str.encode('utf-8')).decode('utf-8')
+
 FUENTES_XML = {
-    "Principal": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
-    "Pluto TV": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml",
-    "Spain": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml",
+    "Principal": _dec("aHR0cHM6Ly93d3cub3Blbi1lcGcuY29tL2dlbmVyYXRlL0NtTVlQYWI0RVkueG1sLmd6"),
+    "Pluto TV": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1BsdXRvVFYvZXMueG1s")
+}
+
+FUENTES_XML = {
+    "Principal": "aHR0cHM6Ly93d3cub3Blbi1lcGcuY29tL2dlbmVyYXRlL0NtTVlQYWI0RVkueG1sLmd6",
+    "Pluto TV": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1BsdXRvVFYvZXMueG1s",
+    "Spain": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdmlkbXVtYS9FUEdfZG9ibGVNL3JlZnMvaGVhZHMvbWFzdGVyL2d1aWFpcHR2LnhtbA==",
     "Siguiente lista": "https://"
 }
 
