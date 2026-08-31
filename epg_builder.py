@@ -16,7 +16,7 @@ def _dec(b64_str):
 FUENTES_XML = {
     "Principal": _dec("aHR0cHM6Ly93d3cub3Blbi1lcGcuY29tL2dlbmVyYXRlL0NtTVlQYWI0RVkueG1sLmd6"),
     "Pluto TV": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1BsdXRvVFYvZXMueG1s"),
-    "Spain": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdmlkbXVtYS9FUEdfZG9ibGVNL3JlZnMvaGVhZHMvbWFzdGVyL2d1aWFpcHR2LnhtbA==",
+    "Spain": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdmlkbXVtYS9FUEdfZG9ibGVNL3JlZnMvaGVhZHMvbWFzdGVyL2d1aWFpcHR2LnhtbA=="),
     "Siguiente lista": "https://"
 }
 
