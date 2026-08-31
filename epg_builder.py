@@ -9,10 +9,8 @@ from datetime import datetime, timedelta, timezone
 # ==============================================================================
 
 FUENTES_XML = {
-    "Espana": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml",
-    "Mexico": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
-    "Argentina": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml",
-    "Colombia": "https://iptv-org.github.io/epg/guides/co.xml"
+    "Principal": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
+    "Pluto TV": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml",
 }
 
 # ==============================================================================
