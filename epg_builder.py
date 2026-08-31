@@ -11,6 +11,7 @@ from datetime import datetime, timedelta, timezone
 FUENTES_XML = {
     "Principal": "https://www.open-epg.com/generate/CmMYPab4EY.xml.gz",
     "Pluto TV": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml",
+    "Siguiente lista": ""
 }
 
 # ==============================================================================
