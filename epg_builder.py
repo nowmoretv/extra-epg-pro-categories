@@ -95,7 +95,7 @@ CATEGORIAS = {
         "CBS Sports Network USA (643).us": "CBS Sports"
     },
     "cine": {
-        "5f1ac1f1b66c76000790ef27": "Pluto TV Cine Estelar"
+        "5f1ac1f1b66c76000790ef27": "Pluto Cine Estelar"
     },
     "nacionales": {
         "LA1.es": "La 1 OpB",
