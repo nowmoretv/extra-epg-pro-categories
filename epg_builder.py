@@ -90,6 +90,9 @@ CATEGORIAS = {
         "Arenasport8.hr": "Arena Sport 8 HR",
         "Arenasport9.hr": "Arena Sport 9 HR",
         "Arenasport10.hr": "Arena Sport 10 HR",
+        "Nova Sport 1 HD.cz": "Nova Sport 1 CZ",
+        "Nova Sport 2 HD.cz": "Nova Sport 2 CZ",
+        "CBS Sports Network USA (643).us": "CBS Sports"
     },
     "cine": {
         "5f1ac1f1b66c76000790ef27": "Pluto TV Cine Estelar"
