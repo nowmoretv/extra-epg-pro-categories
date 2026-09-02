@@ -1,0 +1,39 @@
+name: Traductor de EPG
+
+on:
+  workflow_run:
+    workflows: ["Actualizador EPG"]
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  traducir:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+    - name: Descargar repositorio
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Instalar librerías de traducción
+      run: |
+        pip install deep-translator
+
+    - name: Ejecutar script de traducción
+      run: python traductor/traducir_epg.py
+
+    - name: Guardar XML traducido y caché en GitHub
+      run: |
+        git config --global user.name "Translator Bot"
+        git config --global user.email "translator-bot@github.com"
+        git add *.xml traductor/cache_traducciones.json
+        git commit -m "Auto-traducción de canales EPG [skip ci]" || exit 0
+        git push
