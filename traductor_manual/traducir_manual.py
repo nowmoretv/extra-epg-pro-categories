@@ -77,14 +77,6 @@ def main():
                     title_node.text = nuevo_titulo
                     cambio_realizado = True
 
-            # Procesar descripción
-            desc_node = programme.find("desc")
-            if desc_node is not None and desc_node.text:
-                nueva_desc = aplicar_reemplazos(desc_node.text, diccionario_ordenado)
-                if nueva_desc != desc_node.text:
-                    desc_node.text = nueva_desc
-                    cambio_realizado = True
-
             if cambio_realizado:
                 programas_modificados += 1
 
