@@ -1,0 +1,35 @@
+name: Traductor Manual EPG
+
+on:
+  workflow_run:
+    workflows: ["Actualizador EPG"]
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  traducir:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+    - name: Descargar repositorio
+      uses: actions/checkout@v4
+
+    - name: Configurar Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Ejecutar script de traducción manual
+      run: python traductor_manual/traducir_manual.py
+
+    - name: Guardar XML modificado en GitHub
+      run: |
+        git config --global user.name "Manual Translator Bot"
+        git config --global user.email "bot@github.com"
+        git add *.xml
+        git commit -m "Auto-aplicación de traducciones manuales [skip ci]" || exit 0
+        git push
