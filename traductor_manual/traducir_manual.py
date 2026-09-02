@@ -33,15 +33,35 @@ def cargar_diccionario():
     with open(DICCIONARIO_FILE, "r", encoding="utf-8") as f:
         return json.load(f)
 
+def ajustar_capitalizacion(texto_original, texto_reemplazo):
+    """
+    Imita el patrón de mayúsculas/minúsculas del texto original:
+    - TODO MAYÚSCULAS  -> TODO MAYÚSCULAS
+    - Capitalizado     -> Capitalizado (primera letra mayúscula)
+    - todo minúsculas  -> todo minúsculas
+    """
+    if texto_original.isupper():
+        return texto_reemplazo.upper()
+    elif texto_original.islower():
+        return texto_reemplazo.lower()
+    elif texto_original.istitle() or (texto_original and texto_original[0].isupper()):
+        return texto_reemplazo.capitalize()
+    return texto_reemplazo
+
 def aplicar_reemplazos(texto, diccionario_ordenado):
     if not texto:
         return texto
 
     texto_modificado = texto
     for origen, destino in diccionario_ordenado:
-        # Reemplazo insensible a mayúsculas respetando límites de palabra si son alfanuméricos
         patron = re.compile(rf"\b{re.escape(origen)}\b", re.IGNORECASE)
-        texto_modificado = patron.sub(destino, texto_modificado)
+
+        # Función que re.sub llama por cada coincidencia encontrada
+        def reemplazar(match):
+            coincidencia = match.group(0)
+            return ajustar_capitalizacion(coincidencia, destino)
+
+        texto_modificado = patron.sub(reemplazar, texto_modificado)
 
     return texto_modificado
 
