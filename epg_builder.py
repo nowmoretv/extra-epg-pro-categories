@@ -28,9 +28,9 @@ FUENTES_XML = {
 # ==============================================================================
 
 ETIQUETAS_LIMPIEZA = {
-    "deportes": ["episode-num", "icon", "series-id", "sub-title", "category", "rating", "star-rating"],
-    "nacionales": ["desc", "episode-num", "icon", "series-id", "sub-title", "category", "rating", "star-rating"],
-    "cine": ["episode-num", "icon", "series-id", "sub-title", "rating", "star-rating"],
+    "deportes": ["category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "cine": ["category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "nacionales": ["desc", "category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "norteamerica": ["desc", "icon", "episode-num", "series-id", "sub-title", "category", "rating", "star-rating"]
 }
 
@@ -44,6 +44,7 @@ LIMPIEZA_DEFECTO = ["desc", "icon", "episode-num", "series-id"]
 
 CATEGORIAS = {
     "deportes": {
+        "Onetoro": "Onetoro",
         "LaLigaTVHypermotion.es": "Hypermotion",
         "LaLigaTVHypermotion2.es": "Hypermotion 2",
         "LaLigaTVHypermotion3.es": "Hypermotion 3",
@@ -51,6 +52,8 @@ CATEGORIAS = {
         "DSportsArgentina.uy": "DSPORTS AR",
         "DSports2.uy": "DSPORTS 2 UY",
         "DSportsPlus.uy": "DSPORTS Plus UY",
+        "SetantaSports1.lt": "Setanta Sports LT",
+        "SetantaSports2.lt": "Setanta Sports 2 LT",
         "Setanta Sports.ee": "Setanta Sports EE",
         "Setanta Sports.lv": "Setanta Sports LV",
         "Setanta Sports 2.lv": "Setanta Sports 2 LV",
