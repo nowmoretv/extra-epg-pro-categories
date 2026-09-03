@@ -16,6 +16,7 @@ def _dec(b64_str):
 
 FUENTES_XML = {
     "Principal": _dec("aHR0cHM6Ly93d3cub3Blbi1lcGcuY29tL2dlbmVyYXRlL0NtTVlQYWI0RVkueG1sLmd6"),
+    "Principal scraper": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25vd21vcmV0di9leHRyYS1lcGctc2NyYXBlci9yZWZzL2hlYWRzL21haW4vZXBnLnhtbA=="),
     "Pluto TV": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1BsdXRvVFYvZXMueG1s"),
     "Spain": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdmlkbXVtYS9FUEdfZG9ibGVNL3JlZnMvaGVhZHMvbWFzdGVyL2d1aWFpcHR2LnhtbA=="),
     "Siguiente lista": "https://"
@@ -112,8 +113,10 @@ CATEGORIAS = {
         "Fox Deportes (655).us": "FOX Deportes",
         "Fox Sports 1 (652).us": "FS1",
         "Fox Sports 2 (651).us": "FS2",
-        "Eurosport1.es": "Eurosport 1 ES",
-        "Eurosport2.es": "Eurosport 2 ES",
+        "Eurosport 1 HD": "Eurosport 1 ES", #DMUMA
+        "Eurosport1.es": "Eurosport 1 ES OpB",
+        "Eurosport 2": "Eurosport 2 ES", #DMUMA
+        "Eurosport2.es": "Eurosport 2 ES OpB",
         "Eurosport 1 HD.sk": "Eurosport 1 SK",
         "Eurosport 2 HD.sk": "Eurosport 2 SK",
         "Tennis Channel.us": "Tennis Channel",
@@ -136,6 +139,27 @@ CATEGORIAS = {
         "FOX SPORTS PREMIUM.mx": "Fox Sports Premium MX"
     },
     "cine": {
+        "Somos Cine": "Somos Cine",
+        "8madrid TV": "8madrid TV",
+        "AXN HD": "AXN", #DMUMA
+        "AXN.es": "AXN OpB",
+        "AXN Movies HD": "AXN Movies", #DMUMA
+        "AXNMovies.es": "AXN Movies OpB",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
         "5f1ac1f1b66c76000790ef27": "Pluto Cine Estelar"
     },
     "nacionales": {
