@@ -137,6 +137,7 @@ CATEGORIAS = {
         "Tennis Channel.us": "Tennis Channel",
         "Sport1 HD.sk": "Sport1 SK",
         "Sport2 HD.sk": "Sport2 SK",
+        "beIN SPORTS XTRA ñ": "beIN Sports Xtra en espanol", #DMUMA
         "beINSPORTS1.fr": "beIN Sports 1 FR",
         "beINSPORTS2.fr": "beIN Sports 2 FR",
         "beINSPORTS3.fr": "beIN Sports 3 FR",
