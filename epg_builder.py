@@ -121,7 +121,6 @@ CATEGORIAS = {
         "TSN4HD.ca": "TSN 4",
         "TSN5HD.ca": "TSN 5",
         "SportdigitalFUSSBALL.de": "SportDigital Fussball",
-        "SportdigitalFUSSBALL.de": "SportDigital Fussball",
         "SporTV.br": "sportv BR",
         "SporTV2.br": "sportv 2 BR",
         "SporTV3.br": "sportv 3 BR",
