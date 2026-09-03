@@ -163,7 +163,7 @@ CATEGORIAS = {
         "AXN Movies HD": "AXN Movies", #DMUMA
         "AXNMovies.es": "AXN Movies OpB",
         "Pelis Top (Rakuten TV)": "Rakuten Pelis Top", #DMUMA
-        "5f1ac1f1b66c76000790ef27": "Pluto Cine Estelar"
+        "5f1ac1f1b66c76000790ef27": "Pluto Cine Estelar",
         "Películas de Acción (Rakuten TV)": "Rakuten Accion", #DMUMA
         "5f1ac2591dd8880007bb7d6d": "Pluto Accion",
         "Sony One Hits Acción": "Sony One Accion", #DMUMA
