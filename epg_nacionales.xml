@@ -8,7 +8,7 @@
     <display-name>La 2 OpB</display-name>
     <icon src="https://images.open-epg.com/5038.png" />
   </channel>
-  <programme start="20260903005000 +0000" stop="20260903040000 +0000" channel="La 1 OpB">
+  <programme start="20260903003000 +0000" stop="20260903040000 +0000" channel="La 1 OpB">
     <title>Noticias 24H</title>
   </programme>
   <programme start="20260903040000 +0000" stop="20260903055000 +0000" channel="La 1 OpB">
@@ -24,7 +24,7 @@
     <title>Telediario 1</title>
   </programme>
   <programme start="20260903135000 +0000" stop="20260903154500 +0000" channel="La 1 OpB">
-    <title>Directo al grano</title>
+    <title>La Vuelta (T2026)</title>
   </programme>
   <programme start="20260903154500 +0000" stop="20260903163500 +0000" channel="La 1 OpB">
     <title>Valle Salvaje (T4)</title>
@@ -41,13 +41,16 @@
   <programme start="20260903185500 +0000" stop="20260903194500 +0000" channel="La 1 OpB">
     <title>Telediario 2</title>
   </programme>
-  <programme start="20260903194500 +0000" stop="20260903225000 +0000" channel="La 1 OpB">
-    <title>El Grand Prix del Verano</title>
+  <programme start="20260903194500 +0000" stop="20260903205000 +0000" channel="La 1 OpB">
+    <title>Viaje al centro de la tele</title>
   </programme>
-  <programme start="20260903225000 +0000" stop="20260904005000 +0000" channel="La 1 OpB">
-    <title>El Grand Prix del Verano</title>
+  <programme start="20260903205000 +0000" stop="20260903223500 +0000" channel="La 1 OpB">
+    <title>El perro andaluz</title>
   </programme>
-  <programme start="20260904005000 +0000" stop="20260904040000 +0000" channel="La 1 OpB">
+  <programme start="20260903223500 +0000" stop="20260904003000 +0000" channel="La 1 OpB">
+    <title>El perro andaluz</title>
+  </programme>
+  <programme start="20260904003000 +0000" stop="20260904040000 +0000" channel="La 1 OpB">
     <title>Noticias 24H</title>
   </programme>
   <programme start="20260904040000 +0000" stop="20260904055000 +0000" channel="La 1 OpB">
@@ -63,7 +66,7 @@
     <title>Telediario 1</title>
   </programme>
   <programme start="20260904135000 +0000" stop="20260904154500 +0000" channel="La 1 OpB">
-    <title>Directo al grano</title>
+    <title>La Vuelta (T2026)</title>
   </programme>
   <programme start="20260904154500 +0000" stop="20260904163500 +0000" channel="La 1 OpB">
     <title>Valle Salvaje (T4)</title>
@@ -80,13 +83,16 @@
   <programme start="20260904185500 +0000" stop="20260904194500 +0000" channel="La 1 OpB">
     <title>Telediario 2</title>
   </programme>
-  <programme start="20260904194500 +0000" stop="20260904225000 +0000" channel="La 1 OpB">
-    <title>El Grand Prix del Verano</title>
+  <programme start="20260904194500 +0000" stop="20260904205000 +0000" channel="La 1 OpB">
+    <title>Viaje al centro de la tele</title>
   </programme>
-  <programme start="20260904225000 +0000" stop="20260905005000 +0000" channel="La 1 OpB">
-    <title>El Grand Prix del Verano</title>
+  <programme start="20260904205000 +0000" stop="20260904223500 +0000" channel="La 1 OpB">
+    <title>El perro andaluz</title>
   </programme>
-  <programme start="20260905005000 +0000" stop="20260905040000 +0000" channel="La 1 OpB">
+  <programme start="20260904223500 +0000" stop="20260905003000 +0000" channel="La 1 OpB">
+    <title>El perro andaluz</title>
+  </programme>
+  <programme start="20260905003000 +0000" stop="20260905040000 +0000" channel="La 1 OpB">
     <title>Noticias 24H</title>
   </programme>
   <programme start="20260905040000 +0000" stop="20260905055000 +0000" channel="La 1 OpB">
@@ -138,10 +144,10 @@
     <title>Senderos del mundo</title>
   </programme>
   <programme start="20260903090500 +0000" stop="20260903095500 +0000" channel="La 2 OpB">
-    <title>Las rutas de Ambrosio</title>
+    <title>Las Rutas D’Ambrosio</title>
   </programme>
   <programme start="20260903095500 +0000" stop="20260903104500 +0000" channel="La 2 OpB">
-    <title>Las rutas de Ambrosio</title>
+    <title>Las Rutas D’Ambrosio</title>
   </programme>
   <programme start="20260903104500 +0000" stop="20260903113500 +0000" channel="La 2 OpB">
     <title>Verano azul</title>
@@ -194,104 +200,110 @@
   <programme start="20260904033000 +0000" stop="20260904040000 +0000" channel="La 2 OpB">
     <title>El bosque protector</title>
   </programme>
-  <programme start="20260904040000 +0000" stop="20260904043000 +0000" channel="La 2 OpB">
-    <title>En lengua de signos</title>
+  <programme start="20260904040000 +0000" stop="20260904042000 +0000" channel="La 2 OpB">
+    <title>El bosque protector</title>
   </programme>
-  <programme start="20260904043000 +0000" stop="20260904050000 +0000" channel="La 2 OpB">
-    <title>Guardianes del Patrimonio</title>
+  <programme start="20260904042000 +0000" stop="20260904051000 +0000" channel="La 2 OpB">
+    <title>Grandes especies de África</title>
   </programme>
-  <programme start="20260904050000 +0000" stop="20260904054500 +0000" channel="La 2 OpB">
-    <title>Ruralitas</title>
+  <programme start="20260904051000 +0000" stop="20260904053000 +0000" channel="La 2 OpB">
+    <title>Zoom tendencias</title>
   </programme>
-  <programme start="20260904054500 +0000" stop="20260904061500 +0000" channel="La 2 OpB">
-    <title>Lugares extraordinarios del mundo</title>
-  </programme>
-  <programme start="20260904061500 +0000" stop="20260904064500 +0000" channel="La 2 OpB">
+  <programme start="20260904053000 +0000" stop="20260904060000 +0000" channel="La 2 OpB">
     <title>Esto es España</title>
   </programme>
-  <programme start="20260904064500 +0000" stop="20260904073000 +0000" channel="La 2 OpB">
+  <programme start="20260904060000 +0000" stop="20260904063000 +0000" channel="La 2 OpB">
+    <title>Esto es España</title>
+  </programme>
+  <programme start="20260904063000 +0000" stop="20260904072000 +0000" channel="La 2 OpB">
     <title>De tapas por España</title>
   </programme>
-  <programme start="20260904073000 +0000" stop="20260904080000 +0000" channel="La 2 OpB">
-    <title>El señor de los bosques</title>
+  <programme start="20260904072000 +0000" stop="20260904074500 +0000" channel="La 2 OpB">
+    <title>Seguridad vital</title>
   </programme>
-  <programme start="20260904080000 +0000" stop="20260904085500 +0000" channel="La 2 OpB">
-    <title>UNED</title>
+  <programme start="20260904074500 +0000" stop="20260904085000 +0000" channel="La 2 OpB">
+    <title>Senderos del mundo</title>
   </programme>
-  <programme start="20260904085500 +0000" stop="20260904091500 +0000" channel="La 2 OpB">
-    <title>¡Qué animal!</title>
-  </programme>
-  <programme start="20260904091500 +0000" stop="20260904101000 +0000" channel="La 2 OpB">
-    <title>Las rutas de Verónica</title>
-  </programme>
-  <programme start="20260904101000 +0000" stop="20260904104000 +0000" channel="La 2 OpB">
+  <programme start="20260904085000 +0000" stop="20260904092000 +0000" channel="La 2 OpB">
     <title>El escarabajo verde</title>
   </programme>
-  <programme start="20260904104000 +0000" stop="20260904113000 +0000" channel="La 2 OpB">
-    <title>Curro Jiménez</title>
+  <programme start="20260904092000 +0000" stop="20260904095000 +0000" channel="La 2 OpB">
+    <title>El escarabajo verde</title>
   </programme>
-  <programme start="20260904113000 +0000" stop="20260904123000 +0000" channel="La 2 OpB">
-    <title>El cazador</title>
+  <programme start="20260904095000 +0000" stop="20260904104500 +0000" channel="La 2 OpB">
+    <title>Las rutas de Ambrosio</title>
   </programme>
-  <programme start="20260904123000 +0000" stop="20260904133000 +0000" channel="La 2 OpB">
-    <title>El cazador</title>
+  <programme start="20260904104500 +0000" stop="20260904113500 +0000" channel="La 2 OpB">
+    <title>Verano azul</title>
+  </programme>
+  <programme start="20260904113500 +0000" stop="20260904123500 +0000" channel="La 2 OpB">
+    <title>El cazador STARS</title>
+  </programme>
+  <programme start="20260904123500 +0000" stop="20260904133000 +0000" channel="La 2 OpB">
+    <title>El cazador STARS</title>
   </programme>
   <programme start="20260904133000 +0000" stop="20260904142000 +0000" channel="La 2 OpB">
     <title>Saber y ganar</title>
   </programme>
-  <programme start="20260904142000 +0000" stop="20260904152000 +0000" channel="La 2 OpB">
-    <title>Serengueti</title>
+  <programme start="20260904142000 +0000" stop="20260904151500 +0000" channel="La 2 OpB">
+    <title>Mashatu: tierra de leopardos</title>
   </programme>
-  <programme start="20260904152000 +0000" stop="20260904154500 +0000" channel="La 2 OpB">
-    <title>Lugares extraordinarios del mundo</title>
+  <programme start="20260904151500 +0000" stop="20260904154500 +0000" channel="La 2 OpB">
+    <title>Planeta selva</title>
   </programme>
   <programme start="20260904154500 +0000" stop="20260904174000 +0000" channel="La 2 OpB">
     <title>Malas lenguas</title>
   </programme>
-  <programme start="20260904174000 +0000" stop="20260904180500 +0000" channel="La 2 OpB">
-    <title>Diario de un nómada</title>
+  <programme start="20260904174000 +0000" stop="20260904184000 +0000" channel="La 2 OpB">
+    <title>El cazador</title>
   </programme>
-  <programme start="20260904180500 +0000" stop="20260904190000 +0000" channel="La 2 OpB">
-    <title>Jeopardy</title>
-  </programme>
-  <programme start="20260904190000 +0000" stop="20260904194500 +0000" channel="La 2 OpB">
+  <programme start="20260904184000 +0000" stop="20260904193000 +0000" channel="La 2 OpB">
     <title>Trivial Pursuit</title>
   </programme>
-  <programme start="20260904194500 +0000" stop="20260904202000 +0000" channel="La 2 OpB">
+  <programme start="20260904193000 +0000" stop="20260904200000 +0000" channel="La 2 OpB">
     <title>Cifras y letras</title>
   </programme>
-  <programme start="20260904202000 +0000" stop="20260904205000 +0000" channel="La 2 OpB">
+  <programme start="20260904200000 +0000" stop="20260904203500 +0000" channel="La 2 OpB">
+    <title>Cifras y letras</title>
+  </programme>
+  <programme start="20260904203500 +0000" stop="20260904210500 +0000" channel="La 2 OpB">
     <title>Plano general</title>
   </programme>
-  <programme start="20260904205000 +0000" stop="20260904205500 +0000" channel="La 2 OpB">
-    <title>Historia de nuestro cine</title>
+  <programme start="20260904210500 +0000" stop="20260904224500 +0000" channel="La 2 OpB">
+    <title>The Pelayos</title>
   </programme>
-  <programme start="20260904205500 +0000" stop="20260904233000 +0000" channel="La 2 OpB">
-    <title>Cine</title>
+  <programme start="20260904224500 +0000" stop="20260904234000 +0000" channel="La 2 OpB">
+    <title>Los gozos y las sombras</title>
   </programme>
-  <programme start="20260904233000 +0000" stop="20260905003000 +0000" channel="La 2 OpB">
-    <title>Fortunata y Jacinta</title>
+  <programme start="20260904234000 +0000" stop="20260905003500 +0000" channel="La 2 OpB">
+    <title>Los gozos y las sombras</title>
   </programme>
-  <programme start="20260905003000 +0000" stop="20260905013000 +0000" channel="La 2 OpB">
-    <title>Fortunata y Jacinta</title>
-  </programme>
-  <programme start="20260905013000 +0000" stop="20260905022500 +0000" channel="La 2 OpB">
+  <programme start="20260905003500 +0000" stop="20260905013000 +0000" channel="La 2 OpB">
     <title>Música ligerísima</title>
   </programme>
-  <programme start="20260905022500 +0000" stop="20260905032000 +0000" channel="La 2 OpB">
-    <title>Las rutas de Verónica</title>
+  <programme start="20260905013000 +0000" stop="20260905022000 +0000" channel="La 2 OpB">
+    <title>Las rutas de Ambrosio</title>
   </programme>
-  <programme start="20260905032000 +0000" stop="20260905041000 +0000" channel="La 2 OpB">
-    <title>Australia indómita</title>
+  <programme start="20260905022000 +0000" stop="20260905031000 +0000" channel="La 2 OpB">
+    <title>Las criaturas secretas de África</title>
   </programme>
-  <programme start="20260905041000 +0000" stop="20260905041500 +0000" channel="La 2 OpB">
+  <programme start="20260905031000 +0000" stop="20260905033500 +0000" channel="La 2 OpB">
+    <title>Rescate de animales bebé</title>
+  </programme>
+  <programme start="20260905033500 +0000" stop="20260905035500 +0000" channel="La 2 OpB">
+    <title>El bosque protector</title>
+  </programme>
+  <programme start="20260905035500 +0000" stop="20260905040000 +0000" channel="La 2 OpB">
     <title>La 2 express</title>
   </programme>
+  <programme start="20260905040000 +0000" stop="20260905041500 +0000" channel="La 2 OpB">
+    <title>¡Qué animal!</title>
+  </programme>
   <programme start="20260905041500 +0000" stop="20260905050500 +0000" channel="La 2 OpB">
-    <title>Into the blue</title>
+    <title>Sabores del mundo</title>
   </programme>
   <programme start="20260905050500 +0000" stop="20260905060000 +0000" channel="La 2 OpB">
-    <title>Maravillas de Europa</title>
+    <title>Maravillas de la arquitectura francesa</title>
   </programme>
   <channel id="La 1">
     <display-name>La 1</display-name>
