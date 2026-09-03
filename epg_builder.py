@@ -31,8 +31,10 @@ FUENTES_XML = {
 ETIQUETAS_LIMPIEZA = {
     "deportes": ["category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "cine": ["category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "entretenimiento": ["desc", "category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "nacionales": ["desc", "category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
-    "norteamerica": ["desc", "icon", "episode-num", "series-id", "sub-title", "category", "rating", "star-rating"]
+    "regionales": ["desc", "category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "norteamerica": ["desc", "category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"]
 }
 
 # Etiquetas a eliminar por defecto si una categoría no está en el diccionario anterior
@@ -155,22 +157,32 @@ CATEGORIAS = {
         "AXN.es": "AXN OpB",
         "AXN Movies HD": "AXN Movies", #DMUMA
         "AXNMovies.es": "AXN Movies OpB",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
+        "Pelis Top (Rakuten TV)": "Rakuten Pelis Top", #DMUMA
         "5f1ac1f1b66c76000790ef27": "Pluto Cine Estelar"
+        "Películas de Acción (Rakuten TV)": "Rakuten Accion", #DMUMA
+        "5f1ac2591dd8880007bb7d6d": "Pluto Accion",
+        "Sony One Hits Acción": "Sony One Accion", #DMUMA
+        "68d566603d3a9580eb461251": "Paramount Network de Pluto",
+        "676e7b4a4bd636000819c6a7": "Pluto Sensacine TV",
+        "Multicine atresplayer": "Atresplayer Multicine", #DMUMA
+        "Películas de Drama (Rakuten TV)": "Rakuten Drama", #DMUMA
+        "5f1ac947dcd00d0007937c08": "Pluto Drama",
+        "Thrillers (Rakuten TV)": "Rakuten Thrillers", #DMUMA
+        "5f1ac8a87cd38d000745d7cf": "Pluto Thrillers",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": ""
     },
     "nacionales": {
         "LA1.es": "La 1 OpB",
