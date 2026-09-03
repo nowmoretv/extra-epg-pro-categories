@@ -52,9 +52,12 @@ CATEGORIAS = {
         "LaLigaTVHypermotion2.es": "Hypermotion 2",
         "LaLigaTVHypermotion3.es": "Hypermotion 3",
         "DSports.uy": "DSPORTS UY",
+        "DSPORTS": "DSPORTS AR DMUMA", #DMUMA
         "DSportsArgentina.uy": "DSPORTS AR",
         "DSports2.uy": "DSPORTS 2 UY",
+        "DSPORTS 2": "DSPORTS 2 AR DMUMA", #DMUMA
         "DSportsPlus.uy": "DSPORTS Plus UY",
+        "DSPORTS+": "DSPORTS Plus AR DMUMA", #DMUMA
         "SetantaSports1.lt": "Setanta Sports LT",
         "SetantaSports2.lt": "Setanta Sports 2 LT",
         "Setanta Sports.ee": "Setanta Sports EE",
@@ -152,6 +155,7 @@ CATEGORIAS = {
     },
     "cine": {
         "Somos Cine": "Somos Cine",
+        "Cine Español (Rakuten TV)": "Rakuten Cine Espanol",
         "8madrid TV": "8madrid TV",
         "AXN HD": "AXN", #DMUMA
         "AXN.es": "AXN OpB",
@@ -169,20 +173,20 @@ CATEGORIAS = {
         "5f1ac947dcd00d0007937c08": "Pluto Drama",
         "Thrillers (Rakuten TV)": "Rakuten Thrillers", #DMUMA
         "5f1ac8a87cd38d000745d7cf": "Pluto Thrillers",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": "",
-        "": ""
+        "60cc807324d60a0007708dc8": "Pluto Cine de autor",
+        "61373bb45168fe000773eecd": "Pluto Clasico",
+        "6385e82900ab2e000768a058": "Pluto Western",
+        "6267d4d1fb694f0007a6af0e": "Pluto Horror",
+        "66b0dfa1d512590008bfa7fd": "Pluto Gore and slasher",
+        "65ce480a78df2200131c597b": "Pluto Psycho",
+        "Comedia (Rakuten TV)": "Rakuten Comedia", #DMUMA
+        "5f1ac8099c49f600076579b2": "Pluto Comedia",
+        "5f1abce155a03d0007718834": "Pluto Comedia Made in Spain",
+        "Sony One Hits Comedia": "Sony One Comedia", #DMUMA
+        "655b5d865812e80008843bd1": "Pluto Comedias romanticas",
+        "Películas Románticas (Rakuten TV)": "Rakuten Romantico", #DMUMA
+        "5f1ac9a2d3611d0007a844bb": "Pluto Romantico",
+        "En Familia (Rakuten TV)": "Rakuten En Familia" #DMUMA
     },
     "nacionales": {
         "LA1.es": "La 1 OpB",
