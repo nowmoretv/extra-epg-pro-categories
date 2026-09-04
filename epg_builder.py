@@ -211,12 +211,60 @@ CATEGORIAS = {
         "604f8125c6669b00077f7699": "Wipeout"
     },
     "nacionales": {
-        "LA1.es": "La 1 OpB",
         "La 1 HD": "La 1", #DMUMA
+        "LA1.es": "La 1 OpB",
+        "La 1 Cataluña": "La 1 Catalunya", #DMUMA
+        "La 1 Canarias": "La 1 Canarias", #DMUMA
+        "La 2": "La 2", #DMUMA
         "La2.es": "La 2 OpB",
-        "Cuatro.es": "Cuatro",
-        "Telecinco.es": "Telecinco",
-        "LaSexta.es": "La Sexta"
+        "La 2 Cataluña": "La 2 Cat", #DMUMA
+        "La 2 Canarias": "La 2 Canarias", #DMUMA
+        "Teledeporte": "Teledeporte", #DMUMA
+        "24 Horas": "Canal 24 Horas", #DMUMA
+        "24 horas Cataluña": "Canal 24 Horas Catalunya", #DMUMA
+        "24 horas Canarias": "Canal 24 Horas Canarias", #DMUMA
+        "Clan": "Clan", #DMUMA
+        "TRECE": "TRECE", #DMUMA
+        "El Toro TV": "El Toro TV", #DMUMA
+        "Distrito TV": "Distrito TV", #DMUMA
+        "CanalParlamento.es": "Canal Parlamento",
+        "67517fae5534bb0008187997": "Actualidad 360",
+        "ESBC39000033J": "El Pais TV", #SamsungES
+        "ESBC1400001L8": "El Confidencial", #SamsungES
+        "Negocios TV": "Negocios TV", #DMUMA
+        "EuroNews": "Euronews en espanol", #DMUMA
+        "France24.es": "France24 en espanol",
+        "DW.es": "DW en espanol",
+        "RussiaToday.ar": "RT en espanol",
+        "CNN en Español": "CNN en espanol", #DMUMA
+        "CnnenEspañol.ar": "CNN en espanol OpB",
+        "CGTN Español": "CGTN Espanol", #DMUMA
+        "CGTNEspanol.es": "CGTN Espanol OpB",
+        "NHK WORLD": "NHK World Espanol"
+    },
+    "regionales": {
+        "etb1": "ETB 1",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": "",
+        "": ""
     },
     "norteamerica": {
         "AztecaUno.mx": "Azteca Uno",
