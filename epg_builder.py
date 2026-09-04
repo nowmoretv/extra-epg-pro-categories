@@ -17,7 +17,10 @@ def _dec(b64_str):
 FUENTES_XML = {
     "Principal": _dec("aHR0cHM6Ly93d3cub3Blbi1lcGcuY29tL2dlbmVyYXRlL0NtTVlQYWI0RVkueG1sLmd6"),
     "Principal scraper": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25vd21vcmV0di9leHRyYS1lcGctc2NyYXBlci9yZWZzL2hlYWRzL21haW4vZXBnLnhtbA=="),
-    "Pluto TV": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1BsdXRvVFYvZXMueG1s"),
+    "Pluto TV ES": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1BsdXRvVFYvZXMueG1s"),
+    "Samsung TV ES": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1NhbXN1bmdUVlBsdXMvZXMueG1s"),
+    "Plex MX": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1BsZXgvbXgueG1s"),
+    "Plex US": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1BsZXgvdXMueG1s"),
     "Spain": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdmlkbXVtYS9FUEdfZG9ibGVNL3JlZnMvaGVhZHMvbWFzdGVyL2d1aWFpcHR2LnhtbA=="),
     "Siguiente lista": "https://"
 }
@@ -191,6 +194,21 @@ CATEGORIAS = {
         "Películas Románticas (Rakuten TV)": "Rakuten Romantico", #DMUMA
         "5f1ac9a2d3611d0007a844bb": "Pluto Romantico",
         "En Familia (Rakuten TV)": "Rakuten En Familia" #DMUMA
+    },
+    "entretenimiento": {
+        "5f1acdaa8ba90f0007d5e760": "Pluto Cocina",
+        "608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7": "Tastemade en espanol",  #PlexMX
+        "690dd10a37b131228d76d5b1": "El Mueble",
+        "64db2e0835425100080f2f5a": "Pluto Diseno",
+        "65786abdb3801200084c593a": "Pluto Homeful",
+        "NestingTV.es": "Nesting TV",
+        "6a1610bebdf296985fd95603-5f0641d3e8ffda004033b16e": "The Design Network", #PlexUS
+        "622f42b831233300078658cc": "Ciudadanos por el mundo",
+        "Dviaje": "DViaje", #DMUMA
+        "ES26000025M": "Hola Play", #SamsungES
+        "61922be835f3910007fc58f6": "En el punto de mira",
+        "Equipo de investigación": "Equipo de investigacion",
+        "604f8125c6669b00077f7699": "Wipeout"
     },
     "nacionales": {
         "LA1.es": "La 1 OpB",
