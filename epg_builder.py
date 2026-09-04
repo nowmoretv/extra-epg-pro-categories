@@ -48,9 +48,12 @@ LIMPIEZA_DEFECTO = ["desc", "icon", "episode-num", "series-id"]
 CATEGORIAS = {
     "deportes": {
         "Onetoro": "Onetoro",
-        "LaLigaTVHypermotion.es": "Hypermotion",
-        "LaLigaTVHypermotion2.es": "Hypermotion 2",
-        "LaLigaTVHypermotion3.es": "Hypermotion 3",
+        "LaLiga TV Hypermotion HD": "Hypermotion", #DMUMA
+        "LaLigaTVHypermotion.es": "Hypermotion OpB",
+        "LaLiga TV Hypermotion 2": "Hypermotion 2", #DMUMA
+        "LaLigaTVHypermotion2.es": "Hypermotion 2 OpB",
+        "LaLiga TV Hypermotion 3": "Hypermotion 3", #DMUMA
+        "LaLigaTVHypermotion3.es": "Hypermotion 3 OpB",
         "DSports.uy": "DSPORTS UY",
         "DSPORTS": "DSPORTS AR DMUMA", #DMUMA
         "DSportsArgentina.uy": "DSPORTS AR",
