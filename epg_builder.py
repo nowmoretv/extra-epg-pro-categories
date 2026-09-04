@@ -32,12 +32,12 @@ FUENTES_XML = {
 # ==============================================================================
 
 ETIQUETAS_LIMPIEZA = {
-    "deportes": ["category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
-    "cine": ["category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
-    "entretenimiento": ["desc", "category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
-    "nacionales": ["desc", "category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
-    "regionales": ["desc", "category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
-    "norteamerica": ["desc", "category", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"]
+    "deportes": ["category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "cine": ["category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "entretenimiento": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "nacionales": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "regionales": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "norteamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"]
 }
 
 # Etiquetas a eliminar por defecto si una categoría no está en el diccionario anterior
