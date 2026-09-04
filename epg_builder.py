@@ -243,46 +243,46 @@ CATEGORIAS = {
         "NHK WORLD": "NHK World Espanol"
     },
     "regionales": {
-        "etb1": "ETB 1",
-        "etb2": "ETB 2",
-        "etb1ON": "ETB 1 On",
-        "etb2ON": "ETB 2 On",
-        "TV3": "TV3",
-        "TV3CAT Catalunya": "TV3 CAT",
-        "3CatInfo": "3cat Info",
-        "El 33 Catalunya": "El 33",
-        "SX3": "Super3",
-        "Esport 3": "Esport3",
-        "TVG": "TVG",
-        "TVG Europa HD": "TVG Europa",
-        "TVG2": "TVG 2",
-        "Canal Sur HD": "Canal Sur",
-        "Canal Sur Andalucía": "Canal Sur Andalucia",
-        "Andalucía TV": "Andalucia TV",
-        "Telemadrid": "Telemadrid",
-        "La Otra": "LaOtra",
-        "À Punt": "A Punt",
-        "La Ocho Mediterráneo": "La 8 Mediterraneo",
-        "TV Canaria": "TV Canaria",
-        "CMM TV": "CMM TV",
-        "IB3 TV Illes Balears": "IB3 Global",
-        "Canal Extremadura": "Canal Extremadura",
-        "Canal Extremadura SAT": "Canal Extremadura Sat",
-        "Aragón TV": "Aragon TV",
-        "Aragón TV Internacional": "Aragon TV Int",
-        "TPA7 Asturias": "TPA 7",
-        "TPA8 Asturias": "TPA 8",
-        "Popular TV Cantabria": "Popular TV Cantabria",
-        "La 7 Murcia": "7RM",
-        "Popular TV Región de Murcia": "Popular TV Murcia",
-        "La 7 CyL": "CyL 7",
-        "La 8 Valladolid": "La 8 Valladolid",
-        "Navarra TV": "Navarra Television",
-        "Navarra TV 2": "Navarra Television 2",
-        "TVR Rioja": "TVR Rioja",
-        "TV Melilla": "TV Melilla",
-        "Bon Dia TV": "Bon Dia TV",
-        "ATV Andorra Televisión": "Andorra Televisio"
+        "etb1": "ETB 1", #DMUMA
+        "etb2": "ETB 2", #DMUMA
+        "etb1ON": "ETB 1 On", #DMUMA
+        "etb2ON": "ETB 2 On", #DMUMA
+        "TV3": "TV3", #DMUMA
+        "TV3CAT Catalunya": "TV3 CAT", #DMUMA
+        "3CatInfo": "3cat Info", #DMUMA
+        "El 33 Catalunya": "El 33", #DMUMA
+        "SX3": "Super3", #DMUMA
+        "Esport 3": "Esport3", #DMUMA
+        "TVG": "TVG", #DMUMA
+        "TVG Europa HD": "TVG Europa", #DMUMA
+        "TVG2": "TVG 2", #DMUMA
+        "Canal Sur HD": "Canal Sur", #DMUMA
+        "Canal Sur Andalucía": "Canal Sur Andalucia", #DMUMA
+        "Andalucía TV": "Andalucia TV", #DMUMA
+        "Telemadrid": "Telemadrid", #DMUMA
+        "La Otra": "LaOtra", #DMUMA
+        "À Punt": "A Punt", #DMUMA
+        "La Ocho Mediterráneo": "La 8 Mediterraneo", #DMUMA
+        "TV Canaria": "TV Canaria", #DMUMA
+        "CMM TV": "CMM TV", #DMUMA
+        "IB3 TV Illes Balears": "IB3 Global", #DMUMA
+        "Canal Extremadura": "Canal Extremadura", #DMUMA
+        "Canal Extremadura SAT": "Canal Extremadura Sat", #DMUMA
+        "Aragón TV": "Aragon TV", #DMUMA
+        "Aragón TV Internacional": "Aragon TV Int", #DMUMA
+        "TPA7 Asturias": "TPA 7", #DMUMA
+        "TPA8 Asturias": "TPA 8", #DMUMA
+        "Popular TV Cantabria": "Popular TV Cantabria", #DMUMA
+        "La 7 Murcia": "7RM", #DMUMA
+        "Popular TV Región de Murcia": "Popular TV Murcia", #DMUMA
+        "La 7 CyL": "CyL 7", #DMUMA
+        "La 8 Valladolid": "La 8 Valladolid", #DMUMA
+        "Navarra TV": "Navarra Television", #DMUMA
+        "Navarra TV 2": "Navarra Television 2", #DMUMA
+        "TVR Rioja": "TVR Rioja", #DMUMA
+        "TV Melilla": "TV Melilla", #DMUMA
+        "Bon Dia TV": "Bon Dia TV", #DMUMA
+        "ATV Andorra Televisión": "Andorra Televisio" #DMUMA
     },
     "norteamerica": {
         "AztecaUno.mx": "Azteca Uno",
