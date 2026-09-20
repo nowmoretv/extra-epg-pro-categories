@@ -39,6 +39,7 @@ ETIQUETAS_LIMPIEZA = {
     "entretenimiento": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "nacionales": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "regionales": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "locales": ["category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "norteamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"]
 }
 
@@ -287,18 +288,18 @@ CATEGORIAS = {
         "ATV Andorra Televisión": "Andorra Televisio" #DMUMA
     },
     "locales": {
-        "GuadaTV Generica": "GuadaTV Generica",
-        "Alcarria TV Generica": "Alcarria TV Generica",
-        "Imas TV Generica": "Imas TV Generica",
-        "Miguelturra TV Generica": "Miguelturra TV Generica",
-        "Canal 2000 Generica": "Canal 2000 Generica",
-        "Teletoledo Generica": "Teletoledo Generica",
-        "Vision 6 Generica": "Vision 6 Generica",
-        "Canal 4 Mancha Centro Generica": "Canal 4 Mancha Centro Generica",
-        "TV Hellin Generica": "TV Hellin Generica",
-        "MiBit Almansa TV Generica": "MiBit Almansa TV Generica",
-        "7TV Andalucia Generica": "7TV Andalucia Generica",
-        "7TV Sevilla Generica": "7TV Sevilla Generica",
+        "GuadaTV Manual": "GuadaTV OpM",
+        "Alcarria TV Manual": "Alcarria TV OpM",
+        "Imas TV Manual": "Imas TV OpM",
+        "Miguelturra TV Manual": "Miguelturra TV OpM",
+        "Canal 2000 Manual": "Canal 2000 OpM",
+        "Teletoledo Manual": "Teletoledo OpM",
+        "Vision 6 Manual": "Vision 6 OpM",
+        "Canal 4 Mancha Centro Manual": "Canal 4 Mancha Centro OpM",
+        "TV Hellin Manual": "TV Hellin OpM",
+        "MiBit Almansa TV Manual": "MiBit Almansa TV OpM",
+        "7TV Andalucia Manual": "7TV Andalucia OpM",
+        "7TV Sevilla Manual": "7TV Sevilla OpM",
         "Name": "Name"
     },
     "norteamerica": {
