@@ -23,6 +23,7 @@ FUENTES_XML = {
     "Plex US": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1BsZXgvdXMueG1s"),
     "Spain": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RhdmlkbXVtYS9FUEdfZG9ibGVNL3JlZnMvaGVhZHMvbWFzdGVyL2d1aWFpcHR2LnhtbA=="),
     "USA": "https://iptv-epg.org/files/epg-us.xml",
+    "EPG manual propia": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25vd21vcmV0di9leHRyYS1lcGctbWFudWFsL3JlZnMvaGVhZHMvbWFpbi9lcGdfbWFudWFsLnhtbA=="),
     "Siguiente lista": "https://"
 }
 
@@ -284,6 +285,21 @@ CATEGORIAS = {
         "TV Melilla": "TV Melilla", #DMUMA
         "Bon Dia TV": "Bon Dia TV", #DMUMA
         "ATV Andorra Televisión": "Andorra Televisio" #DMUMA
+    },
+    "locales": {
+        "GuadaTV Generica": "GuadaTV Generica",
+        "Alcarria TV Generica": "Alcarria TV Generica",
+        "Imas TV Generica": "Imas TV Generica",
+        "Miguelturra TV Generica": "Miguelturra TV Generica",
+        "Canal 2000 Generica": "Canal 2000 Generica",
+        "Teletoledo Generica": "Teletoledo Generica",
+        "Vision 6 Generica": "Vision 6 Generica",
+        "Canal 4 Mancha Centro Generica": "Canal 4 Mancha Centro Generica",
+        "TV Hellin Generica": "TV Hellin Generica",
+        "MiBit Almansa TV Generica": "MiBit Almansa TV Generica",
+        "7TV Andalucia Generica": "7TV Andalucia Generica",
+        "7TV Sevilla Generica": "7TV Sevilla Generica",
+        "Name": "Name"
     },
     "norteamerica": {
         "AztecaUno.mx": "Azteca Uno",
