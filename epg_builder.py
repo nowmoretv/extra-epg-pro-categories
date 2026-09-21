@@ -40,6 +40,7 @@ ETIQUETAS_LIMPIEZA = {
     "nacionales": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "regionales": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "locales": ["category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "europa_occidental": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "norteamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"]
 }
 
@@ -355,7 +356,7 @@ CATEGORIAS = {
         "Name": "Name OpM",
         "Name": "Name OpM"
     },
-    "europeas": {
+    "europa_occidental": {
         "TVEInternacional.es": "TVE Internacional",
         "TVEi.pt": "TVE Internacional 2",
         "RTP 1 HD.pt": "RTP1",
