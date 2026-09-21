@@ -41,6 +41,7 @@ ETIQUETAS_LIMPIEZA = {
     "regionales": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "locales": ["category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "europa_occidental": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "europa_central": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "norteamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"]
 }
 
@@ -413,7 +414,9 @@ CATEGORIAS = {
         "Italia1.it": "Italia 1",
         "Rai News.it": "RAI News 24",
         "QVC.it": "QVC IT",
-        "ONE HD.mt": "One MT",
+        "ONE HD.mt": "One MT"
+    },
+    "europa_central": {
         "DasErste.de": "Das Erste",
         "ZDF.de": "ZDF",
         "BRFernsehenNord.de": "BR Nord",
