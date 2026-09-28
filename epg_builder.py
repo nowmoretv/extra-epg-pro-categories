@@ -575,6 +575,10 @@ CATEGORIAS = {
         "Frii.fi": "Frii FI",
         "Eveo.fi": "Eveo FI"
     },
+    "europa_oriental": {
+        "":"",
+        "":""
+    },
     "norteamerica": {
         "AztecaUno.mx": "Azteca Uno",
         "LasEstrellas.mx": "Las Estrellas",
