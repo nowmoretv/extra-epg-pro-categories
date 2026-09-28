@@ -45,7 +45,11 @@ ETIQUETAS_LIMPIEZA = {
     "europa_oriental": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "norteamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "centroamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
-    "sudamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"]
+    "sudamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "asia": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "africa": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "oceania": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "otros": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"]
 }
 
 # Etiquetas a eliminar por defecto si una categoría no está en el diccionario anterior
