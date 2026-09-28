@@ -42,7 +42,10 @@ ETIQUETAS_LIMPIEZA = {
     "locales": ["category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "europa_occidental": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
     "europa_central": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
-    "norteamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"]
+    "europa_oriental": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "norteamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "centroamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"],
+    "sudamerica": ["desc", "category", "date", "episode-num", "icon", "rating", "series-id", "star-rating", "sub-title"]
 }
 
 # Etiquetas a eliminar por defecto si una categoría no está en el diccionario anterior
@@ -120,6 +123,11 @@ CATEGORIAS = {
         "Arenasport9.hr": "Arena Sport 9 HR OpB",
         "ArenaSport10.hr.scraper": "Arena Sport 10 HR",
         "Arenasport10.hr": "Arena Sport 10 HR OpB",
+        "TNTSports1.uk": "TNT Sports 1 UK",
+        "TNTSports2.uk": "TNT Sports 2 UK",
+        "TNTSports3.uk": "TNT Sports 3 UK",
+        "TNTSports4.uk": "TNT Sports 4 UK",
+        "TNTSports5.uk": "TNT Sports 5 UK",
         "Nova Sport 1 HD.cz": "Nova Sport 1 CZ",
         "Nova Sport 2 HD.cz": "Nova Sport 2 CZ",
         "CBS Sports Network USA (643).us": "CBS Sports",
