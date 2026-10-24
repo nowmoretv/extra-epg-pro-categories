@@ -16,6 +16,7 @@ def _dec(b64_str):
 
 FUENTES_XML = {
     "Principal": _dec("aHR0cHM6Ly93d3cub3Blbi1lcGcuY29tL2dlbmVyYXRlL0NtTVlQYWI0RVkueG1sLmd6"),
+    "Principal 2": _dec("aHR0cHM6Ly93d3cub3Blbi1lcGcuY29tL2dlbmVyYXRlLzYzVzlnZ2hOYWsueG1sLmd6"),
     "Principal scraper": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25vd21vcmV0di9leHRyYS1lcGctc2NyYXBlci9yZWZzL2hlYWRzL21haW4vZXBnLnhtbA=="),
     "Pluto TV ES": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1BsdXRvVFYvZXMueG1s"),
     "Samsung TV ES": _dec("aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21hdHRodWlzbWFuL2kubWpoLm56L3JlZnMvaGVhZHMvbWFzdGVyL1NhbXN1bmdUVlBsdXMvZXMueG1s"),
