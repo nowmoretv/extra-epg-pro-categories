@@ -12118,7 +12118,7 @@
   <channel id="Arena Sport 10 HR">
     <display-name>Arena Sport 10 HR</display-name>
   </channel>
-  <programme start="20261025000000 +0000" stop="20261025040000 +0000" channel="Arena Sport 1 HR">
+  <programme start="20261025010000 +0000" stop="20261025040000 +0000" channel="Arena Sport 1 HR">
     <title lang="hr">MLB: WORLD SERIES G2</title>
     <desc lang="hr">WORLD SERIES G2</desc>
   </programme>
@@ -12178,11 +12178,19 @@
     <title lang="hr">TALIJANSKA LIGA: UDINESE - MILAN</title>
     <desc lang="hr">UDINESE - MILAN</desc>
   </programme>
+  <programme start="20261025194500 +0000" stop="20261025220000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">TALIJANSKA LIGA: UDINESE - MILAN</title>
+    <desc lang="hr">UDINESE - MILAN</desc>
+  </programme>
   <programme start="20261025220000 +0000" stop="20261025220000 +0000" channel="Arena Sport 1 HR">
     <title lang="hr">NHL: DALLAS - NY ISLANDERS</title>
     <desc lang="hr">DALLAS - NY ISLANDERS</desc>
   </programme>
-  <programme start="20261025003000 +0000" stop="20261025033000 +0000" channel="Arena Sport 2 HR">
+  <programme start="20261025220000 +0000" stop="20261025220000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">NHL: DALLAS - NY ISLANDERS</title>
+    <desc lang="hr">DALLAS - NY ISLANDERS</desc>
+  </programme>
+  <programme start="20261025013000 +0000" stop="20261025033000 +0000" channel="Arena Sport 2 HR">
     <title lang="hr">ARGENTINSKA LIGA: ROSARIO - HURACAN</title>
     <desc lang="hr">ROSARIO - HURACAN</desc>
   </programme>
@@ -12226,11 +12234,19 @@
     <title lang="hr">NFL: BALTIMORE - CINCINNATI</title>
     <desc lang="hr">BALTIMORE - CINCINNATI</desc>
   </programme>
+  <programme start="20261025170000 +0000" stop="20261025220000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">NFL: BALTIMORE - CINCINNATI</title>
+    <desc lang="hr">BALTIMORE - CINCINNATI</desc>
+  </programme>
   <programme start="20261025202500 +0000" stop="20261025220000 +0000" channel="Arena Sport 2 HR">
     <title lang="hr">NFL: DETROIT - GREEN BAY</title>
     <desc lang="hr">DETROIT - GREEN BAY</desc>
   </programme>
-  <programme start="20261025000000 +0000" stop="20261025020000 +0000" channel="Arena Sport 3 HR">
+  <programme start="20261025202500 +0000" stop="20261025220000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">NFL: DETROIT - GREEN BAY</title>
+    <desc lang="hr">DETROIT - GREEN BAY</desc>
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025020000 +0000" channel="Arena Sport 3 HR">
     <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
     <desc lang="hr">SAŽETAK</desc>
   </programme>
@@ -12286,11 +12302,19 @@
     <title lang="hr">FRANCUSKA LIGA: PSG - LYON</title>
     <desc lang="hr">PSG - LYON</desc>
   </programme>
+  <programme start="20261025194500 +0000" stop="20261025220000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">FRANCUSKA LIGA: PSG - LYON</title>
+    <desc lang="hr">PSG - LYON</desc>
+  </programme>
   <programme start="20261025221500 +0000" stop="20261025220000 +0000" channel="Arena Sport 3 HR">
     <title lang="hr">ARGENTINSKA LIGA: RIVER PLATE - RACING</title>
     <desc lang="hr">RIVER PLATE - RACING</desc>
   </programme>
-  <programme start="20261025000000 +0000" stop="20261025030000 +0000" channel="Arena Sport 4 HR">
+  <programme start="20261025221500 +0000" stop="20261025220000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">ARGENTINSKA LIGA: RIVER PLATE - RACING</title>
+    <desc lang="hr">RIVER PLATE - RACING</desc>
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025030000 +0000" channel="Arena Sport 4 HR">
     <title lang="hr">COPPA ITALIA: PALERMO - MANTOVA</title>
     <desc lang="hr">PALERMO - MANTOVA</desc>
   </programme>
@@ -12342,6 +12366,14 @@
     <title lang="hr">ARGENTINSKA LIGA: INDEPENDIENTE - BOCA JUNIORS</title>
     <desc lang="hr">INDEPENDIENTE - BOCA JUNIORS</desc>
   </programme>
+  <programme start="20261025200000 +0000" stop="20261025220000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">ARGENTINSKA LIGA: INDEPENDIENTE - BOCA JUNIORS</title>
+    <desc lang="hr">INDEPENDIENTE - BOCA JUNIORS</desc>
+  </programme>
+  <programme start="20261025220000 +0000" stop="20261025220000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">LIGA PRVAKA: BARCELONETA - NOVI BEOGRAD</title>
+    <desc lang="hr">BARCELONETA - NOVI BEOGRAD</desc>
+  </programme>
   <programme start="20261025220000 +0000" stop="20261025220000 +0000" channel="Arena Sport 4 HR">
     <title lang="hr">LIGA PRVAKA: BARCELONETA - NOVI BEOGRAD</title>
     <desc lang="hr">BARCELONETA - NOVI BEOGRAD</desc>
@@ -12355,6 +12387,14 @@
     <desc lang="hr">ARENA SPECIJAL</desc>
   </programme>
   <programme start="20261025170000 +0000" stop="20261025220000 +0000" channel="Arena Sport 5 HR">
+    <title lang="hr">NFL: REDZONE</title>
+    <desc lang="hr">REDZONE</desc>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025220000 +0000" channel="Arena Sport 5 HR">
+    <title lang="hr">NFL: REDZONE</title>
+    <desc lang="hr">REDZONE</desc>
+  </programme>
+  <programme start="20261025200000 +0000" stop="20261025220000 +0000" channel="Arena Sport 5 HR">
     <title lang="hr">NFL: REDZONE</title>
     <desc lang="hr">REDZONE</desc>
   </programme>
@@ -12381,6 +12421,14 @@
   <programme start="20261025213000 +0000" stop="20261025220000 +0000" channel="Arena Sport 6 HR">
     <title lang="hr">EMISIJA: MI ŽIVIMO ZA NOGOMET</title>
     <desc lang="hr">MI ŽIVIMO ZA NOGOMET</desc>
+  </programme>
+  <programme start="20261025213000 +0000" stop="20261025220000 +0000" channel="Arena Sport 6 HR">
+    <title lang="hr">EMISIJA: MI ŽIVIMO ZA NOGOMET</title>
+    <desc lang="hr">MI ŽIVIMO ZA NOGOMET</desc>
+  </programme>
+  <programme start="20261025220000 +0000" stop="20261025220000 +0000" channel="Arena Sport 6 HR">
+    <title lang="hr">POLJSKA LIGA: SLASK - WIECZYSTA KRAKOW</title>
+    <desc lang="hr">SLASK - WIECZYSTA KRAKOW</desc>
   </programme>
   <programme start="20261025220000 +0000" stop="20261025220000 +0000" channel="Arena Sport 6 HR">
     <title lang="hr">POLJSKA LIGA: SLASK - WIECZYSTA KRAKOW</title>
@@ -12438,6 +12486,14 @@
     <title lang="hr">KONFERENCIJSKA LIGA: CRVENA ZVEZDA - KOPENHAGEN</title>
     <desc lang="hr">CRVENA ZVEZDA - KOPENHAGEN</desc>
   </programme>
+  <programme start="20261025200000 +0000" stop="20261025220000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">KONFERENCIJSKA LIGA: CRVENA ZVEZDA - KOPENHAGEN</title>
+    <desc lang="hr">CRVENA ZVEZDA - KOPENHAGEN</desc>
+  </programme>
+  <programme start="20261025220000 +0000" stop="20261025220000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">LIGA PRVAKA: COMO - MANCHESTER UNITED</title>
+    <desc lang="hr">COMO - MANCHESTER UNITED</desc>
+  </programme>
   <programme start="20261025220000 +0000" stop="20261025220000 +0000" channel="Arena Sport 7 HR">
     <title lang="hr">LIGA PRVAKA: COMO - MANCHESTER UNITED</title>
     <desc lang="hr">COMO - MANCHESTER UNITED</desc>
@@ -12486,9 +12542,21 @@
     <title lang="hr">COPA LIBERTADORES: ESTUDIANTES - CORINTHIANS</title>
     <desc lang="hr">ESTUDIANTES - CORINTHIANS</desc>
   </programme>
+  <programme start="20261025200000 +0000" stop="20261025220000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">COPA LIBERTADORES: ESTUDIANTES - CORINTHIANS</title>
+    <desc lang="hr">ESTUDIANTES - CORINTHIANS</desc>
+  </programme>
   <programme start="20261025220000 +0000" stop="20261025220000 +0000" channel="Arena Sport 8 HR">
     <title lang="hr">DOKUMENTARNI FILM: SON OF KONGO</title>
     <desc lang="hr">SON OF KONGO</desc>
+  </programme>
+  <programme start="20261025220000 +0000" stop="20261025220000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">DOKUMENTARNI FILM: SON OF KONGO</title>
+    <desc lang="hr">SON OF KONGO</desc>
+  </programme>
+  <programme start="20261025134500 +0000" stop="20261025220000 +0000" channel="Arena Sport 9 HR">
+    <title lang="hr">POLJSKA LIGA: JAGIELLONIA - WISLA PLOCK</title>
+    <desc lang="hr">JAGIELLONIA - WISLA PLOCK</desc>
   </programme>
   <programme start="20261025134500 +0000" stop="20261025220000 +0000" channel="Arena Sport 9 HR">
     <title lang="hr">POLJSKA LIGA: JAGIELLONIA - WISLA PLOCK</title>
@@ -12498,9 +12566,21 @@
     <title lang="hr">FRANCUSKA LIGA: AUXERRE - LE MANS</title>
     <desc lang="hr">AUXERRE - LE MANS</desc>
   </programme>
+  <programme start="20261025161500 +0000" stop="20261025220000 +0000" channel="Arena Sport 9 HR">
+    <title lang="hr">FRANCUSKA LIGA: AUXERRE - LE MANS</title>
+    <desc lang="hr">AUXERRE - LE MANS</desc>
+  </programme>
   <programme start="20261025161500 +0000" stop="20261025220000 +0000" channel="Arena Sport 10 HR">
     <title lang="hr">FRANCUSKA LIGA: TOULOUSE - TROYES</title>
     <desc lang="hr">TOULOUSE - TROYES</desc>
+  </programme>
+  <programme start="20261025161500 +0000" stop="20261025220000 +0000" channel="Arena Sport 10 HR">
+    <title lang="hr">FRANCUSKA LIGA: TOULOUSE - TROYES</title>
+    <desc lang="hr">TOULOUSE - TROYES</desc>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025220000 +0000" channel="Arena Sport 10 HR">
+    <title lang="hr">WWIN LIGA BIH: VELEŽ - BSK</title>
+    <desc lang="hr">VELEŽ - BSK</desc>
   </programme>
   <programme start="20261025190000 +0000" stop="20261025220000 +0000" channel="Arena Sport 10 HR">
     <title lang="hr">WWIN LIGA BIH: VELEŽ - BSK</title>
@@ -12616,154 +12696,138 @@
     <display-name>beIN SPORTS XTRA ñ 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png" />
   </channel>
-  <programme start="20261025013000 +0200" stop="20261025043000 +0200" channel="Hypermotion">
+  <programme start="20261025070000 +0100" stop="20261025080000 +0100" channel="Hypermotion">
     <title>LALIGA TV HYPERMOTION</title>
     <desc>· Programa por determinar...</desc>
   </programme>
-  <programme start="20261025043000 +0200" stop="20261025070000 +0200" channel="Hypermotion">
-    <title>LALIGA TV HYPERMOTION</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261025070000 +0200" stop="20261025080000 +0200" channel="Hypermotion">
-    <title>LALIGA TV HYPERMOTION</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261025080000 +0200" stop="20261025100000 +0200" channel="Hypermotion">
+  <programme start="20261025080000 +0100" stop="20261025100000 +0100" channel="Hypermotion">
     <title>LALIGA HYPERMOTION T26/27 · Jornada 11: Córdoba CF - SD Eibar</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · El Córdoba CF recibe al tercer clasificado con la moral reforzada tras asaltar Butarque (0-1). La SD Eibar, con 22 puntos, se ha consolidado como uno de los mejores visitantes del campeonato, con cuatro victorias en cinco salidas.
 · País: España</desc>
   </programme>
-  <programme start="20261025100000 +0200" stop="20261025120000 +0200" channel="Hypermotion">
+  <programme start="20261025100000 +0100" stop="20261025120000 +0100" channel="Hypermotion">
     <title>LALIGA HYPERMOTION T26/27 · Jornada 11: CD Leganés - RCD Mallorca</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · El CD Leganés atraviesa su momento más delicado del curso. Encadena cuatro derrotas consecutivas sin marcar. Enfrente estará un RCD Mallorca sólido, sexto con 18 puntos y con sólo cinco goles encajados.
 · País: España</desc>
   </programme>
-  <programme start="20261025120000 +0200" stop="20261025140000 +0200" channel="Hypermotion">
-    <title>Jornada 11: UD Almería - Real Oviedo T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | ★6.6/10
+  <programme start="20261025120000 +0100" stop="20261025140000 +0100" channel="Hypermotion">
+    <title>LALIGA HYPERMOTION T26/27 · Jornada 11: UD Almería - Real Oviedo</title>
+    <desc>Deportes,Fútbol | 2026 | TP
 · La UD Almería defiende el liderato en casa, donde ha ganado sus cinco partidos. El Real Oviedo llega en buen momento, con dos victorias seguidas y la sensación de haber encontrado estabilidad.
 · País: España</desc>
   </programme>
-  <programme start="20261025140000 +0200" stop="20261025161500 +0200" channel="Hypermotion">
-    <title>Jornada 11: CE Sabadell - CD Tenerife T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | ★6.0/10
+  <programme start="20261025140000 +0100" stop="20261025161500 +0100" channel="Hypermotion">
+    <title>DIRECTO Jornada 11: CE Sabadell - CD Tenerife T26/27 · LALIGA HYPERMOTION</title>
+    <desc>Deportes,Fútbol | 2026 | TP | ★6.4/10
 · El CE Sabadell ha hecho de la Nova Creu Alta su gran baza: sigue invicto en casa, con tres victorias y un empate. El CD Tenerife suma cinco jornadas sin ganar y ha ido perdiendo el impulso de su buen arranque.
 · País: España</desc>
   </programme>
-  <programme start="20261025161500 +0200" stop="20261025183000 +0200" channel="Hypermotion">
-    <title>Jornada 11: Cádiz CF - Ceuta FC T26/27 · LALIGA HYPERMOTION</title>
+  <programme start="20261025161500 +0100" stop="20261025183000 +0100" channel="Hypermotion">
+    <title>DIRECTO Jornada 11: Cádiz CF - Ceuta FC T26/27 · LALIGA HYPERMOTION</title>
     <desc>Deportes,Fútbol | 2026 | TP | ★5.0/10
 · El Cádiz CF recibe a un rival directo en un momento delicado. Vigésimo con 7 puntos y una sola victoria en diez jornadas. El AD Ceuta FC, con 5 puntos, llega tras dos derrotas consecutivas y todavía no ha ganado lejos de casa esta temporada.
 · País: España</desc>
   </programme>
-  <programme start="20261025183000 +0200" stop="20261025203000 +0200" channel="Hypermotion">
-    <title>Jornada 11: CD Castellón - Real Sporting T26/27 · LALIGA HYPERMOTION</title>
+  <programme start="20261025183000 +0100" stop="20261025203000 +0100" channel="Hypermotion">
+    <title>DIRECTO Jornada 11: CD Castellón - Real Sporting T26/27 · LALIGA HYPERMOTION</title>
     <desc>Deportes,Fútbol | 2026 | TP | ★6.0/10
 · El CD Castellón llega lanzado tras su contundente 0-3 en Gran Canaria. El Real Sporting, cuarto con 19 puntos, encadena tres victorias consecutivas y ha sumado doce puntos de los últimos quince.
 · País: España</desc>
   </programme>
-  <programme start="20261025203000 +0200" stop="20261025210000 +0200" channel="Hypermotion">
+  <programme start="20261025203000 +0100" stop="20261025210000 +0100" channel="Hypermotion">
     <title>LALIGA VS T2 · Jesús Gallego, Alicia Espinosa y José Luis Guzmán</title>
     <desc>Deportes,Fútbol | 2024 | TP | ★6.0/10
 · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
 · País: España</desc>
   </programme>
-  <programme start="20261025210000 +0200" stop="20261025230000 +0200" channel="Hypermotion">
+  <programme start="20261025210000 +0100" stop="20261025230000 +0100" channel="Hypermotion">
     <title>Jornada 11: Albacete BP - CD Eldense T26/27 · LALIGA HYPERMOTION</title>
     <desc>Deportes,Fútbol | 2026 | TP | ★6.0/10
 · El Albacete BP afronta una situación límite: es colista con un solo punto y todavía no ha ganado en diez jornadas. El CD Eldense, en cambio, vive su mejor momento de la temporada. Encadena tres victorias consecutivas.
 · País: España</desc>
   </programme>
-  <programme start="20261025230000 +0200" stop="20261026013000 +0200" channel="Hypermotion">
+  <programme start="20261025230000 +0100" stop="20261026013000 +0100" channel="Hypermotion">
     <title>Jornada 11: CD Castellón - Real Sporting T26/27 · LALIGA HYPERMOTION</title>
     <desc>Deportes,Fútbol | 2026 | TP | ★6.0/10
 · El CD Castellón llega lanzado tras su contundente 0-3 en Gran Canaria. El Real Sporting, cuarto con 19 puntos, encadena tres victorias consecutivas y ha sumado doce puntos de los últimos quince.
 · País: España</desc>
   </programme>
-  <programme start="20261026013000 +0200" stop="20261026053000 +0200" channel="Hypermotion">
+  <programme start="20261026013000 +0100" stop="20261026053000 +0100" channel="Hypermotion">
     <title>LALIGA TV HYPERMOTION</title>
     <desc>· Programa por determinar...</desc>
   </programme>
-  <programme start="20261026053000 +0200" stop="20261026080000 +0200" channel="Hypermotion">
+  <programme start="20261026053000 +0100" stop="20261026080000 +0100" channel="Hypermotion">
     <title>LALIGA TV HYPERMOTION</title>
     <desc>· Programa por determinar...</desc>
   </programme>
-  <programme start="20261026080000 +0200" stop="20261026100000 +0200" channel="Hypermotion">
+  <programme start="20261026080000 +0100" stop="20261026100000 +0100" channel="Hypermotion">
     <title>LALIGA HYPERMOTION T26/27 · Jornada 11: UD Las Palmas - Real Sociedad B</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · La UD Las Palmas necesita romper una dinámica muy negativa. La Real Sociedad B, en puestos de descenso con 8 puntos, acumula cuatro derrotas seguidas y es uno de los equipos más castigados en defensa, con 21 goles encajados.
 · País: España</desc>
   </programme>
-  <programme start="20261026100000 +0200" stop="20261026120000 +0200" channel="Hypermotion">
+  <programme start="20261026100000 +0100" stop="20261026120000 +0100" channel="Hypermotion">
     <title>LALIGA HYPERMOTION T26/27 · Jornada 11: Girona FC - RC Celta B</title>
-    <desc>Deportes,Fútbol | 2026 | TP | ★6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP
 · El Girona FC ha encontrado regularidad y suma cinco jornadas sin perder. El Celta Fortuna, recién ascendido, se ha ganado el respeto de la categoría por su atrevimiento y su capacidad goleadora, con 15 tantos a favor.
 · País: España</desc>
   </programme>
-  <programme start="20261026120000 +0200" stop="20261026140000 +0200" channel="Hypermotion">
+  <programme start="20261026120000 +0100" stop="20261026140000 +0100" channel="Hypermotion">
     <title>Jornada 11: CE Sabadell - CD Tenerife T26/27 · LALIGA HYPERMOTION</title>
-    <desc>Deportes,Fútbol | 2026 | TP | ★6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | ★6.4/10
 · El CE Sabadell ha hecho de la Nova Creu Alta su gran baza: sigue invicto en casa, con tres victorias y un empate. El CD Tenerife suma cinco jornadas sin ganar y ha ido perdiendo el impulso de su buen arranque.
 · País: España</desc>
   </programme>
-  <programme start="20261026140000 +0200" stop="20261026160000 +0200" channel="Hypermotion">
+  <programme start="20261026140000 +0100" stop="20261026160000 +0100" channel="Hypermotion">
     <title>Jornada 11: Cádiz CF - Ceuta FC T26/27 · LALIGA HYPERMOTION</title>
     <desc>Deportes,Fútbol | 2026 | TP | ★5.0/10
 · El Cádiz CF recibe a un rival directo en un momento delicado. Vigésimo con 7 puntos y una sola victoria en diez jornadas. El AD Ceuta FC, con 5 puntos, llega tras dos derrotas consecutivas y todavía no ha ganado lejos de casa esta temporada.
 · País: España</desc>
   </programme>
-  <programme start="20261026160000 +0200" stop="20261026180000 +0200" channel="Hypermotion">
+  <programme start="20261026160000 +0100" stop="20261026180000 +0100" channel="Hypermotion">
     <title>Jornada 11: Albacete BP - CD Eldense T26/27 · LALIGA HYPERMOTION</title>
     <desc>Deportes,Fútbol | 2026 | TP | ★6.0/10
 · El Albacete BP afronta una situación límite: es colista con un solo punto y todavía no ha ganado en diez jornadas. El CD Eldense, en cambio, vive su mejor momento de la temporada. Encadena tres victorias consecutivas.
 · País: España</desc>
   </programme>
-  <programme start="20261026180000 +0200" stop="20261026200000 +0200" channel="Hypermotion">
+  <programme start="20261026180000 +0100" stop="20261026200000 +0100" channel="Hypermotion">
     <title>Jornada 11: CD Castellón - Real Sporting T26/27 · LALIGA HYPERMOTION</title>
     <desc>Deportes,Fútbol | 2026 | TP | ★6.0/10
 · El CD Castellón llega lanzado tras su contundente 0-3 en Gran Canaria. El Real Sporting, cuarto con 19 puntos, encadena tres victorias consecutivas y ha sumado doce puntos de los últimos quince.
 · País: España</desc>
   </programme>
-  <programme start="20261026200000 +0200" stop="20261026203000 +0200" channel="Hypermotion">
+  <programme start="20261026200000 +0100" stop="20261026203000 +0100" channel="Hypermotion">
     <title>Inside - El gran derbi</title>
     <desc>Documentales,Deportes | 2025 | TP | ★6.0/10
 · Un recorrido por la organización de El Gran Derbi de Sevilla y el impacto de la piratería audiovisual.
 · País: España</desc>
   </programme>
-  <programme start="20261026203000 +0200" stop="20261026223000 +0200" channel="Hypermotion">
-    <title>Jornada 11: FC Andorra - Burgos T26/27 · LALIGA HYPERMOTION</title>
+  <programme start="20261026203000 +0100" stop="20261026223000 +0100" channel="Hypermotion">
+    <title>DIRECTO Jornada 11: FC Andorra - Burgos T26/27 · LALIGA HYPERMOTION</title>
     <desc>Deportes,Fútbol | 2026 | TP | ★6.4/10
 · El FC Andorra cierra la jornada con la necesidad de reaccionar tras su derrota en Montilivi (2-0). El Burgos CF recuperó la sonrisa ante el CE Sabadell (1-0) después de dos derrotas seguidas y, con 17 puntos, vuelve a mirar hacia la promoción de ascenso.
 · País: España</desc>
   </programme>
-  <programme start="20261026223000 +0200" stop="20261026230000 +0200" channel="Hypermotion">
+  <programme start="20261026223000 +0100" stop="20261026230000 +0100" channel="Hypermotion">
     <title>LALIGA VS T2 · Jesús Gallego, Alicia Espinosa y José Luis Guzmán</title>
     <desc>Deportes,Fútbol | 2024 | TP | ★6.0/10
 · Este podcast trae charlas entre referentes del mundo del fútbol y de otros sectores para hablar del odio en los estadios, empezando por el racismo, con personajes que cuentan sus historias en primera persona.
 · País: España</desc>
   </programme>
-  <programme start="20261026230000 +0200" stop="20261027010000 +0200" channel="Hypermotion">
+  <programme start="20261026230000 +0100" stop="20261027010000 +0100" channel="Hypermotion">
     <title>LALIGA HYPERMOTION T26/27 · Jornada 11: Granada CF - Real Valladolid CF</title>
     <desc>Deportes,Fútbol | 2026 | TP
 · El Granada CF abre la jornada en Nuevo Los Cármenes con el impulso de dos victorias consecutivas, la última por 2-0 ante el Cádiz CF. El Real Valladolid CF llega tocado tras caer en casa ante el CD Eldense (2-3).
 · País: España</desc>
   </programme>
-  <programme start="20261027010000 +0200" stop="20261027050000 +0200" channel="Hypermotion">
+  <programme start="20261027010000 +0100" stop="20261027050000 +0100" channel="Hypermotion">
     <title>LALIGA TV HYPERMOTION</title>
     <desc>· Programa por determinar...</desc>
   </programme>
-  <programme start="20261027050000 +0200" stop="20261027090000 +0200" channel="Hypermotion">
+  <programme start="20261027050000 +0100" stop="20261027090000 +0100" channel="Hypermotion">
     <title>LALIGA TV HYPERMOTION</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261025003000 +0200" stop="20261025024500 +0200" channel="Hypermotion 2">
-    <title>Próximo partido: Albacete - Eldense</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261025024500 +0200" stop="20261025073000 +0100" channel="Hypermotion 2">
-    <title>Próximo partido: Albacete - Eldense</title>
     <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20261025073000 +0100" stop="20261025113000 +0100" channel="Hypermotion 2">
@@ -12824,293 +12888,228 @@
     <title>LALIGA TV HYPERMOTION 2</title>
     <desc>· Programa por determinar...</desc>
   </programme>
-  <programme start="20261025004600 +0200" stop="20261025013000 +0200" channel="Eurosport 1 ES">
-    <title>Copa del mundo de esquí alpino F - Sölden T26/27 · Eslalon gigante - 2ª manga</title>
-    <desc>Deportes,Esquí alpino | 2026 | TP
-· La prueba de Sölden inaugura oficialmente la temporada de la Copa del Mundo femenina de esquí alpino. El espectacular glaciar Rettenbach acoge el eslalon gigante con sus dos mangas técnicas.
-· País: Austria</desc>
-  </programme>
-  <programme start="20261025013000 +0200" stop="20261025023000 +0200" channel="Eurosport 1 ES">
-    <title>Giro de Lombardía</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | ★6.6/10
-· El Giro de Lombardía es una de las cinco clásicas conocidas como "monumentos" por su relevancia. La edición de 2026 cuenta, como siempre, con una gran participación. En las cinco últimas campañas, el vencedor fue el esloveno Tadej Pogacar.
-· País: Italia</desc>
-  </programme>
-  <programme start="20261025023000 +0200" stop="20261025040000 +0200" channel="Eurosport 1 ES">
-    <title>Abierto de Irlanda del Norte de snooker T26/27 · Semifinales</title>
-    <desc>Deportes,Snooker | 2026 | TP
-· El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.
-· País: Reino Unido</desc>
-  </programme>
-  <programme start="20261025040000 +0200" stop="20261025050000 +0200" channel="Eurosport 1 ES">
-    <title>Eneco Tour M T2026 · Etapa 5 - Arnhem - Arnhem</title>
-    <desc>Deportes,Ciclismo | 2026 | TP
-· El Eneco Tour (antes Tour de Holanda) es la gran ronda por etapas de los Países Bajos. Del 13 al 18 de octubre, se corre a la vez que la femenina, compartiendo salidas y llegadas. Con un prólogo y 5 etapas, varía la distancia para los hombres.
-· País: Países Bajos</desc>
-  </programme>
-  <programme start="20261025050000 +0200" stop="20261025060000 +0200" channel="Eurosport 1 ES">
-    <title>Abierto de Irlanda del Norte de snooker T26/27 · Semifinales</title>
-    <desc>Deportes,Snooker | 2026 | TP
-· El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.
-· País: Reino Unido</desc>
-  </programme>
-  <programme start="20261025060000 +0200" stop="20261025080000 +0200" channel="Eurosport 1 ES">
-    <title>DIRECTO Muju - Día 2 T2026 · Golden Trail World Series</title>
-    <desc>Deportes,Atletismo | 2026 | TP | ★6.0/10
-· Una serie de carreras de montaña de alto nivel que reúnen a los mejores corredores de trail running del mundo. El certamen ofrece desafíos atléticos y escenarios impresionantes en diferentes lugares del planeta.</desc>
-  </programme>
-  <programme start="20261025080000 +0200" stop="20261025083000 +0200" channel="Eurosport 1 ES">
-    <title>Velocidad - Finales T2026 · Copa del mundo de escalada - Santiago de Chile</title>
-    <desc>Deportes,Escalada deportiva | 2026 | TP | ★6.8/10
+  <programme start="20261025080000 +0100" stop="20261025083000 +0100" channel="Eurosport 1 ES">
+    <title>Copa del mundo de escalada - Santiago de Chile T2026 · Velocidad - Finales</title>
+    <desc>Deportes,Escalada deportiva | 2026 | TP
 · La Copa del mundo de escalada llega a Chile del 23 al 25 de octubre.
 · País: Chile</desc>
   </programme>
-  <programme start="20261025083000 +0200" stop="20261025090000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261025083000 +0100" stop="20261025090000 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de esquí alpino F - Sölden T26/27 · Eslalon gigante - 1ª manga</title>
-    <desc>Deportes,Deporte invierno | 2026 | TP | ★6.0/10
+    <desc>Deportes,Esquí alpino | 2026 | TP | ★6.2/10
 · La prueba de Sölden inaugura oficialmente la temporada de la Copa del Mundo femenina de esquí alpino. El espectacular glaciar Rettenbach acoge el eslalon gigante con sus dos mangas técnicas.
 · País: Austria</desc>
   </programme>
-  <programme start="20261025090000 +0200" stop="20261025093000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261025090000 +0100" stop="20261025093000 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de esquí alpino F - Sölden T26/27 · Eslalon gigante - 2ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP
 · La prueba de Sölden inaugura oficialmente la temporada de la Copa del Mundo femenina de esquí alpino. El espectacular glaciar Rettenbach acoge el eslalon gigante con sus dos mangas técnicas.
 · País: Austria</desc>
   </programme>
-  <programme start="20261025093000 +0200" stop="20261025113000 +0200" channel="Eurosport 1 ES">
-    <title>DIRECTO Eslalon gigante - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Sölden</title>
+  <programme start="20261025093000 +0100" stop="20261025113000 +0100" channel="Eurosport 1 ES">
+    <title>Copa del mundo de esquí alpino M - Sölden T26/27 · Eslalon gigante - 1ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP | ★6.0/10
 · Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
 · País: Austria</desc>
   </programme>
-  <programme start="20261025113000 +0200" stop="20261025124500 +0200" channel="Eurosport 1 ES">
+  <programme start="20261025113000 +0100" stop="20261025124500 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de esquí alpino M - Kitzbuehel T25/26 · Descenso</title>
-    <desc>Deportes,Esquí alpino | 2026 | TP | ★6.4/10
+    <desc>Deportes,Esquí alpino | 2026 | TP
 · Del 26 de octubre al 25 de marzo se celebra la Copa del mundo de esquí alpino. La competición, que premia a los más regulares, hace su 13ª parada en Kitzbuehel, Austria. El helvético Marco Odermatt defiende título.
 · País: Austria</desc>
   </programme>
-  <programme start="20261025124500 +0200" stop="20261025140000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261025124500 +0100" stop="20261025140000 +0100" channel="Eurosport 1 ES">
     <title>DIRECTO Eslalon gigante - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Sölden</title>
     <desc>Deportes,Esquí alpino | 2026 | TP | ★6.0/10
 · Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
 · País: Austria</desc>
   </programme>
-  <programme start="20261025140000 +0200" stop="20261025170000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261025140000 +0100" stop="20261025170000 +0100" channel="Eurosport 1 ES">
     <title>DIRECTO Final T26/27 · Abierto de Irlanda del Norte de snooker</title>
     <desc>Deportes,Snooker | 2026 | TP | ★6.0/10
 · El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
   </programme>
-  <programme start="20261025170000 +0200" stop="20261025180000 +0200" channel="Eurosport 1 ES">
-    <title>Muju - Día 2 T2026 · Golden Trail World Series</title>
-    <desc>Deportes,Atletismo | 2026 | TP | ★6.0/10
+  <programme start="20261025170000 +0100" stop="20261025180000 +0100" channel="Eurosport 1 ES">
+    <title>Golden Trail World Series T2026 · Muju - Día 2</title>
+    <desc>Deportes,Atletismo | 2026 | TP
 · Una serie de carreras de montaña de alto nivel que reúnen a los mejores corredores de trail running del mundo. El certamen ofrece desafíos atléticos y escenarios impresionantes en diferentes lugares del planeta.</desc>
   </programme>
-  <programme start="20261025180000 +0200" stop="20261025190000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261025180000 +0100" stop="20261025190000 +0100" channel="Eurosport 1 ES">
     <title>Global Champions Tour - El Cairo</title>
     <desc>Deportes,Hípica | 2026 | TP | ★6.0/10
 · El Global Champions Tour de El Cairo es la prestigiosa final del circuito hípico.
 · País: Egipto</desc>
   </programme>
-  <programme start="20261025190000 +0200" stop="20261025200000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261025190000 +0100" stop="20261025200000 +0100" channel="Eurosport 1 ES">
     <title>Final T26/27 · Abierto de Irlanda del Norte de snooker</title>
     <desc>Deportes,Snooker | 2026 | TP | ★6.0/10
 · El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
   </programme>
-  <programme start="20261025200000 +0200" stop="20261025230000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261025200000 +0100" stop="20261025230000 +0100" channel="Eurosport 1 ES">
     <title>DIRECTO Final - Sesión 2 T26/27 · Abierto de Irlanda del Norte de snooker</title>
     <desc>Deportes,Snooker | 2026 | TP | ★6.0/10
 · El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
   </programme>
-  <programme start="20261025230000 +0200" stop="20261025233000 +0200" channel="Eurosport 1 ES">
-    <title>Eslalon gigante - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Sölden</title>
+  <programme start="20261025230000 +0100" stop="20261025233000 +0100" channel="Eurosport 1 ES">
+    <title>Copa del mundo de esquí alpino M - Sölden T26/27 · Eslalon gigante - 1ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP | ★6.0/10
 · Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
 · País: Austria</desc>
   </programme>
-  <programme start="20261025233000 +0200" stop="20261026000000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261025233000 +0100" stop="20261026000000 +0100" channel="Eurosport 1 ES">
     <title>Eslalon gigante - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Sölden</title>
     <desc>Deportes,Esquí alpino | 2026 | TP | ★6.0/10
 · Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
 · País: Austria</desc>
   </programme>
-  <programme start="20261026000000 +0200" stop="20261026013000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026000000 +0100" stop="20261026013000 +0100" channel="Eurosport 1 ES">
     <title>Final T26/27 · Abierto de Irlanda del Norte de snooker</title>
     <desc>Deportes,Snooker | 2026 | TP | ★6.0/10
 · El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
   </programme>
-  <programme start="20261026013000 +0200" stop="20261026033000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026013000 +0100" stop="20261026033000 +0100" channel="Eurosport 1 ES">
     <title>6 Horas de Barcelona - Mundial de Resistencia de la FIA T2026 · Carrera</title>
-    <desc>Deportes,Automovilismo | 2026 | TP
+    <desc>Deportes,Automovilismo | 2026 | TP | ★6.6/10
 · Las 6 Horas de Barcelona debutan del 16 al 18 de octubre en el Circuit de Barcelona-Catalunya como penúltima cita del Mundial de Resistencia FIA WEC. Esta prueba resulta clave para definir los títulos de las categorías Hypercar y LMGT3.
 · País: España</desc>
   </programme>
-  <programme start="20261026033000 +0200" stop="20261026043000 +0200" channel="Eurosport 1 ES">
-    <title>Velocidad - Finales T2026 · Copa del mundo de escalada - Santiago de Chile</title>
-    <desc>Deportes,Escalada deportiva | 2026 | TP | ★6.8/10
+  <programme start="20261026033000 +0100" stop="20261026043000 +0100" channel="Eurosport 1 ES">
+    <title>Copa del mundo de escalada - Santiago de Chile T2026 · Velocidad - Finales</title>
+    <desc>Deportes,Escalada deportiva | 2026 | TP
 · La Copa del mundo de escalada llega a Chile del 23 al 25 de octubre.
 · País: Chile</desc>
   </programme>
-  <programme start="20261026043000 +0200" stop="20261026053000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026043000 +0100" stop="20261026053000 +0100" channel="Eurosport 1 ES">
     <title>Dificultad - Finales T2026 · Copa del mundo de escalada - Santiago de Chile</title>
     <desc>Deportes,Escalada deportiva | 2026 | TP | ★6.0/10
 · La Copa del mundo de escalada llega a Chile del 23 al 25 de octubre.
 · País: Chile</desc>
   </programme>
-  <programme start="20261026053000 +0200" stop="20261026070000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026053000 +0100" stop="20261026070000 +0100" channel="Eurosport 1 ES">
     <title>Final T26/27 · Abierto de Irlanda del Norte de snooker</title>
     <desc>Deportes,Snooker | 2026 | TP | ★6.0/10
 · El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
   </programme>
-  <programme start="20261026070000 +0200" stop="20261026074500 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026070000 +0100" stop="20261026074500 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de esquí alpino F - Sölden T26/27 · Eslalon gigante - 2ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP
 · La prueba de Sölden inaugura oficialmente la temporada de la Copa del Mundo femenina de esquí alpino. El espectacular glaciar Rettenbach acoge el eslalon gigante con sus dos mangas técnicas.
 · País: Austria</desc>
   </programme>
-  <programme start="20261026074500 +0200" stop="20261026083000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026074500 +0100" stop="20261026083000 +0100" channel="Eurosport 1 ES">
     <title>Eslalon gigante - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Sölden</title>
     <desc>Deportes,Esquí alpino | 2026 | TP | ★6.0/10
 · Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
 · País: Austria</desc>
   </programme>
-  <programme start="20261026083000 +0200" stop="20261026103000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026083000 +0100" stop="20261026103000 +0100" channel="Eurosport 1 ES">
     <title>Final T26/27 · Abierto de Irlanda del Norte de snooker</title>
     <desc>Deportes,Snooker | 2026 | TP | ★6.0/10
 · El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
   </programme>
-  <programme start="20261026103000 +0200" stop="20261026113000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026103000 +0100" stop="20261026113000 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de esquí alpino F - Sölden T26/27 · Eslalon gigante - 2ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP
 · La prueba de Sölden inaugura oficialmente la temporada de la Copa del Mundo femenina de esquí alpino. El espectacular glaciar Rettenbach acoge el eslalon gigante con sus dos mangas técnicas.
 · País: Austria</desc>
   </programme>
-  <programme start="20261026113000 +0200" stop="20261026123000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026113000 +0100" stop="20261026123000 +0100" channel="Eurosport 1 ES">
     <title>Eslalon gigante - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Sölden</title>
     <desc>Deportes,Esquí alpino | 2026 | TP | ★6.0/10
 · Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
 · País: Austria</desc>
   </programme>
-  <programme start="20261026123000 +0200" stop="20261026143000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026123000 +0100" stop="20261026143000 +0100" channel="Eurosport 1 ES">
     <title>Final T26/27 · Abierto de Irlanda del Norte de snooker</title>
     <desc>Deportes,Snooker | 2026 | TP | ★6.0/10
 · El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
   </programme>
-  <programme start="20261026143000 +0200" stop="20261026151500 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026143000 +0100" stop="20261026151500 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de esquí alpino F - Sölden T26/27 · Eslalon gigante - 2ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP
 · La prueba de Sölden inaugura oficialmente la temporada de la Copa del Mundo femenina de esquí alpino. El espectacular glaciar Rettenbach acoge el eslalon gigante con sus dos mangas técnicas.
 · País: Austria</desc>
   </programme>
-  <programme start="20261026151500 +0200" stop="20261026160000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026151500 +0100" stop="20261026160000 +0100" channel="Eurosport 1 ES">
     <title>Eslalon gigante - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Sölden</title>
     <desc>Deportes,Esquí alpino | 2026 | TP | ★6.0/10
 · Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
 · País: Austria</desc>
   </programme>
-  <programme start="20261026160000 +0200" stop="20261026170000 +0200" channel="Eurosport 1 ES">
-    <title>Velocidad - Finales T2026 · Copa del mundo de escalada - Santiago de Chile</title>
-    <desc>Deportes,Escalada deportiva | 2026 | TP | ★6.8/10
+  <programme start="20261026160000 +0100" stop="20261026170000 +0100" channel="Eurosport 1 ES">
+    <title>Copa del mundo de escalada - Santiago de Chile T2026 · Velocidad - Finales</title>
+    <desc>Deportes,Escalada deportiva | 2026 | TP
 · La Copa del mundo de escalada llega a Chile del 23 al 25 de octubre.
 · País: Chile</desc>
   </programme>
-  <programme start="20261026170000 +0200" stop="20261026180000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026170000 +0100" stop="20261026180000 +0100" channel="Eurosport 1 ES">
     <title>Dificultad - Finales T2026 · Copa del mundo de escalada - Santiago de Chile</title>
     <desc>Deportes,Escalada deportiva | 2026 | TP | ★6.0/10
 · La Copa del mundo de escalada llega a Chile del 23 al 25 de octubre.
 · País: Chile</desc>
   </programme>
-  <programme start="20261026180000 +0200" stop="20261026184500 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026180000 +0100" stop="20261026184500 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de esquí alpino F - Sölden T26/27 · Eslalon gigante - 2ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP
 · La prueba de Sölden inaugura oficialmente la temporada de la Copa del Mundo femenina de esquí alpino. El espectacular glaciar Rettenbach acoge el eslalon gigante con sus dos mangas técnicas.
 · País: Austria</desc>
   </programme>
-  <programme start="20261026184500 +0200" stop="20261026193000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026184500 +0100" stop="20261026193000 +0100" channel="Eurosport 1 ES">
     <title>Eslalon gigante - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Sölden</title>
     <desc>Deportes,Esquí alpino | 2026 | TP | ★6.0/10
 · Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
 · País: Austria</desc>
   </programme>
-  <programme start="20261026193000 +0200" stop="20261026200000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026193000 +0100" stop="20261026200000 +0100" channel="Eurosport 1 ES">
     <title>Her Voice, Her Game T2026 · 26/10/2026</title>
     <desc>Deportes,Programa deportes | 2026 | TP
 · Puesta en valor de las trayectorias, las voces y las actuaciones de deportistas y figuras clave del mundo del deporte femenino.</desc>
   </programme>
-  <programme start="20261026200000 +0200" stop="20261026213000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026200000 +0100" stop="20261026213000 +0100" channel="Eurosport 1 ES">
     <title>Global Champions Tour - El Cairo</title>
-    <desc>Deportes,Hípica | 2026 | TP | ★9.0/10
+    <desc>Deportes,Hípica | 2026 | TP | ★6.0/10
 · El Global Champions Tour de El Cairo es la prestigiosa final del circuito hípico.
 · País: Egipto</desc>
   </programme>
-  <programme start="20261026213000 +0200" stop="20261026220000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026213000 +0100" stop="20261026220000 +0100" channel="Eurosport 1 ES">
     <title>Final T26/27 · Abierto de Irlanda del Norte de snooker</title>
     <desc>Deportes,Snooker | 2026 | TP | ★6.0/10
 · El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
   </programme>
-  <programme start="20261026220000 +0200" stop="20261026230000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261026220000 +0100" stop="20261026230000 +0100" channel="Eurosport 1 ES">
     <title>Golden Trail World Series T2026 · Muju - Día 1</title>
     <desc>Deportes,Atletismo | 2026 | TP
 · La Muju Trail Grand Finale decide las Golden Trail World Series.
 · País: Corea del Sur</desc>
   </programme>
-  <programme start="20261026230000 +0200" stop="20261027000000 +0200" channel="Eurosport 1 ES">
-    <title>Muju - Día 2 T2026 · Golden Trail World Series</title>
-    <desc>Deportes,Atletismo | 2026 | TP | ★6.0/10
+  <programme start="20261026230000 +0100" stop="20261027000000 +0100" channel="Eurosport 1 ES">
+    <title>Golden Trail World Series T2026 · Muju - Día 2</title>
+    <desc>Deportes,Atletismo | 2026 | TP
 · Una serie de carreras de montaña de alto nivel que reúnen a los mejores corredores de trail running del mundo. El certamen ofrece desafíos atléticos y escenarios impresionantes en diferentes lugares del planeta.</desc>
   </programme>
-  <programme start="20261027000000 +0200" stop="20261027013000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261027000000 +0100" stop="20261027013000 +0100" channel="Eurosport 1 ES">
     <title>Abierto de Wuhan de snooker T26/27 · Zhao Xintong vs Chang Bingyu</title>
     <desc>Deportes,Otros deportes | 2026 | TP | ★6.2/10
 · El circuito profesional de snooker hace parada en China. La ciudad de Wuhan acoge el abierto de esta modalidad de billar del 23 al 29 de agosto.
 · País: China</desc>
   </programme>
-  <programme start="20261027013000 +0200" stop="20261027033000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261027013000 +0100" stop="20261027033000 +0100" channel="Eurosport 1 ES">
     <title>6 Horas de Spa - Mundial de resistencia de la FIA T2026 · Carrera</title>
     <desc>Deportes,Automovilismo | 2026 | TP | ★6.2/10
 · El Mundial de resistencia llega a Bélgica. Las 6 Horas de Spa son la segunda prueba de la temporada. El circuito belga fusiona elementos de velocidad extrema con desafíos tácticos, como la icónica Eau Rouge.
 · País: Bélgica</desc>
   </programme>
-  <programme start="20261027033000 +0200" stop="20261027053000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261027033000 +0100" stop="20261027053000 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de escalada - Chamonix T2026 · Dificultad - Finales</title>
     <desc>Deportes,Escalada deportiva | 2026 | TP | ★5.8/10
 · La Copa del Mundo de Escalada en Chamonix es una emblemática cita anual del circuito de la IFSC. Reúne a la élite mundial a los pies del Mont-Blanc para competir en impresionantes muros al aire libre en las disciplinas de dificultad y velocidad.
 · País: Francia</desc>
   </programme>
-  <programme start="20261027053000 +0200" stop="20261027070000 +0200" channel="Eurosport 1 ES">
+  <programme start="20261027053000 +0100" stop="20261027070000 +0100" channel="Eurosport 1 ES">
     <title>Abierto de Wuhan de snooker T26/27 · Zhao Xintong vs Chang Bingyu</title>
     <desc>Deportes,Otros deportes | 2026 | TP | ★6.2/10
 · El circuito profesional de snooker hace parada en China. La ciudad de Wuhan acoge el abierto de esta modalidad de billar del 23 al 29 de agosto.
 · País: China</desc>
-  </programme>
-  <programme start="20261025001400 +0200" stop="20261025013000 +0200" channel="Eurosport 2 ES">
-    <title>Eneco Tour M T2026 · Etapa 5 - Arnhem - Arnhem</title>
-    <desc>Deportes,Ciclismo | 2026 | TP
-· El Eneco Tour (antes Tour de Holanda) es la gran ronda por etapas de los Países Bajos. Del 13 al 18 de octubre, se corre a la vez que la femenina, compartiendo salidas y llegadas. Con un prólogo y 5 etapas, varía la distancia para los hombres.
-· País: Países Bajos</desc>
-  </programme>
-  <programme start="20261025013000 +0200" stop="20261025023000 +0200" channel="Eurosport 2 ES">
-    <title>Abierto de Irlanda del Norte de snooker T26/27 · Semifinales</title>
-    <desc>Deportes,Snooker | 2026 | TP
-· El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.
-· País: Reino Unido</desc>
-  </programme>
-  <programme start="20261025023000 +0200" stop="20261025040000 +0100" channel="Eurosport 2 ES">
-    <title>Giro de Lombardía</title>
-    <desc>Deportes,Ciclismo | 2026 | TP | ★6.6/10
-· El Giro de Lombardía es una de las cinco clásicas conocidas como "monumentos" por su relevancia. La edición de 2026 cuenta, como siempre, con una gran participación. En las cinco últimas campañas, el vencedor fue el esloveno Tadej Pogacar.
-· País: Italia</desc>
-  </programme>
-  <programme start="20261025040000 +0100" stop="20261025050000 +0100" channel="Eurosport 2 ES">
-    <title>Abierto de Irlanda del Norte de snooker T26/27 · Semifinales</title>
-    <desc>Deportes,Snooker | 2026 | TP
-· El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.
-· País: Reino Unido</desc>
-  </programme>
-  <programme start="20261025050000 +0100" stop="20261025063000 +0100" channel="Eurosport 2 ES">
-    <title>Eneco Tour M T2026 · Etapa 5 - Arnhem - Arnhem</title>
-    <desc>Deportes,Ciclismo | 2026 | TP
-· El Eneco Tour (antes Tour de Holanda) es la gran ronda por etapas de los Países Bajos. Del 13 al 18 de octubre, se corre a la vez que la femenina, compartiendo salidas y llegadas. Con un prólogo y 5 etapas, varía la distancia para los hombres.
-· País: Países Bajos</desc>
   </programme>
   <programme start="20261025063000 +0100" stop="20261025080000 +0100" channel="Eurosport 2 ES">
     <title>Abierto de Irlanda del Norte de snooker T26/27 · Semifinales</title>
@@ -13132,13 +13131,13 @@
   </programme>
   <programme start="20261025103000 +0100" stop="20261025113000 +0100" channel="Eurosport 2 ES">
     <title>GP de Francia - ISU Grand Prix T2026 · Programa libre F</title>
-    <desc>Deportes,Patinaje artístico | 2026 | TP | ★6.0/10
+    <desc>Deportes,Patinaje artístico | 2026 | TP
 · El GP de Francia inaugura la prestigiosa temporada del Grand Prix de Patinaje Artístico. Del 23 al 25 de octubre en Angers, la élite mundial compite en categorías individual, parejas y danza sobre hielo para clasificar a la gran final.
 · País: Francia</desc>
   </programme>
   <programme start="20261025113000 +0100" stop="20261025131000 +0100" channel="Eurosport 2 ES">
-    <title>DIRECTO Programa libre parejas T2026 · GP de Francia - ISU Grand Prix</title>
-    <desc>Deportes,Patinaje artístico | 2026 | TP | ★6.0/10
+    <title>GP de Francia - ISU Grand Prix T2026 · Programa libre parejas</title>
+    <desc>Deportes,Patinaje artístico | 2026 | TP
 · El GP de Francia inaugura la prestigiosa temporada del Grand Prix de Patinaje Artístico. Del 23 al 25 de octubre en Angers, la élite mundial compite en categorías individual, parejas y danza sobre hielo para clasificar a la gran final.
 · País: Francia</desc>
   </programme>
@@ -13173,8 +13172,8 @@
 · País: Austria</desc>
   </programme>
   <programme start="20261025180000 +0100" stop="20261025190000 +0100" channel="Eurosport 2 ES">
-    <title>Programa libre parejas T2026 · GP de Francia - ISU Grand Prix</title>
-    <desc>Deportes,Patinaje artístico | 2026 | TP | ★6.0/10
+    <title>GP de Francia - ISU Grand Prix T2026 · Programa libre parejas</title>
+    <desc>Deportes,Patinaje artístico | 2026 | TP
 · El GP de Francia inaugura la prestigiosa temporada del Grand Prix de Patinaje Artístico. Del 23 al 25 de octubre en Angers, la élite mundial compite en categorías individual, parejas y danza sobre hielo para clasificar a la gran final.
 · País: Francia</desc>
   </programme>
@@ -13192,7 +13191,7 @@
   </programme>
   <programme start="20261025210000 +0100" stop="20261025220000 +0100" channel="Eurosport 2 ES">
     <title>GP de Francia - ISU Grand Prix T2026 · Programa libre F</title>
-    <desc>Deportes,Patinaje artístico | 2026 | TP | ★6.0/10
+    <desc>Deportes,Patinaje artístico | 2026 | TP
 · El GP de Francia inaugura la prestigiosa temporada del Grand Prix de Patinaje Artístico. Del 23 al 25 de octubre en Angers, la élite mundial compite en categorías individual, parejas y danza sobre hielo para clasificar a la gran final.
 · País: Francia</desc>
   </programme>
@@ -13203,13 +13202,13 @@
 · País: Chile</desc>
   </programme>
   <programme start="20261026000000 +0100" stop="20261026010000 +0100" channel="Eurosport 2 ES">
-    <title>Velocidad - Finales T2026 · Copa del mundo de escalada - Santiago de Chile</title>
-    <desc>Deportes,Escalada deportiva | 2026 | TP | ★6.8/10
+    <title>Copa del mundo de escalada - Santiago de Chile T2026 · Velocidad - Finales</title>
+    <desc>Deportes,Escalada deportiva | 2026 | TP
 · La Copa del mundo de escalada llega a Chile del 23 al 25 de octubre.
 · País: Chile</desc>
   </programme>
   <programme start="20261026010000 +0100" stop="20261026013000 +0100" channel="Eurosport 2 ES">
-    <title>Eslalon gigante - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Sölden</title>
+    <title>Copa del mundo de esquí alpino M - Sölden T26/27 · Eslalon gigante - 1ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP | ★6.0/10
 · Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
 · País: Austria</desc>
@@ -13227,7 +13226,7 @@
   </programme>
   <programme start="20261026033000 +0100" stop="20261026053000 +0100" channel="Eurosport 2 ES">
     <title>6 Horas de Barcelona - Mundial de Resistencia de la FIA T2026 · Carrera</title>
-    <desc>Deportes,Automovilismo | 2026 | TP
+    <desc>Deportes,Automovilismo | 2026 | TP | ★6.6/10
 · Las 6 Horas de Barcelona debutan del 16 al 18 de octubre en el Circuit de Barcelona-Catalunya como penúltima cita del Mundial de Resistencia FIA WEC. Esta prueba resulta clave para definir los títulos de las categorías Hypercar y LMGT3.
 · País: España</desc>
   </programme>
@@ -13244,8 +13243,8 @@
 · País: Austria</desc>
   </programme>
   <programme start="20261026070000 +0100" stop="20261026080000 +0100" channel="Eurosport 2 ES">
-    <title>Velocidad - Finales T2026 · Copa del mundo de escalada - Santiago de Chile</title>
-    <desc>Deportes,Escalada deportiva | 2026 | TP | ★6.8/10
+    <title>Copa del mundo de escalada - Santiago de Chile T2026 · Velocidad - Finales</title>
+    <desc>Deportes,Escalada deportiva | 2026 | TP
 · La Copa del mundo de escalada llega a Chile del 23 al 25 de octubre.
 · País: Chile</desc>
   </programme>
@@ -13307,8 +13306,8 @@
 · El Abierto de Irlanda del Norte de snooker se disputa del 18 al 25 de octubre en el Waterfront Hall de Belfast. Es un torneo clave de las Home Nations Series donde la élite busca el trofeo Alex Higgins. El inglés Jack Lisowski se impuso en 2025.</desc>
   </programme>
   <programme start="20261026200000 +0100" stop="20261026210000 +0100" channel="Eurosport 2 ES">
-    <title>Velocidad - Finales T2026 · Copa del mundo de escalada - Santiago de Chile</title>
-    <desc>Deportes,Escalada deportiva | 2026 | TP | ★6.8/10
+    <title>Copa del mundo de escalada - Santiago de Chile T2026 · Velocidad - Finales</title>
+    <desc>Deportes,Escalada deportiva | 2026 | TP
 · La Copa del mundo de escalada llega a Chile del 23 al 25 de octubre.
 · País: Chile</desc>
   </programme>
@@ -13346,14 +13345,6 @@
     <desc>Deportes,Ciclismo | 2026 | TP | ★6.0/10
 · La decana de las grandes clásicas llega este año a su edición número 117. La "Classicissima" cuenta, como siempre, con un cartel de lujo en busca de un triunfo de mucho prestigio. En 2025, se impuso el neerlandés Mathieu van der Poel.
 · País: Italia</desc>
-  </programme>
-  <programme start="20261025021500 +0200" stop="20261025060000 +0100" channel="Hypermotion 3">
-    <title>LALIGA TV HYPERMOTION 3</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20261025060000 +0100" stop="20261025100000 +0100" channel="Hypermotion 3">
-    <title>LALIGA TV HYPERMOTION 3</title>
-    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20261025100000 +0100" stop="20261025140000 +0100" channel="Hypermotion 3">
     <title>LALIGA TV HYPERMOTION 3</title>
@@ -13406,451 +13397,381 @@
   </programme>
   <programme start="20261025003600 +0200" stop="20261025010600 +0200" channel="Onetoro">
     <title>Redifusión previa Feria de Acho ( 24/10/2026)</title>
-    <desc>... sin detalles</desc>
+    <desc>⑯</desc>
   </programme>
-  <programme start="20261025010600 +0200" stop="20261025040600 +0100" channel="Onetoro">
+  <programme start="20261025010600 +0200" stop="20261025040600 +0200" channel="Onetoro">
     <title>Redifusión Feria de Acho ( 24/10/2026)</title>
-    <desc>... sin detalles</desc>
+    <desc>⑯</desc>
   </programme>
-  <programme start="20261025040600 +0100" stop="20261025064200 +0100" channel="Onetoro">
+  <programme start="20261025040600 +0200" stop="20261025064200 +0200" channel="Onetoro">
     <title>A Toro Pasado. El Cid</title>
     <desc>Toros | ⑯
 · Recordamos la trayectoria de El Cid en la que ha sido su plaza, Las Ventas. Hacemos un viaje por sus actuaciones en la plaza más importante del mundo.</desc>
   </programme>
-  <programme start="20261025064200 +0100" stop="20261025064500 +0100" channel="Onetoro">
+  <programme start="20261025064200 +0200" stop="20261025064500 +0200" channel="Onetoro">
     <title>El trabajo del mozo de espadas. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Raúl de la Fe todo el trabajo que realizan los mozos de espadas cuando hay un festejo.</desc>
   </programme>
-  <programme start="20261025064500 +0100" stop="20261025064900 +0100" channel="Onetoro">
+  <programme start="20261025064500 +0200" stop="20261025064900 +0200" channel="Onetoro">
     <title>Los quites. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Domingo Delgado de la Cámara qué son los quites y su origen.</desc>
   </programme>
-  <programme start="20261025064900 +0100" stop="20261025065100 +0100" channel="Onetoro">
+  <programme start="20261025064900 +0200" stop="20261025065100 +0200" channel="Onetoro">
     <title>El tercio de banderillas. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Juan Carlos Rey y Raúl Ruíz “Cachorro” a ejecutar el tercio de banderillas.</desc>
   </programme>
-  <programme start="20261025065100 +0100" stop="20261025070000 +0100" channel="Onetoro">
+  <programme start="20261025065100 +0200" stop="20261025070000 +0200" channel="Onetoro">
     <title>Los cambios de tercio. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Carmelo López sobre los cambios de tercio y los distintos tipos que hay.</desc>
   </programme>
-  <programme start="20261025070000 +0100" stop="20261025084400 +0100" channel="Onetoro">
+  <programme start="20261025070000 +0200" stop="20261025084400 +0200" channel="Onetoro">
     <title>El Relicario</title>
     <desc>Toros | ⑯
 · Mientras ve por televisión una corrida de toros en la que participa su hijo Luis, el matador Rafael Lucena muere de un infarto al descubrir en la plaza a Virginia, una mujer muy parecida a Soledad, el gran amor de su padre, que murió por su culpa tras una cogida en la Plaza de Las Ventas. Tanto Luis como su hermano Alejandro conocen a la cantante Virginia y se enamoran de ella. Pero cuando Luis sufre una grave cogida, empieza a sospechar que quizá Virginia atraiga la mala suerte.</desc>
   </programme>
-  <programme start="20261025084400 +0100" stop="20261025085800 +0100" channel="Onetoro">
+  <programme start="20261025084400 +0200" stop="20261025085800 +0200" channel="Onetoro">
     <title>EP5. Guerrita</title>
     <desc>⑯</desc>
   </programme>
-  <programme start="20261025085800 +0100" stop="20261025100500 +0100" channel="Onetoro">
+  <programme start="20261025085800 +0200" stop="20261025100500 +0200" channel="Onetoro">
     <title>A la cara. Julián Guerra</title>
     <desc>⑯</desc>
   </programme>
-  <programme start="20261025100500 +0100" stop="20261025100800 +0100" channel="Onetoro">
+  <programme start="20261025100500 +0200" stop="20261025100800 +0200" channel="Onetoro">
     <title>El toro manso. Aprende a ver toros</title>
     <desc>⑯
 · Sánchez Vara nos explica las distintas características que tiene un toro manso.</desc>
   </programme>
-  <programme start="20261025100800 +0100" stop="20261025101000 +0100" channel="Onetoro">
+  <programme start="20261025100800 +0200" stop="20261025101000 +0200" channel="Onetoro">
     <title>Cargar la suerte. Aprende a ver toros</title>
     <desc>⑯
 · Javier Cortés nos enseña cómo cargar la suerte.</desc>
   </programme>
-  <programme start="20261025101000 +0100" stop="20261025101400 +0100" channel="Onetoro">
+  <programme start="20261025101000 +0200" stop="20261025101400 +0200" channel="Onetoro">
     <title>Cambios ante un percance. Aprende a ver toros</title>
     <desc>⑯
 · Miguel Ángel Moncholi nos habla del protocolo a seguir cuando hay un percance.</desc>
   </programme>
-  <programme start="20261025101400 +0100" stop="20261025101900 +0100" channel="Onetoro">
+  <programme start="20261025101400 +0200" stop="20261025101900 +0200" channel="Onetoro">
     <title>Cómo colocar el toro al caballo. Aprende a ver toros</title>
     <desc>⑯
 · Jiménez Fortes nos enseña cómo colocar el toro al caballo para la suerte de varas.</desc>
   </programme>
-  <programme start="20261025101900 +0100" stop="20261025103000 +0100" channel="Onetoro">
+  <programme start="20261025101900 +0200" stop="20261025103000 +0200" channel="Onetoro">
     <title>La verónica. Aprende a ver toros</title>
     <desc>⑯
 · David Galván nos explica cómo ejecutar la verónica.</desc>
   </programme>
-  <programme start="20261025103000 +0100" stop="20261025103400 +0100" channel="Onetoro">
+  <programme start="20261025103000 +0200" stop="20261025103400 +0200" channel="Onetoro">
     <title>Los terrenos del toro. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Victorino Martín sobre los terrenos del toro y sus características.</desc>
   </programme>
-  <programme start="20261025103400 +0100" stop="20261025103800 +0100" channel="Onetoro">
+  <programme start="20261025103400 +0200" stop="20261025103800 +0200" channel="Onetoro">
     <title>Torear al pitón contrario. Aprende a ver toros</title>
     <desc>⑯
 · Miguel Abellán nos enseña cómo torear al pitón contrario.</desc>
   </programme>
-  <programme start="20261025103800 +0100" stop="20261025104100 +0100" channel="Onetoro">
+  <programme start="20261025103800 +0200" stop="20261025104100 +0200" channel="Onetoro">
     <title>Torear en redondo y en línea recta. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Fernando Robleño a torear en redondo y en línea recta.</desc>
   </programme>
-  <programme start="20261025104100 +0100" stop="20261025104700 +0100" channel="Onetoro">
+  <programme start="20261025104100 +0200" stop="20261025104700 +0200" channel="Onetoro">
     <title>La colocación de los toreros en la plaza. Aprende a ver toros</title>
     <desc>⑯
 · Federico Arnás nos habla de la colocación de los toreros y sus cuadrillas a lo largo de una corrida de toros.</desc>
   </programme>
-  <programme start="20261025104700 +0100" stop="20261025105100 +0100" channel="Onetoro">
-    <title>Diferencia entre farol y larga cambiada. Aprende a ver toros</title>
-    <desc>⑯
-· Sergio Rodríguez explica la diferencia que hay entre farol y larga cambiada.</desc>
-  </programme>
-  <programme start="20261025105100 +0100" stop="20261025120000 +0100" channel="Onetoro">
+  <programme start="20261025104700 +0200" stop="20261025115700 +0200" channel="Onetoro">
     <title>Manuel Escribano. Generación T</title>
     <desc>⑯
 · Cuarta entrega de Generación T. En el programa presentado por Berenice Lobatón. Hoy nos visita uno de los toreros sevillanos en tendencia, Manuel Escribano.</desc>
   </programme>
-  <programme start="20261025120000 +0100" stop="20261025123400 +0100" channel="Onetoro">
+  <programme start="20261025115700 +0200" stop="20261025123100 +0200" channel="Onetoro">
     <title>Capítulo 4. Vivir como Torero</title>
     <desc>⑯
 · Un grupo de jóvenes de todo el mundo llega al C.A.R.T para aprender a vivir como toreros, al final del concurso sólo unos pocos conseguirán su objetivo, ser toreros.</desc>
   </programme>
-  <programme start="20261025123400 +0100" stop="20261025131700 +0100" channel="Onetoro">
+  <programme start="20261025123100 +0200" stop="20261025131300 +0200" channel="Onetoro">
     <title>¡VA POR USTEDES! -08</title>
     <desc>Toros | ⑯
 · ¡Prepárate para una nueva aventura taurina en nuestro próximo episodio! Nos adentraremos en la histórica plaza de toros de Guillena, donde conoceremos de cerca el alma de la tauromaquia de la mano del experto Alguacil Luis Carlos Campos. En El Puerto de Santa María, nos espera Diego Simón "El Bimbo.</desc>
   </programme>
-  <programme start="20261025131700 +0100" stop="20261025132000 +0100" channel="Onetoro">
-    <title>El trabajo del mozo de espadas. Aprende a ver toros</title>
+  <programme start="20261025131300 +0200" stop="20261025131500 +0200" channel="Onetoro">
+    <title>Los miembros de la cuadrilla. Aprende a ver toros</title>
     <desc>⑯
-· Aprendemos con Raúl de la Fe todo el trabajo que realizan los mozos de espadas cuando hay un festejo.</desc>
+· Simón Rodríguez nos comenta los componentes que hay en una cuadrilla.</desc>
   </programme>
-  <programme start="20261025132100 +0100" stop="20261025132300 +0100" channel="Onetoro">
-    <title>Diferencia entre gaoneras y talaveras. Aprende a ver toros</title>
-    <desc>⑯
-· Mario Navas nos enseña la diferencia que hay entre gaoneras y talaveras.</desc>
-  </programme>
-  <programme start="20261025132300 +0100" stop="20261025132800 +0100" channel="Onetoro">
-    <title>Diferencia entre verónicas y delantales. Aprende a ver toros</title>
-    <desc>⑯
-· Álvaro Burdiel explica la diferencia que hay entre verónicas y delantales y cómo se ejecutan.</desc>
-  </programme>
-  <programme start="20261025132800 +0100" stop="20261025133200 +0100" channel="Onetoro">
-    <title>Los quites. Aprende a ver toros</title>
-    <desc>⑯
-· Aprendemos con Domingo Delgado de la Cámara qué son los quites y su origen.</desc>
-  </programme>
-  <programme start="20261025133200 +0100" stop="20261025133400 +0100" channel="Onetoro">
+  <programme start="20261025131500 +0200" stop="20261025131900 +0200" channel="Onetoro">
     <title>El tercio de banderillas. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Juan Carlos Rey y Raúl Ruíz “Cachorro” a ejecutar el tercio de banderillas.</desc>
   </programme>
-  <programme start="20261025133500 +0100" stop="20261025133700 +0100" channel="Onetoro">
-    <title>Los cambios de tercio. Aprende a ver toros</title>
-    <desc>⑯
-· Aprendemos con Carmelo López sobre los cambios de tercio y los distintos tipos que hay.</desc>
-  </programme>
-  <programme start="20261025133700 +0100" stop="20261025134200 +0100" channel="Onetoro">
-    <title>Suerte natural y contraria. Aprende a ver toros</title>
-    <desc>⑯
-· Francisco de Manuel explica la diferencia que hay entre la suerte natural y contraria y cómo se ejecutan.</desc>
-  </programme>
-  <programme start="20261025134200 +0100" stop="20261025134900 +0100" channel="Onetoro">
-    <title>La suerte suprema. Aprende a ver toros</title>
-    <desc>⑯
-· Uceda Leal nos explica cómo llevar a cabo la suerte suprema.</desc>
-  </programme>
-  <programme start="20261025134900 +0100" stop="20261025143400 +0100" channel="Onetoro">
-    <title>El pilar. Mayorales</title>
-    <desc>⑯</desc>
-  </programme>
-  <programme start="20261025143400 +0100" stop="20261025161800 +0100" channel="Onetoro">
+  <programme start="20261025131900 +0200" stop="20261025144700 +0200" channel="Onetoro">
     <title>El Relicario</title>
     <desc>Toros | ⑯
 · Mientras ve por televisión una corrida de toros en la que participa su hijo Luis, el matador Rafael Lucena muere de un infarto al descubrir en la plaza a Virginia, una mujer muy parecida a Soledad, el gran amor de su padre, que murió por su culpa tras una cogida en la Plaza de Las Ventas. Tanto Luis como su hermano Alejandro conocen a la cantante Virginia y se enamoran de ella. Pero cuando Luis sufre una grave cogida, empieza a sospechar que quizá Virginia atraiga la mala suerte.</desc>
   </programme>
-  <programme start="20261025161800 +0100" stop="20261025163200 +0100" channel="Onetoro">
-    <title>EP5. Guerrita</title>
-    <desc>⑯</desc>
-  </programme>
-  <programme start="20261025163200 +0100" stop="20261025173900 +0100" channel="Onetoro">
+  <programme start="20261025144700 +0200" stop="20261025155400 +0200" channel="Onetoro">
     <title>A la cara. Julián Guerra</title>
     <desc>⑯</desc>
   </programme>
-  <programme start="20261025173900 +0100" stop="20261025174200 +0100" channel="Onetoro">
-    <title>El toro manso. Aprende a ver toros</title>
-    <desc>⑯
-· Sánchez Vara nos explica las distintas características que tiene un toro manso.</desc>
-  </programme>
-  <programme start="20261025174200 +0100" stop="20261025174400 +0100" channel="Onetoro">
-    <title>Cargar la suerte. Aprende a ver toros</title>
-    <desc>⑯
-· Javier Cortés nos enseña cómo cargar la suerte.</desc>
-  </programme>
-  <programme start="20261025174400 +0100" stop="20261025174800 +0100" channel="Onetoro">
-    <title>Cambios ante un percance. Aprende a ver toros</title>
-    <desc>⑯
-· Miguel Ángel Moncholi nos habla del protocolo a seguir cuando hay un percance.</desc>
-  </programme>
-  <programme start="20261025174800 +0100" stop="20261025175300 +0100" channel="Onetoro">
-    <title>Cómo colocar el toro al caballo. Aprende a ver toros</title>
-    <desc>⑯
-· Jiménez Fortes nos enseña cómo colocar el toro al caballo para la suerte de varas.</desc>
-  </programme>
-  <programme start="20261025175300 +0100" stop="20261025175700 +0100" channel="Onetoro">
-    <title>Los terrenos del toro. Aprende a ver toros</title>
-    <desc>⑯
-· Aprendemos con Victorino Martín sobre los terrenos del toro y sus características.</desc>
-  </programme>
-  <programme start="20261025175700 +0100" stop="20261025180000 +0100" channel="Onetoro">
-    <title>Torear en redondo y en línea recta. Aprende a ver toros</title>
-    <desc>⑯
-· Aprendemos con Fernando Robleño a torear en redondo y en línea recta.</desc>
-  </programme>
-  <programme start="20261025180000 +0100" stop="20261025180800 +0100" channel="Onetoro">
-    <title>Victorino: lote de vacas Monteviejo. Inside</title>
-    <desc>⑯
-· Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
-  </programme>
-  <programme start="20261025180800 +0100" stop="20261025185100 +0100" channel="Onetoro">
-    <title>Capítulo 4. Vivir como Torero</title>
-    <desc>⑯
-· Un grupo de jóvenes de todo el mundo llega al C.A.R.T para aprender a vivir como toreros, al final del concurso sólo unos pocos conseguirán su objetivo, ser toreros.</desc>
-  </programme>
-  <programme start="20261025185100 +0100" stop="20261025200000 +0100" channel="Onetoro">
-    <title>A la cara. Julián Guerra</title>
+  <programme start="20261025155400 +0200" stop="20261025162700 +0200" channel="Onetoro">
+    <title>Redifusión previa Feria de Acho ( 24/10/2026)</title>
     <desc>⑯</desc>
   </programme>
-  <programme start="20261025200000 +0100" stop="20261025203000 +0100" channel="Onetoro">
+  <programme start="20261025162700 +0200" stop="20261025190500 +0200" channel="Onetoro">
+    <title>Redifusión Feria de Acho ( 24/10/2026)</title>
+    <desc>⑯</desc>
+  </programme>
+  <programme start="20261025190500 +0200" stop="20261025195300 +0200" channel="Onetoro">
+    <title>Maestros. El Capea</title>
+    <desc>⑯</desc>
+  </programme>
+  <programme start="20261025195300 +0200" stop="20261025200000 +0200" channel="Onetoro">
+    <title>Sonidos de la tarde. Roca Rey</title>
+    <desc>⑯
+· Roca Rey cuajó una tarde inolvidable en Valencia con el toro Frenoso, de Victoriano del Río, que ya es historia de las Fallas y de la Tauromaquia. Así lo vivimos desde dentro en OneToro.</desc>
+  </programme>
+  <programme start="20261025200000 +0200" stop="20261025203000 +0200" channel="Onetoro">
     <title>Previa Feria de Acho ( 25/10/2026)</title>
     <desc>... sin detalles</desc>
   </programme>
-  <programme start="20261025203000 +0100" stop="20261025234400 +0100" channel="Onetoro">
+  <programme start="20261025203000 +0200" stop="20261025234300 +0200" channel="Onetoro">
     <title>Directo Feria de Acho ( 25/10/2026)</title>
     <desc>... sin detalles</desc>
   </programme>
-  <programme start="20261025234400 +0100" stop="20261026002700 +0100" channel="Onetoro">
+  <programme start="20261025234300 +0200" stop="20261026002600 +0200" channel="Onetoro">
     <title>¡VA POR USTEDES! -08</title>
     <desc>Toros | ⑯
 · ¡Prepárate para una nueva aventura taurina en nuestro próximo episodio! Nos adentraremos en la histórica plaza de toros de Guillena, donde conoceremos de cerca el alma de la tauromaquia de la mano del experto Alguacil Luis Carlos Campos. En El Puerto de Santa María, nos espera Diego Simón "El Bimbo.</desc>
   </programme>
-  <programme start="20261026002700 +0100" stop="20261026005700 +0100" channel="Onetoro">
+  <programme start="20261026002600 +0200" stop="20261026005600 +0200" channel="Onetoro">
     <title>Redifusión previa Feria de Acho ( 25/10/2026)</title>
     <desc>... sin detalles</desc>
   </programme>
-  <programme start="20261026005700 +0100" stop="20261026070000 +0100" channel="Onetoro">
+  <programme start="20261026005600 +0200" stop="20261026070000 +0200" channel="Onetoro">
     <title>Redifusión Feria de Acho ( 25/10/2026)</title>
     <desc>... sin detalles</desc>
   </programme>
-  <programme start="20261026070000 +0100" stop="20261026082700 +0100" channel="Onetoro">
+  <programme start="20261026070000 +0200" stop="20261026082700 +0200" channel="Onetoro">
     <title>La Becerrada.</title>
     <desc>Toros | ⑯
 · Para conseguir dinero y resolver las necesidades de un pueblecito de la sierra, el alcalde decide organizar una becerrada benéfica en la Plaza de Toros. Juncalito inicia un viaje con tres monjas para encontrar lo que necesitan.</desc>
   </programme>
-  <programme start="20261026082700 +0100" stop="20261026113200 +0100" channel="Onetoro">
+  <programme start="20261026082700 +0200" stop="20261026113200 +0200" channel="Onetoro">
     <title>Mont de Marsan. 22 de julio 2017</title>
     <desc>Toros | ⑯
 · Sábado 22 de julio- Toros de Torrealta para Sebastián Castella, José Garrido y Andrés Roca Rey.</desc>
   </programme>
-  <programme start="20261026113200 +0100" stop="20261026121900 +0100" channel="Onetoro">
+  <programme start="20261026113200 +0200" stop="20261026121900 +0200" channel="Onetoro">
     <title>Tentaderos. Gabriel Rojas</title>
     <desc>⑯
 · La serie 'Tentaderos' visita la ganadería de Gabriel Rojas. En la finca Dehesa El Castillo tuvo lugar una brillante jornada de campo con Ginés Marín, Aarón Palacios y Javier Zulueta.</desc>
   </programme>
-  <programme start="20261026121900 +0100" stop="20261026122200 +0100" channel="Onetoro">
+  <programme start="20261026121900 +0200" stop="20261026122200 +0200" channel="Onetoro">
     <title>El trabajo del mozo de espadas. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Raúl de la Fe todo el trabajo que realizan los mozos de espadas cuando hay un festejo.</desc>
   </programme>
-  <programme start="20261026122300 +0100" stop="20261026122500 +0100" channel="Onetoro">
+  <programme start="20261026122300 +0200" stop="20261026122500 +0200" channel="Onetoro">
     <title>Diferencia entre gaoneras y talaveras. Aprende a ver toros</title>
     <desc>⑯
 · Mario Navas nos enseña la diferencia que hay entre gaoneras y talaveras.</desc>
   </programme>
-  <programme start="20261026122500 +0100" stop="20261026123000 +0100" channel="Onetoro">
+  <programme start="20261026122500 +0200" stop="20261026123000 +0200" channel="Onetoro">
     <title>Diferencia entre verónicas y delantales. Aprende a ver toros</title>
     <desc>⑯
 · Álvaro Burdiel explica la diferencia que hay entre verónicas y delantales y cómo se ejecutan.</desc>
   </programme>
-  <programme start="20261026123000 +0100" stop="20261026123400 +0100" channel="Onetoro">
+  <programme start="20261026123000 +0200" stop="20261026123400 +0200" channel="Onetoro">
     <title>Los quites. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Domingo Delgado de la Cámara qué son los quites y su origen.</desc>
   </programme>
-  <programme start="20261026123400 +0100" stop="20261026123600 +0100" channel="Onetoro">
+  <programme start="20261026123400 +0200" stop="20261026123600 +0200" channel="Onetoro">
     <title>El tercio de banderillas. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Juan Carlos Rey y Raúl Ruíz “Cachorro” a ejecutar el tercio de banderillas.</desc>
   </programme>
-  <programme start="20261026123700 +0100" stop="20261026123900 +0100" channel="Onetoro">
+  <programme start="20261026123700 +0200" stop="20261026123900 +0200" channel="Onetoro">
     <title>Los cambios de tercio. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Carmelo López sobre los cambios de tercio y los distintos tipos que hay.</desc>
   </programme>
-  <programme start="20261026123900 +0100" stop="20261026124400 +0100" channel="Onetoro">
+  <programme start="20261026123900 +0200" stop="20261026124400 +0200" channel="Onetoro">
     <title>Suerte natural y contraria. Aprende a ver toros</title>
     <desc>⑯
 · Francisco de Manuel explica la diferencia que hay entre la suerte natural y contraria y cómo se ejecutan.</desc>
   </programme>
-  <programme start="20261026124400 +0100" stop="20261026125100 +0100" channel="Onetoro">
+  <programme start="20261026124400 +0200" stop="20261026125100 +0200" channel="Onetoro">
     <title>La suerte suprema. Aprende a ver toros</title>
     <desc>⑯
 · Uceda Leal nos explica cómo llevar a cabo la suerte suprema.</desc>
   </programme>
-  <programme start="20261026125100 +0100" stop="20261026134200 +0100" channel="Onetoro">
+  <programme start="20261026125100 +0200" stop="20261026134200 +0200" channel="Onetoro">
     <title>En Corto y Por Derecho. Juan Antonio Ruiz "Espartaco"</title>
     <desc>Toros | ⑯
 · En esta nueva entrega de En Corto y Por Derecho conocemos de la mano de Eduardo Dávila Miura al maestro Juan Antonio Ruiz "Espartaco" que nos recibe en su preciosa finca Dehesa Majavieja.</desc>
   </programme>
-  <programme start="20261026134200 +0100" stop="20261026134800 +0100" channel="Onetoro">
+  <programme start="20261026134200 +0200" stop="20261026134800 +0200" channel="Onetoro">
     <title>Victorino: lote de vacas Monteviejo. Inside</title>
     <desc>⑯
 · Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
   </programme>
-  <programme start="20261026134800 +0100" stop="20261026142500 +0100" channel="Onetoro">
+  <programme start="20261026134800 +0200" stop="20261026142500 +0200" channel="Onetoro">
     <title>La Tarde Después. Valdemorillo (08/02/2026)</title>
     <desc>⑯
 · Vanesa Santos y el equipo de 'La Tarde Después' estrena temporada en Valdemorillo ofreciendo a los abonados el mejor resumen de los festejos de la cita madrileña.</desc>
   </programme>
-  <programme start="20261026142500 +0100" stop="20261026150000 +0100" channel="Onetoro">
+  <programme start="20261026142500 +0200" stop="20261026150000 +0200" channel="Onetoro">
     <title>El pilar. Mayorales</title>
     <desc>⑯</desc>
   </programme>
-  <programme start="20261026150000 +0100" stop="20261026162700 +0100" channel="Onetoro">
+  <programme start="20261026150000 +0200" stop="20261026162700 +0200" channel="Onetoro">
     <title>La Becerrada.</title>
     <desc>Toros | ⑯
 · Para conseguir dinero y resolver las necesidades de un pueblecito de la sierra, el alcalde decide organizar una becerrada benéfica en la Plaza de Toros. Juncalito inicia un viaje con tres monjas para encontrar lo que necesitan.</desc>
   </programme>
-  <programme start="20261026162700 +0100" stop="20261026193200 +0100" channel="Onetoro">
+  <programme start="20261026162700 +0200" stop="20261026193200 +0200" channel="Onetoro">
     <title>Mont de Marsan. 22 de julio 2017</title>
     <desc>Toros | ⑯
 · Sábado 22 de julio- Toros de Torrealta para Sebastián Castella, José Garrido y Andrés Roca Rey.</desc>
   </programme>
-  <programme start="20261026193200 +0100" stop="20261026201900 +0100" channel="Onetoro">
+  <programme start="20261026193200 +0200" stop="20261026201900 +0200" channel="Onetoro">
     <title>Tentaderos. Gabriel Rojas</title>
     <desc>⑯
 · La serie 'Tentaderos' visita la ganadería de Gabriel Rojas. En la finca Dehesa El Castillo tuvo lugar una brillante jornada de campo con Ginés Marín, Aarón Palacios y Javier Zulueta.</desc>
   </programme>
-  <programme start="20261026201900 +0100" stop="20261026202200 +0100" channel="Onetoro">
+  <programme start="20261026201900 +0200" stop="20261026202200 +0200" channel="Onetoro">
     <title>El trabajo del mozo de espadas. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Raúl de la Fe todo el trabajo que realizan los mozos de espadas cuando hay un festejo.</desc>
   </programme>
-  <programme start="20261026202300 +0100" stop="20261026202500 +0100" channel="Onetoro">
+  <programme start="20261026202300 +0200" stop="20261026202500 +0200" channel="Onetoro">
     <title>Diferencia entre gaoneras y talaveras. Aprende a ver toros</title>
     <desc>⑯
 · Mario Navas nos enseña la diferencia que hay entre gaoneras y talaveras.</desc>
   </programme>
-  <programme start="20261026202500 +0100" stop="20261026203000 +0100" channel="Onetoro">
+  <programme start="20261026202500 +0200" stop="20261026203000 +0200" channel="Onetoro">
     <title>Diferencia entre verónicas y delantales. Aprende a ver toros</title>
     <desc>⑯
 · Álvaro Burdiel explica la diferencia que hay entre verónicas y delantales y cómo se ejecutan.</desc>
   </programme>
-  <programme start="20261026203000 +0100" stop="20261026203400 +0100" channel="Onetoro">
+  <programme start="20261026203000 +0200" stop="20261026203400 +0200" channel="Onetoro">
     <title>Los quites. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Domingo Delgado de la Cámara qué son los quites y su origen.</desc>
   </programme>
-  <programme start="20261026203400 +0100" stop="20261026203600 +0100" channel="Onetoro">
+  <programme start="20261026203400 +0200" stop="20261026203600 +0200" channel="Onetoro">
     <title>El tercio de banderillas. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Juan Carlos Rey y Raúl Ruíz “Cachorro” a ejecutar el tercio de banderillas.</desc>
   </programme>
-  <programme start="20261026203700 +0100" stop="20261026203900 +0100" channel="Onetoro">
+  <programme start="20261026203700 +0200" stop="20261026203900 +0200" channel="Onetoro">
     <title>Los cambios de tercio. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Carmelo López sobre los cambios de tercio y los distintos tipos que hay.</desc>
   </programme>
-  <programme start="20261026203900 +0100" stop="20261026204400 +0100" channel="Onetoro">
+  <programme start="20261026203900 +0200" stop="20261026204400 +0200" channel="Onetoro">
     <title>Suerte natural y contraria. Aprende a ver toros</title>
     <desc>⑯
 · Francisco de Manuel explica la diferencia que hay entre la suerte natural y contraria y cómo se ejecutan.</desc>
   </programme>
-  <programme start="20261026204400 +0100" stop="20261026205100 +0100" channel="Onetoro">
+  <programme start="20261026204400 +0200" stop="20261026205100 +0200" channel="Onetoro">
     <title>La suerte suprema. Aprende a ver toros</title>
     <desc>⑯
 · Uceda Leal nos explica cómo llevar a cabo la suerte suprema.</desc>
   </programme>
-  <programme start="20261026205100 +0100" stop="20261026214200 +0100" channel="Onetoro">
+  <programme start="20261026205100 +0200" stop="20261026214200 +0200" channel="Onetoro">
     <title>En Corto y Por Derecho. Juan Antonio Ruiz "Espartaco"</title>
     <desc>Toros | ⑯
 · En esta nueva entrega de En Corto y Por Derecho conocemos de la mano de Eduardo Dávila Miura al maestro Juan Antonio Ruiz "Espartaco" que nos recibe en su preciosa finca Dehesa Majavieja.</desc>
   </programme>
-  <programme start="20261026214200 +0100" stop="20261026214800 +0100" channel="Onetoro">
+  <programme start="20261026214200 +0200" stop="20261026214800 +0200" channel="Onetoro">
     <title>Victorino: lote de vacas Monteviejo. Inside</title>
     <desc>⑯
 · Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
   </programme>
-  <programme start="20261026214800 +0100" stop="20261026222500 +0100" channel="Onetoro">
+  <programme start="20261026214800 +0200" stop="20261026222500 +0200" channel="Onetoro">
     <title>La Tarde Después. Valdemorillo (08/02/2026)</title>
     <desc>⑯
 · Vanesa Santos y el equipo de 'La Tarde Después' estrena temporada en Valdemorillo ofreciendo a los abonados el mejor resumen de los festejos de la cita madrileña.</desc>
   </programme>
-  <programme start="20261026222500 +0100" stop="20261026230000 +0100" channel="Onetoro">
+  <programme start="20261026222500 +0200" stop="20261026230000 +0200" channel="Onetoro">
     <title>El pilar. Mayorales</title>
     <desc>⑯</desc>
   </programme>
-  <programme start="20261026230000 +0100" stop="20261027002700 +0100" channel="Onetoro">
+  <programme start="20261026230000 +0200" stop="20261027002700 +0200" channel="Onetoro">
     <title>La Becerrada.</title>
     <desc>Toros | ⑯
 · Para conseguir dinero y resolver las necesidades de un pueblecito de la sierra, el alcalde decide organizar una becerrada benéfica en la Plaza de Toros. Juncalito inicia un viaje con tres monjas para encontrar lo que necesitan.</desc>
   </programme>
-  <programme start="20261027002700 +0100" stop="20261027033200 +0100" channel="Onetoro">
+  <programme start="20261027002700 +0200" stop="20261027033200 +0200" channel="Onetoro">
     <title>Mont de Marsan. 22 de julio 2017</title>
     <desc>Toros | ⑯
 · Sábado 22 de julio- Toros de Torrealta para Sebastián Castella, José Garrido y Andrés Roca Rey.</desc>
   </programme>
-  <programme start="20261027033200 +0100" stop="20261027041900 +0100" channel="Onetoro">
+  <programme start="20261027033200 +0200" stop="20261027041900 +0200" channel="Onetoro">
     <title>Tentaderos. Gabriel Rojas</title>
     <desc>⑯
 · La serie 'Tentaderos' visita la ganadería de Gabriel Rojas. En la finca Dehesa El Castillo tuvo lugar una brillante jornada de campo con Ginés Marín, Aarón Palacios y Javier Zulueta.</desc>
   </programme>
-  <programme start="20261027041900 +0100" stop="20261027042200 +0100" channel="Onetoro">
+  <programme start="20261027041900 +0200" stop="20261027042200 +0200" channel="Onetoro">
     <title>El trabajo del mozo de espadas. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Raúl de la Fe todo el trabajo que realizan los mozos de espadas cuando hay un festejo.</desc>
   </programme>
-  <programme start="20261027042300 +0100" stop="20261027042500 +0100" channel="Onetoro">
+  <programme start="20261027042300 +0200" stop="20261027042500 +0200" channel="Onetoro">
     <title>Diferencia entre gaoneras y talaveras. Aprende a ver toros</title>
     <desc>⑯
 · Mario Navas nos enseña la diferencia que hay entre gaoneras y talaveras.</desc>
   </programme>
-  <programme start="20261027042500 +0100" stop="20261027043000 +0100" channel="Onetoro">
+  <programme start="20261027042500 +0200" stop="20261027043000 +0200" channel="Onetoro">
     <title>Diferencia entre verónicas y delantales. Aprende a ver toros</title>
     <desc>⑯
 · Álvaro Burdiel explica la diferencia que hay entre verónicas y delantales y cómo se ejecutan.</desc>
   </programme>
-  <programme start="20261027043000 +0100" stop="20261027043400 +0100" channel="Onetoro">
+  <programme start="20261027043000 +0200" stop="20261027043400 +0200" channel="Onetoro">
     <title>Los quites. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Domingo Delgado de la Cámara qué son los quites y su origen.</desc>
   </programme>
-  <programme start="20261027043400 +0100" stop="20261027043600 +0100" channel="Onetoro">
+  <programme start="20261027043400 +0200" stop="20261027043600 +0200" channel="Onetoro">
     <title>El tercio de banderillas. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Juan Carlos Rey y Raúl Ruíz “Cachorro” a ejecutar el tercio de banderillas.</desc>
   </programme>
-  <programme start="20261027043700 +0100" stop="20261027043900 +0100" channel="Onetoro">
+  <programme start="20261027043700 +0200" stop="20261027043900 +0200" channel="Onetoro">
     <title>Los cambios de tercio. Aprende a ver toros</title>
     <desc>⑯
 · Aprendemos con Carmelo López sobre los cambios de tercio y los distintos tipos que hay.</desc>
   </programme>
-  <programme start="20261027043900 +0100" stop="20261027044400 +0100" channel="Onetoro">
+  <programme start="20261027043900 +0200" stop="20261027044400 +0200" channel="Onetoro">
     <title>Suerte natural y contraria. Aprende a ver toros</title>
     <desc>⑯
 · Francisco de Manuel explica la diferencia que hay entre la suerte natural y contraria y cómo se ejecutan.</desc>
   </programme>
-  <programme start="20261027044400 +0100" stop="20261027045100 +0100" channel="Onetoro">
+  <programme start="20261027044400 +0200" stop="20261027045100 +0200" channel="Onetoro">
     <title>La suerte suprema. Aprende a ver toros</title>
     <desc>⑯
 · Uceda Leal nos explica cómo llevar a cabo la suerte suprema.</desc>
   </programme>
-  <programme start="20261027045100 +0100" stop="20261027054200 +0100" channel="Onetoro">
+  <programme start="20261027045100 +0200" stop="20261027054200 +0200" channel="Onetoro">
     <title>En Corto y Por Derecho. Juan Antonio Ruiz "Espartaco"</title>
     <desc>Toros | ⑯
 · En esta nueva entrega de En Corto y Por Derecho conocemos de la mano de Eduardo Dávila Miura al maestro Juan Antonio Ruiz "Espartaco" que nos recibe en su preciosa finca Dehesa Majavieja.</desc>
   </programme>
-  <programme start="20261027054200 +0100" stop="20261027054800 +0100" channel="Onetoro">
+  <programme start="20261027054200 +0200" stop="20261027054800 +0200" channel="Onetoro">
     <title>Victorino: lote de vacas Monteviejo. Inside</title>
     <desc>⑯
 · Victorino Martín permite a las cámaras de Onetoro TV adentrarse en esta legendaria ganadería.</desc>
   </programme>
-  <programme start="20261027054800 +0100" stop="20261027062500 +0100" channel="Onetoro">
+  <programme start="20261027054800 +0200" stop="20261027062500 +0200" channel="Onetoro">
     <title>La Tarde Después. Valdemorillo (08/02/2026)</title>
     <desc>⑯
 · Vanesa Santos y el equipo de 'La Tarde Después' estrena temporada en Valdemorillo ofreciendo a los abonados el mejor resumen de los festejos de la cita madrileña.</desc>
