@@ -336,17 +336,13 @@
     <display-name>Paramount Network de Pluto</display-name>
     <icon src="https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png" />
   </channel>
-  <channel id="Pluto Horror">
-    <display-name>Pluto Horror</display-name>
-    <icon src="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" />
-  </channel>
-  <channel id="Pluto Gore and slasher">
-    <display-name>Pluto Gore and slasher</display-name>
-    <icon src="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png" />
-  </channel>
   <channel id="Pluto Accion">
     <display-name>Pluto Accion</display-name>
     <icon src="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG_1733440545178.png" />
+  </channel>
+  <channel id="Pluto Horror">
+    <display-name>Pluto Horror</display-name>
+    <icon src="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Western">
     <display-name>Pluto Western</display-name>
@@ -367,6 +363,10 @@
   <channel id="Pluto Psycho">
     <display-name>Pluto Psycho</display-name>
     <icon src="https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png" />
+  </channel>
+  <channel id="Pluto Gore and slasher">
+    <display-name>Pluto Gore and slasher</display-name>
+    <icon src="https://images.pluto.tv/channels/66b0dfa1d512590008bfa7fd/colorLogoPNG.png" />
   </channel>
   <channel id="Pluto Clasico">
     <display-name>Pluto Clasico</display-name>
@@ -396,78 +396,6 @@
     <display-name>Pluto Comedia Made in Spain</display-name>
     <icon src="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" />
   </channel>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103014840 +0000" stop="20261103023740 +0000">
-    <title>La hora de José Mota: Spain is different</title>
-    <desc>Acompañan a José Mota en este programa  Xavier Del Tell, Patricia Rivas, Goyo Jimenez, Valentin Paredes y Paco Collado, entre otros.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103023740 +0000" stop="20261103032740 +0000">
-    <title>La hora de José Mota: Miedos y fobias</title>
-    <desc>A través de divertidos sketches, analizarán los típicos miedos y fobias por los que pasa una persona hasta el punto de ver cosas imaginarias. Colaboran Eduardo García, Goyo Jiménez, el Mago More, Agustín Jiménez, Jaime Ordóñez, Leo Harlem y Paco Collado.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103032740 +0000" stop="20261103042040 +0000">
-    <title>La hora de José Mota: Pecados y virtudes</title>
-    <desc>Pecados y virtudes en clave de humor, con Beatriz Luengo como actriz invitada.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103042040 +0000" stop="20261103050940 +0000">
-    <title>La hora de José Mota: Crisis, ¿qué crisis?</title>
-    <desc>Sketches sobre los aprietos y dificultades que pueden traer de cabeza a los ciudadanos. Cristina Higueras, José Corbacho, José Conde, Fernando Ramallo, Santiago Segura y El Mago More compartirán con Mota algunos de los momentos más divertidos.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103050940 +0000" stop="20261103055940 +0000">
-    <title>La hora de José Mota: Cine séptimo arte</title>
-    <desc>José Mota compartirá nuevos y divertidos sketches con invitados como la cantante Natalia, el actor Eloy Yebra y el también cantante Iván Sevillano Huecco, en los que se recrearán secuencias de conocidas películas españolas y extranjeras.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103055940 +0000" stop="20261103064940 +0000">
-    <title>La hora de José Mota: Como la vida misma</title>
-    <desc>José Mota nuevos y divertidos sketches con el presentador y director Juan Ramón Lucas, la modelo y ex miss España María José Besora y Juan García, Míster Mundo.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103064940 +0000" stop="20261103074040 +0000">
-    <title>La hora de José Mota: Así en la tele como en la vida</title>
-    <desc>Con Michel Salgado y Fernando Ramos entre los invitados.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103074040 +0000" stop="20261103083440 +0000">
-    <title>La hora de José Mota: A Dios gracias</title>
-    <desc>"La hora de José Mota" despide su primera temporada con tres invitados de excepción: Soraya, representante de TVE en Eurovisión; el presentador Luis Larrodera y el cantante Juanito Valderrama.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103083440 +0000" stop="20261103092140 +0000">
-    <title>La hora de José Mota: Por la boca muere</title>
-    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103092140 +0000" stop="20261103100640 +0000">
-    <title>La hora de José Mota: Cría cuervos y te sacarán los ojos</title>
-    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103100640 +0000" stop="20261103105340 +0000">
-    <title>La hora de José Mota: Donde hay confianza da asco</title>
-    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103105340 +0000" stop="20261103113940 +0000">
-    <title>La hora de José Mota: Por el humo se sabe dónde está el fuego</title>
-    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103113940 +0000" stop="20261103122540 +0000">
-    <title>La hora de José Mota: El que no se consuela es porque no quiere</title>
-    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103122540 +0000" stop="20261103131240 +0000">
-    <title>La hora de José Mota: El que tiene boca se equivoca</title>
-    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103131240 +0000" stop="20261103140040 +0000">
-    <title>La hora de José Mota: Quien bien te quiere te hará llorar</title>
-    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103140040 +0000" stop="20261103144640 +0000">
-    <title>La hora de José Mota: No es oro todo lo que reluce</title>
-    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103144640 +0000" stop="20261103153340 +0000">
-    <title>La hora de José Mota: La vida te da sorpresas</title>
-    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-  </programme>
-  <programme channel="Pluto Comedia Made in Spain" start="20261103153340 +0000" stop="20261103162040 +0000">
-    <title>La hora de José Mota: Aunque la mona se vista de seda</title>
-    <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
-  </programme>
   <programme channel="Pluto Comedia Made in Spain" start="20261103162040 +0000" stop="20261103170740 +0000">
     <title>La hora de José Mota: Verdades como puños</title>
     <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
@@ -480,33 +408,77 @@
     <title>La hora de José Mota: Bien está lo que bien acaba</title>
     <desc>En la serie se alternan personajes antiguos como El tío de la Vara, con personajes nuevos como El Cansino histórico.</desc>
   </programme>
-  <programme channel="Pluto Cine Estelar" start="20261103010958 +0000" stop="20261103030258 +0000">
-    <title>Mi pie izquierdo</title>
-    <desc>Ganadora de Oscars (1989): Mejor Actor y Actriz secundaria. Basada en la biografía de Christy Brown. Aquejado de parálisis cerebral, gracias a su tenacidad y al incondicional apoyo de su madre, consiguió su integración en la sociedad.</desc>
+  <programme channel="Pluto Comedia Made in Spain" start="20261103184040 +0000" stop="20261103194940 +0000">
+    <title>La hora de José Mota: Lo mejor de La hora de José Mota</title>
+    <desc>Programa resumen que recoge los mejores momentos de la segunda etapa de la serie 'La hora de José Mota', además de cuatro sketches inéditos.</desc>
   </programme>
-  <programme channel="Pluto Cine Estelar" start="20261103030258 +0000" stop="20261103044255 +0000">
-    <title>Arturo y Merlín: Caballeros de Camelot</title>
-    <desc>El rey Arturo regresa tras la guerra y descubre que su hijo ilegítimo ha usurpado el trono de Camelot, por lo que deberá reunirse con Merlín y los Caballeros de la Mesa Redonda para recuperarlo.</desc>
+  <programme channel="Pluto Comedia Made in Spain" start="20261103194940 +0000" stop="20261103203640 +0000">
+    <title>La hora de José Mota: El que avisa no es traidor</title>
+    <desc>Programa de humor donde se desarrollan diversos sketches con temas de actualidad o situaciones cotidianas.</desc>
   </programme>
-  <programme channel="Pluto Cine Estelar" start="20261103044255 +0000" stop="20261103061843 +0000">
-    <title>La Mirada</title>
-    <desc>Dramaturga duda entre manipulación y perder la realidad.</desc>
+  <programme channel="Pluto Comedia Made in Spain" start="20261103203640 +0000" stop="20261103212240 +0000">
+    <title>La hora de José Mota: Cada loco con su tema</title>
+    <desc>Conocemos a una mujer que seguro se convierte en la estrella de la temporada: La Vieja'l Visillo. Ella consigue hacer correr como la pólvora todos los cotilleos que ha logrado averiguar.</desc>
   </programme>
-  <programme channel="Pluto Cine Estelar" start="20261103061843 +0000" stop="20261103082243 +0000">
-    <title>Viaje a Italia</title>
-    <desc>Steve Coogan y Rob Brydon reciben el encargo de un nuevo viaje gastronómico, esta vez por Italia. Estos dos improbables amigos conducen por todo el país mientras vuelven a discutir sobre la vida, el amor y el cine.</desc>
+  <programme channel="Pluto Comedia Made in Spain" start="20261103212240 +0000" stop="20261103220840 +0000">
+    <title>La hora de José Mota: La ocasión la pintan calva</title>
+    <desc>Esta semana el programa analiza grandes éxitos musicales e intenta que el público aprenda inglés, de la mano de unos invitados muy especiales.</desc>
   </programme>
-  <programme channel="Pluto Cine Estelar" start="20261103082243 +0000" stop="20261103103727 +0000">
-    <title>The Ghost Writer</title>
-    <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
+  <programme channel="Pluto Comedia Made in Spain" start="20261103220840 +0000" stop="20261103225440 +0000">
+    <title>La hora de José Mota: La ocasión hace al ladrón</title>
+    <desc>En la serie se alternan personajes antiguos como El tio de la Vara, con personajes nuevos como El Cansino historico, con la participación de , Carlos Baute, Angy Fernández y Pitingo.</desc>
   </programme>
-  <programme channel="Pluto Cine Estelar" start="20261103103727 +0000" stop="20261103125327 +0000">
-    <title>Pride</title>
-    <desc>Verano de 1984. Thatcher gobierna y el Sindicato Nacional de Mineros (NUM) ha convocado una huelga. Durante la manifestación del Orgullo Gay en Londres, un grupo de lesbianas y gays se dedica a recaudar fondos para ayudar a las familias de los mineros.</desc>
+  <programme channel="Pluto Comedia Made in Spain" start="20261103225440 +0000" stop="20261103234140 +0000">
+    <title>La hora de José Mota: Donde hay patrón no manda marinero</title>
+    <desc>Este programa viene cargado de nuevos sketches. Además de la Vieja'l Visillo, Blashakira, La leyenda de la Vara, Momentos Muertos de la Historia…</desc>
   </programme>
-  <programme channel="Pluto Cine Estelar" start="20261103125327 +0000" stop="20261103152227 +0000">
-    <title>Melancolía</title>
-    <desc>Con motivo de su matrimonio, Justine y Michael dan una suntuosa recepción en la casa de la hermana de Justine y de su cuñado. Mientras tanto, el planeta Melancholia se dirige hacia la Tierra.</desc>
+  <programme channel="Pluto Comedia Made in Spain" start="20261103234140 +0000" stop="20261104002740 +0000">
+    <title>La hora de José Mota: Cree el ladrón</title>
+    <desc>La leyenda de la Vara sigue su desarrollo con la presentación en sociedad de El tendero, el villano de la historia, interpretado por Santiago Urrialde. Además, La Vieja'l Visillo en Escasez de cotilleo tendrá que sacar rumores de donde no hay.</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104002740 +0000" stop="20261104011440 +0000">
+    <title>La hora de José Mota: Moscas a cañonazos</title>
+    <desc>En la nueva entrega de 'La leyenda de la Vara', la Argamasa y los hermanos Correa se enfrentan a los macarras del parque y les falla el poder de la "superioridad numérica". 'La Vieja'l Visillo' volverá con nuevos alardes de "comunicación total".</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104011440 +0000" stop="20261104020040 +0000">
+    <title>La hora de José Mota: Las gallinas que entran por las que salen</title>
+    <desc>La conocida frase de Mota marca el inicio del programa con una nueva entrega de Tu cara me suena, que contará con el futuro presidente de gobierno, Mariano Rajoy (versión Mota).</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104020040 +0000" stop="20261104024740 +0000">
+    <title>La hora de José Mota: Las apariencias engañan</title>
+    <desc>Programa de humor donde se desarrollan diversos sketches con temas de actualidad o situaciones cotidianas con la participación de Dúo Dinámico, Julia Kroumova, Marcos Hirsch y Emma Thompson entre otros.</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104024740 +0000" stop="20261104033340 +0000">
+    <title>La hora de José Mota: Dime de qué presumes</title>
+    <desc>Esta semana La hora de José Mota cuenta con dos invitados especiales:  el tenista Fernando Verdasco, que sufrirá con la visita del 'Fariseo, Facundo Collado' y el cantante Huecco estará presente en una nueva edición de 'Tu cara me suena'.</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104033340 +0000" stop="20261104041940 +0000">
+    <title>La hora de José Mota: El que mucho abarca poco aprieta</title>
+    <desc>Programa de humor donde se desarrollan diversos sketches con temas de actualidad o situaciones cotidianas con la participación Eva Armenteros, Manuel Tafalle, Irene Villa, Sandra Ibarra y Manuel Baqueiro entre otros.</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104041940 +0000" stop="20261104050640 +0000">
+    <title>La hora de José Mota: A borrico muerto, la cebada al rabo</title>
+    <desc>La hora de José Mota recibe esta semana la visita de los periodistas deportivos: Pepe Domingo Castaño, Irene Junquera, Petón y Paco García Caridad que mantienen una peculiar entrevista con uno de los nuevos personajes de Mota, Gregorio Cañas.</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104050640 +0000" stop="20261104055340 +0000">
+    <title>La hora de José Mota: Con la música a otra parte</title>
+    <desc>En esta entrega el actor Sergio Peris-Mencheta es víctima de los ataques del guarda jurado. El programa ofrece además momentos únicos de la literatura, el cine, la televisión o la política</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104055340 +0000" stop="20261104063240 +0000">
+    <title>José Mota Presenta: Jose Mota Presenta ES</title>
+    <desc>Programa de humor basado en los seis pilares que siempre han definido el humor de José Mota: Sketches, Apartes, Musicales, Parodias televisivas y cinematográficas, Imitaciones y Personajes.</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104063240 +0000" stop="20261104073040 +0000">
+    <title>José Mota Presenta: Jose Mota Presenta ES</title>
+    <desc>José Mota, el genio de las mil caras, vuelve y lo hace para quedarse. Es un programa de humor basado en los seis pilares que siempre han definido el humor de Jose Mota.</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104073040 +0000" stop="20261104082940 +0000">
+    <title>José Mota Presenta: Jose Mota Presenta ES</title>
+    <desc>El tema musical 'Walking on Sunshine', de Katrina &amp; The Waves, será el inicio musical. El cine también estará presente. En la sección 'Versión Española', se presentarán las dos diferentes versiones de 'Karate Kid', con la intervención de Fernando Esteso.</desc>
+  </programme>
+  <programme channel="Pluto Comedia Made in Spain" start="20261104082940 +0000" stop="20261104092740 +0000">
+    <title>José Mota Presenta: Jose Mota Presenta ES</title>
+    <desc>La cuarta entrega de 'José Mota presenta' se iniciará al ritmo de 'Wake me up'. En esta ocasión, José Bono responderá en 'El Objetivillo' a las preguntas de Ana Pastorcilla, y Fernando Romay, Juan Muñoz y Fernando Esteso serán los invitados del programa.</desc>
   </programme>
   <programme channel="Pluto Cine Estelar" start="20261103152227 +0000" stop="20261103171727 +0000">
     <title>Siempre Alice</title>
@@ -516,37 +488,41 @@
     <title>Albert Nobbs</title>
     <desc>Irlanda, siglo XIX. Una mujer (Glenn Close) se disfraza de hombre para poder trabajar y sobrevivir. El film obtuvo 3 nominaciones a los Oscar, 2011.</desc>
   </programme>
-  <programme channel="Pluto Accion" start="20261103013437 +0000" stop="20261103032525 +0000">
-    <title>Las nuevas aventuras de Aladino</title>
-    <desc>Dos empleados fracasados de unos grandes almacenes planean robar la tienda tras el cierre. Pero cuando un grupo de niños aparece pidiendo una historia, los hombres improvisan y empiezan a contar su propia versión del cuento de Aladino.</desc>
+  <programme channel="Pluto Cine Estelar" start="20261103192002 +0000" stop="20261103212622 +0000">
+    <title>Rush</title>
+    <desc>James Hunt y Niki Lauda, dos pilotos de Fórmula 1 extremadamente hábiles, mantienen entre sí una intensa rivalidad. Sin embargo, es su enemistad lo que les lleva al límite.</desc>
   </programme>
-  <programme channel="Pluto Accion" start="20261103032525 +0000" stop="20261103052625 +0000">
-    <title>Alpha</title>
-    <desc>Tres amigos se ven obligados a separarse tras un atraco frustrado. Ocho años más tarde, el destino los vuelve a unir a pesar de haber tomado caminos muy distintos.</desc>
+  <programme channel="Pluto Cine Estelar" start="20261103212622 +0000" stop="20261103234106 +0000">
+    <title>The Ghost Writer</title>
+    <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
   </programme>
-  <programme channel="Pluto Accion" start="20261103052625 +0000" stop="20261103070858 +0000">
-    <title>Valentine: venganza oscura</title>
-    <desc>Una joven se involucra con un hombre con la idea de que va a hacer una película cuando lo que él pretende es convertirla en vigilante enmascarada.</desc>
+  <programme channel="Pluto Cine Estelar" start="20261103234106 +0000" stop="20261104012451 +0000">
+    <title>Buenos Vecinos</title>
+    <desc>Víctor intenta hacer amigos en Montreal mientras un asesino acecha.</desc>
   </programme>
-  <programme channel="Pluto Accion" start="20261103070858 +0000" stop="20261103084022 +0000">
-    <title>Vuelo 192</title>
-    <desc>Sarah Plummer, agente del FBI, ve cómo su familia es secuestrada durante un vuelo a Washington. Cuando una misteriosa pasajera se sienta a su lado, deberá tomar una decisión que puede costarle la vida de su marido y su hijo.</desc>
+  <programme channel="Pluto Cine Estelar" start="20261104012451 +0000" stop="20261104031835 +0000">
+    <title>Amor de ida y vuelta</title>
+    <desc>Dos actores de fenómenos televisivos (Juego de Tronos y Sex Education) protagonizan este fantástico romance. Un joven (Asa Butterfield) inventa una máquina del tiempo para recuperar a su exnovia (Sophie Turner).</desc>
   </programme>
-  <programme channel="Pluto Accion" start="20261103084022 +0000" stop="20261103102322 +0000">
-    <title>Rescate en Damasco</title>
-    <desc>Adib Abdel Kareem escapó de Siria hace más de 30 años, dejando atrás al amor de su vida, Fátima, para establecerse en Toronto y empezar una nueva vida. Pero ahora debe regresar a su país cuando su hija Muna, que es periodista, desaparece en Damasco.</desc>
+  <programme channel="Pluto Cine Estelar" start="20261104031835 +0000" stop="20261104045326 +0000">
+    <title>3 generaciones</title>
+    <desc>Un adolescente trans quiere iniciar su transición, pero necesita el consentimiento de sus padres mientras su familia aprende a aceptar su identidad.</desc>
   </programme>
-  <programme channel="Pluto Accion" start="20261103102322 +0000" stop="20261103120122 +0000">
+  <programme channel="Pluto Cine Estelar" start="20261104045326 +0000" stop="20261104061955 +0000">
+    <title>El Cid: La leyenda</title>
+    <desc>La historia de un chico que se convierte en hombre, un hombre que se convierte en héroe y un héroe que finalmente se convierte en leyenda: la leyenda de Rodrigo Vivar, conocido como El Cid.</desc>
+  </programme>
+  <programme channel="Pluto Cine Estelar" start="20261104061955 +0000" stop="20261104074955 +0000">
+    <title>Tapas</title>
+    <desc>Varias historias se entrelazan en un barrio de trabajadores de una gran ciudad.</desc>
+  </programme>
+  <programme channel="Pluto Cine Estelar" start="20261104074955 +0000" stop="20261104085110 +0000">
+    <title>Hitler y yo: Reflexiones sobre el mal</title>
+    <desc>Un documental emocionante que explora las preguntas que surgieron en la realización de la miniserie Hitler Life Story, "Hitler: The Rise of Evil."</desc>
+  </programme>
+  <programme channel="Pluto Cine Estelar" start="20261104085110 +0000" stop="20261104102910 +0000">
     <title>Tipos Legales</title>
     <desc>Val (Al Pacino) sale de la cárcel tras cumplir 28 años de condena. Doc (Christopher Walken), su mejor amigo, le espera a la salida para ir a ver a Hirsch (Alan Arkin), otro viejo colega.</desc>
-  </programme>
-  <programme channel="Pluto Accion" start="20261103120122 +0000" stop="20261103133922 +0000">
-    <title>Sultanes del Sur</title>
-    <desc>Cuatro profesionales atracan un banco en México. Consiguen un botín de 11 millones de dólares, y se van a Buenos Aires para cambiar los dólares por pesos.</desc>
-  </programme>
-  <programme channel="Pluto Accion" start="20261103133922 +0000" stop="20261103155622 +0000">
-    <title>Los tigres del tren</title>
-    <desc>Un ferroviario en la China de 1941 lucha contra los japoneses para lograr comida para los pobres. Pronto se embarcarán en una misión suicida para volar un puente.</desc>
   </programme>
   <programme channel="Pluto Accion" start="20261103155622 +0000" stop="20261103172352 +0000">
     <title>Traición</title>
@@ -556,37 +532,37 @@
     <title>Rush</title>
     <desc>James Hunt y Niki Lauda, dos pilotos de Fórmula 1 extremadamente hábiles, mantienen entre sí una intensa rivalidad. Sin embargo, es su enemistad lo que les lleva al límite.</desc>
   </programme>
-  <programme channel="Pluto Comedia" start="20261103014032 +0000" stop="20261103033432 +0000">
-    <title>Lotoman 003</title>
-    <desc>Miguel y Modesto Marchena están de vuelta en la pobreza. Un enfrentamiento con un par de ciclistas ladrones los convierte en héroes locales y los pone en contacto con una agencia secreta que los recluta para una tarea.</desc>
+  <programme channel="Pluto Accion" start="20261103193012 +0000" stop="20261103215857 +0000">
+    <title>Alienoid 1</title>
+    <desc>Los guardianes extraterrestres usan huéspedes humanos como prisiones mientras un guardián rastrea a los fugitivos a través de los siglos, mezclando hechiceros taoístas de la dinastía Goryeo y tecnología futurista.</desc>
   </programme>
-  <programme channel="Pluto Comedia" start="20261103033432 +0000" stop="20261103050732 +0000">
-    <title>Los Fabulosos Má Mejores</title>
-    <desc>Un equipo dominicano de béisbol infantil y su entrenador loco deben encontrar una manera de usar su encanto y habilidades para recaudar los fondos necesarios para competir en el primer Torneo de Béisbol de la Liga Pequeña y ganar el campeonato.</desc>
+  <programme channel="Pluto Accion" start="20261103215857 +0000" stop="20261103235003 +0000">
+    <title>Redada Mortal</title>
+    <desc>Un hábil luchador es contratado para neutralizar al equipo de seguridad de una fábrica local y permitir que su empleador extorsione a su poderoso dueño.</desc>
   </programme>
-  <programme channel="Pluto Comedia" start="20261103050732 +0000" stop="20261103065832 +0000">
-    <title>Ana y Bruno</title>
-    <desc>Ana se hace amiga de los seres imaginarios de los pacientes de un hospital psiquiátrico, donde recientemente ha llegado junto con su madre. Con la ayuda de sus nuevos amigos intentará escapar de ahí para buscar a su padre y reunir a su familia.</desc>
+  <programme channel="Pluto Accion" start="20261103235003 +0000" stop="20261104012923 +0000">
+    <title>El Gran Dolor</title>
+    <desc>Nick Tschiller y Yalcin Guemer siguen enfrentándose al clan Astan. Cuando Nick descubre la implicación de políticos alemanes en sus crímenes, su exmujer y su hija son secuestradas para obligarlo a guardar silencio.</desc>
   </programme>
-  <programme channel="Pluto Comedia" start="20261103065832 +0000" stop="20261103090232 +0000">
-    <title>Viaje a Italia</title>
-    <desc>Steve Coogan y Rob Brydon reciben el encargo de un nuevo viaje gastronómico, esta vez por Italia. Estos dos improbables amigos conducen por todo el país mientras vuelven a discutir sobre la vida, el amor y el cine.</desc>
+  <programme channel="Pluto Accion" start="20261104012923 +0000" stop="20261104030301 +0000">
+    <title>Batalla espacial: La armada ataca</title>
+    <desc>En 2420, después de que una raza de alienígenas y poderosos magos esclavizaran a gran parte de la humanidad, un grupo de rebeldes organiza un contraataque pilotando una flota de naves espaciales.</desc>
   </programme>
-  <programme channel="Pluto Comedia" start="20261103090232 +0000" stop="20261103103507 +0000">
-    <title>Incidencias</title>
-    <desc>Los pasajeros del tren comienzan a enfrentarse entre sí cuando su viaje se detiene en medio de la nada durante un clima peligroso.</desc>
+  <programme channel="Pluto Accion" start="20261104030301 +0000" stop="20261104043844 +0000">
+    <title>White Space</title>
+    <desc>La tripulación de una nave pesquera espacial se enfrenta a una criatura cósmica gigantesca y mortal mientras opera en un sector inexplorado del espacio.</desc>
   </programme>
-  <programme channel="Pluto Comedia" start="20261103103507 +0000" stop="20261103120328 +0000">
-    <title>V.O.S.: Versión original subtitulada</title>
-    <desc>Un juego entre dos parejas, entre cuatro personajes. Cuatro visiones de una misma historia. Cuatro maneras de vivirla. Una comedia centrada en las relaciones personales, el amor y la amistad.</desc>
+  <programme channel="Pluto Accion" start="20261104043844 +0000" stop="20261104063225 +0000">
+    <title>Robot Wasteland</title>
+    <desc>En un mundo postapocalíptico dominado por máquinas rebeldes y bandas de saqueadores, una madre y su hija luchan por proteger la última fuente de agua limpia.</desc>
   </programme>
-  <programme channel="Pluto Comedia" start="20261103120328 +0000" stop="20261103140941 +0000">
-    <title>Una casa de locos</title>
-    <desc>Un estudiante francés de principios estrictos se muda a un apartamento en Barcelona con un elenco de otros seis personajes de toda Europa. Juntos, hablan el idioma internacional del amor y la amistad.</desc>
+  <programme channel="Pluto Accion" start="20261104063225 +0000" stop="20261104082313 +0000">
+    <title>Las nuevas aventuras de Aladino</title>
+    <desc>Dos empleados fracasados de unos grandes almacenes planean robar la tienda tras el cierre. Pero cuando un grupo de niños aparece pidiendo una historia, los hombres improvisan y empiezan a contar su propia versión del cuento de Aladino.</desc>
   </programme>
-  <programme channel="Pluto Comedia" start="20261103140941 +0000" stop="20261103154541 +0000">
-    <title>Los Dalton Contra Lucky Luke</title>
-    <desc>Cuatro torpes hermano intentan impresionar a su criminal madre asaltando un banco.</desc>
+  <programme channel="Pluto Accion" start="20261104082313 +0000" stop="20261104102413 +0000">
+    <title>Alpha</title>
+    <desc>Tres amigos se ven obligados a separarse tras un atraco frustrado. Ocho años más tarde, el destino los vuelve a unir a pesar de haber tomado caminos muy distintos.</desc>
   </programme>
   <programme channel="Pluto Comedia" start="20261103154541 +0000" stop="20261103175641 +0000">
     <title>El precio de la fama</title>
@@ -596,69 +572,77 @@
     <title>El viaje del director de recursos humanos</title>
     <desc>El director de recursos humanos de la mayor panadería de Jerusalén tiene problemas. Se ha separado de su esposa; se ha distanciado de su hija, y está atrapado en un trabajo que le saca de quicio.</desc>
   </programme>
-  <programme channel="Pluto Thrillers" start="20261103014757 +0000" stop="20261103033449 +0000">
-    <title>El general murió al amanecer</title>
-    <desc>En los años 30, en plena guerra civil china, el aventurero O'Hara, indignado por el trato que el general Yang dispensa a sus compatriotas, envía dinero al señor Wu para que compre en Shangai armas.</desc>
+  <programme channel="Pluto Comedia" start="20261103194941 +0000" stop="20261103215241 +0000">
+    <title>Mi casa en París</title>
+    <desc>Mathias, un desventurado neoyorquino sin esposa, sin hijos y sin un céntimo, hereda de su padre, con quien no se hablaba, una enorme en casa en París, de la que quiere deshacerse lo antes posible.</desc>
   </programme>
-  <programme channel="Pluto Thrillers" start="20261103033449 +0000" stop="20261103051957 +0000">
-    <title>El intruso</title>
-    <desc>Tras un trágico accidente, un hombre se convierte en el objetivo de la peligrosa obsesión de otro testigo.</desc>
+  <programme channel="Pluto Comedia" start="20261103215241 +0000" stop="20261103234658 +0000">
+    <title>La felicidad nunca viene sola</title>
+    <desc>Un músico conoce a una mujer con una vida muy distinta y ambos se enamoran.</desc>
   </programme>
-  <programme channel="Pluto Thrillers" start="20261103051957 +0000" stop="20261103070557 +0000">
-    <title>Dictado</title>
-    <desc>Tras quedarse huérfana, Julia es acogida por Daniel y Laura. Daniel percibe en la conducta de la niña un carácter amenazador que le trae a la memoria un pasado terrorífico que había decidido enterrar para siempre.</desc>
+  <programme channel="Pluto Comedia" start="20261103234658 +0000" stop="20261104013458 +0000">
+    <title>Dance-Off</title>
+    <desc>Brandon y Jasmine son dos bailarines pertenecientes a academias rivales que deben competir por un gran premio. En su viaje a la final el enfrentamiento se va convirtiendo en amor.</desc>
   </programme>
-  <programme channel="Pluto Thrillers" start="20261103070557 +0000" stop="20261103092041 +0000">
-    <title>The Ghost Writer</title>
-    <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
+  <programme channel="Pluto Comedia" start="20261104013458 +0000" stop="20261104031002 +0000">
+    <title>Querida Elisabeth</title>
+    <desc>La vida de Sid Straw se desmorona a medida que trata de demostrar a sus amigos que entabló amistad con una celebridad mientras estaba en la universidad.</desc>
   </programme>
-  <programme channel="Pluto Thrillers" start="20261103092041 +0000" stop="20261103111241 +0000">
-    <title>Darkness</title>
-    <desc>A una adolescente y su familia le suceden fenómenos extraños después de haberse mudado a una casa de campo.</desc>
+  <programme channel="Pluto Comedia" start="20261104031002 +0000" stop="20261104050219 +0000">
+    <title>Tras la pista del zorro</title>
+    <desc>Aldo Vanucci (Peter Sellers), también conocido como "el Zorro", es un ingenioso y brillante ladrón. A lo largo de su agitada carrera, se ha hecho pasar por los más variados personajes, desde sacerdote a carabinero.</desc>
   </programme>
-  <programme channel="Pluto Thrillers" start="20261103111241 +0000" stop="20261103124018 +0000">
-    <title>Campus Code</title>
-    <desc>Un grupo de estudiantes lucha contra fuerzas desconocidas en su campus para encontrar respuestas.</desc>
+  <programme channel="Pluto Comedia" start="20261104050219 +0000" stop="20261104064359 +0000">
+    <title>Red Dog, una historia de lealtad</title>
+    <desc>Basada en una historia real, la película cuenta cómo un perro recorre Australia creando vínculos con los habitantes de un pueblo minero, convirtiéndose en un símbolo de amistad y lealtad.</desc>
   </programme>
-  <programme channel="Pluto Thrillers" start="20261103124018 +0000" stop="20261103141519 +0000">
-    <title>Arcadia</title>
-    <desc>Greta, de 12 años, es llevada a través del país por su padre, quien intenta mantener unida a su familia tras la ruptura de su matrimonio.</desc>
+  <programme channel="Pluto Comedia" start="20261104064359 +0000" stop="20261104083231 +0000">
+    <title>Primavera en Normandía</title>
+    <desc>Un panadero observa cómo su vecina repite sin saberlo la historia de Madame Bovary.</desc>
   </programme>
-  <programme channel="Pluto Thrillers" start="20261103141519 +0000" stop="20261103161851 +0000">
-    <title>Los Padecientes</title>
-    <desc>Un thriller psicológico que gira en torno a una joven mujer que se enfrenta a oscuros secretos familiares, mientras su salud mental y su percepción de la realidad comienzan a desmoronarse.</desc>
+  <programme channel="Pluto Comedia" start="20261104083231 +0000" stop="20261104101031 +0000">
+    <title>Tipos Legales</title>
+    <desc>Val (Al Pacino) sale de la cárcel tras cumplir 28 años de condena. Doc (Christopher Walken), su mejor amigo, le espera a la salida para ir a ver a Hirsch (Alan Arkin), otro viejo colega.</desc>
   </programme>
   <programme channel="Pluto Thrillers" start="20261103161851 +0000" stop="20261103180957 +0000">
     <title>Redada Mortal</title>
     <desc>Un hábil luchador es contratado para neutralizar al equipo de seguridad de una fábrica local y permitir que su empleador extorsione a su poderoso dueño.</desc>
   </programme>
-  <programme channel="Pluto Drama" start="20261103013115 +0000" stop="20261103033815 +0000">
-    <title>La caza</title>
-    <desc>Tras un divorcio difícil, Lucas, de cuarenta años, ha conocido a otra mujer, tiene un nuevo trabajo y se dispone a reconstruir la relación con Marcus, su hijo adolescente. Pero algo va mal. Un detalle. Un comentario inocente. Una mentira fortuita.</desc>
+  <programme channel="Pluto Thrillers" start="20261103180957 +0000" stop="20261103202557 +0000">
+    <title>El tercer asesinato</title>
+    <desc>El conocido abogado Shigemori defiende a Misumi, acusado de robo con homicidio, que ya cumplió pena de cárcel por otro asesinato hace treinta años.</desc>
   </programme>
-  <programme channel="Pluto Drama" start="20261103033815 +0000" stop="20261103063615 +0000">
-    <title>Toni Erdmann</title>
-    <desc>Ines trabaja en una importante empresa alemana con sede en Bucarest. Tiene una vida perfectamente ordenada hasta que Winfried, su padre, llega de improviso y le hace una pregunta inesperada: "¿Eres feliz?"</desc>
+  <programme channel="Pluto Thrillers" start="20261103202557 +0000" stop="20261103221257 +0000">
+    <title>Cut Bank</title>
+    <desc>Dwayne, un joven que fue atleta estrella y que ahora trabaja como mecánico, sueña con irse de la población de Cut Bank - la ciudad más fría de los EE.UU. - y mudarse a la gran ciudad, llevándose consigo a su novia Cassandra, que sueña con ser modelo.</desc>
   </programme>
-  <programme channel="Pluto Drama" start="20261103063615 +0000" stop="20261103083115 +0000">
-    <title>En tránsito</title>
-    <desc>Segunda Guerra Mundial. En Marsella, refugiados de toda Europa embarcan rumbo a América, huyendo de la ocupación nazi. Entre ellos, el joven alemán Georg, suplanta la identidad de un escritor para utilizar su visado, que le garantiza refugio en México.</desc>
+  <programme channel="Pluto Thrillers" start="20261103221257 +0000" stop="20261104002151 +0000">
+    <title>El Lobo</title>
+    <desc>En este taquillazo del cine español Mikel Lejarza (Eduardo Noriega), alias "Lobo", fue un agente de los servicios secretos españoles que consiguió infiltrarse en ETA</desc>
   </programme>
-  <programme channel="Pluto Drama" start="20261103083115 +0000" stop="20261103095315 +0000">
-    <title>La mujer del chatarrero</title>
-    <desc>Nazif es chatarrero y vive en Bosnia con su mujer Senada y sus dos hijas. Un día, Senada es presa de fuertes dolores y debe ser hospitalizada de urgencia.</desc>
+  <programme channel="Pluto Thrillers" start="20261104002151 +0000" stop="20261104020351 +0000">
+    <title>Enemy Within</title>
+    <desc>Una chica joven, que acaba de perder la vista por causa de una enfermedad degenerativa, lucha para expulsar de su casa a un convicto que se ha refugiado en la cabaña de su madre.</desc>
   </programme>
-  <programme channel="Pluto Drama" start="20261103095315 +0000" stop="20261103114815 +0000">
-    <title>Tres caras</title>
-    <desc>Dirigida por Jafar Panahi (ganador de la Palma de Oro 2025). En esta película premiada en Cannes (2018). La conocida actriz Behnaz Jafari acude al auxilio de una chica de provincias cuya familia quiere impedirle que siga estudiando.</desc>
+  <programme channel="Pluto Thrillers" start="20261104020351 +0000" stop="20261104034851 +0000">
+    <title>10.000 días</title>
+    <desc>Hace 10.000 días, un cometa impactó con la Tierra en pleno océano Pacífico con la fuerza de incontables bombas nucleares, sumiendo al planeta en nieve y hielo.</desc>
   </programme>
-  <programme channel="Pluto Drama" start="20261103114815 +0000" stop="20261103132415 +0000">
-    <title>The Dead Girl ES</title>
-    <desc>El asesinato de una joven reúne las historias de cinco mujeres: Lonely Arden descubre el cuerpo, Leah cree que la víctima puede ser su hermana desaparecida. Melora cree que es su hija, mientras que Ruth hace un descubrimiento aterrador.</desc>
+  <programme channel="Pluto Thrillers" start="20261104034851 +0000" stop="20261104053251 +0000">
+    <title>Cries In The Dark</title>
+    <desc>La detective Carrie Macklin es informada de la inexplicable desaparición de su hermana, una mujer embarazada de nueve meses a quien acaba de visitar en su propia casa.</desc>
   </programme>
-  <programme channel="Pluto Drama" start="20261103132415 +0000" stop="20261103154044 +0000">
-    <title>El duodécimo hombre</title>
-    <desc>En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
+  <programme channel="Pluto Thrillers" start="20261104053251 +0000" stop="20261104070951 +0000">
+    <title>Past Sins</title>
+    <desc>Donna, una prestigiosa abogada, debe defender el caso de una mujer cuyo ADN ha sido encontrado en un asesinato cometido hace 20 años.</desc>
+  </programme>
+  <programme channel="Pluto Thrillers" start="20261104070951 +0000" stop="20261104085151 +0000">
+    <title>En lo profundo del bosque</title>
+    <desc>Tommaso, un niño de 4 años, desaparece durante un festival. Cinco años después, encontraron a un niño sin nombre y sin documentos. Coincidencias de ADN: él es Tommi, pero su madre se pregunta si ese niño no es realmente su hijo.</desc>
+  </programme>
+  <programme channel="Pluto Thrillers" start="20261104085151 +0000" stop="20261104104744 +0000">
+    <title>Picnic en Hanging Rock</title>
+    <desc>San Valentín de 1900, las estudiantes de la Escuela Appleyard van de excursión a Hanging Rock, una región montañosa. A lo largo del día se producen una serie de fenómenos sobrenaturales. Dirigida por Peter Weir (Master and Commander).</desc>
   </programme>
   <programme channel="Pluto Drama" start="20261103154044 +0000" stop="20261103173221 +0000">
     <title>Hurricane</title>
@@ -668,107 +652,103 @@
     <title>El duodécimo hombre</title>
     <desc>En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
   </programme>
-  <programme channel="Pluto Romantico" start="20261103014628 +0000" stop="20261103032617 +0000">
-    <title>Will You Merry Me</title>
-    <desc>After Rebecca and Henry get engaged, they gather their families for the holidays to surprise them with the good news. But will their clashing families ever get along?</desc>
+  <programme channel="Pluto Drama" start="20261103194850 +0000" stop="20261103214027 +0000">
+    <title>Hurricane</title>
+    <desc>Junio de 1940. En la Francia ocupada por Alemania, el joven polaco Jan Zumbach se hace pasar por un viajante de relojes suizo para conseguir llegar a un aeródromo.</desc>
   </programme>
-  <programme channel="Pluto Romantico" start="20261103032617 +0000" stop="20261103045217 +0000">
-    <title>Amor en pleno vuelo</title>
-    <desc>Saltan chispas entre una diseñadora de interiores y un apuesto piloto que encuentra hogares para perros rescatados.</desc>
+  <programme channel="Pluto Drama" start="20261103214027 +0000" stop="20261103233204 +0000">
+    <title>Hurricane</title>
+    <desc>Junio de 1940. En la Francia ocupada por Alemania, el joven polaco Jan Zumbach se hace pasar por un viajante de relojes suizo para conseguir llegar a un aeródromo.</desc>
   </programme>
-  <programme channel="Pluto Romantico" start="20261103045217 +0000" stop="20261103063217 +0000">
-    <title>Un amor de verano</title>
-    <desc>Antiguos novios de la infancia fingen ser pareja durante el verano para quitarse de encima a sus abuelas casamenteras.</desc>
+  <programme channel="Pluto Drama" start="20261103233204 +0000" stop="20261104021004 +0000">
+    <title>Romanzo Criminale</title>
+    <desc>Tres jóvenes delincuentes, con la ayuda de una improvisada banda de malhechores, entre ellos El Negro, un extremista que se cree el último samurai, secuestran y asesinan brutalmente a un rico propietario.</desc>
   </programme>
-  <programme channel="Pluto Romantico" start="20261103063217 +0000" stop="20261103080541 +0000">
-    <title>Encuentra el amor en Valentine</title>
-    <desc>Kennedy Blaine hereda un magnífico rancho en la pequeña población de Valentine y decide visitar la propiedad para ponerlo en venta. Cuando llega, Derek, el capataz, la confunde con una intrusa y la relación no empieza con buen pie.</desc>
+  <programme channel="Pluto Drama" start="20261104021004 +0000" stop="20261104034716 +0000">
+    <title>Arena En Los Bolsillos</title>
+    <desc>Cuatro jóvenes de la periferia de Madrid emprenden un viaje hacia el mar para escapar de la realidad que los rodea. En el camino descubrirán el amor, la solidaridad y dejarán su huella en cada lugar: un graffiti como símbolo de su identidad.</desc>
   </programme>
-  <programme channel="Pluto Romantico" start="20261103080541 +0000" stop="20261103094008 +0000">
-    <title>La fuente de los deseos</title>
-    <desc>La propietaria de una tienda de mascotas de San Francisco se reencuentra con su primer amor y debe resistirse a enamorarse de él por segunda vez.</desc>
+  <programme channel="Pluto Drama" start="20261104034716 +0000" stop="20261104054049 +0000">
+    <title>Bolero</title>
+    <desc>Una atractiva mujer visita España, donde mantiene un tórrido romance con un torero. Drama erótico a mayor gloria de Bo Derek, dirigida por su marido.</desc>
   </programme>
-  <programme channel="Pluto Romantico" start="20261103094008 +0000" stop="20261103111014 +0000">
-    <title>Corazones perdidos</title>
-    <desc>Tras una ruptura sentimental, Marie pierde la Navidad; su madre le envía los adornos de su infancia con milagros.</desc>
+  <programme channel="Pluto Drama" start="20261104054049 +0000" stop="20261104073749 +0000">
+    <title>El libro del amor</title>
+    <desc>Después de la muerte de su esposa, Henry se propone ayudar a un adolescente a construir una balsa.</desc>
   </programme>
-  <programme channel="Pluto Romantico" start="20261103111014 +0000" stop="20261103123654 +0000">
-    <title>Mensaje De Amor En Una Botella</title>
-    <desc>Desafortunadamente en el amor, Abbey comparte las frustraciones de sus citas con su tía, quien sugiere que escriba una carta de amor explicando los deseos de su verdadero corazón.</desc>
-  </programme>
-  <programme channel="Pluto Romantico" start="20261103123654 +0000" stop="20261103141834 +0000">
-    <title>Red Dog, una historia de lealtad</title>
-    <desc>Basada en una historia real, la película cuenta cómo un perro recorre Australia creando vínculos con los habitantes de un pueblo minero, convirtiéndose en un símbolo de amistad y lealtad.</desc>
-  </programme>
-  <programme channel="Pluto Romantico" start="20261103141834 +0000" stop="20261103161218 +0000">
-    <title>Amor de ida y vuelta</title>
-    <desc>Dos actores de fenómenos televisivos (Juego de Tronos y Sex Education) protagonizan este fantástico romance. Un joven (Asa Butterfield) inventa una máquina del tiempo para recuperar a su exnovia (Sophie Turner).</desc>
+  <programme channel="Pluto Drama" start="20261104073749 +0000" stop="20261104091441 +0000">
+    <title>La leyenda de Terramar</title>
+    <desc>Tras morir salvando a su pueblo de los atacantes, un mago da vida a un joven llamado Ged, que lo toma como aprendiz.</desc>
   </programme>
   <programme channel="Pluto Romantico" start="20261103161218 +0000" stop="20261103180050 +0000">
     <title>Primavera en Normandía</title>
     <desc>Un panadero observa cómo su vecina repite sin saberlo la historia de Madame Bovary.</desc>
   </programme>
-  <programme channel="Pluto Cine de autor" start="20261103013628 +0000" stop="20261103035456 +0000">
-    <title>¡Vivir!</title>
-    <desc>Después de verse obligado a abandonar su casa y su familia por deudas de juego, un hombre rehace su vida como titiritero hasta que se ve envuelto en la revolución maoísta. Cuando consigue volver con su mujer y sus hijos, ya nada es como antes.</desc>
+  <programme channel="Pluto Romantico" start="20261103180050 +0000" stop="20261103194950 +0000">
+    <title>El mejor día del año</title>
+    <desc>El film narra el viaje inspirador y el cambio vital de un joven a través del misterioso Yellow Day. Para muchos, el Día Amarillo es simplemente un día divertido de celebración mientras que para otros tiene una carga más trascendental.</desc>
   </programme>
-  <programme channel="Pluto Cine de autor" start="20261103035456 +0000" stop="20261103053631 +0000">
-    <title>Yo vigilo el camino</title>
-    <desc>El sheriff Henry Tawes, un hombre ya maduro y hastiado del mundo en el que vive recuerda con nostalgia su pasado. Sin embargo, su vida cobra un nuevo sentido al conocer a Alma McCain, la hija de un hombre que destila licor ilegalmente.</desc>
+  <programme channel="Pluto Romantico" start="20261103194950 +0000" stop="20261103213130 +0000">
+    <title>Red Dog, una historia de lealtad</title>
+    <desc>Basada en una historia real, la película cuenta cómo un perro recorre Australia creando vínculos con los habitantes de un pueblo minero, convirtiéndose en un símbolo de amistad y lealtad.</desc>
   </programme>
-  <programme channel="Pluto Cine de autor" start="20261103053631 +0000" stop="20261103072610 +0000">
-    <title>Simple men</title>
-    <desc>Otra singular comedia de Hal Hartley. Una road movie de argumento muy simple: dos hermanos que buscan a su padre se encuentran por el camino con unos personajes tan inadaptados y excéntricos como ellos.</desc>
+  <programme channel="Pluto Romantico" start="20261103213130 +0000" stop="20261103233923 +0000">
+    <title>Hermosas criaturas</title>
+    <desc>Ethan y Lena se conocen y se enamoran, y juntos descubren los oscuros secretos de sus respectivas familias, su historia y su ciudad en este thriller romántico sobrenatural.</desc>
   </programme>
-  <programme channel="Pluto Cine de autor" start="20261103072610 +0000" stop="20261103092220 +0000">
-    <title>El dulce porvenir</title>
-    <desc>Un autobús escolar se despeña montaña abajo y se hunde en un lago helado. En el accidente mueren todos los niños del pueblo. El abogado Mitchell Stevens se entrevista con los padres y les propone llevar el caso a los tribunales.</desc>
+  <programme channel="Pluto Romantico" start="20261103233923 +0000" stop="20261104011523 +0000">
+    <title>De nuevo el amor</title>
+    <desc>Chloe y David han decidido terminar su matrimonio pero antes de poderle decir a su hija, ella los soprende con la noticia de su compromiso.</desc>
   </programme>
-  <programme channel="Pluto Cine de autor" start="20261103092220 +0000" stop="20261103105642 +0000">
-    <title>La perfecta desconocida</title>
-    <desc>Mientras un hombre contempla mudarse a un nuevo estado con su esposa para su programa de posgrado, un viejo amor, una mujer que a menudo cambia de identidad, regresa a su vida en una cena de cumpleaños.</desc>
+  <programme channel="Pluto Romantico" start="20261104011523 +0000" stop="20261104031823 +0000">
+    <title>Regreso a Montauk</title>
+    <desc>El escritor Max Zorn regresa a Nueva York para la promoción de su última novela, donde le espera su joven esposa Clara, quien lleva meses trabajando allí.</desc>
   </programme>
-  <programme channel="Pluto Cine de autor" start="20261103105642 +0000" stop="20261103124842 +0000">
-    <title>Fiction</title>
-    <desc>Álex es director de cine. Está casado y tiene dos hijos. Es un hombre reservado y tímido. Alex tiene problemas para terminar el guión de su próxima película y decide irse unos días a casa de Santi, un amigo que vive en un pequeño pueblo del Pirineo.</desc>
+  <programme channel="Pluto Romantico" start="20261104031823 +0000" stop="20261104052123 +0000">
+    <title>Mi casa en París</title>
+    <desc>Mathias, un desventurado neoyorquino sin esposa, sin hijos y sin un céntimo, hereda de su padre, con quien no se hablaba, una enorme en casa en París, de la que quiere deshacerse lo antes posible.</desc>
   </programme>
-  <programme channel="Pluto Cine de autor" start="20261103124842 +0000" stop="20261103141842 +0000">
-    <title>Conversaciones con otras mujeres</title>
-    <desc>Un hombre y una mujer próximos a los cuarenta se conocen en una boda en un hotel neoyorkino. Entablarán una conversación llena de ingenio y dobles sentidos en la que cada uno va cercando al otro con la precisión de un felino.</desc>
+  <programme channel="Pluto Romantico" start="20261104052123 +0000" stop="20261104071123 +0000">
+    <title>45 Años</title>
+    <desc>Solo falta una semana para que Kate y Geoff Mercer celebren el 45 aniversario de su boda. Geoff recibe una carta comunicándole que ha sido descubierto el cuerpo de su primer amor, congelado e intacto en un glaciar de los Alpes suizos.</desc>
   </programme>
-  <programme channel="Pluto Cine de autor" start="20261103141842 +0000" stop="20261103161542 +0000">
-    <title>El Gruñón</title>
-    <desc>Un arisco anciano choca con su nuera cuando, a consecuencia de una caída, tenga que trasladarse a vivir con la familia de su hijo a Helsinki. Su nuera es una mujer de carrera que no tiene tiempo para perder con un cascarrabias.</desc>
+  <programme channel="Pluto Romantico" start="20261104071123 +0000" stop="20261104090623 +0000">
+    <title>Siempre Alice</title>
+    <desc>Ganadora del Oscar a Mejor Actriz (Julianne Moore), 2014. La doctora Alice Howland es una profesora casada y madre de 3 hijos, no da importancia a los pequeños lapsus hasta que debe comenzar a luchar para seguir siendo Alice.</desc>
   </programme>
   <programme channel="Pluto Cine de autor" start="20261103161542 +0000" stop="20261103181542 +0000">
     <title>El tercer hombre</title>
     <desc>Ganadora del Oscar a Mejor Fotografía B/N. En 1947, un escritor llega a Viena, ocupada por tropas aliadas, donde existe un mercado negro de víveres, para aceptar un empleo de un amigo. Pero éste ha muerto en extrañas circunstancias.</desc>
   </programme>
-  <programme channel="Pluto Clasico" start="20261103015407 +0000" stop="20261103040607 +0000">
-    <title>Evasión en Atenea</title>
-    <desc>El líder de la resistencia griega ayuda a escapar a un grupo de prisioneros del campo dirigido por Otto, un militar alemán que no simpatiza con el nazismo. Los prisioneros tienen el objetivo de apoderarse de un tesoro escondido por los nazis.</desc>
+  <programme channel="Pluto Cine de autor" start="20261103181542 +0000" stop="20261103204642 +0000">
+    <title>Un asunto real</title>
+    <desc>Osamu y su hijo encuentran a una niña en la calle, aterida de frío. A pesar de sobrevivir con dificultades gracias a pequeños robos, la familia es feliz, hasta que un incidente imprevisto revela un secreto que pone a prueba los lazos que les unen.</desc>
   </programme>
-  <programme channel="Pluto Clasico" start="20261103040607 +0000" stop="20261103055507 +0000">
-    <title>Amanecer</title>
-    <desc>Narra la historia de una familia rural, cuya vida se ve trastornada por la llegada a la aldea de una sofisticada mujer de la ciudad, para pasar las vacaciones.</desc>
+  <programme channel="Pluto Cine de autor" start="20261103204642 +0000" stop="20261103224252 +0000">
+    <title>El dulce porvenir</title>
+    <desc>Un autobús escolar se despeña montaña abajo y se hunde en un lago helado. En el accidente mueren todos los niños del pueblo. El abogado Mitchell Stevens se entrevista con los padres y les propone llevar el caso a los tribunales.</desc>
   </programme>
-  <programme channel="Pluto Clasico" start="20261103055507 +0000" stop="20261103074707 +0000">
-    <title>Las manos de Orlac</title>
-    <desc>Un famoso pianista pierde ambas manos en un accidente. Sin saberlo le ponen nuevas manos que una vez fueron las de un asesino.</desc>
+  <programme channel="Pluto Cine de autor" start="20261103224252 +0000" stop="20261104002719 +0000">
+    <title>Memorias de Queens</title>
+    <desc>Nueva York, años ochenta. Astoria, en el barrio de Queens, es un sitio duro para crecer. Los adolescentes se pasan el día peleándose, sobre todo los puertorriqueños con los italianos. Por otra parte, las hormonas están en plena revolución.</desc>
   </programme>
-  <programme channel="Pluto Clasico" start="20261103074707 +0000" stop="20261103093907 +0000">
-    <title>Boeing Boeing ES</title>
-    <desc>El playboy Bernard Lawrence engaña a tres azafatas haciéndole creer a cada una de ellas que es su novia.</desc>
+  <programme channel="Pluto Cine de autor" start="20261104002719 +0000" stop="20261104023242 +0000">
+    <title>Carga maldita</title>
+    <desc>Cuatro hombres desafortunados aceptan transportar una peligrosa carga de nitroglicerina a través de la peligrosa jungla latinoamericana.</desc>
   </programme>
-  <programme channel="Pluto Clasico" start="20261103093907 +0000" stop="20261103111107 +0000">
-    <title>39 escalones</title>
-    <desc>En Londres, un hombre intenta ayudar a un agente de contraespionaje.</desc>
+  <programme channel="Pluto Cine de autor" start="20261104023242 +0000" stop="20261104041142 +0000">
+    <title>Verano en Brooklyn</title>
+    <desc>Los padres de Jake acaban de mudarse a la casa de su abuelo, tras la muerte de este. Hace años que la madre de Tony alquila la tienda de abajo. Los dos chicos, Jake y Tony, descubren que comparten muchos intereses: el arte, los videojuegos, las chicas.</desc>
   </programme>
-  <programme channel="Pluto Clasico" start="20261103111107 +0000" stop="20261103130519 +0000">
-    <title>El ring</title>
-    <desc>Dos boxeadores pelean por el amor de una mujer.</desc>
+  <programme channel="Pluto Cine de autor" start="20261104041142 +0000" stop="20261104061742 +0000">
+    <title>Crónicas diplomáticas</title>
+    <desc>El Ministerio de Asuntos Exteriores contrata al joven Arthur Vlaminck como encargado del “lenguaje”. En otras palabras, redactará los discursos del ministro.</desc>
   </programme>
-  <programme channel="Pluto Clasico" start="20261103130519 +0000" stop="20261103162819 +0000">
+  <programme channel="Pluto Cine de autor" start="20261104061742 +0000" stop="20261104084342 +0000">
+    <title>Nuestra hermana pequeña</title>
+    <desc>Nuestra hermana pequeña</desc>
+  </programme>
+  <programme channel="Pluto Cine de autor" start="20261104084342 +0000" stop="20261104120642 +0000">
     <title>El Gatopardo</title>
     <desc>El príncipe de Salina trata de preservar su familia y su clase en medio de los trastornos sociales de la Sicilia de 1860.</desc>
   </programme>
@@ -780,169 +760,157 @@
     <title>Las Zapatillas Rojas</title>
     <desc>Una joven bailarina y un estudiante de composición se conocen y se enamoran trabajando en un ballet de Londres basado en el cuento “Las zapatillas rojas”. Su romance evoluciona en paralelo al cuento de Andersen.</desc>
   </programme>
-  <programme channel="Pluto Horror" start="20261103005637 +0000" stop="20261103024145 +0000">
-    <title>El intruso</title>
-    <desc>Tras un trágico accidente, un hombre se convierte en el objetivo de la peligrosa obsesión de otro testigo.</desc>
+  <programme channel="Pluto Clasico" start="20261103202919 +0000" stop="20261103220519 +0000">
+    <title>Breve encuentro</title>
+    <desc>Laura Jesson coincide con el Dr. Alec Harvey en la sala de espera de la estación de ferrocarril. Se reúnen semanalmente para tomar café en la sala de espera de la estación mientras esperan sus trenes de regreso a casa y se acaban enamorando.</desc>
   </programme>
-  <programme channel="Pluto Horror" start="20261103024145 +0000" stop="20261103042451 +0000">
-    <title>La mujer de negro: El ángel de la muerte</title>
-    <desc>40 años después del primer encantamiento en la Casa Eel Marsh, llega un grupo de niños evacuados del Londres de la Segunda Guerra Mundial, despertando al habitante más oscuro de la casa.</desc>
+  <programme channel="Pluto Clasico" start="20261103220519 +0000" stop="20261103235923 +0000">
+    <title>Encuentro en la Noche</title>
+    <desc>Mae Doyle (Barbara Stanwyck) vuelve a su pueblo natal, una pequeña población pesquera de Monterrey (California).</desc>
   </programme>
-  <programme channel="Pluto Horror" start="20261103042451 +0000" stop="20261103042951 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <desc>Fillers Pluto TV</desc>
+  <programme channel="Pluto Clasico" start="20261103235923 +0000" stop="20261104012723 +0000">
+    <title>Los Viajes de Gulliver</title>
+    <desc>Un médico se lava en tierra en una isla habitada por gente pequeña.</desc>
   </programme>
-  <programme channel="Pluto Horror" start="20261103042951 +0000" stop="20261103055551 +0000">
-    <title>La Mansión de los Horrores</title>
-    <desc>Un millonario ofrece 10 000 dólares a cinco personas que aceptan encerrarse en una casa de alquiler grande y espeluznante durante la noche con él y su esposa.</desc>
+  <programme channel="Pluto Clasico" start="20261104012723 +0000" stop="20261104033354 +0000">
+    <title>Seven Days in May</title>
+    <desc>En plena Guerra Fría, se sospecha que un enigmático general pretende derrocar al Presidente de EE.UU. por medio de un golpe de estado. El Presidente dispone sólo de siete días para encontrar pruebas que le permitan abortar el golpe.</desc>
   </programme>
-  <programme channel="Pluto Horror" start="20261103055551 +0000" stop="20261103073651 +0000">
-    <title>La Hermandad</title>
-    <desc>En la fría y silenciosa oscuridad de un monasterio vive una hermandad de monjes que cumple estrictamente unos rígidos votos de pobreza y obediencia. Se ocupan de curar a Sara, una famosa escritora tras sufrir un grave accidente.</desc>
+  <programme channel="Pluto Clasico" start="20261104033354 +0000" stop="20261104051523 +0000">
+    <title>Algodón en Harlem</title>
+    <desc>El carismático reverendo Rev Deke O'malley intenta vender fraudulentos viajes a África a la gente de Harlem. Los policías Gravedigger Jones y Coffin Ed Johnson investigarán el caso.</desc>
   </programme>
-  <programme channel="Pluto Horror" start="20261103073651 +0000" stop="20261103092251 +0000">
-    <title>En Compañía de Lobos</title>
-    <desc>Lobos y criaturas fantásticas acechan los sueños de la joven Rosaleen, quien sueña que debe atravesar el bosque oscuro para llegar a casa de su abuela.</desc>
+  <programme channel="Pluto Clasico" start="20261104051523 +0000" stop="20261104070523 +0000">
+    <title>La dinastía del petróleo</title>
+    <desc>Diagnosticado de una enfermedad terminal, Bruce Campbell recibe la propiedad de un pequeño valle en las Montañas Rocosas en Canadá gracias a la herencia de su abuelo.</desc>
   </programme>
-  <programme channel="Pluto Horror" start="20261103092251 +0000" stop="20261103111451 +0000">
-    <title>Darkness</title>
-    <desc>A una adolescente y su familia le suceden fenómenos extraños después de haberse mudado a una casa de campo.</desc>
-  </programme>
-  <programme channel="Pluto Horror" start="20261103111451 +0000" stop="20261103130836 +0000">
-    <title>La Matanza: El Final</title>
-    <desc>Seis estudiantes universitarios encargados de limpiar una casa abandonada desatan accidentalmente a un antiguo demonio atrapado en el sótano.</desc>
-  </programme>
-  <programme channel="Pluto Horror" start="20261103130836 +0000" stop="20261103145526 +0000">
-    <title>Retornados</title>
-    <desc>En un mundo post-zombi, donde los infectados viven vidas normales, su medicamento retroviral se está agotando.</desc>
-  </programme>
-  <programme channel="Pluto Horror" start="20261103145526 +0000" stop="20261103161526 +0000">
-    <title>La pequeña tienda de los horrores</title>
-    <desc>Un empleado de floristería crea una especie nueva de planta carnívora que desarrolla hábitos alimenticios poco comunes: tiene que alimentarla con su sangre. Pero su apetito y tamaño, crecerá, viéndose forzado a asesinar para satisfacerla...</desc>
+  <programme channel="Pluto Clasico" start="20261104070523 +0000" stop="20261104091923 +0000">
+    <title>Juan Nadie</title>
+    <desc>Un hombre con necesidad de dinero accede a hacerse pasar por una persona inexistente que dijo que se suicidaría como protesta, esto comienza un movimiento político.</desc>
   </programme>
   <programme channel="Pluto Horror" start="20261103161526 +0000" stop="20261103180326 +0000">
     <title>Dagon, La Secta Del Mar</title>
     <desc>Basada en la historia de H.P. Lovecraft. Unos náufragos llegan a un pueblo, donde los residentes se convierten en peces.</desc>
   </programme>
-  <programme channel="Pluto Western" start="20261103010353 +0000" stop="20261103041215 +0000">
-    <title>Coraje de mujer</title>
-    <desc>La resistencia, amor y, sobre todo, firme determinación femenina, a lo largo de casi cincuenta años de agitación a mediados del siglo XIX, desde la tumultuosa Revolución de Texas hasta el primer movimiento por el sufragio femenino.</desc>
+  <programme channel="Pluto Horror" start="20261103180326 +0000" stop="20261103194926 +0000">
+    <title>Dictado</title>
+    <desc>Tras quedarse huérfana, Julia es acogida por Daniel y Laura. Daniel percibe en la conducta de la niña un carácter amenazador que le trae a la memoria un pasado terrorífico que había decidido enterrar para siempre.</desc>
   </programme>
-  <programme channel="Pluto Western" start="20261103041215 +0000" stop="20261103063915 +0000">
-    <title>¡El Gran McLintock!</title>
-    <desc>Un adinerado ranchero esa su poder e influencia en el territorio para mantener la paz entre granjeros, rancheros, nativos americanos y funcionarios corruptos.</desc>
+  <programme channel="Pluto Horror" start="20261103194926 +0000" stop="20261103213426 +0000">
+    <title>C.H.U.D.</title>
+    <desc>Una extraña serie de desapariciones repentinas en las calles de la ciudad de Nueva York parece apuntar hacia algo desagradable que vive en las alcantarillas.</desc>
   </programme>
-  <programme channel="Pluto Western" start="20261103063915 +0000" stop="20261103080615 +0000">
-    <title>El desierto pintado</title>
-    <desc>Dos hombres encuentran un bebé abandonado y pelean por la propiedad del niño, lo que resulta en una rivalidad de por vida.</desc>
+  <programme channel="Pluto Horror" start="20261103213426 +0000" stop="20261103231326 +0000">
+    <title>El señor de las moscas</title>
+    <desc>La película está ambientada en un futuro 1984, durante el cual está en marcha una guerra nuclear. Durante una tormenta, un avión que transportaba a unos niños ingleses, rescatados de la ciudad en guerra, se estrella cerca de una isla desierta.</desc>
   </programme>
-  <programme channel="Pluto Western" start="20261103080615 +0000" stop="20261103094015 +0000">
-    <title>El valle de la venganza</title>
-    <desc>Los hijos de un barón ganadero de Colorado, uno biológico y otro adoptado, se resienten y luchan por el control del imperio ganadero de su padre.</desc>
+  <programme channel="Pluto Horror" start="20261103231326 +0000" stop="20261104004926 +0000">
+    <title>The Dead Girl ES</title>
+    <desc>El asesinato de una joven reúne las historias de cinco mujeres: Lonely Arden descubre el cuerpo, Leah cree que la víctima puede ser su hermana desaparecida. Melora cree que es su hija, mientras que Ruth hace un descubrimiento aterrador.</desc>
   </programme>
-  <programme channel="Pluto Western" start="20261103094015 +0000" stop="20261103113015 +0000">
-    <title>La dinastía del petróleo</title>
-    <desc>Diagnosticado de una enfermedad terminal, Bruce Campbell recibe la propiedad de un pequeño valle en las Montañas Rocosas en Canadá gracias a la herencia de su abuelo.</desc>
+  <programme channel="Pluto Horror" start="20261104004926 +0000" stop="20261104021202 +0000">
+    <title>Piranha Sharks</title>
+    <desc>Mediante bioingeniería se ha conseguido reducir el tamaño de los grandes tiburones blancos al de las pirañas para adornar los exóticos acuarios.</desc>
   </programme>
-  <programme channel="Pluto Western" start="20261103113015 +0000" stop="20261103132715 +0000">
-    <title>Arenas de muerte</title>
-    <desc>El malhechor estadounidense Joe January es contratado para llevar a Paul Bonnard en una expedición al desierto en busca de un tesoro.</desc>
+  <programme channel="Pluto Horror" start="20261104021202 +0000" stop="20261104033902 +0000">
+    <title>La maldición de la bruja del sueño</title>
+    <desc>Un grupo de supervivientes a un ataque de tiburón son perseguidos en sueños por un tiburón sobrenatural.</desc>
   </programme>
-  <programme channel="Pluto Western" start="20261103132715 +0000" stop="20261103150115 +0000">
-    <title>Al sur de San Luis</title>
-    <desc>Rancho Belltiene tres socios. Cuando estalla la Guerra Civil, el lugar es asolado por Luke Cottrell y sus secuaces.</desc>
+  <programme channel="Pluto Horror" start="20261104033902 +0000" stop="20261104050702 +0000">
+    <title>Vampyre Nation</title>
+    <desc>En el futuro, un sustituto sintético de la sangre es dispensado por el Gobierno rumano, lo que permite a los seres humanos y vampiros convivir.</desc>
   </programme>
-  <programme channel="Pluto Western" start="20261103150115 +0000" stop="20261103164215 +0000">
-    <title>El día de los forajidos</title>
-    <desc>Blaise Starrett es un ranchero que tiene problemas con los campesinos cuando llegan los forajidos.</desc>
+  <programme channel="Pluto Horror" start="20261104050702 +0000" stop="20261104051202 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <desc>Fillers Pluto TV</desc>
+  </programme>
+  <programme channel="Pluto Horror" start="20261104051202 +0000" stop="20261104064528 +0000">
+    <title>Fear X</title>
+    <desc>Harry (John Turturro), un agente de seguridad de un centro comercial, se dedica a investigar obsesivamente el asesinato de su mujer.</desc>
+  </programme>
+  <programme channel="Pluto Horror" start="20261104064528 +0000" stop="20261104083737 +0000">
+    <title>La muerte y la doncella</title>
+    <desc>En un país imaginario que acaba de sufrir una terrible dictadura, viven Paulina Escobar y su marido Gerardo, un prestigioso abogado. Una noche, Gerardo tiene una avería con su coche, pero un hombre se ofrece a ayudarle…</desc>
+  </programme>
+  <programme channel="Pluto Horror" start="20261104083737 +0000" stop="20261104102946 +0000">
+    <title>La muerte y la doncella</title>
+    <desc>En un país imaginario que acaba de sufrir una terrible dictadura, viven Paulina Escobar y su marido Gerardo, un prestigioso abogado. Una noche, Gerardo tiene una avería con su coche, pero un hombre se ofrece a ayudarle…</desc>
   </programme>
   <programme channel="Pluto Western" start="20261103164215 +0000" stop="20261103183117 +0000">
     <title>El luchador de Kentucky</title>
     <desc>John Breen es un soldado de caballería de Kentucky, que tras luchar en la Batalla de Nueva Orleans, emprende su largo viaje de vuelta a casa.</desc>
   </programme>
-  <programme channel="Pluto Comedias romanticas" start="20261103003857 +0000" stop="20261103022255 +0000">
-    <title>Matrimonio Original</title>
-    <desc>La única comedia norteamericana del maestro Hitchcock trata sobre las relaciones de amor-odio de un sofisticado matrimonio de Nueva York que descubre que, debido a un error administrativo, no están legalmente casados.</desc>
+  <programme channel="Pluto Western" start="20261103183117 +0000" stop="20261103200717 +0000">
+    <title>Los Dalton Contra Lucky Luke</title>
+    <desc>Cuatro torpes hermano intentan impresionar a su criminal madre asaltando un banco.</desc>
   </programme>
-  <programme channel="Pluto Comedias romanticas" start="20261103022255 +0000" stop="20261103041417 +0000">
-    <title>La Fiera de mi Niña</title>
-    <desc>David Huxley (Cary Grant) es un paleontólogo tímido y despistado que está a punto de acabar la laboriosa reconstrucción del esqueleto de un brontosaurio, del que sólo le falta una clavícula intercostal.</desc>
+  <programme channel="Pluto Western" start="20261103200717 +0000" stop="20261103215517 +0000">
+    <title>El Gran Duelo</title>
+    <desc>En los violentos desiertos del Oeste, y a pesar de las hostilidades de algunos y los intereses conflictivos de otros, Clayton intentar� que se cumpla la Ley.</desc>
   </programme>
-  <programme channel="Pluto Comedias romanticas" start="20261103041417 +0000" stop="20261103055557 +0000">
-    <title>Red Dog, una historia de lealtad</title>
-    <desc>Basada en una historia real, la película cuenta cómo un perro recorre Australia creando vínculos con los habitantes de un pueblo minero, convirtiéndose en un símbolo de amistad y lealtad.</desc>
+  <programme channel="Pluto Western" start="20261103215517 +0000" stop="20261104000340 +0000">
+    <title>Misión de audaces</title>
+    <desc>Un severo coronel de La Unión (Wayne) está al frente de un regimiento que debe infiltrarse en pleno territorio confederado para cumplir una difícil misión.</desc>
   </programme>
-  <programme channel="Pluto Comedias romanticas" start="20261103055557 +0000" stop="20261103074941 +0000">
-    <title>Amor de ida y vuelta</title>
-    <desc>Dos actores de fenómenos televisivos (Juego de Tronos y Sex Education) protagonizan este fantástico romance. Un joven (Asa Butterfield) inventa una máquina del tiempo para recuperar a su exnovia (Sophie Turner).</desc>
+  <programme channel="Pluto Western" start="20261104000340 +0000" stop="20261104025440 +0000">
+    <title>¡Agáchate, maldito!</title>
+    <desc>Un bandido de mala muerte y un experto en explosivos del IRA se rebelan contra el gobierno existente y se convierten en héroes de la Revolución Mexicana.</desc>
   </programme>
-  <programme channel="Pluto Comedias romanticas" start="20261103074941 +0000" stop="20261103092023 +0000">
-    <title>Sí quiero, pero no quiero</title>
-    <desc>Lauren, una joven divorciada que trabaja organizando bodas, se enamora del novio de una de sus clientas.</desc>
+  <programme channel="Pluto Western" start="20261104025440 +0000" stop="20261104042359 +0000">
+    <title>El discípulo del diablo</title>
+    <desc>Adaptación de una obra de Bernard Shaw basada en hechos ocurridos en 1777. Durante la Guerra de Independencia de los EEUU surgió una estrecha amistad entre un colono americano y un pastor protestante inglés.</desc>
   </programme>
-  <programme channel="Pluto Comedias romanticas" start="20261103092023 +0000" stop="20261103105521 +0000">
-    <title>Love After Love</title>
-    <desc>Tras la muerte de su padre, dos hijos se enfrentan a las pruebas de sus propias vidas mientras ven a su madre explorar sus propios comienzos.</desc>
+  <programme channel="Pluto Western" start="20261104042359 +0000" stop="20261104062114 +0000">
+    <title>Arenas de muerte</title>
+    <desc>Un joven americano, acompañado de un guía, trata de encontrar en el Sahara a su padre.</desc>
   </programme>
-  <programme channel="Pluto Comedias romanticas" start="20261103105521 +0000" stop="20261103124004 +0000">
-    <title>La segunda oportunidad</title>
-    <desc>Una madre divorciada intenta hacer las paces con su disfuncional familia encontrando una segunda oportunidad en el amor.</desc>
+  <programme channel="Pluto Western" start="20261104062114 +0000" stop="20261104080749 +0000">
+    <title>El pastor de las colinas</title>
+    <desc>Un misterioso desconocido llega a las montañas de Missouri y entabla amistad con una joven local, para desgracia del prometido de ella, que invierte su tiempo en encontrar a su propio padre para matarlo.</desc>
   </programme>
-  <programme channel="Pluto Comedias romanticas" start="20261103124004 +0000" stop="20261103142310 +0000">
-    <title>Con la magia en los zapatos</title>
-    <desc>Un zapatero, aburrido de su vida cotidiana, tropieza con una reliquia mágica que le permite convertirse en otras personas y ver el mundo de otra manera.</desc>
-  </programme>
-  <programme channel="Pluto Comedias romanticas" start="20261103142310 +0000" stop="20261103160506 +0000">
-    <title>Los líos de Gray</title>
-    <desc>Gray y Sam (Heather Graham y Tom Cavanagh) son hermanos, pero tan compatibles e inseparables que la gente cree que son pareja.</desc>
+  <programme channel="Pluto Western" start="20261104080749 +0000" stop="20261104093708 +0000">
+    <title>El discípulo del diablo</title>
+    <desc>Durante la Guerra de Independencia de los Estados Unidos (1775-1783), en la que los colonos de Nueva Inglaterra se sublevaron contra la metrópoli, surgió una estrecha amistad entre un colono americano y un pastor protestante inglés.</desc>
   </programme>
   <programme channel="Pluto Comedias romanticas" start="20261103160506 +0000" stop="20261103180211 +0000">
     <title>Algo Prestado</title>
     <desc>Las amistades se ponen a prueba y los secretos salen a la luz cuando Rachel, soltera recalcitrante, se enamora de Dex, el prometido de su mejor amiga Darcy.</desc>
   </programme>
-  <programme channel="Pluto Psycho" start="20261103002854 +0000" stop="20261103020638 +0000">
-    <title>Deja Vu</title>
-    <desc>Tres hermanos viajan a un río de Oregón para esparcir las cenizas de su padre muerto. Allí, uno de sus hijos desaparece. El hecho despierta el recuerdo de un secuestro ocurrido en ese mismo lugar 30 años atrás. Para hallarlo, deberá enfrentar su pasado.</desc>
+  <programme channel="Pluto Comedias romanticas" start="20261103180211 +0000" stop="20261103194517 +0000">
+    <title>Con la magia en los zapatos</title>
+    <desc>Un zapatero, aburrido de su vida cotidiana, tropieza con una reliquia mágica que le permite convertirse en otras personas y ver el mundo de otra manera.</desc>
   </programme>
-  <programme channel="Pluto Psycho" start="20261103020638 +0000" stop="20261103032038 +0000">
-    <title>Un cubo de sangre</title>
-    <desc>Un ayudante de camarero tonto es aclamado como artista por un gato muerto cubierto de yeso que se confunde con una hábil estatuilla. El deseo de más elogios pronto conduce a una serie de obras cada vez más mortales.</desc>
+  <programme channel="Pluto Comedias romanticas" start="20261103194517 +0000" stop="20261103215310 +0000">
+    <title>Hermosas criaturas</title>
+    <desc>Ethan y Lena se conocen y se enamoran, y juntos descubren los oscuros secretos de sus respectivas familias, su historia y su ciudad en este thriller romántico sobrenatural.</desc>
   </programme>
-  <programme channel="Pluto Psycho" start="20261103032038 +0000" stop="20261103045438 +0000">
-    <title>Ausentes</title>
-    <desc>Julia y Samuel se mudan con los niños a una urbanización en las afueras de la ciudad. Parece un lugar ideal, pero Julia pronto descubrirá que tan idílico paraje esconde algo extraño. Se da cuenta de que la urbanización está completamente desierta.</desc>
+  <programme channel="Pluto Comedias romanticas" start="20261103215310 +0000" stop="20261103235015 +0000">
+    <title>Algo Prestado</title>
+    <desc>Las amistades se ponen a prueba y los secretos salen a la luz cuando Rachel, soltera recalcitrante, se enamora de Dex, el prometido de su mejor amiga Darcy.</desc>
   </programme>
-  <programme channel="Pluto Psycho" start="20261103045438 +0000" stop="20261103045938 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <desc>Fillers Pluto TV</desc>
+  <programme channel="Pluto Comedias romanticas" start="20261103235015 +0000" stop="20261104013321 +0000">
+    <title>Con la magia en los zapatos</title>
+    <desc>Un zapatero, aburrido de su vida cotidiana, tropieza con una reliquia mágica que le permite convertirse en otras personas y ver el mundo de otra manera.</desc>
   </programme>
-  <programme channel="Pluto Psycho" start="20261103045938 +0000" stop="20261103062838 +0000">
-    <title>La Senda</title>
-    <desc>En un intento por salvar su matrimonio, Raúl decide pasar las Navidades con su familia en una cabaña aislada en medio de la nieve. Durante la Nochebuena todo parece marchar bien, pero, de repente, la situación da un giro totalmente inesperado.</desc>
+  <programme channel="Pluto Comedias romanticas" start="20261104013321 +0000" stop="20261104030439 +0000">
+    <title>Memoria Perdida</title>
+    <desc>Un periodista con pérdida de memoria regresa a su pueblo natal y se reencuentra con su tío y antiguo amor.</desc>
   </programme>
-  <programme channel="Pluto Psycho" start="20261103062838 +0000" stop="20261103081438 +0000">
-    <title>Dictado</title>
-    <desc>Tras quedarse huérfana, Julia es acogida por Daniel y Laura. Daniel percibe en la conducta de la niña un carácter amenazador que le trae a la memoria un pasado terrorífico que había decidido enterrar para siempre.</desc>
+  <programme channel="Pluto Comedias romanticas" start="20261104030439 +0000" stop="20261104043937 +0000">
+    <title>Love After Love</title>
+    <desc>Tras la muerte de su padre, dos hijos se enfrentan a las pruebas de sus propias vidas mientras ven a su madre explorar sus propios comienzos.</desc>
   </programme>
-  <programme channel="Pluto Psycho" start="20261103081438 +0000" stop="20261103092438 +0000">
-    <title>Dark Angel</title>
-    <desc>La relación de Alex y Evan toma un giro diferente a medida que ambos comienzan de nuevo. Kelly da un salto hacia lo desconocido y Christian propone a Chloe, el nuevo jefe de Miranda, con una canción.</desc>
+  <programme channel="Pluto Comedias romanticas" start="20261104043937 +0000" stop="20261104062420 +0000">
+    <title>La segunda oportunidad</title>
+    <desc>Una madre divorciada intenta hacer las paces con su disfuncional familia encontrando una segunda oportunidad en el amor.</desc>
   </programme>
-  <programme channel="Pluto Psycho" start="20261103092438 +0000" stop="20261103103538 +0000">
-    <title>Dark Angel</title>
-    <desc>Kelly tiene la mejor noche de su vida, mientras que Alex y Rex tienen una de las más difíciles. Evan se sumerge en el mundo publicitario.</desc>
+  <programme channel="Pluto Comedias romanticas" start="20261104062420 +0000" stop="20261104080616 +0000">
+    <title>Los líos de Gray</title>
+    <desc>Gray y Sam (Heather Graham y Tom Cavanagh) son hermanos, pero tan compatibles e inseparables que la gente cree que son pareja.</desc>
   </programme>
-  <programme channel="Pluto Psycho" start="20261103103538 +0000" stop="20261103121138 +0000">
-    <title>The Dead Girl ES</title>
-    <desc>El asesinato de una joven reúne las historias de cinco mujeres: Lonely Arden descubre el cuerpo, Leah cree que la víctima puede ser su hermana desaparecida. Melora cree que es su hija, mientras que Ruth hace un descubrimiento aterrador.</desc>
-  </programme>
-  <programme channel="Pluto Psycho" start="20261103121138 +0000" stop="20261103134838 +0000">
-    <title>Oscuras intenciones</title>
-    <desc>Molly is struggling with being a new mom, but after meeting Beth, things temporarily improve only to turn as Beth's dark intentions are brought to light.</desc>
-  </programme>
-  <programme channel="Pluto Psycho" start="20261103134838 +0000" stop="20261103155438 +0000">
-    <title>A pleno sol</title>
-    <desc>Tom Ripley es un prodigioso impostor, gorrón, falsificador y delincuente de la improvisación en general</desc>
+  <programme channel="Pluto Comedias romanticas" start="20261104080616 +0000" stop="20261104100321 +0000">
+    <title>Algo Prestado</title>
+    <desc>Las amistades se ponen a prueba y los secretos salen a la luz cuando Rachel, soltera recalcitrante, se enamora de Dex, el prometido de su mejor amiga Darcy.</desc>
   </programme>
   <programme channel="Pluto Psycho" start="20261103155438 +0000" stop="20261103174647 +0000">
     <title>La muerte y la doncella</title>
@@ -952,133 +920,45 @@
     <title>Las apariencias</title>
     <desc>Una mujer sospecha que su marido la puede estar engañando y trata de vengarse con consecuencias imprevisibles</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103012948 +0000" stop="20261103024341 +0000">
-    <title>Ju-on (La maldición)</title>
-    <desc>Un profesor visita la casa de uno de sus alumnos después de que el chico desaparece, solo para encontrar una excusa horrorosa para su ausencia de la escuela.</desc>
+  <programme channel="Pluto Psycho" start="20261103194147 +0000" stop="20261103212647 +0000">
+    <title>Alarma en el Expreso</title>
+    <desc>Centroeuropa. El tren Transcontinental  sufre un retraso. Los pasajeros pernoctan en un hotel. Iris Henderson habla con una anciana, la Sra. Froy. En el tren, Iris se da cuenta de la desaparición de la anciana, pero los pasajeros afirman que no existe.</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103024341 +0000" stop="20261103040455 +0000">
-    <title>Terror En El Lago Ness</title>
-    <desc>Un grupo es enviado a descubrir qué le pasó a un barco perdido recientemente... sólo para descubrir el horror que les espera acechando abajo.</desc>
+  <programme channel="Pluto Psycho" start="20261103212647 +0000" stop="20261103234518 +0000">
+    <title>Cut off</title>
+    <desc>El policía forense Paul Herzfeld encuentra dentro de la cabeza de un cuerpo mutilado una cápsula que contiene un número de teléfono y el nombre de su hija.</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103040455 +0000" stop="20261103045411 +0000">
-    <title>Z Nation</title>
-    <desc>Un grupo empieza su viaje transportando al único superviviente del virus zombi de NY a Los Ángeles, CA.</desc>
+  <programme channel="Pluto Psycho" start="20261103234518 +0000" stop="20261104010218 +0000">
+    <title>El autoestopista</title>
+    <desc>Dos pescadores recogen a un autoestopista que resulta ser un convicto psicótico.</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103045411 +0000" stop="20261103045511 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  <programme channel="Pluto Psycho" start="20261104010218 +0000" stop="20261104023451 +0000">
+    <title>El ministerio del miedo</title>
+    <desc>Tras dos años de reclusión, Stephen Neale abandona el sanatorio mental de Lembridge. Se encuentra entonces con un mundo distinto que nada tiene que ver con lo que él conocía.</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103045511 +0000" stop="20261103045611 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  <programme channel="Pluto Psycho" start="20261104023451 +0000" stop="20261104034122 +0000">
+    <title>El doble asesinato en la calle Morgue</title>
+    <desc>A finales del siglo XIX, un sádico doctor de París se dedica a secuestrar a mujeres jóvenes para realizar experimentos que puedan ayudarle a confirmar sus teorías sobre la evolución del mono al hombre.</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103045611 +0000" stop="20261103045711 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  <programme channel="Pluto Psycho" start="20261104034122 +0000" stop="20261104045912 +0000">
+    <title>Barba azul</title>
+    <desc>Un peligroso asesino, apodado Barba Azul, tiene aterrorizados a los habitantes de París. A todos menos a Lucille, una modesta costurera que, desoyendo el clamor popular, decide salir a dar un paseo nocturno por la ciudad.</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103045711 +0000" stop="20261103045811 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  <programme channel="Pluto Psycho" start="20261104045912 +0000" stop="20261104063238 +0000">
+    <title>Fear X</title>
+    <desc>Harry (John Turturro), un agente de seguridad de un centro comercial, se dedica a investigar obsesivamente el asesinato de su mujer.</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103045811 +0000" stop="20261103045911 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  <programme channel="Pluto Psycho" start="20261104063238 +0000" stop="20261104074038 +0000">
+    <title>El malvado Zaroff</title>
+    <desc>El conde Zaroff es un loco millonario que vive en una isla solitaria y se dedica a cazar a los náufragos como si fueran animales.</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103045911 +0000" stop="20261103050011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  <programme channel="Pluto Psycho" start="20261104074038 +0000" stop="20261104085438 +0000">
+    <title>Un cubo de sangre</title>
+    <desc>Un ayudante de camarero tonto es aclamado como artista por un gato muerto cubierto de yeso que se confunde con una hábil estatuilla. El deseo de más elogios pronto conduce a una serie de obras cada vez más mortales.</desc>
   </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103050011 +0000" stop="20261103053011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103053011 +0000" stop="20261103060011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103060011 +0000" stop="20261103063011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103063011 +0000" stop="20261103070011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103070011 +0000" stop="20261103073011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103073011 +0000" stop="20261103080011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103080011 +0000" stop="20261103083011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103083011 +0000" stop="20261103090011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103090011 +0000" stop="20261103093011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103093011 +0000" stop="20261103100011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103100011 +0000" stop="20261103103011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103103011 +0000" stop="20261103110011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103110011 +0000" stop="20261103113011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103113011 +0000" stop="20261103120011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103120011 +0000" stop="20261103123011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103123011 +0000" stop="20261103130011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103130011 +0000" stop="20261103133011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103133011 +0000" stop="20261103140011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103140011 +0000" stop="20261103143011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103143011 +0000" stop="20261103150011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103150011 +0000" stop="20261103153011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103153011 +0000" stop="20261103160011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
-  </programme>
-  <programme channel="Pluto Gore and slasher" start="20261103160011 +0000" stop="20261103163011 +0000">
-    <title>Pluto TV Gore &amp; Slasher</title>
-    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  <programme channel="Pluto Psycho" start="20261104085438 +0000" stop="20261104102838 +0000">
+    <title>Ausentes</title>
+    <desc>Julia y Samuel se mudan con los niños a una urbanización en las afueras de la ciudad. Parece un lugar ideal, pero Julia pronto descubrirá que tan idílico paraje esconde algo extraño. Se da cuenta de que la urbanización está completamente desierta.</desc>
   </programme>
   <programme channel="Pluto Gore and slasher" start="20261103163011 +0000" stop="20261103170011 +0000">
     <title>Pluto TV Gore &amp; Slasher</title>
@@ -1092,33 +972,101 @@
     <title>Pluto TV Gore &amp; Slasher</title>
     <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
   </programme>
-  <programme channel="Pluto Sensacine TV" start="20261103012636 +0000" stop="20261103030613 +0000">
-    <title>Irrational Man</title>
-    <desc>Escrita y dirigida por Woody Allen. Un atormentado profesor de Filosofía (Joaquin Phoenix) encuentra las ganas de vivir cuando comete un acto existencial junto a su amiga y alumna (Emma Stone).</desc>
+  <programme channel="Pluto Gore and slasher" start="20261103180011 +0000" stop="20261103183011 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
   </programme>
-  <programme channel="Pluto Sensacine TV" start="20261103030613 +0000" stop="20261103044119 +0000">
-    <title>Código fuente</title>
-    <desc>Jake Gyllenhaal protagoniza este thriller de acción sobre un hombre que despierta en el cuerpo de otro hombre para descubrir que solo él tiene la capacidad de detener un ataque terrorista en un tren de cercanías.</desc>
+  <programme channel="Pluto Gore and slasher" start="20261103183011 +0000" stop="20261103190011 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
   </programme>
-  <programme channel="Pluto Sensacine TV" start="20261103044119 +0000" stop="20261103063243 +0000">
-    <title>La ola</title>
-    <desc>El experimento de un profesor de instituto para demostrar a sus alumnos cómo es la vida bajo una dictadura se descontrola terriblemente cuando forma una unidad social con vida propia.</desc>
+  <programme channel="Pluto Gore and slasher" start="20261103190011 +0000" stop="20261103193011 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
   </programme>
-  <programme channel="Pluto Sensacine TV" start="20261103063243 +0000" stop="20261103083903 +0000">
-    <title>Rush</title>
-    <desc>James Hunt y Niki Lauda, dos pilotos de Fórmula 1 extremadamente hábiles, mantienen entre sí una intensa rivalidad. Sin embargo, es su enemistad lo que les lleva al límite.</desc>
+  <programme channel="Pluto Gore and slasher" start="20261103193011 +0000" stop="20261103200011 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
   </programme>
-  <programme channel="Pluto Sensacine TV" start="20261103083903 +0000" stop="20261103105347 +0000">
-    <title>The Ghost Writer</title>
-    <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
+  <programme channel="Pluto Gore and slasher" start="20261103200011 +0000" stop="20261103203011 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
   </programme>
-  <programme channel="Pluto Sensacine TV" start="20261103105347 +0000" stop="20261103131041 +0000">
-    <title>El velo pintado</title>
-    <desc>Un médico británico lucha contra una epidemia de cólera en un pequeño pueblo chino, mientras está atrapado en un matrimonio sin amor con una mujer infiel.</desc>
+  <programme channel="Pluto Gore and slasher" start="20261103203011 +0000" stop="20261103210011 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
   </programme>
-  <programme channel="Pluto Sensacine TV" start="20261103131041 +0000" stop="20261103153154 +0000">
-    <title>Fahrenheit 11/9</title>
-    <desc>Michael Moore analiza la política estadounidense y el ascenso de Donald Trump al poder.</desc>
+  <programme channel="Pluto Gore and slasher" start="20261103210011 +0000" stop="20261103213011 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261103213011 +0000" stop="20261103220011 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261103220011 +0000" stop="20261103233537 +0000">
+    <title>The Crucifixion</title>
+    <desc>Una periodista investiga la muerte de una monja durante un exorcismo.</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261103233537 +0000" stop="20261104012432 +0000">
+    <title>Buzz Cut</title>
+    <desc>Los Hash House Harriers se encuentran con un apicultor asesino</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104012432 +0000" stop="20261104025958 +0000">
+    <title>The Crucifixion</title>
+    <desc>Una periodista investiga la muerte de una monja durante un exorcismo.</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104025958 +0000" stop="20261104044837 +0000">
+    <title>Cop Secret</title>
+    <desc>Un 'superpolicía' fortachón que reniega de su sexualidad se enamora de su nuevo compañero mientras investigan unos robos a bancos donde parece que no se ha robado nada...</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104044837 +0000" stop="20261104044937 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104044937 +0000" stop="20261104045037 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104045037 +0000" stop="20261104045537 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104045537 +0000" stop="20261104050037 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104050037 +0000" stop="20261104053037 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104053037 +0000" stop="20261104060037 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104060037 +0000" stop="20261104063037 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104063037 +0000" stop="20261104070037 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104070037 +0000" stop="20261104073037 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104073037 +0000" stop="20261104080037 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104080037 +0000" stop="20261104083037 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
+  </programme>
+  <programme channel="Pluto Gore and slasher" start="20261104083037 +0000" stop="20261104090037 +0000">
+    <title>Pluto TV Gore &amp; Slasher</title>
+    <desc>El mejor cine gore y los serial-killers más sádicos y violentos reunidos en un solo canal. Películas con vísceras, casquería y sangre a raudales, todas las noches a partir de las 23.00 en Pluto TV Gore &amp; Slasher</desc>
   </programme>
   <programme channel="Pluto Sensacine TV" start="20261103153154 +0000" stop="20261103181554 +0000">
     <title>La decisión de Sophie</title>
@@ -1128,69 +1076,37 @@
     <title>Aprendiz de gigoló</title>
     <desc>Un hombre convence a su amigo para trabajar como gigoló, lo que provoca situaciones cómicas y complicadas.</desc>
   </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103002553 +0000" stop="20261103022253 +0000">
-    <title>Shopping (De tiendas)</title>
-    <desc>La guerra entre la policía y las bandas juveniles se agrava porque sólo los agentes están obligados a pelear sin armas. Billy, intenta recuperar su puesto al ver que tras su salida de la cárcel Tommy ha ocupado su lugar al frente del grupo.</desc>
+  <programme channel="Pluto Sensacine TV" start="20261103194837 +0000" stop="20261103212437 +0000">
+    <title>Breve encuentro</title>
+    <desc>Laura Jesson coincide con el Dr. Alec Harvey en la sala de espera de la estación de ferrocarril. Se reúnen semanalmente para tomar café en la sala de espera de la estación mientras esperan sus trenes de regreso a casa y se acaban enamorando.</desc>
   </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103022253 +0000" stop="20261103022453 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <desc>Fillers Pluto TV ES</desc>
+  <programme channel="Pluto Sensacine TV" start="20261103212437 +0000" stop="20261103231737 +0000">
+    <title>Mi pie izquierdo</title>
+    <desc>Ganadora de Oscars (1989): Mejor Actor y Actriz secundaria. Basada en la biografía de Christy Brown. Aquejado de parálisis cerebral, gracias a su tenacidad y al incondicional apoyo de su madre, consiguió su integración en la sociedad.</desc>
   </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103022453 +0000" stop="20261103022653 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <desc>Fillers Pluto TV ES</desc>
+  <programme channel="Pluto Sensacine TV" start="20261103231737 +0000" stop="20261104005714 +0000">
+    <title>Irrational Man</title>
+    <desc>Escrita y dirigida por Woody Allen. Un atormentado profesor de Filosofía (Joaquin Phoenix) encuentra las ganas de vivir cuando comete un acto existencial junto a su amiga y alumna (Emma Stone).</desc>
   </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103022653 +0000" stop="20261103045553 +0000">
-    <title>Melancolía</title>
-    <desc>Con motivo de su matrimonio, Justine y Michael dan una suntuosa recepción en la casa de la hermana de Justine y de su cuñado. Mientras tanto, el planeta Melancholia se dirige hacia la Tierra.</desc>
+  <programme channel="Pluto Sensacine TV" start="20261104005714 +0000" stop="20261104031158 +0000">
+    <title>The Ghost Writer</title>
+    <desc>El cineasta Roman Polanski aumenta el suspense en un thriller sobre un escritor (Ewan McGregor) que redacta las memorias de un ex primer ministro (Pierce Brosnan).</desc>
   </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103045553 +0000" stop="20261103050353 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <desc>Fillers Pluto TV ES</desc>
+  <programme channel="Pluto Sensacine TV" start="20261104031158 +0000" stop="20261104044358 +0000">
+    <title>39 escalones</title>
+    <desc>En Londres, un hombre intenta ayudar a un agente de contraespionaje.</desc>
   </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103050353 +0000" stop="20261103060254 +0000">
-    <title>Unidad de investigación</title>
-    <desc>Katia, ginecóloga embarazada, es hallada muerta en su clínica de fertilidad.</desc>
+  <programme channel="Pluto Sensacine TV" start="20261104044358 +0000" stop="20261104080658 +0000">
+    <title>El Gatopardo</title>
+    <desc>El príncipe de Salina trata de preservar su familia y su clase en medio de los trastornos sociales de la Sicilia de 1860.</desc>
   </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103060254 +0000" stop="20261103061054 +0000">
-    <title>Fillers Pluto TV ES</title>
-    <desc>Fillers Pluto TV ES</desc>
+  <programme channel="Pluto Sensacine TV" start="20261104080658 +0000" stop="20261104101658 +0000">
+    <title>No</title>
+    <desc>Ante la presión internacional, el dictador chileno Augusto Pinochet se ve obligado a organizar un referéndum de apoyo a su presidencia en 1988. Los líderes de la oposición convencen a René Saavedra, un joven y atrevido ejecutivo publicitario...</desc>
   </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103061054 +0000" stop="20261103071026 +0000">
-    <title>Unidad de investigación</title>
-    <desc>Un extenista muere lapidado; su academia escondía fuertes rivalidades.</desc>
-  </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103071026 +0000" stop="20261103080819 +0000">
-    <title>Unidad de investigación</title>
-    <desc>La unidad y Alice Nevers investigan una serie de crímenes entre Niza y París.</desc>
-  </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103080819 +0000" stop="20261103091247 +0000">
-    <title>Unidad de investigación</title>
-    <desc>Jeanne Lorieux se ve implicada en el caso.</desc>
-  </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103091247 +0000" stop="20261103101216 +0000">
-    <title>Leo Mattei: brigada de protección</title>
-    <desc>Jeremy Levasseur secuestra a su propio hijo delante de su ex compañera. Encargados de la investigación, el comandante Mattéï y su equipo tendrán que encontrar al niño lo antes posible antes de que su padre intente abandonar el país con él.</desc>
-  </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103101216 +0000" stop="20261103111029 +0000">
-    <title>Leo Mattei: brigada de protección</title>
-    <desc>Tras cinco años de cautiverio, Léa Jacmin, de 11 años, logra escapar de las garras de su secuestrador. Para poder detenerlo lo antes posible Léo Mattéï y sus hombres deben conseguir que la pequeña Léa hable.</desc>
-  </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103111029 +0000" stop="20261103120938 +0000">
-    <title>Leo Mattei: brigada de protección</title>
-    <desc>Perseguido por una banda, el pequeño Romain, de catorce años sale del colegio y un coche lo atropella. El conductor se escapa. La brigada investiga en el instituto para descubrir al autor de este atropello</desc>
-  </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103120938 +0000" stop="20261103140538 +0000">
-    <title>Agatha Christie: Poirot ES: Muerte en las nubes</title>
-    <desc>Mientras Poirot duerme durante un vuelo de París a Londres, un notorio prestamista francés es asesinado mediante un dardo envenenado.</desc>
-  </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103140538 +0000" stop="20261103160138 +0000">
-    <title>Agatha Christie: Poirot ES: El misterioso caso del zapato</title>
-    <desc>Poco después de que Poirot realice una visita rutinaria al dentista, el doctor se suicida. Por ello, el inspector jefe Japp recluta al célebre detective de dos maneras: como consultor y como testigo.</desc>
-  </programme>
-  <programme channel="Paramount Network de Pluto" start="20261103160138 +0000" stop="20261103165114 +0000">
-    <title>Los Misterios de Murdoch</title>
-    <desc>Las sospechas recaen sobre Murdoch cuando su desagradable vecino es asesinado.</desc>
+  <programme channel="Pluto Sensacine TV" start="20261104101658 +0000" stop="20261104123258 +0000">
+    <title>Pride</title>
+    <desc>Verano de 1984. Thatcher gobierna y el Sindicato Nacional de Mineros (NUM) ha convocado una huelga. Durante la manifestación del Orgullo Gay en Londres, un grupo de lesbianas y gays se dedica a recaudar fondos para ayudar a las familias de los mineros.</desc>
   </programme>
   <programme channel="Paramount Network de Pluto" start="20261103165114 +0000" stop="20261103174051 +0000">
     <title>Los Misterios de Murdoch</title>
@@ -1199,6 +1115,54 @@
   <programme channel="Paramount Network de Pluto" start="20261103174051 +0000" stop="20261103183027 +0000">
     <title>Los Misterios de Murdoch</title>
     <desc>Murdoch, Brackenreid y Ogden son señalados como cómplices cuando Terrance Meyers se enfrenta a cargos de traición.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261103183027 +0000" stop="20261103192004 +0000">
+    <title>Los Misterios de Murdoch</title>
+    <desc>La doctora Julia Ogden y Effie intentan desentrañar la muerte de la dueña de una peluquería ocurrida fuera de la jurisdicción de Murdoch.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261103192004 +0000" stop="20261103200941 +0000">
+    <title>Los Misterios de Murdoch</title>
+    <desc>Murdoch sospecha que un colega tiene vínculos con un asesinato; Ogden coquetea con el peligro; Crabtree conoce a un intenso admirador.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261103200941 +0000" stop="20261103205918 +0000">
+    <title>Los Misterios de Murdoch</title>
+    <desc>Tras una impactante e inesperada muerte, el detective William Murdoch está seguro de que alguien cercano a la comisaría nº 4 está implicado en el asunto. Utilizando su gran capacidad de percepción y observación, está seguro de resolver el misterio.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261103205918 +0000" stop="20261103223513 +0000">
+    <title>Tiempo de héroes</title>
+    <desc>Con el destino de la Segunda Guerra Mundial a punto de ceder a favor de los alemanes, el mayor Jones lidera la formación de un nuevo comando de asalto del ejército británico. Su primera misión secreta será la de introducirse en la Noruega ocupada.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261103223513 +0000" stop="20261104001813 +0000">
+    <title>Contrato para matar</title>
+    <desc>John Harmon es un agente retirado del gobierno que es "reactivado" para un último trabajo: los terroristas islámicos y los narcos mexicanos formar una alianza para introducir caos a los Estados Unidos.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261104001813 +0000" stop="20261104015711 +0000">
+    <title>Gangster Nº 1</title>
+    <desc>Un mafioso recuerda su ascenso en el Londres de los años sesenta. La ambición y la envidia lo llevan a traicionar a su mentor, Freddie Mays, para convertirse en el gánster más temido de la ciudad.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261104015711 +0000" stop="20261104034543 +0000">
+    <title>Primavera en Normandía</title>
+    <desc>Un panadero observa cómo su vecina repite sin saberlo la historia de Madame Bovary.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261104034543 +0000" stop="20261104052018 +0000">
+    <title>El secreto del lago</title>
+    <desc>Un adolescente descubre un oscuro secreto que desata una peligrosa cadena de acontecimientos.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261104052018 +0000" stop="20261104070228 +0000">
+    <title>Los misterios de Murdoch: Bajo la cola del Dragón</title>
+    <desc>En la década de 1890, el inspector William Murdoch utiliza técnicas forenses radicales para la época, incluidas las pruebas de huellas dactilares y de detección, y con este enfoque más científico puede resolver los casos más resonantes de la ciudad.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261104070228 +0000" stop="20261104070428 +0000">
+    <title>Fillers Pluto TV ES</title>
+    <desc>Fillers Pluto TV ES</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261104070428 +0000" stop="20261104080510 +0000">
+    <title>Unidad de investigación</title>
+    <desc>El equipo investiga a una joven llamada Fabienne, que fue golpeada en la carretera, y descubre que la víctima fue apuñalada anteriormente en un área de descanso.</desc>
+  </programme>
+  <programme channel="Paramount Network de Pluto" start="20261104080510 +0000" stop="20261104090842 +0000">
+    <title>Unidad de investigación</title>
+    <desc>El equipo investiga el secuestro de un niño, Félix, que desapareció del campamento de verano donde pasaba sus vacaciones. Se sospecha de un abusador que fue liberado recientemente.</desc>
   </programme>
   <channel id="AXN">
     <display-name>AXN</display-name>
@@ -1365,47 +1329,7 @@
     <display-name>Pelis Top (Rakuten TV) 1080</display-name>
     <icon src="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png" />
   </channel>
-  <programme start="20261103020000 +0100" stop="20261103024500 +0100" channel="AXN">
-    <title>Mentes criminales T12 E8 · Espantapájaros</title>
-    <desc>Series,Policíaca | 2016 | ⑫ | ★6.2/10
-· Cuando los restos de doce personas aparecen en un riachuelo, el equipo viaja a Yakima, Washington, para encontrar al asesino.
-· País: Estados Unidos
-· Reparto: Joe Mantegna, Thomas Gibson, Shemar Moore, A.J. Cook, Matthew Gray Gubler, Kirsten Vangsness, Jeanne Tripplehorn, Paget Brewster.
-· Productora: The Mark Gordon Company, ABC Studios, CBS Television Studios, Touchstone Television.</desc>
-  </programme>
-  <programme start="20261103024500 +0100" stop="20261103032700 +0100" channel="AXN">
-    <title>Mentes criminales T12 E9 · Criminología avanzada</title>
-    <desc>Series,Policíaca | 2016 | ⑫ | ★6.4/10
-· Mientras Rossi dirige la elaboración de un perfil durante su cumpleaños, recibe una llamada de su némesis, el asesino en serie Tommy Yates, indicándole la ubicación de su última victima.
-· País: Estados Unidos
-· Reparto: Joe Mantegna, Thomas Gibson, Shemar Moore, A.J. Cook, Matthew Gray Gubler, Kirsten Vangsness, Jeanne Tripplehorn.
-· Productora: The Mark Gordon Company, ABC Studios, CBS Television Studios, Touchstone Television.</desc>
-  </programme>
-  <programme start="20261103032700 +0100" stop="20261103040800 +0100" channel="AXN">
-    <title>Mentes criminales T12 E10 · Búsqueda y destrucción</title>
-    <desc>Series,Policíaca | 2016 | ⑫ | ★6.4/10
-· El equipo de la Unidad de Análisis de Conducta investiga una serie de invasiones en hogares de barrios de clase alta de San Diego con víctimas mortales.
-· País: Estados Unidos
-· Reparto: Joe Mantegna, Thomas Gibson, Shemar Moore, A.J. Cook, Matthew Gray Gubler, Kirsten Vangsness, Jeanne Tripplehorn.
-· Productora: The Mark Gordon Company, ABC Studios, CBS Television Studios, Touchstone Television.</desc>
-  </programme>
-  <programme start="20261103040800 +0100" stop="20261103045100 +0100" channel="AXN">
-    <title>Mentes criminales T12 E11 · Tensión superficial</title>
-    <desc>Series,Policíaca | 2016 | ⑫ | ★6.2/10
-· Un extraño jeroglífico aparece bajo la axila de un indigente fallecido.
-· País: Estados Unidos
-· Reparto: Joe Mantegna, Thomas Gibson, Shemar Moore, A.J. Cook, Matthew Gray Gubler, Kirsten Vangsness, Jeanne Tripplehorn.
-· Productora: The Mark Gordon Company, ABC Studios, CBS Television Studios, Touchstone Television.</desc>
-  </programme>
-  <programme start="20261103045100 +0100" stop="20261103053500 +0100" channel="AXN">
-    <title>Mentes criminales T12 E12 · Un buen marido</title>
-    <desc>Series,Policíaca | 2016 | ⑫ | ★6.2/10
-· El equipo investigará la aparición de múltiples cuerpos masculinos demasiado dañados para ser identificados.
-· País: Estados Unidos
-· Reparto: Joe Mantegna, Thomas Gibson, Shemar Moore, A.J. Cook, Matthew Gray Gubler, Kirsten Vangsness, Jeanne Tripplehorn.
-· Productora: The Mark Gordon Company, ABC Studios, CBS Television Studios, Touchstone Television.</desc>
-  </programme>
-  <programme start="20261103053500 +0100" stop="20261103061700 +0100" channel="AXN">
+  <programme start="20261103063600 +0100" stop="20261103071700 +0100" channel="AXN">
     <title>Hudson y Rex T4 E1 · Sid y Nancy</title>
     <desc>Series,Policíaca | 2022 | ⑫ | ★6.0/10
 · Cuando los cuerpos de dos excursionistas son descubiertos cerca de un sendero costero, el equipo va a la caza de un dúo de fugitivos.
@@ -1415,16 +1339,17 @@
 · Guion: Peter Mitchell.
 · Productora: Lisa Porter, Nataline Rodrigues, Oliver Bachert, Christina Jennings, Scott Garvie, Pope Productions.</desc>
   </programme>
-  <programme start="20261103061700 +0100" stop="20261103070000 +0100" channel="AXN">
+  <programme start="20261103071700 +0100" stop="20261103075900 +0100" channel="AXN">
     <title>Hudson y Rex T4 E2 · Ups, lo mordí otra vez</title>
     <desc>Series,Policíaca | 2022 | ⑫ | ★6.2/10
 · Cuando se sospecha que una estrella del pop con problemas mató a su prometido, el equipo descubre las lealtades distorsionadas que se forman cuando los lazos personales se encuentran con las trampas de la fama.
 · País: Canadá
-· Dirección: Eleanore Lindo.
-· Reparto: Karen Mok, John Reardon, Justin Kelly, Kevin Hanchard, Mayko Nguyen.
-· Productora: Pope Productions.</desc>
+· Dirección: Eleanor Lindo, Eleanore Lindo.
+· Reparto: Benz Antoine, Pat Dempsey, Ruth Lawrence, Ennis Esmer, Anshuman Pandey, Clare Follett, Ananya Antony, Andy Malone, Karen Mok, John Reardon, Justin Kelly, Kevin Hanchard, Mayko Nguyen.
+· Guion: Mary Pedersen.
+· Productora: Ken Cuperus, Lisa Porter, Nataline Rodrigues, Pope Productions.</desc>
   </programme>
-  <programme start="20261103070000 +0100" stop="20261103074300 +0100" channel="AXN">
+  <programme start="20261103075900 +0100" stop="20261103084100 +0100" channel="AXN">
     <title>Hudson y Rex T4 E3 · Rex marca el lugar</title>
     <desc>Series,Policíaca | 2022 | ⑫ | ★6.0/10
 · Después de que un periodista sea asesinado en la búsqueda de un tesoro pirata enterrado, Charlie y Rex se adentran en el competitivo mundo de los cazadores de tesoros para descubrir al asesino.
@@ -1434,7 +1359,7 @@
 · Guion: Joseph Milando.
 · Productora: Paul Pope, Oliver Bachert, Lisa Porter, Nataline Rodrigues, Scott Garvie, Christina Jennings, Friedemann Goez, Pope Productions.</desc>
   </programme>
-  <programme start="20261103074300 +0100" stop="20261103082800 +0100" channel="AXN">
+  <programme start="20261103084100 +0100" stop="20261103092400 +0100" channel="AXN">
     <title>Hudson y Rex T4 E4 · Líder de la manada</title>
     <desc>Series,Policíaca | 2022 | ⑫ | ★6.0/10
 · Mientras Sarah se embarca en una aventura en el desierto, Charlie y Rex investigan el asesinato de un profesor universitario.
@@ -1444,7 +1369,7 @@
 · Guion: Keri Ferencz.
 · Productora: Oliver Bachert, Scott Garvie, Friedemann Goez, Pope Productions.</desc>
   </programme>
-  <programme start="20261103082800 +0100" stop="20261103091500 +0100" channel="AXN">
+  <programme start="20261103092400 +0100" stop="20261103100600 +0100" channel="AXN">
     <title>Hudson y Rex T4 E5 · Cua´nto vale Rex</title>
     <desc>Series,Policíaca | 2022 | ⑫ | ★6.2/10
 · Roban toda la fortuna de un gurú de la bolsa, lo que pone a Charlie y Rex tras la pista de un ladrón muy sorprendente.
@@ -1454,7 +1379,7 @@
 · Guion: Keri Ferencz.
 · Productora: Lisa Porter, Nataline Rodrigues, Christina Jennings, Friedemann Goez, Scott Garvie, Oliver Bachert, Paul Pope, Ken Cuperus, Peter Mitchell, Pope Productions.</desc>
   </programme>
-  <programme start="20261103091500 +0100" stop="20261103101200 +0100" channel="AXN">
+  <programme start="20261103100600 +0100" stop="20261103105000 +0100" channel="AXN">
     <title>Hudson y Rex T4 E6 · El puente del muerto</title>
     <desc>Series,Policíaca | 2022 | ⑫ | ★5.8/10
 · Después de que unos delincuentes secuestren un camión que transportaba explosivos líquidos, Charlie y Rex se ven envueltos en una carrera contrarreloj para evitar que el caso explote por los aires.
@@ -1464,7 +1389,7 @@
 · Guion: Ken Cuperus.
 · Productora: Christina Jennings, Friedemann Goez, Lisa Porter, Scott Garvie, Oliver Bachert, Peter Mitchell, Paul Pope, Nataline Rodrigues, Pope Productions.</desc>
   </programme>
-  <programme start="20261103101200 +0100" stop="20261103110900 +0100" channel="AXN">
+  <programme start="20261103105000 +0100" stop="20261103113900 +0100" channel="AXN">
     <title>Hudson y Rex T4 E7 · Una pun~alada en la dark web</title>
     <desc>Series,Policíaca | 2022 | ⑫ | ★6.0/10
 · Cuando un florista que cultiva hongos mágicos es asesinado, Hudson y Rex investigan el sórdido mundo interno de Internet.
@@ -1474,7 +1399,7 @@
 · Guion: Jennifer Kassabian.
 · Productora: Ken Cuperus, Peter Mitchell, Nataline Rodrigues, Christina Jennings, Friedemann Goez, Scott Garvie, Oliver Bachert, Paul Pope, Lisa Porter, Pope Productions.</desc>
   </programme>
-  <programme start="20261103110900 +0100" stop="20261103120700 +0100" channel="AXN">
+  <programme start="20261103113900 +0100" stop="20261103123000 +0100" channel="AXN">
     <title>Hudson y Rex T4 E8 · Muerte súbita</title>
     <desc>Series,Policíaca | 2022 | ⑫ | ★6.0/10
 · El nuevo jugador y estrella rusa del equipo de hockey Ice Pirates es encontrado asesinado la mañana después de unirse a otros jugadores en una caminata nocturna de formación de equipo. La sospecha cae inmediatamente sobre el capitán del equipo.
@@ -1484,7 +1409,7 @@
 · Guion: Derek Schreyer.
 · Productora: Oliver Bachert, Shaftesbury Films, Paul Pope, Friedemann Goez, Christina Jennings, Beta Film, Peter Mitchell, Ken Cuperus, Lisa Porter, Scott Garvie, Nataline Rodrigues, Rogers Media, Pope Productions.</desc>
   </programme>
-  <programme start="20261103120700 +0100" stop="20261103132100 +0100" channel="AXN">
+  <programme start="20261103123000 +0100" stop="20261103133600 +0100" channel="AXN">
     <title>DOC T3 E1 · Despertares</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.0/10
 · Andrea Fanti debe enfrentarse a su primer día como jefe de medicina interna tras la pérdida de su hijo Mattia.
@@ -1494,7 +1419,7 @@
 · Guion: Edoardo A Gino.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261103132100 +0100" stop="20261103143700 +0100" channel="AXN">
+  <programme start="20261103133600 +0100" stop="20261103144800 +0100" channel="AXN">
     <title>DOC T3 E2 · Soltar</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.2/10
 · La recuperación de nuevos recuerdos de Doc altera el equilibrio de la sala: Agnese teme que la recuperación de su memoria pueda desestabilizar la nueva vida de Andrea.
@@ -1504,7 +1429,7 @@
 · Guion: Edoardo A Gino.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261103143700 +0100" stop="20261103154700 +0100" channel="AXN">
+  <programme start="20261103144800 +0100" stop="20261103155600 +0100" channel="AXN">
     <title>DOC T3 E3 · Perfecta</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.0/10
 · Doc escarba en busca de nuevos recuerdos y tiene una pista clara que seguir. Mientras, ingresa en planta un famoso bloguero de viajes, que es confiado al cuidado de Federico.
@@ -1514,7 +1439,7 @@
 · Guion: Edoardo A Gino.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261103154700 +0100" stop="20261103170400 +0100" channel="AXN">
+  <programme start="20261103155600 +0100" stop="20261103170900 +0100" channel="AXN">
     <title>DOC T3 E4 · Sueños</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.2/10
 · La búsqueda de la memoria de Doc llega a un callejón sin salida. Sin embargo, quizás Andrea haya encontrado un nuevo motivo para seguir adelante: el concurso coral en honor de Mattia.
@@ -1524,7 +1449,7 @@
 · Guion: Edoardo A Gino.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261103170400 +0100" stop="20261103181100 +0100" channel="AXN">
+  <programme start="20261103170900 +0100" stop="20261103181500 +0100" channel="AXN">
     <title>DOC T3 E5 · El beneficio de la duda</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.0/10
 · Tras un nuevo recuerdo, a Andrea le cuesta creer lo que su memoria parece sugerirle, hasta el punto de pedirle a Enrico que suspenda su terapia.
@@ -1534,7 +1459,7 @@
 · Guion: Edoardo A Gino.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261103181100 +0100" stop="20261103192000 +0100" channel="AXN">
+  <programme start="20261103181500 +0100" stop="20261103192300 +0100" channel="AXN">
     <title>DOC T3 E6 · La Vela</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.0/10
 · Tras las últimas revelaciones, Andrea ve cómo se desmoronan algunas de las certezas que tenía sobre su pasado. Para esclarecer lo sucedido, arrastra también en su búsqueda a Giulia.
@@ -1544,7 +1469,7 @@
 · Guion: Viola Rispoli, Edoardo A Gino.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261103192000 +0100" stop="20261103203200 +0100" channel="AXN">
+  <programme start="20261103192300 +0100" stop="20261103203200 +0100" channel="AXN">
     <title>DOC T3 E7 · Fantasmas</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.2/10
 · Las sesiones de terapia con Enrico parecen tener efectos secundarios repentinos en Andrea, que ve cómo se cuestiona su capacidad para atender a los pacientes.
@@ -1564,7 +1489,7 @@
 · Guion: Francesco Balletta, Francesco Arlanch, Edoardo A Gino.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261103214500 +0100" stop="20261103225700 +0100" channel="AXN">
+  <programme start="20261103214500 +0100" stop="20261103225600 +0100" channel="AXN">
     <title>DOC T3 E9 · Evitarse</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.0/10
 · El miedo a descubrir el terrible secreto que se esconde en sus recuerdos es demasiado fuerte para Andrea. Esta negación de la verdad, sin embargo, le aleja de su departamento.
@@ -1574,7 +1499,7 @@
 · Guion: Gaia Rispoli, Edoardo A Gino, Paolo Piccirillo, Francesco Arlanch.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261103225700 +0100" stop="20261104002900 +0100" channel="AXN">
+  <programme start="20261103225600 +0100" stop="20261104002700 +0100" channel="AXN">
     <title>Venganza</title>
     <desc>Cine,Acción | 2008 | ⑱ | ★7.4/10
 · Kim, una adolescente estadounidense de viaje en París, es secuestrada por una banda dedicada a la trata de blancas. Su padre viaja a Europa para rescatar a su hija cueste lo que cueste.
@@ -1586,7 +1511,7 @@
 · Producción: Michael Mandaville, Franck Lebreton, Luc Besson.
 · Productora: Europa Corp, M6 Films, Grive Productions, Canal+, TPS Star, Twentieth Century Fox.</desc>
   </programme>
-  <programme start="20261104002900 +0100" stop="20261104021500 +0100" channel="AXN">
+  <programme start="20261104002700 +0100" stop="20261104021100 +0100" channel="AXN">
     <title>A Todo Gas · The Fast And The Furious ()</title>
     <desc>Cine,Acción | 2001 | ⑫ | ★7.2/10
 · Un agente de policía infiltrado investiga al líder de una banda de carreras ilegales.
@@ -1598,7 +1523,7 @@
 · Producción: Neal H. Moritz, Doug Claybourne, Creighton Bellinger.
 · Productora: Neal H. Moritz Productions, Michel Gondry, Universal Pictures, Original Film.</desc>
   </programme>
-  <programme start="20261104021500 +0100" stop="20261104031800 +0100" channel="AXN">
+  <programme start="20261104021100 +0100" stop="20261104031400 +0100" channel="AXN">
     <title>DOC T3 E1 · Despertares</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.0/10
 · Andrea Fanti debe enfrentarse a su primer día como jefe de medicina interna tras la pérdida de su hijo Mattia.
@@ -1608,7 +1533,7 @@
 · Guion: Edoardo A Gino.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261104031800 +0100" stop="20261104042400 +0100" channel="AXN">
+  <programme start="20261104031400 +0100" stop="20261104041900 +0100" channel="AXN">
     <title>DOC T3 E2 · Soltar</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.2/10
 · La recuperación de nuevos recuerdos de Doc altera el equilibrio de la sala: Agnese teme que la recuperación de su memoria pueda desestabilizar la nueva vida de Andrea.
@@ -1618,7 +1543,7 @@
 · Guion: Edoardo A Gino.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261104042400 +0100" stop="20261104052400 +0100" channel="AXN">
+  <programme start="20261104041900 +0100" stop="20261104052100 +0100" channel="AXN">
     <title>DOC T3 E3 · Perfecta</title>
     <desc>Series,Drama | 2024 | ⑫ | ★6.0/10
 · Doc escarba en busca de nuevos recuerdos y tiene una pista clara que seguir. Mientras, ingresa en planta un famoso bloguero de viajes, que es confiado al cuidado de Federico.
@@ -1628,7 +1553,7 @@
 · Guion: Edoardo A Gino.
 · Productora: Lux Vide, Rai Fiction, Luca Bernabei.</desc>
   </programme>
-  <programme start="20261104052400 +0100" stop="20261104060900 +0100" channel="AXN">
+  <programme start="20261104052100 +0100" stop="20261104082100 +0100" channel="AXN">
     <title>Hudson y Rex T4 E4 · Líder de la manada</title>
     <desc>Series,Policíaca | 2022 | ⑫ | ★6.0/10
 · Mientras Sarah se embarca en una aventura en el desierto, Charlie y Rex investigan el asesinato de un profesor universitario.
@@ -1638,27 +1563,17 @@
 · Guion: Keri Ferencz.
 · Productora: Oliver Bachert, Scott Garvie, Friedemann Goez, Pope Productions.</desc>
   </programme>
-  <programme start="20261104060900 +0100" stop="20261104070500 +0100" channel="AXN">
-    <title>Hudson y Rex T4 E5 · Cua´nto vale Rex</title>
-    <desc>Series,Policíaca | 2022 | ⑫ | ★6.2/10
-· Roban toda la fortuna de un gurú de la bolsa, lo que pone a Charlie y Rex tras la pista de un ladrón muy sorprendente.
-· País: Canadá
-· Dirección: Gary Harvey.
-· Reparto: Meghan Ory, Annette Powell, Antoinette Fekete, Imali Perera, Steve O'Connell, Andrew Kay, Ali Momen, Taylor Hubbard, Diesel vom Burgimwald, Agam Darshi, Paul Rowe, Karen Mok, John Reardon, Justin Kelly, Kevin Hanchard, Mayko Nguyen.
-· Guion: Keri Ferencz.
-· Productora: Lisa Porter, Nataline Rodrigues, Christina Jennings, Friedemann Goez, Scott Garvie, Oliver Bachert, Paul Pope, Ken Cuperus, Peter Mitchell, Pope Productions.</desc>
-  </programme>
-  <programme start="20261104070500 +0100" stop="20261104074900 +0100" channel="AXN">
+  <programme start="20261104082100 +0100" stop="20261104090500 +0100" channel="AXN">
     <title>Chicago Fire T10 E15 · La pieza que falta</title>
     <desc>Series,Acción | 2021 | ⑫ | ★6.2/10
 · Tras una lesión a raíz de un incendio industrial, Severide y Seager trabajan juntos para investigar una pista anónima. Además, Kidd busca a la persona adecuada para ocupar el puesto vacante en el Camión 81.
 · País: Estados Unidos
 · Dirección: Daniel Willis, Joe Chappelle.
-· Reparto: Taylor Kinney, Jesse Spencer, Eamonn Walker, Joe Minoso, Yuri Sardarov, Christian Stolte, Kara Killmer, Monica Raymund, Jonas Maines, Amy J Johnson, Jeff Christian, Billy D'Ambra, Paul Schackman, Lauren German, Charlie Barnett.
+· Reparto: Taylor Kinney, Jesse Spencer, Eamonn Walker, Joe Minoso, Yuri Sardarov, Tim Hopper, Christian Stolte, Kara Killmer, Monica Raymund, Jonas Maines, Amy J Johnson, Jeff Christian, Anthony Ferraris, Billy D'Ambra, Paul Schackman, Lauren German, Charlie Barnett.
 · Guion: Andrea Newman, Michael Gilvary.
-· Productora: Wolf Films, Universal Television, Peter Jankowski, Wolf Entertainment, Reza Tabrizi.</desc>
+· Productora: Wolf Films, Universal Television, Craig Jackson, Dick Wolf, Peter Jankowski, Wolf Entertainment, Reza Tabrizi.</desc>
   </programme>
-  <programme start="20261104074900 +0100" stop="20261104083300 +0100" channel="AXN">
+  <programme start="20261104090500 +0100" stop="20261104094800 +0100" channel="AXN">
     <title>Chicago Med T1 E15 · Legado</title>
     <desc>Series,Drama | 2015 | ⑫ | ★6.8/10
 · Manning y Charles tienen un paciente de 16 años con dolor abdominal que se niega a tomar medicinas.
@@ -1666,7 +1581,7 @@
 · Reparto: Nick Gehlfuss, Yaya DaCosta, Torrey DeVitto, Rachel DiPillo, Colin Donnell, Brian Tee.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261104083300 +0100" stop="20261104092400 +0100" channel="AXN">
+  <programme start="20261104094800 +0100" stop="20261104103200 +0100" channel="AXN">
     <title>Chicago Med T1 E16 · Desorden</title>
     <desc>Series,Drama | 2015 | ⑫ | ★6.6/10
 · Los doctores Rhodes y Downey tienen un desacuerdo sobre la cirugía cardíaca de emergencia de un paciente.
@@ -1674,7 +1589,7 @@
 · Reparto: Nick Gehlfuss, Yaya DaCosta, Torrey DeVitto, Rachel DiPillo, Colin Donnell, Brian Tee.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261104092400 +0100" stop="20261104102000 +0100" channel="AXN">
+  <programme start="20261104103200 +0100" stop="20261104111600 +0100" channel="AXN">
     <title>Chicago Med T1 E17 · Abstinencia</title>
     <desc>Series,Drama | 2015 | ⑫ | ★6.6/10
 · April y el Dr. Halstead tratan a un alcohólico sin hogar con una pierna rota.
@@ -1682,7 +1597,7 @@
 · Reparto: Nick Gehlfuss, Yaya DaCosta, Torrey DeVitto, Rachel DiPillo, Colin Donnell, Brian Tee.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261104102000 +0100" stop="20261104111600 +0100" channel="AXN">
+  <programme start="20261104111600 +0100" stop="20261104120200 +0100" channel="AXN">
     <title>Chicago Med T1 E18 · Oportunidad</title>
     <desc>Series,Drama | 2015 | ⑫ | ★6.6/10
 · En el final de temporada, Rhodes atiende a Downey, Halstead gana claridad y Sarah duda sobre su futuro profesional.
@@ -1690,7 +1605,7 @@
 · Reparto: Nick Gehlfuss, Yaya DaCosta, Torrey DeVitto, Rachel DiPillo, Colin Donnell, Brian Tee.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261104111600 +0100" stop="20261104121200 +0100" channel="AXN">
+  <programme start="20261104120200 +0100" stop="20261104125000 +0100" channel="AXN">
     <title>Chicago Med T2 E1 · Curar el alma</title>
     <desc>Series,Drama | 2016 | ⑫ | ★6.8/10
 · Rhodes comienza su especialización en cirugía cardiotorácica con el exigente doctor Latham. Mientras Choi asume su nuevo cargo, Manning atiende a una embarazada herida en un grave accidente.
@@ -1698,7 +1613,7 @@
 · Reparto: Torrey DeVitto, Yaya DaCosta, Nick Gehlfuss, Rachel DiPillo, Colin Donnell, Brian Tee, S. Epatha Merkerson.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261104121200 +0100" stop="20261104130800 +0100" channel="AXN">
+  <programme start="20261104125000 +0100" stop="20261104134100 +0100" channel="AXN">
     <title>Chicago Med T2 E2 · Victoria derrota</title>
     <desc>Series,Drama | 2016 | ⑫ | ★6.8/10
 · Manning y Rhodes atienden por separado a dos bebés enfermos y descubren que los casos podrían estar relacionados. Mientras Choi afronta la violencia de las bandas, Reese se adapta a su nuevo puesto.
@@ -1706,7 +1621,7 @@
 · Reparto: Torrey DeVitto, Yaya DaCosta, Nick Gehlfuss, Rachel DiPillo, Colin Donnell, Brian Tee, S. Epatha Merkerson.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261104130800 +0100" stop="20261104141000 +0100" channel="AXN">
+  <programme start="20261104134100 +0100" stop="20261104143100 +0100" channel="AXN">
     <title>Chicago Med T2 E3 · Historia natural</title>
     <desc>Series,Drama | 2016 | ⑫ | ★6.6/10
 · Manning y Clarke intentan diagnosticar a un paciente que no habla inglés. Mientras Rhodes opera sin consultar a Latham, una reunión familiar de Maggie saca a la luz secretos del pasado.
@@ -1714,7 +1629,7 @@
 · Reparto: Torrey DeVitto, Yaya DaCosta, Nick Gehlfuss, Rachel DiPillo, Colin Donnell, Brian Tee, S. Epatha Merkerson.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261104141000 +0100" stop="20261104153600 +0100" channel="AXN">
+  <programme start="20261104143100 +0100" stop="20261104155200 +0100" channel="AXN">
     <title>Men in Black II (Hombres de negro II)</title>
     <desc>Cine,Comedia | 2002 | ⑦ | ★6.6/10
 · Cuando el 'hombre de negro' J necesita ayuda contra la amenaza alienígena, acude en busca de su antiguo compañero K.
@@ -1726,7 +1641,7 @@
 · Producción: Laurie MacDonald, Walter F. Parkes.
 · Productora: Columbia Pictures, Amblin Entertainment.</desc>
   </programme>
-  <programme start="20261104153600 +0100" stop="20261104171400 +0100" channel="AXN">
+  <programme start="20261104155200 +0100" stop="20261104172900 +0100" channel="AXN">
     <title>El pasajero · El Pasajero</title>
     <desc>Cine,Thriller | 2018 | ⑫ | ★7.6/10
 · Durante su trayecto habitual en tren de vuelta a casa, Michael MacCauley es abordado por una misteriosa mujer que le ofrece cien mil dólares a cambio de encontrar a un pasajero del tren sin más información que su alias, su destino y que porta una bolsa.
@@ -1738,25 +1653,27 @@
 · Producción: Alex Heineman, Andrew Rona.
 · Productora: StudioCanal, Picture Company, The, Ombra Films, The Picture Company.</desc>
   </programme>
-  <programme start="20261104171400 +0100" stop="20261104180800 +0100" channel="AXN">
+  <programme start="20261104172900 +0100" stop="20261104181800 +0100" channel="AXN">
     <title>Chicago Fire T10 E16 · Violento y rápido</title>
     <desc>Series,Acción | 2021 | ⑫ | ★6.0/10
 · Cruz forma un vínculo con un joven inmigrante que conoce mientras lucha contra el incendio de un apartamento. Además, Squad planea hacerle una broma al nuevo miembro de su equipo.
 · País: Estados Unidos
-· Dirección: John Fortenberry.
-· Reparto: David Eigenberg, Taylor Kinney, Carley Cornelius, Jesse Spencer, Andy Allo, Eamonn Walker, Chris Mansa, Yuri Sardarov, Carlos S Sanchez, Christian Stolte, Zak Black, Monica Raymund, Cathleen Brumback, Tammy Cotton, Travis Delgado, Lauren German, Charlie Barnett.
+· Dirección: John Fortenberry, Lisa Campbell, Stephanie A Marquardt.
+· Reparto: David Eigenberg, Taylor Kinney, Carley Cornelius, Jesse Spencer, Andy Allo, Eamonn Walker.
 · Guion: Elizabeth Sherman.
-· Productora: Wolf Films, Universal Television, Wolf Entertainment, Arthur W. Forney, Andrea Newman, Peter Jankowski, Reza Tabrizi.</desc>
+· Productora: Wolf Films, Universal Television, Wolf Entertainment, Michael Gilvary, Arthur W. Forney, Andrea Newman.</desc>
   </programme>
-  <programme start="20261104180800 +0100" stop="20261104190200 +0100" channel="AXN">
+  <programme start="20261104181800 +0100" stop="20261104191100 +0100" channel="AXN">
     <title>Chicago Fire T10 E17 · Mantenerte a salvo</title>
     <desc>Series,Acción | 2021 | ⑫ | ★6.2/10
 · Severide y Kidd trabajan con la policía en un accidente de tráfico sospechoso. Además, la relación de Hawkins y Violet está en peligro, mientas Chloe y Cruz se adaptan a una nueva dinámica familiar.
 · País: Estados Unidos
-· Reparto: Taylor Kinney, Jesse Spencer, Eamonn Walker, Yuri Sardarov, Christian Stolte, Monica Raymund, Lauren German, Charlie Barnett.
-· Productora: Wolf Films, Universal Television.</desc>
+· Dirección: Joe Chappelle, Reza Tabrizi.
+· Reparto: Taylor Kinney, Jesse Spencer, Josh Razavi, Eamonn Walker, Caitlin Carver, Neil O'Callaghan.
+· Guion: Ashley J Cooper.
+· Productora: Wolf Films, Universal Television, Michael Gilvary, Arthur W. Forney, Peter Jankowski, Wolf Entertainment.</desc>
   </programme>
-  <programme start="20261104190200 +0100" stop="20261104195800 +0100" channel="AXN">
+  <programme start="20261104191100 +0100" stop="20261104200100 +0100" channel="AXN">
     <title>Chicago Fire T10 E18 · Lo que llevas dentro</title>
     <desc>Series,Acción | 2021 | ⑫ | ★6.0/10
 · El equipo debe trabajar unido cuando uno de los suyos es tomado como rehén.
@@ -1765,7 +1682,7 @@
 · Reparto: Taylor Kinney, Jason Amplo, Jesse Spencer, Chris Mansa, Eamonn Walker, Caitlin Carver, Yuri Sardarov, Joseph Russo, Christian Stolte, Brad Armacost, Monica Raymund, Everett Osborne, Carolyn M Blackinton, Bridget Bodo, Lauren German, Charlie Barnett.
 · Productora: Wolf Films, Universal Television, Reza Tabrizi, Peter Jankowski, Michael Gilvary, Andrea Newman, Wolf Entertainment.</desc>
   </programme>
-  <programme start="20261104195800 +0100" stop="20261104205500 +0100" channel="AXN">
+  <programme start="20261104200100 +0100" stop="20261104205500 +0100" channel="AXN">
     <title>Chicago Fire T10 E19 · Terminar lo que has empezado</title>
     <desc>Series,Acción | 2021 | ⑫ | ★6.2/10
 · El equipo aborda el incendio causado por un motor de reacción y un compañero es acusado de un robo relacionado con el incidente.
@@ -1785,16 +1702,17 @@
 · Guion: Alec Wells.
 · Productora: Universal Television, Steve Chikerotis, Eric Matsumoto.</desc>
   </programme>
-  <programme start="20261104214800 +0100" stop="20261104225000 +0100" channel="AXN">
+  <programme start="20261104214800 +0100" stop="20261104224800 +0100" channel="AXN">
     <title>Chicago Fire T14 E9 · Crimen pasional</title>
     <desc>Series,Acción | 2026 | ⑫ | ★5.0/10
 · Un miembro de la familia del 51 sigue en peligro mientras Severide avanza en su investigación con la ayuda de Cruz.
 · País: Estados Unidos
+· Dirección: Stephanie A Marquardt.
 · Reparto: David Eigenberg, Taylor Kinney, Tim Hopper, Miranda Rae Mayo, Anthony Ferraris, Leroy S. Williams III, Dina Monk, Chemlahyah Yisrael, Katherine Wettermann, Drew Patterson, Paige Bourne, Thea Camara, Christine Horn, Isaac Stephen Montgomery, Hero Hunter, Joe Daru, Michael Accardo.
 · Guion: Alec Wells.
 · Productora: Universal Television, Dick Wolf, Wolf Entertainment.</desc>
   </programme>
-  <programme start="20261104225000 +0100" stop="20261105002100 +0100" channel="AXN">
+  <programme start="20261104224800 +0100" stop="20261105001700 +0100" channel="AXN">
     <title>Venganza: Conexión Estambul</title>
     <desc>Cine,Acción | 2012 | ⑫ | ★6.8/10
 · El antiguo agente de la CIA Bryan Mills se encuentra disfrutando de unas vacaciones en Estambul cuando un grupo de sicarios intenta secuestrarlo a él, a su hija y a su ex mujer. Kim, la hija de Bryan, deberá ser quien rescate esta vez a su padre.
@@ -1806,7 +1724,7 @@
 · Producción: Luc Besson.
 · Productora: Europa Corp.</desc>
   </programme>
-  <programme start="20261105002100 +0100" stop="20261105020200 +0100" channel="AXN">
+  <programme start="20261105001700 +0100" stop="20261105015800 +0100" channel="AXN">
     <title>2 Fast 2 Furious () · A todo gas 2</title>
     <desc>Cine,Acción | 2003 | ⑫ | ★6.8/10
 · Un expolicía recibe la peligrosa misión de atrapar a un poderoso traficante de drogas.
@@ -1818,7 +1736,7 @@
 · Producción: Neal H. Moritz.
 · Productora: Mikona Productions GmbH &amp; Co. KG, Original Film, Universal Pictures.</desc>
   </programme>
-  <programme start="20261105020200 +0100" stop="20261105025100 +0100" channel="AXN">
+  <programme start="20261105015800 +0100" stop="20261105024200 +0100" channel="AXN">
     <title>Chicago Med T1 E18 · Oportunidad</title>
     <desc>Series,Drama | 2015 | ⑫ | ★6.6/10
 · En el final de temporada, Rhodes atiende a Downey, Halstead gana claridad y Sarah duda sobre su futuro profesional.
@@ -1826,7 +1744,7 @@
 · Reparto: Nick Gehlfuss, Yaya DaCosta, Torrey DeVitto, Rachel DiPillo, Colin Donnell, Brian Tee.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261105025100 +0100" stop="20261105033500 +0100" channel="AXN">
+  <programme start="20261105024200 +0100" stop="20261105032500 +0100" channel="AXN">
     <title>Chicago Med T2 E1 · Curar el alma</title>
     <desc>Series,Drama | 2016 | ⑫ | ★6.8/10
 · Rhodes comienza su especialización en cirugía cardiotorácica con el exigente doctor Latham. Mientras Choi asume su nuevo cargo, Manning atiende a una embarazada herida en un grave accidente.
@@ -1834,7 +1752,7 @@
 · Reparto: Torrey DeVitto, Yaya DaCosta, Nick Gehlfuss, Rachel DiPillo, Colin Donnell, Brian Tee, S. Epatha Merkerson.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261105033500 +0100" stop="20261105042000 +0100" channel="AXN">
+  <programme start="20261105032500 +0100" stop="20261105040900 +0100" channel="AXN">
     <title>Chicago Med T2 E2 · Victoria derrota</title>
     <desc>Series,Drama | 2016 | ⑫ | ★6.8/10
 · Manning y Rhodes atienden por separado a dos bebés enfermos y descubren que los casos podrían estar relacionados. Mientras Choi afronta la violencia de las bandas, Reese se adapta a su nuevo puesto.
@@ -1842,7 +1760,7 @@
 · Reparto: Torrey DeVitto, Yaya DaCosta, Nick Gehlfuss, Rachel DiPillo, Colin Donnell, Brian Tee, S. Epatha Merkerson.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261105042000 +0100" stop="20261105050400 +0100" channel="AXN">
+  <programme start="20261105040900 +0100" stop="20261105045300 +0100" channel="AXN">
     <title>Chicago Med T2 E3 · Historia natural</title>
     <desc>Series,Drama | 2016 | ⑫ | ★6.6/10
 · Manning y Clarke intentan diagnosticar a un paciente que no habla inglés. Mientras Rhodes opera sin consultar a Latham, una reunión familiar de Maggie saca a la luz secretos del pasado.
@@ -1850,59 +1768,24 @@
 · Reparto: Torrey DeVitto, Yaya DaCosta, Nick Gehlfuss, Rachel DiPillo, Colin Donnell, Brian Tee, S. Epatha Merkerson.
 · Productora: Wolf Films, Universal Television.</desc>
   </programme>
-  <programme start="20261105050400 +0100" stop="20261105054700 +0100" channel="AXN">
+  <programme start="20261105045300 +0100" stop="20261105051800 +0100" channel="AXN">
+    <title>Close Up: Ben Stiller</title>
+    <desc>Documentales,Documental cine | 2023 | TP | ★6.2/10
+· Amplio recorrido por la vida y filmografía de las estrellas más relevantes del panorama hollywoodiense.
+· País: Estados Unidos
+· Dirección: Martin Saint Charles.
+· Reparto: Ben Stiller, Ving Rhames, Michelle Monaghan.
+· Productora: David Freydt.</desc>
+  </programme>
+  <programme start="20261105051800 +0100" stop="20261105063000 +0100" channel="AXN">
     <title>Chicago Fire T10 E16 · Violento y rápido</title>
     <desc>Series,Acción | 2021 | ⑫ | ★6.0/10
 · Cruz forma un vínculo con un joven inmigrante que conoce mientras lucha contra el incendio de un apartamento. Además, Squad planea hacerle una broma al nuevo miembro de su equipo.
 · País: Estados Unidos
-· Dirección: John Fortenberry.
-· Reparto: David Eigenberg, Taylor Kinney, Carley Cornelius, Jesse Spencer, Andy Allo, Eamonn Walker, Chris Mansa, Yuri Sardarov, Carlos S Sanchez, Christian Stolte, Zak Black, Monica Raymund, Cathleen Brumback, Tammy Cotton, Travis Delgado, Lauren German, Charlie Barnett.
+· Dirección: John Fortenberry, Lisa Campbell, Stephanie A Marquardt.
+· Reparto: David Eigenberg, Taylor Kinney, Carley Cornelius, Jesse Spencer, Andy Allo, Eamonn Walker.
 · Guion: Elizabeth Sherman.
-· Productora: Wolf Films, Universal Television, Wolf Entertainment, Arthur W. Forney, Andrea Newman, Peter Jankowski, Reza Tabrizi.</desc>
-  </programme>
-  <programme start="20261105054700 +0100" stop="20261105063000 +0100" channel="AXN">
-    <title>Chicago Fire T10 E17 · Mantenerte a salvo</title>
-    <desc>Series,Acción | 2021 | ⑫ | ★6.2/10
-· Severide y Kidd trabajan con la policía en un accidente de tráfico sospechoso. Además, la relación de Hawkins y Violet está en peligro, mientas Chloe y Cruz se adaptan a una nueva dinámica familiar.
-· País: Estados Unidos
-· Reparto: Taylor Kinney, Jesse Spencer, Eamonn Walker, Yuri Sardarov, Christian Stolte, Monica Raymund, Lauren German, Charlie Barnett.
-· Productora: Wolf Films, Universal Television.</desc>
-  </programme>
-  <programme start="20261103015300 +0100" stop="20261103033100 +0100" channel="AXN Movies">
-    <title>Los Cazafantasmas</title>
-    <desc>Cine,Fantástico | 1984 | TP | ★7.8/10
-· Tras ser expulsados de la universidad donde realizan sus trabajos de investigación, tres parapsicólogos deciden montar un negocio dedicado a liberar Nueva York de todo tipo de fenómenos psíquicos.
-· País: Estados Unidos y Reino Unido
-· Dirección: Ivan Reitman.
-· Reparto: Bill Murray, Dan Aykroyd, Sigourney Weaver, Rick Moranis, Harold Ramis, Annie Potts, William Atherton, Ernie Hudson, David Margulies.
-· Guion: Harold Ramis, Dan Aykroyd.
-· Música: Elmer Bernstein.
-· Producción: Ivan Reitman.
-· Productora: Columbia Pictures.</desc>
-  </programme>
-  <programme start="20261103033100 +0100" stop="20261103051100 +0100" channel="AXN Movies">
-    <title>Los · Cazafantasmas II</title>
-    <desc>Cine,Acción | 1989 | TP | ★7.6/10
-· Cinco años después de salvar a la ciudad de Nueva York de la mayor amenaza sobrenatural de la historia, los Cazafantasmas han pasado al olvido ante la ausencia de amenazas ectoplásmicas en la ciudad.
-· País: Estados Unidos
-· Dirección: Ivan Reitman.
-· Reparto: Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis, Rick Moranis, Ernie Hudson, Annie Potts, Peter MacNicol, Harris Yulin.
-· Guion: Harold Ramis, Dan Aykroyd.
-· Música: Randy Edelman.
-· Producción: Ivan Reitman.
-· Productora: Columbia Pictures.</desc>
-  </programme>
-  <programme start="20261103051100 +0100" stop="20261103073000 +0100" channel="AXN Movies">
-    <title>Cazafantasmas</title>
-    <desc>Cine,Fantástico | 2016 | TP | ★6.6/10
-· La mansión Aldrige, la única gran casa neoyorquina del XIX que se conserva en perfecto estado, es un destino turístico al que sus guías añaden picante con alguna que otra trampa sobrenatural. El problema es que no todo lo que cuentan resulta ser mentira.
-· País: Australia y Estados Unidos
-· Dirección: Paul Feig.
-· Reparto: Melissa McCarthy, Kristen Wiig, Leslie Jones, Karan Soni, Kate McKinnon, Ernie Hudson.
-· Guion: Paul Feig, Katie Dippold.
-· Música: Theodore Shapiro.
-· Producción: Ivan Reitman, Amy Pascal.
-· Productora: Columbia Pictures, LStar Capital, Village Roadshow Pictures, The Montecito Picture Company, Pascal Pictures, Feigco Entertainment.</desc>
+· Productora: Wolf Films, Universal Television, Wolf Entertainment, Michael Gilvary, Arthur W. Forney, Andrea Newman.</desc>
   </programme>
   <programme start="20261103073000 +0100" stop="20261103085000 +0100" channel="AXN Movies">
     <title>A 47 metros 2: El terror emerge</title>
@@ -2278,6 +2161,101 @@
 · Dirección: Don Siegel.
 · Reparto: Teresa Wright, Macdonald Carey, Dolores Moran, Adele Mara, Edgar Barrier, John Craven, Jack Elam, Ralph Sanford, Gene Roth, Dolores Fuller, Jack Carr, Frank Baker.</desc>
   </programme>
+  <programme start="20261103215000 +0100" stop="20261104000000 +0100" channel="8madrid TV">
+    <title>El escaparate</title>
+    <desc>Entretenimiento | TP</desc>
+  </programme>
+  <programme start="20261104000000 +0100" stop="20261104011500 +0100" channel="8madrid TV">
+    <title>El hijo de Kong</title>
+    <desc>Cine,Aventura,Acción | 1933 | ⑦ | ★5.4/10
+· Tras el desastroso final de su anterior aventura, Carl Denham monta otra expedición y parte de nuevo desde Nueva York para regresar a la isla de Kong. Allí descubre a su hijo, un gorila blanco que simpatizará con los exploradores.
+· País: Estados Unidos
+· Dirección: Ernest B. Schoedsack.
+· Reparto: Robert Armstrong, Helen Mack, Frank Reicher, John Marston, Victor Wong, Ed Brady, Steve Clemente, Noble Johnson, Lee Kohlmar, Gertrude Short, Kathrin Clare Ward, Clarence Wilson.</desc>
+  </programme>
+  <programme start="20261104011500 +0100" stop="20261104031500 +0100" channel="8madrid TV">
+    <title>La tienda de Galería del Coleccionista</title>
+    <desc>Promocional | TP
+· Espacio promocional de venta.</desc>
+  </programme>
+  <programme start="20261104031500 +0100" stop="20261104045000 +0100" channel="8madrid TV">
+    <title>Las alegres chicas de El Molino</title>
+    <desc>Cine,Musical,Comedy | 1977 | ⑱ | ★4.8/10
+· In 1970s Barcelona, Piper, comedian at the theater El Molino, has specialized in effeminate roles, but in reality is a conqueror. His wife Nita sets a trap for him.
+· País: España
+· Dirección: José Antonio de la Loma.
+· Reparto: Conrado Tortosa 'Pipper', Silvia Solar, Christa Leem, Carlos Tristán, Consuelo de Nieva, José María Blanco, Carlos Lucena, Asunción Vitoria, Luis Induni, Rafael Anglada.</desc>
+  </programme>
+  <programme start="20261104045000 +0100" stop="20261104061500 +0100" channel="8madrid TV">
+    <title>La loba y la Paloma</title>
+    <desc>Cine,Drama,Terror | 1974 | ⑱ | ★5.1/10
+· Una niña es la única persona que conoce el paradero de una estatua de oro que se disputan unos personajes sin escrúpulos. Pero la niña, traumatizada por haber presenciado la muerte de su padre, ha estado internada en un manicomio, y nadie consigue hacerle recuperar el habla. De esta forma la chiquilla se convierte en el plano viviente del tesoro. Hacerla hablar es el objetivo que, con persuasión o violencia, todos persiguen. (FILMAFFINITY)
+· País: España Liechtenstein
+· Dirección: Gonzalo Suárez.
+· Reparto: Carmen Sevilla, Donald Pleasence, Michael Dunn, Muriel Catalá, Aldo Sambrell, José Jaspe.</desc>
+  </programme>
+  <programme start="20261104061500 +0100" stop="20261104080000 +0100" channel="8madrid TV">
+    <title>Sor Intrépida</title>
+    <desc>Cine,Comedia,Drama | 1952 | TP | ★10.0/10
+· Soledad es una famosa cantante que, un buen día, decide dar un giro a su vida e ingresar en un convento para ayudar a los demás. La prensa y sus familiares están desconcertados: ahora, la gran figura del cante español se ha convertido en Sor María de la Asunción y trabaja atendiendo enfermos en un hospital que tiene graves problemas económicos. Al principio, todo son dificultades, pero la intrépida monja consigue salir adelante a fuerza de coraje y generosidad.
+· País: España
+· Dirección: Rafael Gil.
+· Reparto: Dominique Blanchar, Francisco Rabal, María Dulce, Julia Caba Alba, Margarita Robles, José Isbert, Eugenio Domingo, Carmen Rodríguez, Antonio Riquelme, Fernando Sancho Les, Félix Fernández, Rosario García Ortega.</desc>
+  </programme>
+  <programme start="20261104080000 +0100" stop="20261104121000 +0100" channel="8madrid TV">
+    <title>La tienda de Galería del Coleccionista</title>
+    <desc>Promocional | TP
+· Espacio promocional de venta.</desc>
+  </programme>
+  <programme start="20261104121000 +0100" stop="20261104123000 +0100" channel="8madrid TV">
+    <title>Making of</title>
+    <desc>Actualidad cinematográfica | SC
+· Espacio que muestra el making of de películas de actualidad.</desc>
+  </programme>
+  <programme start="20261104123000 +0100" stop="20261104133000 +0100" channel="8madrid TV">
+    <title>La tienda de Galería del Coleccionista</title>
+    <desc>Promocional | TP
+· Espacio promocional de venta.</desc>
+  </programme>
+  <programme start="20261104133000 +0100" stop="20261104140000 +0100" channel="8madrid TV">
+    <title>Cocina familiar</title>
+    <desc>Gastronómico | TP
+· Espacio que enseña a preparar los platos de la abuela, un homenaje a una cocina casera y sabrosa que sobrevive al paso del tiempo y a la llegada de nuevas modas gastronómicas.
+· Presenta: Javier Romero.</desc>
+  </programme>
+  <programme start="20261104140000 +0100" stop="20261104171000 +0100" channel="8madrid TV">
+    <title>Espacio salud</title>
+    <desc>Salud | TP</desc>
+  </programme>
+  <programme start="20261104171000 +0100" stop="20261104185500 +0100" channel="8madrid TV">
+    <title>Los violentos de África</title>
+    <desc>Cine,Comedia | 1976 | TP | ★5.1/10
+· John y Howard trabajan en una empresa llamada Safari Express donde llevan a turistas de safaris. Sus vidas dan un vuelco cuando se encuentran con una hermosa rubia vagando en la selva que no sabe quién es. También descubren uranio y lo que parecen ser simios con buenos modales. (FILMAFFINITY)
+· País: Italia
+· Dirección: Duccio Tessari.
+· Reparto: Giuliano Gemma, Ursula Andress, Jack Palance, Enzo Bottesini, Giuseppe Maffioli, Pietro Martellanza, Lorella De Luca.</desc>
+  </programme>
+  <programme start="20261104185500 +0100" stop="20261104203500 +0100" channel="8madrid TV">
+    <title>La gata</title>
+    <desc>Telenovela | ⑦
+· Esmeralda, la gata, es una niña de 12 años, que vive en un barrio pobre y es criada por doña Rita quien la explota y la envía a pedir limosna por las calles.</desc>
+  </programme>
+  <programme start="20261104203500 +0100" stop="20261104221000 +0100" channel="8madrid TV">
+    <title>La misa ha terminado</title>
+    <desc>Cine,Comedia,Drama | 1985 | TP | ★7.4/10
+· Tras ejercer sus funciones en una isla del sur de Italia, un joven sacerdote es destinado por sus superiores a una parroquia de Roma. Allí se reencontrará con su familia y con sus amigos e intentará, en la medida de sus posibilidades, cambiar las cosas; pero el fracaso lo acechará, y su posterior crisis personal y profesional le harán cuestionarse su labor dentro de la Iglesia
+· País: Italia
+· Dirección: Nanni Moretti.
+· Reparto: Nanni Moretti, Ferruccio De Ceresa, Marco Messeri, Enrica Maria Modugno, Dario Cantarelli, Margarita Lozano, Giovanni Buttafava, Luisa De Santis, Pietro De Vico, Eugenio Masciari, Vincenzo Salemme, Roberto Vezzosi.</desc>
+  </programme>
+  <programme start="20261104221000 +0100" stop="20261104235000 +0100" channel="8madrid TV">
+    <title>Milagro en Milán</title>
+    <desc>Cine,Comedia,Fantasía | 1951 | TP | ★7.3/10
+· Érase una vez una anciana que descubre un bebé en su campo de coles; como se compadece de él, lo adopta. Cuando la anciana muere, el niño, Totò, entra en un orfanato. Años más tarde, deja el orfanato como un hombre joven y feliz, y busca trabajo en el Milán de la posguerra. Termina ayudando a personas sin hogar y los organiza para construir un barrio de chabolas en un terreno baldío. Los ocupantes descubren petróleo en el terreno, y Totò tiene una visión de la anciana, que le da una paloma mágica que le concederá cualquier cosa que desee.
+· País: Italia
+· Dirección: Vittorio De Sica.
+· Reparto: Emma Gramatica, Francesco Golisano, Paolo Stoppa, Guglielmo Barnabò, Brunella Bovo, Anna Carena, Alba Arnova, Flora Cambi, Virgilio Riento, Arturo Bragaglia, Erminio Spalla, Riccardo Bertazzolo.</desc>
+  </programme>
   <programme start="20261103000600 +0100" stop="20261103012700 +0100" channel="Somos Cine">
     <title>Romance Requisitos Para Ser Una Persona Normal</title>
     <desc>2025 | ⑦
@@ -2500,6 +2478,125 @@
     <title>Cocinando Con Amor</title>
     <desc>Comedia romántica | TP
 · La optimista productora de televisión Kelly no tiene tiempo para el amor. Bad Stephen, un famoso chef, no tiene tiempo para otra cosa que cocinar. Kelly y Stephen encuentran esa conexión cuando se unen en un espectáculo de cocina para niños.</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103062100 +0000" channel="Atresplayer Multicine">
+    <title>Encuentro Con Mi Asesino</title>
+    <desc>Thriller | ⑫
+· Claire y James están casados y asisten a una reecuentro de la universidad. Ahí coinciden con Morgan, que solía estar en su clase. Morgan está obsesionada con James y lo quiere para ella. Ella intenta poner patas arriba la vida de Claire.</desc>
+  </programme>
+  <programme start="20261103062100 +0000" stop="20261103080300 +0000" channel="Atresplayer Multicine">
+    <title>Falsa Evidencia</title>
+    <desc>Thriller | ⑯
+· Evan Birch es un hombre de familia y un profesor querido en la universidad, donde su clase de filosofía es popular. Cuando una joven estudiante desaparece, los escarceos de Evan fuera del campus hacen que su mujer sospeche de él. El detective Malloy tiene más razones para sospechar de Evan cuando encuentra pruebas que le convierten en el principal sospechoso.</desc>
+  </programme>
+  <programme start="20261103080300 +0000" stop="20261103092800 +0000" channel="Atresplayer Multicine">
+    <title>Mentiras Que Queman</title>
+    <desc>Thriller | ⑫
+· Cuando los padres de Heather mueren en un incendio nunca habría sospechado que hubiera sido provocado. A su llegada tiene que lidiar con su hermanastra, que no le muestra ningún afecto y sólo encuentra consuelo con un exnovio, un bombero que le salva la vida después de que los frenos de su bicicleta fueran deliberadamente desconectados.</desc>
+  </programme>
+  <programme start="20261103092800 +0000" stop="20261103105800 +0000" channel="Atresplayer Multicine">
+    <title>Viviendo Con Un Desconocido</title>
+    <desc>Thriller | ⑫
+· Hace dos años el marido de Tracy murió, y desde entonces no levanta cabeza hasta que conoce a Jared, un apuesto y educado empresario. Tracy recupera la ilusión hasta que se muda con ella y su hija, convirtiendo su vida en una pesadilla.</desc>
+  </programme>
+  <programme start="20261103105800 +0000" stop="20261103123000 +0000" channel="Atresplayer Multicine">
+    <title>Casada Con Un Extraño</title>
+    <desc>Thriller | ⑫
+· Tras 6 meses de relación, Emma, una joven psiquiatra, contrae matrimonio con su prometido. Pocos días después, mientras su marido recogía leña en las inmediaciones de la casa, emma es atacada por un encapuchado. La policía sospecha de su marido.</desc>
+  </programme>
+  <programme start="20261103123000 +0000" stop="20261103135800 +0000" channel="Atresplayer Multicine">
+    <title>La Fuga De Mi Hija</title>
+    <desc>Drama | ⑯
+· Después de una discusión con su madre, Chloé, una adolescente conflictiva de 14 años, se marcha de casa. A partir de entonces comienza una búsqueda incesante en colaboración con la policía. Pronto aparece el cadáver de una mujer en el Sena que se corresponde con la descripción de su hija y el pánico se apodera de ellos.</desc>
+  </programme>
+  <programme start="20261103135800 +0000" stop="20261103152600 +0000" channel="Atresplayer Multicine">
+    <title>El Sacrificio De Una Madre</title>
+    <desc>Thriller | ⑫
+· Una madre teme que su hija haya sido secuestrada cuando se interrumpe una llamada. Buscándola desesperadamente, recurre a una amiga de la joven para que la ayude a dar con su paradero. El tiempo pasa y no hay noticias de su hija, por lo que decide denunciar su desaparición en la comisaría.</desc>
+  </programme>
+  <programme start="20261103152600 +0000" stop="20261103165000 +0000" channel="Atresplayer Multicine">
+    <title>Historia De Un Amor Verdadero</title>
+    <desc>Comedia,Romántico | TP
+· Jamie es la dueña de Amor Verdadero, una librería preciosa en la mejor zona de la ciudad, justo donde se pretende emprender una actuación empresarial que terminaría con la venta de todas las tiendas de la zona. Lo que no podría sospechar Jamie es que el responsable del proyecto es un antiguo novio.</desc>
+  </programme>
+  <programme start="20261103165000 +0000" stop="20261103181700 +0000" channel="Atresplayer Multicine">
+    <title>El Té Del Amor</title>
+    <desc>Romántico | TP
+· La genio del marketing, Lara Thompson, vive una vida acelerada en la gran ciudad cuando es convocada a la tranquila ciudad de Kissing Falls para resolver los asuntos de su difunta tía Vivienne, propietaria de una tienda de té.</desc>
+  </programme>
+  <programme start="20261103181700 +0000" stop="20261103194100 +0000" channel="Atresplayer Multicine">
+    <title>Protección Peligrosa</title>
+    <desc>Thriller | ⑫
+· Cuando Sarah y su hija inician una nueva vida en un lujoso barrio residencial, un intruso entra en su casa, lo que requiere la intervención del guardia de seguridad. Desde entonces, este extrema la vigilancia de su casa pero sin que Sarah se de cuenta de que lo hace en exceso.</desc>
+  </programme>
+  <programme start="20261103194100 +0000" stop="20261103210300 +0000" channel="Atresplayer Multicine">
+    <title>Los Asesinatos De La Casa Del Lago</title>
+    <desc>Thriller | ⑫
+· Elsie y su marido han encontrado la casa de sus sueños al lado de un lago en un paraje idilico. Al poco tiempo de estar ahí, un vecino muere electrocutado, y la casa del fallecido es adquirida por una pareja. Elsie pronto descubre que los nuevos propietarios son viejos conocidos suyos; su exnovio y su amiga íntima con la que le engaño.</desc>
+  </programme>
+  <programme start="20261103210300 +0000" stop="20261103222600 +0000" channel="Atresplayer Multicine">
+    <title>Un Desliz Peligroso</title>
+    <desc>Thriller | ⑫
+· Michelle Clark contrata a Melissa como su nueva niñera, pero no tiene ni idea del peligro en el que ha puesto a su familia. Melissa no solo ha tenido una aventura con su esposo Will, sino que también está bajo el control de Carlton Clark.</desc>
+  </programme>
+  <programme start="20261103222600 +0000" stop="20261103235000 +0000" channel="Atresplayer Multicine">
+    <title>Una Rosa Para Una Tumba</title>
+    <desc>Thriller | ⑯
+· La historia sigue a Lori, cuya mejor amiga, Cindy, se casa con un hombre encantador llamado Randy Roth. Cuando Cindy muere misteriosamente ahogada durante un viaje con Randy, Lori descubre su oscuro pasado y los asesinatos relacionados con fraude al seguro.</desc>
+  </programme>
+  <programme start="20261103235000 +0000" stop="20261104011500 +0000" channel="Atresplayer Multicine">
+    <title>Engañada Por Mi Marido</title>
+    <desc>Thriller | ⑫
+· Basada en hechos reales. Melissa se entera de que su nuevo marido, Kevin, es un mujeriego y tiene grandes deudas de juego. Harta de la situación, le pide el divorcio, pero hasta que se formalice el divorcio él puede permanecer en la casa, convirtiendo la vida de melisa en una auténtica pesadilla.</desc>
+  </programme>
+  <programme start="20261104011500 +0000" stop="20261104025000 +0000" channel="Atresplayer Multicine">
+    <title>La Desaparición De Hortense</title>
+    <desc>Drama | ⑫
+· El hallazgo de un cuerpo, 20 años después de la desaparición de Hortense, una niña de 4 años, desestabiliza a su madre, quien no ha perdido la esperanza de recuperarla algún día. Dos meses más tarde cree ver a su hija en la calle. Tanta es la certeza y la impresión que le causa, que se desvanece.</desc>
+  </programme>
+  <programme start="20261104025000 +0000" stop="20261104041600 +0000" channel="Atresplayer Multicine">
+    <title>Lazos Rotos</title>
+    <desc>Thriller | ⑫
+· Selma y Madison son hermanas pero tras la muerte de su madre no tienen relación. Cuando Selma dispara a su marido tras una desgraciada vida de abusos por parte de él, se refugia en casa de su hermana, quien por el contrario lleva una vida perfecta y muy acomodada con su marido y su hija. Pero lejos de encontrar la paz tan deseada, los problemas no han hecho más que empezar.</desc>
+  </programme>
+  <programme start="20261103130727 +0000" stop="20261103151237 +0000" channel="Sony One Comedia">
+    <title>El Pelotón Chiflado</title>
+    <desc>⑫
+· Cuando John Winger pierde su apartamento, su novia y su trabajo en un mismo día, hace lo que cualquier americano que se precie: se alista en el ejército y casi provoca la 3ª Guerra Mundial.</desc>
+  </programme>
+  <programme start="20261103151237 +0000" stop="20261103171911 +0000" channel="Sony One Comedia">
+    <title>Ishtar</title>
+    <desc>· Rogers y Clarke (Warren Beatty y Dustin Hoffman) son dos ineptos compositores sin suerte y desesperados por dinero. El dúo acepta el consejo de su sospechoso agente, y en un abrir y cerrar de ojos está en un recorrido por la mística república de Ishtar. A su llegada, nuestros héroes son reclutados por separado como espías de los bandos contrarios de una revolución planeada, y al mismo tiempo se disputan la atención de una hermosa revolucionaria (Isabelle Adjani). Sin embargo, Clarke y Rogers son peores espías que compositores, y en poco tiempo terminan varados en el desierto en compañía de un camello ciego y de varios asesinos de la CIA.</desc>
+  </programme>
+  <programme start="20261103171911 +0000" stop="20261103194023 +0000" channel="Sony One Comedia">
+    <title>En qué piensan los hombres</title>
+    <desc>⑦
+· Cuatro amigos conspiran para revertir la situación con sus mujeres cuando descubren que han estado usando los consejos sobre relaciones de Steve Harvey contra ellos.</desc>
+  </programme>
+  <programme start="20261103194023 +0000" stop="20261103214836 +0000" channel="Sony One Comedia">
+    <title>Click (2006)</title>
+    <desc>⑦
+· Un hostigado adicto al trabajo, Michael Newman (Adam Sandler) no tiene tiempo para su esposa (Kate Beckinsale) e hijos, y tampoco para impresionar a su ingrato jefe y ganarse un ascenso bien merecido. Así que cuando conoce a Morty (Christopher Walken), chiflado vendedor, recibe la respuesta a todas sus oraciones: un control remoto mágico que le permite evitar las pequeñas distracciones de la vida con resultados para morirse de la risa. Pero mientras Michael alegremente silencia, salta o escanea los momentos familiares y con sus amigos, el control gradualmente toma control sobre su vida y empieza a programarlo, en esta rápida, hilarante y alocada aventura cómica.</desc>
+  </programme>
+  <programme start="20261103144437 +0000" stop="20261103164027 +0000" channel="Sony One Accion">
+    <title>Anacondas: La Caceria Por La Orquidea Sangrienta</title>
+    <desc>⑫
+· Un pequeño equipo de investigación es enviado a la selva en busca de la versión en planta del 'Santo Grial'. El principal problema es que los poderes de la flor ya son utilizados por una hambrienta y poderosa serpiente.</desc>
+  </programme>
+  <programme start="20261103164027 +0000" stop="20261103184313 +0000" channel="Sony One Accion">
+    <title>Monster Hunter</title>
+    <desc>⑫
+· Un pelotón militar es transportado a un mundo hostil donde debe luchar contra monstruos colosales para sobrevivir.</desc>
+  </programme>
+  <programme start="20261103184313 +0000" stop="20261103210417 +0000" channel="Sony One Accion">
+    <title>Hellboy</title>
+    <desc>⑫
+· Esta aventura de acción sobrenatural está basada en la aplaudida saga de Mike Mignola para Dark Horse Comics. Llevado a la Tierra por el malvado genio Rasputín (Karel Roden) para ayudar a los nazis en su causa moribunda, Hellboy (Ron Perlman) fue rescatado por el profesor Broom (John Hurt), fundador de la organización clandestina O.D.I.P. (Oficina de Defensa e Investigación Paranormal), que lo crió y desarrolló sus extraordinarias dotes paranormales. A pesar de sus oscuros orígenes, Hellboy se convierte en un inesperado paladín del bien, luchando contra las fuerzas malignas que amenazan nuestro mundo junto a un "hombre pez" telépata (Doug Jones) y una "piroquinética" (Selma Blair). Ocultos ante la sociedad a la que deben proteger, son la clave de la defensa contra Rasputín, que pretende recuperar a Hellboy para el lado oscuro y usar sus poderes para propiciar el Armagedón.</desc>
+  </programme>
+  <programme start="20261103210417 +0000" stop="20261103232834 +0000" channel="Sony One Accion">
+    <title>Rescate Al Amanecer</title>
+    <desc>⑫
+· En 1965, un piloto germano-estadounidense que participaba en una misión de bombardeo de alto secreto fue derribado sobre Laos y llevado a un infernal campo de prisioneros en lo más profundo de la impenetrable selva de Vietnam</desc>
   </programme>
   <programme start="20261103001941 +0100" stop="20261103015822 +0100" channel="Rakuten En Familia">
     <title>Planes, Trains and Christmas Trees</title>
