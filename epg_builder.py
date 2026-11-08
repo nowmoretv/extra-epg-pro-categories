@@ -615,7 +615,7 @@ CATEGORIAS = {
         "FederalnaTV.hr": "Federalna TV HR",
         "RTRS.hr": "RTRS TV HR",
         "RTS 1.rs": "RTS 1 RS",
-        "Prva.rs": "Prva RS",
+        "Prva srpska televizija.rs": "Prva RS",
         "TVCG 1 HD.me": "TVCG 1 ME",
         "RTSH1.al": "RTSH 1 AL",
         "Vizion+HD.al": "Vizion Plus AL",
