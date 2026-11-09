@@ -132,6 +132,10 @@
     <display-name>RTS 1 RS</display-name>
     <icon src="https://images.open-epg.com/nologo.png" />
   </channel>
+  <channel id="Prva RS">
+    <display-name>Prva RS</display-name>
+    <icon src="https://images.open-epg.com/13789341.png" />
+  </channel>
   <channel id="STV 24 SK">
     <display-name>STV 24 SK</display-name>
     <icon src="https://images.open-epg.com/23776644.png" />
@@ -200,66 +204,6 @@
     <display-name>TV8 TR</display-name>
     <icon src="https://images.open-epg.com/9852.png" />
   </channel>
-  <channel id="BHT 1 HR">
-    <display-name>BHT 1 HR</display-name>
-    <icon src="https://images.open-epg.com/7341871.png" />
-  </channel>
-  <channel id="Federalna TV HR">
-    <display-name>Federalna TV HR</display-name>
-    <icon src="https://images.open-epg.com/7114.png" />
-  </channel>
-  <channel id="HRT 1 HR">
-    <display-name>HRT 1 HR</display-name>
-    <icon src="https://images.open-epg.com/7341941.png" />
-  </channel>
-  <channel id="HRT 2 HR">
-    <display-name>HRT 2 HR</display-name>
-    <icon src="https://images.open-epg.com/7341942.png" />
-  </channel>
-  <channel id="HRT 3 HR">
-    <display-name>HRT 3 HR</display-name>
-    <icon src="https://images.open-epg.com/7341943.png" />
-  </channel>
-  <channel id="HRT 4 HR">
-    <display-name>HRT 4 HR</display-name>
-    <icon src="https://images.open-epg.com/7341944.png" />
-  </channel>
-  <channel id="Nova TV HR">
-    <display-name>Nova TV HR</display-name>
-    <icon src="https://images.open-epg.com/17998.png" />
-  </channel>
-  <channel id="RTL 2 HR">
-    <display-name>RTL 2 HR</display-name>
-    <icon src="https://images.open-epg.com/18039.png" />
-  </channel>
-  <channel id="RTL HR">
-    <display-name>RTL HR</display-name>
-    <icon src="https://images.open-epg.com/7342044.png" />
-  </channel>
-  <channel id="RTRS TV HR">
-    <display-name>RTRS TV HR</display-name>
-    <icon src="https://images.open-epg.com/18040.png" />
-  </channel>
-  <channel id="1Plus1 International">
-    <display-name>1Plus1 International</display-name>
-    <icon src="https://images.open-epg.com/x2122.png" />
-  </channel>
-  <channel id="1Plus1 Marafon">
-    <display-name>1Plus1 Marafon</display-name>
-    <icon src="https://images.open-epg.com/26522372.png" />
-  </channel>
-  <channel id="5 Kanal UA">
-    <display-name>5 Kanal UA</display-name>
-    <icon src="https://images.open-epg.com/x2123.png" />
-  </channel>
-  <channel id="Espreso TV UA">
-    <display-name>Espreso TV UA</display-name>
-    <icon src="https://images.open-epg.com/26522419.png" />
-  </channel>
-  <channel id="Pershyi UA">
-    <display-name>Pershyi UA</display-name>
-    <icon src="https://images.open-epg.com/26522523.png" />
-  </channel>
   <channel id="News 24 AL">
     <display-name>News 24 AL</display-name>
     <icon src="https://images.open-epg.com/21848346.png" />
@@ -312,6 +256,46 @@
     <display-name>RT english</display-name>
     <icon src="https://images.open-epg.com/5624414.png" />
   </channel>
+  <channel id="BHT 1 HR">
+    <display-name>BHT 1 HR</display-name>
+    <icon src="https://images.open-epg.com/7341871.png" />
+  </channel>
+  <channel id="Federalna TV HR">
+    <display-name>Federalna TV HR</display-name>
+    <icon src="https://images.open-epg.com/7114.png" />
+  </channel>
+  <channel id="HRT 1 HR">
+    <display-name>HRT 1 HR</display-name>
+    <icon src="https://images.open-epg.com/7341941.png" />
+  </channel>
+  <channel id="HRT 2 HR">
+    <display-name>HRT 2 HR</display-name>
+    <icon src="https://images.open-epg.com/7341942.png" />
+  </channel>
+  <channel id="HRT 3 HR">
+    <display-name>HRT 3 HR</display-name>
+    <icon src="https://images.open-epg.com/7341943.png" />
+  </channel>
+  <channel id="HRT 4 HR">
+    <display-name>HRT 4 HR</display-name>
+    <icon src="https://images.open-epg.com/7341944.png" />
+  </channel>
+  <channel id="Nova TV HR">
+    <display-name>Nova TV HR</display-name>
+    <icon src="https://images.open-epg.com/17998.png" />
+  </channel>
+  <channel id="RTL 2 HR">
+    <display-name>RTL 2 HR</display-name>
+    <icon src="https://images.open-epg.com/18039.png" />
+  </channel>
+  <channel id="RTL HR">
+    <display-name>RTL HR</display-name>
+    <icon src="https://images.open-epg.com/7342044.png" />
+  </channel>
+  <channel id="RTRS TV HR">
+    <display-name>RTRS TV HR</display-name>
+    <icon src="https://images.open-epg.com/18040.png" />
+  </channel>
   <channel id="TV SLO 1 SI">
     <display-name>TV SLO 1 SI</display-name>
     <icon src="https://images.open-epg.com/6378.png" />
@@ -323,6 +307,26 @@
   <channel id="TV SLO 3 SI">
     <display-name>TV SLO 3 SI</display-name>
     <icon src="https://images.open-epg.com/6380.png" />
+  </channel>
+  <channel id="1Plus1 International">
+    <display-name>1Plus1 International</display-name>
+    <icon src="https://images.open-epg.com/x2122.png" />
+  </channel>
+  <channel id="1Plus1 Marafon">
+    <display-name>1Plus1 Marafon</display-name>
+    <icon src="https://images.open-epg.com/26522372.png" />
+  </channel>
+  <channel id="5 Kanal UA">
+    <display-name>5 Kanal UA</display-name>
+    <icon src="https://images.open-epg.com/x2123.png" />
+  </channel>
+  <channel id="Espreso TV UA">
+    <display-name>Espreso TV UA</display-name>
+    <icon src="https://images.open-epg.com/26522419.png" />
+  </channel>
+  <channel id="Pershyi UA">
+    <display-name>Pershyi UA</display-name>
+    <icon src="https://images.open-epg.com/26522523.png" />
   </channel>
   <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="News 24 AL">
     <title>Autoktonet</title>
@@ -1626,22 +1630,22 @@
   <programme start="20261109010600 +0000" stop="20261109015100 +0000" channel="HRT 1 HR">
     <title>Elizabeth Taylor, buntovnica i superzvijezda</title>
   </programme>
-  <programme start="20261109015100 +0000" stop="20261109024100 +0000" channel="HRT 1 HR">
+  <programme start="20261109015100 +0000" stop="20261109024200 +0000" channel="HRT 1 HR">
     <title>Plodovi zemlje</title>
   </programme>
-  <programme start="20261109024100 +0000" stop="20261109034100 +0000" channel="HRT 1 HR">
+  <programme start="20261109024200 +0000" stop="20261109034400 +0000" channel="HRT 1 HR">
     <title>Nedjeljom u 2, talk-show</title>
   </programme>
-  <programme start="20261109034100 +0000" stop="20261109041000 +0000" channel="HRT 1 HR">
+  <programme start="20261109034400 +0000" stop="20261109041200 +0000" channel="HRT 1 HR">
     <title>Martinje u Svetom Martinu, pučka i predajna kultura</title>
   </programme>
-  <programme start="20261109041000 +0000" stop="20261109043800 +0000" channel="HRT 1 HR">
+  <programme start="20261109041200 +0000" stop="20261109044000 +0000" channel="HRT 1 HR">
     <title>Mir i dobro</title>
   </programme>
-  <programme start="20261109043800 +0000" stop="20261109045000 +0000" channel="HRT 1 HR">
+  <programme start="20261109044000 +0000" stop="20261109045100 +0000" channel="HRT 1 HR">
     <title>Skica za portret</title>
   </programme>
-  <programme start="20261109045000 +0000" stop="20261109052400 +0000" channel="HRT 1 HR">
+  <programme start="20261109045100 +0000" stop="20261109052400 +0000" channel="HRT 1 HR">
     <title>Pula: More</title>
   </programme>
   <programme start="20261109052400 +0000" stop="20261109054500 +0000" channel="HRT 1 HR">
@@ -1896,10 +1900,10 @@
   <programme start="20261109045600 +0000" stop="20261109054200 +0000" channel="HRT 2 HR">
     <title>Bijeg u unutrašnjost</title>
   </programme>
-  <programme start="20261109054200 +0000" stop="20261109063000 +0000" channel="HRT 2 HR">
+  <programme start="20261109054200 +0000" stop="20261109062900 +0000" channel="HRT 2 HR">
     <title>Čudesni svijet dizajna po izboru Kevina McClouda</title>
   </programme>
-  <programme start="20261109063000 +0000" stop="20261109065500 +0000" channel="HRT 2 HR">
+  <programme start="20261109062900 +0000" stop="20261109065500 +0000" channel="HRT 2 HR">
     <title>Nedjeljni ručak s Tomom Kerridgeom</title>
   </programme>
   <programme start="20261109065500 +0000" stop="20261109074400 +0000" channel="HRT 2 HR">
@@ -1929,19 +1933,19 @@
   <programme start="20261109132000 +0000" stop="20261109145300 +0000" channel="HRT 2 HR">
     <title>Vera, serija</title>
   </programme>
-  <programme start="20261109145300 +0000" stop="20261109152800 +0000" channel="HRT 2 HR">
+  <programme start="20261109145300 +0000" stop="20261109152900 +0000" channel="HRT 2 HR">
     <title>Samo lagano</title>
   </programme>
-  <programme start="20261109152800 +0000" stop="20261109163500 +0000" channel="HRT 2 HR">
+  <programme start="20261109152900 +0000" stop="20261109163600 +0000" channel="HRT 2 HR">
     <title>Stadion</title>
   </programme>
-  <programme start="20261109163500 +0000" stop="20261109170800 +0000" channel="HRT 2 HR">
+  <programme start="20261109163600 +0000" stop="20261109170800 +0000" channel="HRT 2 HR">
     <title>Auto Market Magazin</title>
   </programme>
-  <programme start="20261109170800 +0000" stop="20261109173700 +0000" channel="HRT 2 HR">
+  <programme start="20261109170800 +0000" stop="20261109173900 +0000" channel="HRT 2 HR">
     <title>Moj izbor BiH: Ljubuški</title>
   </programme>
-  <programme start="20261109173700 +0000" stop="20261109181200 +0000" channel="HRT 2 HR">
+  <programme start="20261109173900 +0000" stop="20261109181200 +0000" channel="HRT 2 HR">
     <title>Pula: More</title>
   </programme>
   <programme start="20261109181200 +0000" stop="20261109191500 +0000" channel="HRT 2 HR">
@@ -2064,46 +2068,46 @@
   <programme start="20261109023300 +0000" stop="20261109032400 +0000" channel="HRT 3 HR">
     <title>Ovo je umjetnost: Strah</title>
   </programme>
-  <programme start="20261109032400 +0000" stop="20261109042500 +0000" channel="HRT 3 HR">
+  <programme start="20261109032400 +0000" stop="20261109042600 +0000" channel="HRT 3 HR">
     <title>Vrijeme je za jazz: Zbor HRT-a, Dena DeRose i Michele Weir: All that jazz!</title>
   </programme>
-  <programme start="20261109042500 +0000" stop="20261109045100 +0000" channel="HRT 3 HR">
+  <programme start="20261109042600 +0000" stop="20261109045100 +0000" channel="HRT 3 HR">
     <title>Otkrivamo Hrvatsku: Babino Polje</title>
   </programme>
   <programme start="20261109045100 +0000" stop="20261109052700 +0000" channel="HRT 3 HR">
     <title>Pustinje svijeta: Pustinje sjeverne Amerike, dokumentarna serija</title>
   </programme>
-  <programme start="20261109052700 +0000" stop="20261109053000 +0000" channel="HRT 3 HR">
+  <programme start="20261109052700 +0000" stop="20261109053100 +0000" channel="HRT 3 HR">
     <title>Kako se kaže: Zasuti/zaspati</title>
   </programme>
-  <programme start="20261109053000 +0000" stop="20261109053200 +0000" channel="HRT 3 HR">
+  <programme start="20261109053100 +0000" stop="20261109053200 +0000" channel="HRT 3 HR">
     <title>Juhuhu</title>
   </programme>
-  <programme start="20261109053200 +0000" stop="20261109053500 +0000" channel="HRT 3 HR">
+  <programme start="20261109053200 +0000" stop="20261109053600 +0000" channel="HRT 3 HR">
     <title>Sićušna čuda</title>
   </programme>
-  <programme start="20261109053500 +0000" stop="20261109055800 +0000" channel="HRT 3 HR">
+  <programme start="20261109053600 +0000" stop="20261109055800 +0000" channel="HRT 3 HR">
     <title>Psići u ophodnji</title>
   </programme>
-  <programme start="20261109055800 +0000" stop="20261109060600 +0000" channel="HRT 3 HR">
+  <programme start="20261109055800 +0000" stop="20261109060700 +0000" channel="HRT 3 HR">
     <title>Oggy Oggy</title>
   </programme>
-  <programme start="20261109060600 +0000" stop="20261109061100 +0000" channel="HRT 3 HR">
+  <programme start="20261109060700 +0000" stop="20261109061200 +0000" channel="HRT 3 HR">
     <title>Mišo i Robin: Putokaz</title>
   </programme>
-  <programme start="20261109061100 +0000" stop="20261109061400 +0000" channel="HRT 3 HR">
+  <programme start="20261109061200 +0000" stop="20261109061400 +0000" channel="HRT 3 HR">
     <title>Mišo i Robin - pjesmica: Kad imaš frenda</title>
   </programme>
-  <programme start="20261109061400 +0000" stop="20261109062100 +0000" channel="HRT 3 HR">
+  <programme start="20261109061400 +0000" stop="20261109062200 +0000" channel="HRT 3 HR">
     <title>Lu i vesela družina</title>
   </programme>
-  <programme start="20261109062100 +0000" stop="20261109063000 +0000" channel="HRT 3 HR">
+  <programme start="20261109062200 +0000" stop="20261109063100 +0000" channel="HRT 3 HR">
     <title>Micka i Hlačko</title>
   </programme>
-  <programme start="20261109063000 +0000" stop="20261109063200 +0000" channel="HRT 3 HR">
+  <programme start="20261109063100 +0000" stop="20261109063300 +0000" channel="HRT 3 HR">
     <title>Mališani</title>
   </programme>
-  <programme start="20261109063200 +0000" stop="20261109063500 +0000" channel="HRT 3 HR">
+  <programme start="20261109063300 +0000" stop="20261109063500 +0000" channel="HRT 3 HR">
     <title>FUJ - Fina Ukusna Jela: Piletina s moleom</title>
   </programme>
   <programme start="20261109063500 +0000" stop="20261109064200 +0000" channel="HRT 3 HR">
@@ -2112,16 +2116,16 @@
   <programme start="20261109064200 +0000" stop="20261109064900 +0000" channel="HRT 3 HR">
     <title>Pip i Popi</title>
   </programme>
-  <programme start="20261109064900 +0000" stop="20261109065400 +0000" channel="HRT 3 HR">
+  <programme start="20261109064900 +0000" stop="20261109065500 +0000" channel="HRT 3 HR">
     <title>Pip i Popi</title>
   </programme>
-  <programme start="20261109065400 +0000" stop="20261109070300 +0000" channel="HRT 3 HR">
+  <programme start="20261109065500 +0000" stop="20261109070300 +0000" channel="HRT 3 HR">
     <title>Drvo i pčela: Magla</title>
   </programme>
-  <programme start="20261109070300 +0000" stop="20261109071300 +0000" channel="HRT 3 HR">
+  <programme start="20261109070300 +0000" stop="20261109071400 +0000" channel="HRT 3 HR">
     <title>Hej Dagi</title>
   </programme>
-  <programme start="20261109071300 +0000" stop="20261109071900 +0000" channel="HRT 3 HR">
+  <programme start="20261109071400 +0000" stop="20261109071900 +0000" channel="HRT 3 HR">
     <title>Kockice brojalice</title>
   </programme>
   <programme start="20261109071900 +0000" stop="20261109072400 +0000" channel="HRT 3 HR">
@@ -2133,121 +2137,121 @@
   <programme start="20261109073100 +0000" stop="20261109074300 +0000" channel="HRT 3 HR">
     <title>Susjedstvo tigrića Daniela</title>
   </programme>
-  <programme start="20261109074300 +0000" stop="20261109075400 +0000" channel="HRT 3 HR">
+  <programme start="20261109074300 +0000" stop="20261109075500 +0000" channel="HRT 3 HR">
     <title>Susjedstvo tigrića Daniela</title>
   </programme>
-  <programme start="20261109075400 +0000" stop="20261109080100 +0000" channel="HRT 3 HR">
+  <programme start="20261109075500 +0000" stop="20261109080100 +0000" channel="HRT 3 HR">
     <title>Pjesmica Pleši! - Papučice</title>
   </programme>
-  <programme start="20261109080100 +0000" stop="20261109080900 +0000" channel="HRT 3 HR">
+  <programme start="20261109080100 +0000" stop="20261109081000 +0000" channel="HRT 3 HR">
     <title>Mehapomagači</title>
   </programme>
-  <programme start="20261109080900 +0000" stop="20261109081600 +0000" channel="HRT 3 HR">
+  <programme start="20261109081000 +0000" stop="20261109081700 +0000" channel="HRT 3 HR">
     <title>Ljubavno čudovište</title>
   </programme>
-  <programme start="20261109081600 +0000" stop="20261109081800 +0000" channel="HRT 3 HR">
+  <programme start="20261109081700 +0000" stop="20261109081900 +0000" channel="HRT 3 HR">
     <title>Pjesmica Medo, sve ide redom</title>
   </programme>
-  <programme start="20261109081800 +0000" stop="20261109084600 +0000" channel="HRT 3 HR">
+  <programme start="20261109081900 +0000" stop="20261109084700 +0000" channel="HRT 3 HR">
     <title>Vlak dinosaura</title>
   </programme>
-  <programme start="20261109084600 +0000" stop="20261109084800 +0000" channel="HRT 3 HR">
+  <programme start="20261109084700 +0000" stop="20261109084900 +0000" channel="HRT 3 HR">
     <title>Pjesmica Pusa</title>
   </programme>
-  <programme start="20261109084800 +0000" stop="20261109085600 +0000" channel="HRT 3 HR">
+  <programme start="20261109084900 +0000" stop="20261109085600 +0000" channel="HRT 3 HR">
     <title>Lu i vesela družina</title>
   </programme>
-  <programme start="20261109085600 +0000" stop="20261109090200 +0000" channel="HRT 3 HR">
+  <programme start="20261109085600 +0000" stop="20261109090300 +0000" channel="HRT 3 HR">
     <title>Micka i Hlačko</title>
   </programme>
-  <programme start="20261109090200 +0000" stop="20261109090900 +0000" channel="HRT 3 HR">
+  <programme start="20261109090300 +0000" stop="20261109091000 +0000" channel="HRT 3 HR">
     <title>Bluey</title>
   </programme>
-  <programme start="20261109090900 +0000" stop="20261109091600 +0000" channel="HRT 3 HR">
+  <programme start="20261109091000 +0000" stop="20261109091700 +0000" channel="HRT 3 HR">
     <title>Pip i Popi</title>
   </programme>
-  <programme start="20261109091600 +0000" stop="20261109092400 +0000" channel="HRT 3 HR">
+  <programme start="20261109091700 +0000" stop="20261109092400 +0000" channel="HRT 3 HR">
     <title>Drvo i pčela: Magla</title>
   </programme>
-  <programme start="20261109092400 +0000" stop="20261109092700 +0000" channel="HRT 3 HR">
+  <programme start="20261109092400 +0000" stop="20261109092800 +0000" channel="HRT 3 HR">
     <title>Mališani</title>
   </programme>
-  <programme start="20261109092700 +0000" stop="20261109093200 +0000" channel="HRT 3 HR">
+  <programme start="20261109092800 +0000" stop="20261109093300 +0000" channel="HRT 3 HR">
     <title>Kockice brojalice</title>
   </programme>
-  <programme start="20261109093200 +0000" stop="20261109094000 +0000" channel="HRT 3 HR">
+  <programme start="20261109093300 +0000" stop="20261109094100 +0000" channel="HRT 3 HR">
     <title>Volim životinje: Noj</title>
   </programme>
-  <programme start="20261109094000 +0000" stop="20261109094300 +0000" channel="HRT 3 HR">
+  <programme start="20261109094100 +0000" stop="20261109094400 +0000" channel="HRT 3 HR">
     <title>Pjesmica Pleši! - Papučice</title>
   </programme>
-  <programme start="20261109094300 +0000" stop="20261109094800 +0000" channel="HRT 3 HR">
+  <programme start="20261109094400 +0000" stop="20261109094900 +0000" channel="HRT 3 HR">
     <title>Peppa Praščić</title>
   </programme>
-  <programme start="20261109094800 +0000" stop="20261109095200 +0000" channel="HRT 3 HR">
+  <programme start="20261109094900 +0000" stop="20261109095300 +0000" channel="HRT 3 HR">
     <title>Alisin dnevnik</title>
   </programme>
-  <programme start="20261109095200 +0000" stop="20261109100300 +0000" channel="HRT 3 HR">
+  <programme start="20261109095300 +0000" stop="20261109100400 +0000" channel="HRT 3 HR">
     <title>Billy hrčak kauboj</title>
   </programme>
-  <programme start="20261109100300 +0000" stop="20261109101500 +0000" channel="HRT 3 HR">
+  <programme start="20261109100400 +0000" stop="20261109101600 +0000" channel="HRT 3 HR">
     <title>Zouk</title>
   </programme>
-  <programme start="20261109101500 +0000" stop="20261109103700 +0000" channel="HRT 3 HR">
+  <programme start="20261109101600 +0000" stop="20261109103800 +0000" channel="HRT 3 HR">
     <title>Dora</title>
   </programme>
-  <programme start="20261109103700 +0000" stop="20261109104100 +0000" channel="HRT 3 HR">
+  <programme start="20261109103800 +0000" stop="20261109104200 +0000" channel="HRT 3 HR">
     <title>Pjesmica Medo, sve ide redom</title>
   </programme>
-  <programme start="20261109104100 +0000" stop="20261109104500 +0000" channel="HRT 3 HR">
+  <programme start="20261109104200 +0000" stop="20261109104600 +0000" channel="HRT 3 HR">
     <title>Mališani</title>
   </programme>
-  <programme start="20261109104500 +0000" stop="20261109105600 +0000" channel="HRT 3 HR">
+  <programme start="20261109104600 +0000" stop="20261109105700 +0000" channel="HRT 3 HR">
     <title>123 Brojčići</title>
   </programme>
-  <programme start="20261109105600 +0000" stop="20261109105800 +0000" channel="HRT 3 HR">
+  <programme start="20261109105700 +0000" stop="20261109105900 +0000" channel="HRT 3 HR">
     <title>Atletikus</title>
   </programme>
-  <programme start="20261109105800 +0000" stop="20261109110500 +0000" channel="HRT 3 HR">
+  <programme start="20261109105900 +0000" stop="20261109110600 +0000" channel="HRT 3 HR">
     <title>Medo Grizli i male napasti</title>
   </programme>
-  <programme start="20261109110500 +0000" stop="20261109113100 +0000" channel="HRT 3 HR">
+  <programme start="20261109110600 +0000" stop="20261109113100 +0000" channel="HRT 3 HR">
     <title>Psići u ophodnji</title>
   </programme>
   <programme start="20261109113100 +0000" stop="20261109113300 +0000" channel="HRT 3 HR">
     <title>Pjesmica Pusa</title>
   </programme>
-  <programme start="20261109113300 +0000" stop="20261109113400 +0000" channel="HRT 3 HR">
+  <programme start="20261109113300 +0000" stop="20261109113500 +0000" channel="HRT 3 HR">
     <title>Juhuhu</title>
   </programme>
-  <programme start="20261109113400 +0000" stop="20261109115700 +0000" channel="HRT 3 HR">
+  <programme start="20261109113500 +0000" stop="20261109115700 +0000" channel="HRT 3 HR">
     <title>Mala njuškala</title>
   </programme>
-  <programme start="20261109115700 +0000" stop="20261109115800 +0000" channel="HRT 3 HR">
+  <programme start="20261109115700 +0000" stop="20261109115900 +0000" channel="HRT 3 HR">
     <title>Kako se kaže: Zasuti/zaspati</title>
   </programme>
-  <programme start="20261109115800 +0000" stop="20261109123500 +0000" channel="HRT 3 HR">
+  <programme start="20261109115900 +0000" stop="20261109123500 +0000" channel="HRT 3 HR">
     <title>Pustinje svijeta: Pustinje sjeverne Amerike, dokumentarna serija</title>
   </programme>
-  <programme start="20261109123500 +0000" stop="20261109130000 +0000" channel="HRT 3 HR">
+  <programme start="20261109123500 +0000" stop="20261109130100 +0000" channel="HRT 3 HR">
     <title>Otkrivamo Hrvatsku: Babino Polje</title>
   </programme>
-  <programme start="20261109130000 +0000" stop="20261109145000 +0000" channel="HRT 3 HR">
+  <programme start="20261109130100 +0000" stop="20261109145100 +0000" channel="HRT 3 HR">
     <title>Le cerveau</title>
   </programme>
-  <programme start="20261109145000 +0000" stop="20261109150000 +0000" channel="HRT 3 HR">
+  <programme start="20261109145100 +0000" stop="20261109150100 +0000" channel="HRT 3 HR">
     <title>Fotografija u Hrvatskoj</title>
   </programme>
-  <programme start="20261109150000 +0000" stop="20261109160000 +0000" channel="HRT 3 HR">
+  <programme start="20261109150100 +0000" stop="20261109160200 +0000" channel="HRT 3 HR">
     <title>Peti dan, talk-show</title>
   </programme>
-  <programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="HRT 3 HR">
+  <programme start="20261109160200 +0000" stop="20261109170100 +0000" channel="HRT 3 HR">
     <title>Na rubu znanosti: Čudesni svijet gljiva</title>
   </programme>
-  <programme start="20261109170000 +0000" stop="20261109180100 +0000" channel="HRT 3 HR">
+  <programme start="20261109170100 +0000" stop="20261109180200 +0000" channel="HRT 3 HR">
     <title>Velika europska putovanja željeznicom</title>
   </programme>
-  <programme start="20261109180100 +0000" stop="20261109191000 +0000" channel="HRT 3 HR">
+  <programme start="20261109180200 +0000" stop="20261109191000 +0000" channel="HRT 3 HR">
     <title>Flamenco u ozračju tambure, snimka koncerta</title>
   </programme>
   <programme start="20261109191000 +0000" stop="20261109194000 +0000" channel="HRT 3 HR">
@@ -2256,16 +2260,16 @@
   <programme start="20261109194000 +0000" stop="20261109201500 +0000" channel="HRT 3 HR">
     <title>Knjiga ili život: Yann Martel, Davor Šalat i Petar Dobrović</title>
   </programme>
-  <programme start="20261109201500 +0000" stop="20261109210500 +0000" channel="HRT 3 HR">
+  <programme start="20261109201500 +0000" stop="20261109210600 +0000" channel="HRT 3 HR">
     <title>Animatik</title>
   </programme>
-  <programme start="20261109210500 +0000" stop="20261109225300 +0000" channel="HRT 3 HR">
+  <programme start="20261109210600 +0000" stop="20261109225400 +0000" channel="HRT 3 HR">
     <title>Zelena kobra, film</title>
   </programme>
-  <programme start="20261109225300 +0000" stop="20261110004500 +0000" channel="HRT 3 HR">
+  <programme start="20261109225400 +0000" stop="20261110004600 +0000" channel="HRT 3 HR">
     <title>Le cerveau</title>
   </programme>
-  <programme start="20261110004500 +0000" stop="20261110011100 +0000" channel="HRT 3 HR">
+  <programme start="20261110004600 +0000" stop="20261110011100 +0000" channel="HRT 3 HR">
     <title>City Folk (11): Zagreb</title>
   </programme>
   <programme start="20261110011100 +0000" stop="20261110021600 +0000" channel="HRT 3 HR">
@@ -3822,7 +3826,7 @@
   <programme start="20261111051000 +0000" stop="20261111062000 +0000" channel="RTL 2 HR">
     <title>Vatre ivanjske</title>
   </programme>
-  <programme start="20261109002000 +0000" stop="20261109003000 +0000" channel="RTL HR">
+  <programme start="20261109002500 +0000" stop="20261109003000 +0000" channel="RTL HR">
     <title>To je Voyo</title>
   </programme>
   <programme start="20261109003000 +0000" stop="20261109025500 +0000" channel="RTL HR">
@@ -3831,11 +3835,8 @@
   <programme start="20261109025500 +0000" stop="20261109032500 +0000" channel="RTL HR">
     <title>Stanje nacije</title>
   </programme>
-  <programme start="20261109032500 +0000" stop="20261109035500 +0000" channel="RTL HR">
+  <programme start="20261109032500 +0000" stop="20261109040500 +0000" channel="RTL HR">
     <title>Kraj programa</title>
-  </programme>
-  <programme start="20261109035500 +0000" stop="20261109040500 +0000" channel="RTL HR">
-    <title>Blue Beetle, film</title>
   </programme>
   <programme start="20261109040500 +0000" stop="20261109051500 +0000" channel="RTL HR">
     <title>RTL Danas</title>
@@ -3853,7 +3854,7 @@
     <title>Igra chefova, kulinarski show</title>
   </programme>
   <programme start="20261109090000 +0000" stop="20261109091000 +0000" channel="RTL HR">
-    <title>TV prodaja</title>
+    <title>Tv prodaja</title>
   </programme>
   <programme start="20261109091000 +0000" stop="20261109100000 +0000" channel="RTL HR">
     <title>Blago nama, serija</title>
@@ -3865,7 +3866,7 @@
     <title>San snova, serija</title>
   </programme>
   <programme start="20261109111500 +0000" stop="20261109113000 +0000" channel="RTL HR">
-    <title>TV prodaja</title>
+    <title>Tv prodaja</title>
   </programme>
   <programme start="20261109113000 +0000" stop="20261109123000 +0000" channel="RTL HR">
     <title>Večera za 5, kulinarski show</title>
@@ -3877,7 +3878,7 @@
     <title>Večera za 5, kulinarski show</title>
   </programme>
   <programme start="20261109124500 +0000" stop="20261109130000 +0000" channel="RTL HR">
-    <title>TV prodaja</title>
+    <title>Tv prodaja</title>
   </programme>
   <programme start="20261109130000 +0000" stop="20261109140000 +0000" channel="RTL HR">
     <title>Divlje pčele, serija</title>
@@ -4023,17 +4024,203 @@
   <programme start="20261111053000 +0000" stop="20261111063000 +0000" channel="RTL HR">
     <title>San snova, serija</title>
   </programme>
-  <programme start="20261109000200 +0000" stop="20261109003200 +0000" channel="RTRS TV HR">
-    <title>U prvom redu</title>
+  <programme start="20261109002300 +0000" stop="20261109020200 +0000" channel="RTRS TV HR">
+    <title>Šarenica</title>
   </programme>
-  <programme start="20261109003200 +0000" stop="20261109005700 +0000" channel="RTRS TV HR">
-    <title>RTRS muzika</title>
-  </programme>
-  <programme start="20261109005700 +0000" stop="20261109013000 +0000" channel="RTRS TV HR">
-    <title>Srpska varoš</title>
-  </programme>
-  <programme start="20261109013000 +0000" stop="20261109021000 +0000" channel="RTRS TV HR">
+  <programme start="20261109020200 +0000" stop="20261109023600 +0000" channel="RTRS TV HR">
     <title>Dnevnik 2</title>
+  </programme>
+  <programme start="20261109023600 +0000" stop="20261109030600 +0000" channel="RTRS TV HR">
+    <title>Znanje imanje</title>
+  </programme>
+  <programme start="20261109030600 +0000" stop="20261109035900 +0000" channel="RTRS TV HR">
+    <title>Kuhinja mog kraja</title>
+  </programme>
+  <programme start="20261109035900 +0000" stop="20261109044300 +0000" channel="RTRS TV HR">
+    <title>Jeloustoun, serija</title>
+  </programme>
+  <programme start="20261109044300 +0000" stop="20261109045500 +0000" channel="RTRS TV HR">
+    <title>Verski kalendar</title>
+  </programme>
+  <programme start="20261109045500 +0000" stop="20261109070000 +0000" channel="RTRS TV HR">
+    <title>Jutarnji program</title>
+  </programme>
+  <programme start="20261109070000 +0000" stop="20261109073000 +0000" channel="RTRS TV HR">
+    <title>Jutarnji Dnevnik</title>
+  </programme>
+  <programme start="20261109073000 +0000" stop="20261109093000 +0000" channel="RTRS TV HR">
+    <title>Jutarnji program</title>
+  </programme>
+  <programme start="20261109093000 +0000" stop="20261109110000 +0000" channel="RTRS TV HR">
+    <title>Druga kafa</title>
+  </programme>
+  <programme start="20261109110000 +0000" stop="20261109112700 +0000" channel="RTRS TV HR">
+    <title>Dnevnik 1</title>
+  </programme>
+  <programme start="20261109112700 +0000" stop="20261109114500 +0000" channel="RTRS TV HR">
+    <title>Sportski dnevnik</title>
+  </programme>
+  <programme start="20261109114500 +0000" stop="20261109120000 +0000" channel="RTRS TV HR">
+    <title>Kulturni dnevnik</title>
+  </programme>
+  <programme start="20261109120000 +0000" stop="20261109125500 +0000" channel="RTRS TV HR">
+    <title>Ko je šef</title>
+  </programme>
+  <programme start="20261109125500 +0000" stop="20261109140000 +0000" channel="RTRS TV HR">
+    <title>Kuhinja mog kraja</title>
+  </programme>
+  <programme start="20261109140000 +0000" stop="20261109141000 +0000" channel="RTRS TV HR">
+    <title>Vesti</title>
+  </programme>
+  <programme start="20261109141000 +0000" stop="20261109150600 +0000" channel="RTRS TV HR">
+    <title>Ovo je Srbija</title>
+  </programme>
+  <programme start="20261109150600 +0000" stop="20261109155500 +0000" channel="RTRS TV HR">
+    <title>Radio Mileva, serija</title>
+  </programme>
+  <programme start="20261109155500 +0000" stop="20261109160000 +0000" channel="RTRS TV HR">
+    <title>Eko minijature: Zaštićena područja Srbije - Planina Cer</title>
+  </programme>
+  <programme start="20261109160000 +0000" stop="20261109162000 +0000" channel="RTRS TV HR">
+    <title>Dnevnik RTV Vojvodine</title>
+  </programme>
+  <programme start="20261109162000 +0000" stop="20261109164500 +0000" channel="RTRS TV HR">
+    <title>Gastronomad</title>
+  </programme>
+  <programme start="20261109164500 +0000" stop="20261109172400 +0000" channel="RTRS TV HR">
+    <title>Beogradska hronika</title>
+  </programme>
+  <programme start="20261109172400 +0000" stop="20261109180000 +0000" channel="RTRS TV HR">
+    <title>Oko, magazin</title>
+  </programme>
+  <programme start="20261109180000 +0000" stop="20261109182200 +0000" channel="RTRS TV HR">
+    <title>Slagalica, kviz</title>
+  </programme>
+  <programme start="20261109182200 +0000" stop="20261109183000 +0000" channel="RTRS TV HR">
+    <title>Vreme</title>
+  </programme>
+  <programme start="20261109183000 +0000" stop="20261109190500 +0000" channel="RTRS TV HR">
+    <title>Dnevnik</title>
+  </programme>
+  <programme start="20261109190500 +0000" stop="20261109195500 +0000" channel="RTRS TV HR">
+    <title>Radio Mileva, serija</title>
+  </programme>
+  <programme start="20261109195500 +0000" stop="20261109205500 +0000" channel="RTRS TV HR">
+    <title>Potera, kviz</title>
+  </programme>
+  <programme start="20261109205500 +0000" stop="20261109215000 +0000" channel="RTRS TV HR">
+    <title>Fantastična planeta</title>
+  </programme>
+  <programme start="20261109215000 +0000" stop="20261109221800 +0000" channel="RTRS TV HR">
+    <title>Dnevnik</title>
+  </programme>
+  <programme start="20261109221800 +0000" stop="20261110013200 +0000" channel="RTRS TV HR">
+    <title>Šindlerova lista, film</title>
+  </programme>
+  <programme start="20261110013200 +0000" stop="20261110020600 +0000" channel="RTRS TV HR">
+    <title>Dnevnik 2</title>
+  </programme>
+  <programme start="20261110020600 +0000" stop="20261110034500 +0000" channel="RTRS TV HR">
+    <title>Umorstva u Midsomeru, serija</title>
+  </programme>
+  <programme start="20261110034500 +0000" stop="20261110040000 +0000" channel="RTRS TV HR">
+    <title>Gastronomad</title>
+  </programme>
+  <programme start="20261110040000 +0000" stop="20261110044300 +0000" channel="RTRS TV HR">
+    <title>Radio Mileva, serija</title>
+  </programme>
+  <programme start="20261110044300 +0000" stop="20261110045500 +0000" channel="RTRS TV HR">
+    <title>Verski kalendar</title>
+  </programme>
+  <programme start="20261110045500 +0000" stop="20261110070000 +0000" channel="RTRS TV HR">
+    <title>Jutarnji program</title>
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110073000 +0000" channel="RTRS TV HR">
+    <title>Jutarnji Dnevnik</title>
+  </programme>
+  <programme start="20261110073000 +0000" stop="20261110093000 +0000" channel="RTRS TV HR">
+    <title>Jutarnji program</title>
+  </programme>
+  <programme start="20261110093000 +0000" stop="20261110110000 +0000" channel="RTRS TV HR">
+    <title>Druga kafa</title>
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110113000 +0000" channel="RTRS TV HR">
+    <title>Dnevnik 1</title>
+  </programme>
+  <programme start="20261110113000 +0000" stop="20261110115000 +0000" channel="RTRS TV HR">
+    <title>Sportski dnevnik</title>
+  </programme>
+  <programme start="20261110115000 +0000" stop="20261110120500 +0000" channel="RTRS TV HR">
+    <title>Kulturni dnevnik</title>
+  </programme>
+  <programme start="20261110120500 +0000" stop="20261110130500 +0000" channel="RTRS TV HR">
+    <title>Ko je šef</title>
+  </programme>
+  <programme start="20261110130500 +0000" stop="20261110140000 +0000" channel="RTRS TV HR">
+    <title>Kuhinja moga kraja</title>
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110141000 +0000" channel="RTRS TV HR">
+    <title>Vesti</title>
+  </programme>
+  <programme start="20261110141000 +0000" stop="20261110151000 +0000" channel="RTRS TV HR">
+    <title>Ovo je Srbija</title>
+  </programme>
+  <programme start="20261110151000 +0000" stop="20261110160000 +0000" channel="RTRS TV HR">
+    <title>Radio Mileva, serija</title>
+  </programme>
+  <programme start="20261110160000 +0000" stop="20261110162000 +0000" channel="RTRS TV HR">
+    <title>Dnevnik RTV Vojvodine</title>
+  </programme>
+  <programme start="20261110162000 +0000" stop="20261110164500 +0000" channel="RTRS TV HR">
+    <title>Gastronomad</title>
+  </programme>
+  <programme start="20261110164500 +0000" stop="20261110172400 +0000" channel="RTRS TV HR">
+    <title>Beogradska hronika</title>
+  </programme>
+  <programme start="20261110172400 +0000" stop="20261110180000 +0000" channel="RTRS TV HR">
+    <title>Oko, magazin</title>
+  </programme>
+  <programme start="20261110180000 +0000" stop="20261110183000 +0000" channel="RTRS TV HR">
+    <title>Slagalica, kviz</title>
+  </programme>
+  <programme start="20261110183000 +0000" stop="20261110190500 +0000" channel="RTRS TV HR">
+    <title>Dnevnik</title>
+  </programme>
+  <programme start="20261110190500 +0000" stop="20261110195500 +0000" channel="RTRS TV HR">
+    <title>Radio Mileva, serija</title>
+  </programme>
+  <programme start="20261110195500 +0000" stop="20261110205500 +0000" channel="RTRS TV HR">
+    <title>Potera, kviz</title>
+  </programme>
+  <programme start="20261110205500 +0000" stop="20261110215500 +0000" channel="RTRS TV HR">
+    <title>Takovska 10</title>
+  </programme>
+  <programme start="20261110215500 +0000" stop="20261110221500 +0000" channel="RTRS TV HR">
+    <title>Dnevnik</title>
+  </programme>
+  <programme start="20261110221500 +0000" stop="20261110233500 +0000" channel="RTRS TV HR">
+    <title>Mlad i zdrav kao ruža, film</title>
+  </programme>
+  <programme start="20261110233500 +0000" stop="20261111012500 +0000" channel="RTRS TV HR">
+    <title>Umorstva u Midsomeru, serija</title>
+  </programme>
+  <programme start="20261111012500 +0000" stop="20261111020000 +0000" channel="RTRS TV HR">
+    <title>Dnevnik 2</title>
+  </programme>
+  <programme start="20261111020000 +0000" stop="20261111025500 +0000" channel="RTRS TV HR">
+    <title>Kuhinja moga kraja</title>
+  </programme>
+  <programme start="20261111025500 +0000" stop="20261111040000 +0000" channel="RTRS TV HR">
+    <title>Ko je šef</title>
+  </programme>
+  <programme start="20261111040000 +0000" stop="20261111044300 +0000" channel="RTRS TV HR">
+    <title>Radio Mileva, serija</title>
+  </programme>
+  <programme start="20261111044300 +0000" stop="20261111045500 +0000" channel="RTRS TV HR">
+    <title>Verski kalendar</title>
+  </programme>
+  <programme start="20261111045500 +0000" stop="20261111070000 +0000" channel="RTRS TV HR">
+    <title>Jutarnji program</title>
   </programme>
   <programme start="20261109000000 +0000" stop="20261109005000 +0000" channel="ANT1 CY">
     <title>ΔΙΚΑΣΤΙΚΕΣ ΥΠΟΘΕΣΕΙΣ (E)</title>
@@ -4311,21 +4498,6 @@
   <programme start="20261111044500 +0000" stop="20261111070000 +0000" channel="Sigma TV CY">
     <title>ΠΡΩΤΟΣΕΛΙΔΟ ΜΕ ΤΟΝ ΑΝΔΡΕΑ ΔΗΜΗΤΡΟΠΟΥΛΟ</title>
   </programme>
-  <programme start="20261109013500 +0000" stop="20261109023500 +0000" channel="Barrandov Krimi">
-    <title>Exkluziv!</title>
-  </programme>
-  <programme start="20261109023500 +0000" stop="20261109035000 +0000" channel="Barrandov Krimi">
-    <title>Ostříháno</title>
-  </programme>
-  <programme start="20261109035000 +0000" stop="20261109050000 +0000" channel="Barrandov Krimi">
-    <title>Na plac!</title>
-  </programme>
-  <programme start="20261109050000 +0000" stop="20261109055500 +0000" channel="Barrandov Krimi">
-    <title>Soudkyně Barbara</title>
-  </programme>
-  <programme start="20261109055500 +0000" stop="20261109063000 +0000" channel="Barrandov Krimi">
-    <title>Česká tajenka</title>
-  </programme>
   <programme start="20261109063000 +0000" stop="20261109071500 +0000" channel="Barrandov Krimi">
     <title>Šťastná 7</title>
   </programme>
@@ -4457,24 +4629,6 @@
   </programme>
   <programme start="20261111055500 +0000" stop="20261111063000 +0000" channel="Barrandov Krimi">
     <title>Česká tajenka</title>
-  </programme>
-  <programme start="20261109002500 +0000" stop="20261109005500 +0000" channel="CNN Prima News">
-    <title>Spáleniště... Příběhy hasičů</title>
-  </programme>
-  <programme start="20261109005500 +0000" stop="20261109014500 +0000" channel="CNN Prima News">
-    <title>Co na to vaše zdraví</title>
-  </programme>
-  <programme start="20261109014500 +0000" stop="20261109024500 +0000" channel="CNN Prima News">
-    <title>Hlavní Zprávy</title>
-  </programme>
-  <programme start="20261109024500 +0000" stop="20261109030500 +0000" channel="CNN Prima News">
-    <title>Showtime</title>
-  </programme>
-  <programme start="20261109030500 +0000" stop="20261109045500 +0000" channel="CNN Prima News">
-    <title>Zpravodajské centrum</title>
-  </programme>
-  <programme start="20261109045500 +0000" stop="20261109050000 +0000" channel="CNN Prima News">
-    <title>Nový den</title>
   </programme>
   <programme start="20261109050000 +0000" stop="20261109080000 +0000" channel="CNN Prima News">
     <title>Nový den</title>
@@ -4643,60 +4797,6 @@
   </programme>
   <programme start="20261111050000 +0000" stop="20261111080000 +0000" channel="CNN Prima News">
     <title>Nový den</title>
-  </programme>
-  <programme start="20261109001000 +0000" stop="20261109014000 +0000" channel="CT Decko CZ">
-    <title>Paul Simon - koncert v Harare</title>
-  </programme>
-  <programme start="20261109014000 +0000" stop="20261109020500 +0000" channel="CT Decko CZ">
-    <title>Bohové a hrdinové antických mýtů</title>
-  </programme>
-  <programme start="20261109020500 +0000" stop="20261109023000 +0000" channel="CT Decko CZ">
-    <title>Divadlo žije!</title>
-  </programme>
-  <programme start="20261109023000 +0000" stop="20261109025000 +0000" channel="CT Decko CZ">
-    <title>Vesnická architektura</title>
-  </programme>
-  <programme start="20261109025000 +0000" stop="20261109031500 +0000" channel="CT Decko CZ">
-    <title>Uchem jehly</title>
-  </programme>
-  <programme start="20261109031500 +0000" stop="20261109034500 +0000" channel="CT Decko CZ">
-    <title>Hrad pro všechny</title>
-  </programme>
-  <programme start="20261109034500 +0000" stop="20261109041000 +0000" channel="CT Decko CZ">
-    <title>Neslyším a hraju divadlo</title>
-  </programme>
-  <programme start="20261109041000 +0000" stop="20261109042300 +0000" channel="CT Decko CZ">
-    <title>Události v kultuře</title>
-  </programme>
-  <programme start="20261109042300 +0000" stop="20261109050000 +0000" channel="CT Decko CZ">
-    <title>Přestávka ve vysílání, vysílání začíná v 06:00</title>
-  </programme>
-  <programme start="20261109050000 +0000" stop="20261109050500 +0000" channel="CT Decko CZ">
-    <title>Matylda, Raníček</title>
-  </programme>
-  <programme start="20261109050500 +0000" stop="20261109051500 +0000" channel="CT Decko CZ">
-    <title>Maličké království Bena a Holly</title>
-  </programme>
-  <programme start="20261109051500 +0000" stop="20261109052500 +0000" channel="CT Decko CZ">
-    <title>Maličká Tůťa</title>
-  </programme>
-  <programme start="20261109052500 +0000" stop="20261109053000 +0000" channel="CT Decko CZ">
-    <title>Myška Tilda</title>
-  </programme>
-  <programme start="20261109053000 +0000" stop="20261109055500 +0000" channel="CT Decko CZ">
-    <title>Rubble a jeho parta</title>
-  </programme>
-  <programme start="20261109055500 +0000" stop="20261109060000 +0000" channel="CT Decko CZ">
-    <title>Blue</title>
-  </programme>
-  <programme start="20261109060000 +0000" stop="20261109061500 +0000" channel="CT Decko CZ">
-    <title>Šmoulové 3D</title>
-  </programme>
-  <programme start="20261109061500 +0000" stop="20261109062000 +0000" channel="CT Decko CZ">
-    <title>Skála papuchalků</title>
-  </programme>
-  <programme start="20261109062000 +0000" stop="20261109063000 +0000" channel="CT Decko CZ">
-    <title>Prasátko Peppa</title>
   </programme>
   <programme start="20261109063000 +0000" stop="20261109063500 +0000" channel="CT Decko CZ">
     <title>Krysáci</title>
@@ -5193,42 +5293,6 @@
   <programme start="20261111055500 +0000" stop="20261111060000 +0000" channel="CT Decko CZ">
     <title>Blue</title>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109001000 +0000" channel="CT 24 CZ">
-    <title>Zprávy</title>
-  </programme>
-  <programme start="20261109001000 +0000" stop="20261109010000 +0000" channel="CT 24 CZ">
-    <title>Studio ČT24</title>
-  </programme>
-  <programme start="20261109010000 +0000" stop="20261109011000 +0000" channel="CT 24 CZ">
-    <title>Zprávy</title>
-  </programme>
-  <programme start="20261109011000 +0000" stop="20261109013400 +0000" channel="CT 24 CZ">
-    <title>Studio ČT24</title>
-  </programme>
-  <programme start="20261109013400 +0000" stop="20261109020000 +0000" channel="CT 24 CZ">
-    <title>Zajímavosti z regionů</title>
-  </programme>
-  <programme start="20261109020000 +0000" stop="20261109021000 +0000" channel="CT 24 CZ">
-    <title>Zprávy</title>
-  </programme>
-  <programme start="20261109021000 +0000" stop="20261109023400 +0000" channel="CT 24 CZ">
-    <title>Studio ČT24</title>
-  </programme>
-  <programme start="20261109023400 +0000" stop="20261109030000 +0000" channel="CT 24 CZ">
-    <title>Zajímavosti z regionů</title>
-  </programme>
-  <programme start="20261109030000 +0000" stop="20261109031000 +0000" channel="CT 24 CZ">
-    <title>Zprávy</title>
-  </programme>
-  <programme start="20261109031000 +0000" stop="20261109040000 +0000" channel="CT 24 CZ">
-    <title>Studio ČT24</title>
-  </programme>
-  <programme start="20261109040000 +0000" stop="20261109041000 +0000" channel="CT 24 CZ">
-    <title>Zprávy</title>
-  </programme>
-  <programme start="20261109041000 +0000" stop="20261109045900 +0000" channel="CT 24 CZ">
-    <title>Studio ČT24</title>
-  </programme>
   <programme start="20261109045900 +0000" stop="20261109080000 +0000" channel="CT 24 CZ">
     <title>Studio 6</title>
   </programme>
@@ -5562,18 +5626,6 @@
   <programme start="20261111045900 +0000" stop="20261111080000 +0000" channel="CT 24 CZ">
     <title>Studio 6</title>
   </programme>
-  <programme start="20261109020000 +0000" stop="20261109021500 +0000" channel="CT Sport CZ">
-    <title>Branky, body, vteřiny</title>
-  </programme>
-  <programme start="20261109021500 +0000" stop="20261109041000 +0000" channel="CT Sport CZ">
-    <title>Euro Hockey Tour mužů 2026/2027, Hokej</title>
-  </programme>
-  <programme start="20261109041000 +0000" stop="20261109044000 +0000" channel="CT Sport CZ">
-    <title>Archiv</title>
-  </programme>
-  <programme start="20261109044000 +0000" stop="20261109050000 +0000" channel="CT Sport CZ">
-    <title>Branky, body, vteřiny</title>
-  </programme>
   <programme start="20261109050000 +0000" stop="20261109070000 +0000" channel="CT Sport CZ">
     <title>Euro Hockey Tour mužů 2026/2027, Hokej</title>
   </programme>
@@ -5729,24 +5781,6 @@
   </programme>
   <programme start="20261111050000 +0000" stop="20261111064500 +0000" channel="CT Sport CZ">
     <title>Liga mistryň UEFA 2026/2027, Fotbal</title>
-  </programme>
-  <programme start="20261109002500 +0000" stop="20261109005000 +0000" channel="CT 1 CZ">
-    <title>Po stopách hvězd</title>
-  </programme>
-  <programme start="20261109005000 +0000" stop="20261109020500 +0000" channel="CT 1 CZ">
-    <title>Manéž Bolka Polívky</title>
-  </programme>
-  <programme start="20261109020500 +0000" stop="20261109034000 +0000" channel="CT 1 CZ">
-    <title>Zpívá celá rodina</title>
-  </programme>
-  <programme start="20261109034000 +0000" stop="20261109041000 +0000" channel="CT 1 CZ">
-    <title>Orba koněm</title>
-  </programme>
-  <programme start="20261109041000 +0000" stop="20261109043000 +0000" channel="CT 1 CZ">
-    <title>Do chýnovských mramorů</title>
-  </programme>
-  <programme start="20261109043000 +0000" stop="20261109045900 +0000" channel="CT 1 CZ">
-    <title>Zajímavosti z regionů</title>
   </programme>
   <programme start="20261109045900 +0000" stop="20261109080000 +0000" channel="CT 1 CZ">
     <title>Studio 6</title>
@@ -5960,39 +5994,6 @@
   </programme>
   <programme start="20261111045900 +0000" stop="20261111080000 +0000" channel="CT 1 CZ">
     <title>Studio 6</title>
-  </programme>
-  <programme start="20261109000000 +0000" stop="20261109010000 +0000" channel="CT 2 CZ">
-    <title>Svět podle Kim Čong-una</title>
-  </programme>
-  <programme start="20261109010000 +0000" stop="20261109011500 +0000" channel="CT 2 CZ">
-    <title>Metuzalém</title>
-  </programme>
-  <programme start="20261109011500 +0000" stop="20261109014000 +0000" channel="CT 2 CZ">
-    <title>Před půlnocí</title>
-  </programme>
-  <programme start="20261109014000 +0000" stop="20261109021000 +0000" channel="CT 2 CZ">
-    <title>Pankáč v kostele</title>
-  </programme>
-  <programme start="20261109021000 +0000" stop="20261109022000 +0000" channel="CT 2 CZ">
-    <title>Čtenářský deník</title>
-  </programme>
-  <programme start="20261109022000 +0000" stop="20261109024500 +0000" channel="CT 2 CZ">
-    <title>Píseň jsem šířil nejraději...</title>
-  </programme>
-  <programme start="20261109024500 +0000" stop="20261109031500 +0000" channel="CT 2 CZ">
-    <title>Křesťanský magazín</title>
-  </programme>
-  <programme start="20261109031500 +0000" stop="20261109034500 +0000" channel="CT 2 CZ">
-    <title>Legendy kriminalistiky 2</title>
-  </programme>
-  <programme start="20261109034500 +0000" stop="20261109035000 +0000" channel="CT 2 CZ">
-    <title>Divnopis</title>
-  </programme>
-  <programme start="20261109035000 +0000" stop="20261109044500 +0000" channel="CT 2 CZ">
-    <title>Jak se dorozumívají zvířata</title>
-  </programme>
-  <programme start="20261109044500 +0000" stop="20261109045900 +0000" channel="CT 2 CZ">
-    <title>Zprávy v českém znakovém jazyce</title>
   </programme>
   <programme start="20261109045900 +0000" stop="20261109073000 +0000" channel="CT 2 CZ">
     <title>Dobré ráno</title>
@@ -6210,18 +6211,6 @@
   <programme start="20261111045900 +0000" stop="20261111073000 +0000" channel="CT 2 CZ">
     <title>Dobré ráno</title>
   </programme>
-  <programme start="20261109011500 +0000" stop="20261109022000 +0000" channel="TV Nova CZ">
-    <title>Specialisté</title>
-  </programme>
-  <programme start="20261109022000 +0000" stop="20261109032500 +0000" channel="TV Nova CZ">
-    <title>Zlatá labuť</title>
-  </programme>
-  <programme start="20261109032500 +0000" stop="20261109041500 +0000" channel="TV Nova CZ">
-    <title>Ordinace v růžové zahradě 2</title>
-  </programme>
-  <programme start="20261109041500 +0000" stop="20261109050000 +0000" channel="TV Nova CZ">
-    <title>Televizní noviny</title>
-  </programme>
   <programme start="20261109050000 +0000" stop="20261109073000 +0000" channel="TV Nova CZ">
     <title>Snídaně s Novou</title>
   </programme>
@@ -6405,152 +6394,17 @@
   <programme start="20261111050000 +0000" stop="20261111073000 +0000" channel="TV Nova CZ">
     <title>Snídaně s Novou</title>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109001000 +0000" channel="TV Polar CZ">
-    <title>Regionální zprávy VÍKEND</title>
-  </programme>
-  <programme start="20261109001000 +0000" stop="20261109001400 +0000" channel="TV Polar CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109001400 +0000" stop="20261109002000 +0000" channel="TV Polar CZ">
-    <title>Karvinský expres</title>
-  </programme>
-  <programme start="20261109002000 +0000" stop="20261109003000 +0000" channel="TV Polar CZ">
-    <title>Havířovský expres</title>
-  </programme>
-  <programme start="20261109003000 +0000" stop="20261109004000 +0000" channel="TV Polar CZ">
-    <title>Novojičínský expres</title>
-  </programme>
-  <programme start="20261109004000 +0000" stop="20261109005000 +0000" channel="TV Polar CZ">
-    <title>Stonavský expres</title>
-  </programme>
-  <programme start="20261109005000 +0000" stop="20261109010000 +0000" channel="TV Polar CZ">
-    <title>Palkovický miniexpres</title>
-  </programme>
-  <programme start="20261109010000 +0000" stop="20261109011000 +0000" channel="TV Polar CZ">
-    <title>Regionální zprávy VÍKEND</title>
-  </programme>
-  <programme start="20261109011000 +0000" stop="20261109011400 +0000" channel="TV Polar CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109011400 +0000" stop="20261109012000 +0000" channel="TV Polar CZ">
-    <title>Moravskoslezský expres</title>
-  </programme>
-  <programme start="20261109012000 +0000" stop="20261109013000 +0000" channel="TV Polar CZ">
-    <title>Eko magazín</title>
-  </programme>
-  <programme start="20261109013000 +0000" stop="20261109014000 +0000" channel="TV Polar CZ">
-    <title>Řemeslo má respekt</title>
-  </programme>
-  <programme start="20261109014000 +0000" stop="20261109014500 +0000" channel="TV Polar CZ">
-    <title>Kam vyrazit</title>
-  </programme>
-  <programme start="20261109014500 +0000" stop="20261109020000 +0000" channel="TV Polar CZ">
-    <title>Magazín TV medicína</title>
-  </programme>
-  <programme start="20261109020000 +0000" stop="20261109021000 +0000" channel="TV Polar CZ">
-    <title>Regionální zprávy VÍKEND</title>
-  </programme>
-  <programme start="20261109021000 +0000" stop="20261109021400 +0000" channel="TV Polar CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109021400 +0000" stop="20261109022000 +0000" channel="TV Polar CZ">
-    <title>Beskydský expres</title>
-  </programme>
-  <programme start="20261109022000 +0000" stop="20261109023000 +0000" channel="TV Polar CZ">
-    <title>Jesenický expres</title>
-  </programme>
-  <programme start="20261109023000 +0000" stop="20261109024000 +0000" channel="TV Polar CZ">
-    <title>Magazín 112</title>
-  </programme>
-  <programme start="20261109024000 +0000" stop="20261109024500 +0000" channel="TV Polar CZ">
-    <title>Bez komentáře</title>
-  </programme>
-  <programme start="20261109024500 +0000" stop="20261109030000 +0000" channel="TV Polar CZ">
-    <title>Dopravní revue</title>
-  </programme>
-  <programme start="20261109030000 +0000" stop="20261109031000 +0000" channel="TV Polar CZ">
-    <title>Regionální zprávy VÍKEND</title>
-  </programme>
-  <programme start="20261109031000 +0000" stop="20261109031400 +0000" channel="TV Polar CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109031400 +0000" stop="20261109032000 +0000" channel="TV Polar CZ">
-    <title>Karvinský expres</title>
-  </programme>
-  <programme start="20261109032000 +0000" stop="20261109033000 +0000" channel="TV Polar CZ">
-    <title>Havířovský expres</title>
-  </programme>
-  <programme start="20261109033000 +0000" stop="20261109034000 +0000" channel="TV Polar CZ">
-    <title>Novojičínský expres</title>
-  </programme>
-  <programme start="20261109034000 +0000" stop="20261109035000 +0000" channel="TV Polar CZ">
-    <title>Stonavský expres</title>
-  </programme>
-  <programme start="20261109035000 +0000" stop="20261109040000 +0000" channel="TV Polar CZ">
-    <title>Palkovický miniexpres</title>
-  </programme>
-  <programme start="20261109040000 +0000" stop="20261109041000 +0000" channel="TV Polar CZ">
-    <title>Regionální zprávy VÍKEND</title>
-  </programme>
-  <programme start="20261109041000 +0000" stop="20261109041400 +0000" channel="TV Polar CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109041400 +0000" stop="20261109042000 +0000" channel="TV Polar CZ">
-    <title>Moravskoslezský expres</title>
-  </programme>
-  <programme start="20261109042000 +0000" stop="20261109043000 +0000" channel="TV Polar CZ">
-    <title>Eko magazín</title>
-  </programme>
-  <programme start="20261109043000 +0000" stop="20261109044000 +0000" channel="TV Polar CZ">
-    <title>Řemeslo má respekt</title>
-  </programme>
-  <programme start="20261109044000 +0000" stop="20261109044500 +0000" channel="TV Polar CZ">
-    <title>Kam vyrazit</title>
-  </programme>
-  <programme start="20261109044500 +0000" stop="20261109050000 +0000" channel="TV Polar CZ">
-    <title>Magazín TV medicína</title>
-  </programme>
-  <programme start="20261109050000 +0000" stop="20261109051000 +0000" channel="TV Polar CZ">
-    <title>Regionální zprávy VÍKEND</title>
-  </programme>
-  <programme start="20261109051000 +0000" stop="20261109051400 +0000" channel="TV Polar CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109051400 +0000" stop="20261109052000 +0000" channel="TV Polar CZ">
-    <title>Beskydský expres</title>
-  </programme>
-  <programme start="20261109052000 +0000" stop="20261109053000 +0000" channel="TV Polar CZ">
-    <title>Jesenický expres</title>
-  </programme>
-  <programme start="20261109053000 +0000" stop="20261109054000 +0000" channel="TV Polar CZ">
-    <title>Magazín 112</title>
-  </programme>
-  <programme start="20261109054000 +0000" stop="20261109054500 +0000" channel="TV Polar CZ">
-    <title>Bez komentáře</title>
-  </programme>
-  <programme start="20261109054500 +0000" stop="20261109060000 +0000" channel="TV Polar CZ">
-    <title>Dopravní revue</title>
-  </programme>
-  <programme start="20261109060000 +0000" stop="20261109061000 +0000" channel="TV Polar CZ">
-    <title>Regionální zprávy VÍKEND</title>
-  </programme>
-  <programme start="20261109061000 +0000" stop="20261109061400 +0000" channel="TV Polar CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109061400 +0000" stop="20261109062000 +0000" channel="TV Polar CZ">
-    <title>Karvinský expres</title>
-  </programme>
-  <programme start="20261109062000 +0000" stop="20261109063000 +0000" channel="TV Polar CZ">
-    <title>Havířovský expres</title>
-  </programme>
   <programme start="20261109063000 +0000" stop="20261109064000 +0000" channel="TV Polar CZ">
     <title>Novojičínský expres</title>
   </programme>
   <programme start="20261109064000 +0000" stop="20261109065000 +0000" channel="TV Polar CZ">
     <title>Stonavský expres</title>
   </programme>
-  <programme start="20261109065000 +0000" stop="20261109070000 +0000" channel="TV Polar CZ">
+  <programme start="20261109065000 +0000" stop="20261109065500 +0000" channel="TV Polar CZ">
     <title>Palkovický miniexpres</title>
+  </programme>
+  <programme start="20261109065500 +0000" stop="20261109070000 +0000" channel="TV Polar CZ">
+    <title>Z naší ZOO</title>
   </programme>
   <programme start="20261109070000 +0000" stop="20261109071000 +0000" channel="TV Polar CZ">
     <title>Regionální zprávy VÍKEND</title>
@@ -6561,17 +6415,20 @@
   <programme start="20261109071400 +0000" stop="20261109072000 +0000" channel="TV Polar CZ">
     <title>Moravskoslezský expres</title>
   </programme>
-  <programme start="20261109072000 +0000" stop="20261109073000 +0000" channel="TV Polar CZ">
+  <programme start="20261109072000 +0000" stop="20261109073500 +0000" channel="TV Polar CZ">
     <title>Eko magazín</title>
   </programme>
-  <programme start="20261109073000 +0000" stop="20261109074000 +0000" channel="TV Polar CZ">
+  <programme start="20261109073500 +0000" stop="20261109074000 +0000" channel="TV Polar CZ">
     <title>Řemeslo má respekt</title>
   </programme>
   <programme start="20261109074000 +0000" stop="20261109074500 +0000" channel="TV Polar CZ">
     <title>Kam vyrazit</title>
   </programme>
-  <programme start="20261109074500 +0000" stop="20261109080000 +0000" channel="TV Polar CZ">
+  <programme start="20261109074500 +0000" stop="20261109075500 +0000" channel="TV Polar CZ">
     <title>Magazín TV medicína</title>
+  </programme>
+  <programme start="20261109075500 +0000" stop="20261109080000 +0000" channel="TV Polar CZ">
+    <title>Z naší ZOO</title>
   </programme>
   <programme start="20261109080000 +0000" stop="20261109081000 +0000" channel="TV Polar CZ">
     <title>Regionální zprávy POLAR</title>
@@ -6591,8 +6448,11 @@
   <programme start="20261109083500 +0000" stop="20261109084500 +0000" channel="TV Polar CZ">
     <title>Magazín 112</title>
   </programme>
-  <programme start="20261109084500 +0000" stop="20261109090000 +0000" channel="TV Polar CZ">
+  <programme start="20261109084500 +0000" stop="20261109085500 +0000" channel="TV Polar CZ">
     <title>Dopravní revue</title>
+  </programme>
+  <programme start="20261109085500 +0000" stop="20261109090000 +0000" channel="TV Polar CZ">
+    <title>Z naší ZOO</title>
   </programme>
   <programme start="20261109090000 +0000" stop="20261109091000 +0000" channel="TV Polar CZ">
     <title>Regionální zprávy POLAR</title>
@@ -6612,32 +6472,38 @@
   <programme start="20261109094000 +0000" stop="20261109095000 +0000" channel="TV Polar CZ">
     <title>Stonavský expres</title>
   </programme>
-  <programme start="20261109095000 +0000" stop="20261109100000 +0000" channel="TV Polar CZ">
+  <programme start="20261109095000 +0000" stop="20261109095500 +0000" channel="TV Polar CZ">
     <title>Palkovický miniexpres</title>
+  </programme>
+  <programme start="20261109095500 +0000" stop="20261109100000 +0000" channel="TV Polar CZ">
+    <title>Z naší ZOO</title>
   </programme>
   <programme start="20261109100000 +0000" stop="20261109101000 +0000" channel="TV Polar CZ">
     <title>Regionální zprávy POLAR</title>
   </programme>
-  <programme start="20261109101000 +0000" stop="20261109101400 +0000" channel="TV Polar CZ">
+  <programme start="20261109101000 +0000" stop="20261109101100 +0000" channel="TV Polar CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109101400 +0000" stop="20261109102000 +0000" channel="TV Polar CZ">
+  <programme start="20261109101100 +0000" stop="20261109102000 +0000" channel="TV Polar CZ">
     <title>Moravskoslezský expres</title>
   </programme>
   <programme start="20261109102000 +0000" stop="20261109103000 +0000" channel="TV Polar CZ">
     <title>Eko magazín</title>
   </programme>
-  <programme start="20261109103000 +0000" stop="20261109104000 +0000" channel="TV Polar CZ">
+  <programme start="20261109103000 +0000" stop="20261109103500 +0000" channel="TV Polar CZ">
     <title>Řemeslo má respekt</title>
   </programme>
-  <programme start="20261109104000 +0000" stop="20261109104100 +0000" channel="TV Polar CZ">
+  <programme start="20261109103500 +0000" stop="20261109103900 +0000" channel="TV Polar CZ">
     <title>Bez komentáře</title>
   </programme>
-  <programme start="20261109104100 +0000" stop="20261109104500 +0000" channel="TV Polar CZ">
+  <programme start="20261109103900 +0000" stop="20261109104000 +0000" channel="TV Polar CZ">
     <title>Kam vyrazit</title>
   </programme>
-  <programme start="20261109104500 +0000" stop="20261109110000 +0000" channel="TV Polar CZ">
+  <programme start="20261109104000 +0000" stop="20261109105000 +0000" channel="TV Polar CZ">
     <title>Magazín TV medicína</title>
+  </programme>
+  <programme start="20261109105000 +0000" stop="20261109110000 +0000" channel="TV Polar CZ">
+    <title>Z naší ZOO</title>
   </programme>
   <programme start="20261109110000 +0000" stop="20261109111000 +0000" channel="TV Polar CZ">
     <title>Regionální zprávy POLAR</title>
@@ -6657,8 +6523,11 @@
   <programme start="20261109113500 +0000" stop="20261109114500 +0000" channel="TV Polar CZ">
     <title>Magazín 112</title>
   </programme>
-  <programme start="20261109114500 +0000" stop="20261109120000 +0000" channel="TV Polar CZ">
+  <programme start="20261109114500 +0000" stop="20261109115500 +0000" channel="TV Polar CZ">
     <title>Dopravní revue</title>
+  </programme>
+  <programme start="20261109115500 +0000" stop="20261109120000 +0000" channel="TV Polar CZ">
+    <title>Z naší ZOO</title>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109121000 +0000" channel="TV Polar CZ">
     <title>Regionální zprávy POLAR</title>
@@ -6678,32 +6547,38 @@
   <programme start="20261109124000 +0000" stop="20261109125000 +0000" channel="TV Polar CZ">
     <title>Stonavský expres</title>
   </programme>
-  <programme start="20261109125000 +0000" stop="20261109130000 +0000" channel="TV Polar CZ">
+  <programme start="20261109125000 +0000" stop="20261109125500 +0000" channel="TV Polar CZ">
     <title>Palkovický miniexpres</title>
+  </programme>
+  <programme start="20261109125500 +0000" stop="20261109130000 +0000" channel="TV Polar CZ">
+    <title>Z naší ZOO</title>
   </programme>
   <programme start="20261109130000 +0000" stop="20261109131000 +0000" channel="TV Polar CZ">
     <title>Regionální zprávy POLAR</title>
   </programme>
-  <programme start="20261109131000 +0000" stop="20261109131400 +0000" channel="TV Polar CZ">
+  <programme start="20261109131000 +0000" stop="20261109131200 +0000" channel="TV Polar CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109131400 +0000" stop="20261109132000 +0000" channel="TV Polar CZ">
+  <programme start="20261109131200 +0000" stop="20261109132000 +0000" channel="TV Polar CZ">
     <title>Moravskoslezský expres</title>
   </programme>
   <programme start="20261109132000 +0000" stop="20261109133000 +0000" channel="TV Polar CZ">
     <title>Eko magazín</title>
   </programme>
-  <programme start="20261109133000 +0000" stop="20261109134000 +0000" channel="TV Polar CZ">
+  <programme start="20261109133000 +0000" stop="20261109133500 +0000" channel="TV Polar CZ">
     <title>Řemeslo má respekt</title>
   </programme>
-  <programme start="20261109134000 +0000" stop="20261109134100 +0000" channel="TV Polar CZ">
+  <programme start="20261109133500 +0000" stop="20261109134000 +0000" channel="TV Polar CZ">
     <title>Bez komentáře</title>
   </programme>
-  <programme start="20261109134100 +0000" stop="20261109134500 +0000" channel="TV Polar CZ">
+  <programme start="20261109134000 +0000" stop="20261109134500 +0000" channel="TV Polar CZ">
     <title>Kam vyrazit</title>
   </programme>
-  <programme start="20261109134500 +0000" stop="20261109140000 +0000" channel="TV Polar CZ">
+  <programme start="20261109134500 +0000" stop="20261109135500 +0000" channel="TV Polar CZ">
     <title>Magazín TV medicína</title>
+  </programme>
+  <programme start="20261109135500 +0000" stop="20261109140000 +0000" channel="TV Polar CZ">
+    <title>Z naší ZOO</title>
   </programme>
   <programme start="20261109140000 +0000" stop="20261109141000 +0000" channel="TV Polar CZ">
     <title>Regionální zprávy POLAR</title>
@@ -6723,8 +6598,11 @@
   <programme start="20261109143500 +0000" stop="20261109144500 +0000" channel="TV Polar CZ">
     <title>Magazín 112</title>
   </programme>
-  <programme start="20261109144500 +0000" stop="20261109150000 +0000" channel="TV Polar CZ">
+  <programme start="20261109144500 +0000" stop="20261109145500 +0000" channel="TV Polar CZ">
     <title>Dopravní revue</title>
+  </programme>
+  <programme start="20261109145500 +0000" stop="20261109150000 +0000" channel="TV Polar CZ">
+    <title>Z naší ZOO</title>
   </programme>
   <programme start="20261109150000 +0000" stop="20261109151000 +0000" channel="TV Polar CZ">
     <title>Regionální zprávy POLAR</title>
@@ -7641,24 +7519,6 @@
   <programme start="20261111055000 +0000" stop="20261111060000 +0000" channel="TV Polar CZ">
     <title>Nabídka práce</title>
   </programme>
-  <programme start="20261109001000 +0000" stop="20261109021500 +0000" channel="Prima CZ">
-    <title>96 hodin: Odplata</title>
-  </programme>
-  <programme start="20261109021500 +0000" stop="20261109041000 +0000" channel="Prima CZ">
-    <title>Písečná monstra</title>
-  </programme>
-  <programme start="20261109041000 +0000" stop="20261109045500 +0000" channel="Prima CZ">
-    <title>Libovky Pepy Libického</title>
-  </programme>
-  <programme start="20261109045500 +0000" stop="20261109050000 +0000" channel="Prima CZ">
-    <title>Nový den</title>
-  </programme>
-  <programme start="20261109050000 +0000" stop="20261109055500 +0000" channel="Prima CZ">
-    <title>Nový den</title>
-  </programme>
-  <programme start="20261109055500 +0000" stop="20261109062500 +0000" channel="Prima CZ">
-    <title>M*A*S*H</title>
-  </programme>
   <programme start="20261109062500 +0000" stop="20261109065500 +0000" channel="Prima CZ">
     <title>M*A*S*H</title>
   </programme>
@@ -7821,18 +7681,6 @@
   <programme start="20261111054000 +0000" stop="20261111060500 +0000" channel="Prima CZ">
     <title>M*A*S*H</title>
   </programme>
-  <programme start="20261109011500 +0000" stop="20261109025000 +0000" channel="Televize Seznam">
-    <title>Místo činu: Brémy</title>
-  </programme>
-  <programme start="20261109025000 +0000" stop="20261109032500 +0000" channel="Televize Seznam">
-    <title>Moje místa: Miluše Šplechtová</title>
-  </programme>
-  <programme start="20261109032500 +0000" stop="20261109050000 +0000" channel="Televize Seznam">
-    <title>Patrola</title>
-  </programme>
-  <programme start="20261109050000 +0000" stop="20261109054000 +0000" channel="Televize Seznam">
-    <title>Moje místa: Lucie Vondráčková</title>
-  </programme>
   <programme start="20261109054000 +0000" stop="20261109063500 +0000" channel="Televize Seznam">
     <title>Vražedná čísla</title>
   </programme>
@@ -7977,94 +7825,10 @@
   <programme start="20261111050500 +0000" stop="20261111060000 +0000" channel="Televize Seznam">
     <title>Vražedná čísla</title>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109002000 +0000" channel="TV Brno 1 CZ">
-    <title>Týden na B1</title>
-  </programme>
-  <programme start="20261109002000 +0000" stop="20261109002400 +0000" channel="TV Brno 1 CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109002400 +0000" stop="20261109003000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109062400 +0000" stop="20261109063500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="TV Brno 1 CZ">
-    <title>Dobré zprávy</title>
-  </programme>
-  <programme start="20261109010000 +0000" stop="20261109012000 +0000" channel="TV Brno 1 CZ">
-    <title>Týden na B1</title>
-  </programme>
-  <programme start="20261109012000 +0000" stop="20261109012400 +0000" channel="TV Brno 1 CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109012400 +0000" stop="20261109013000 +0000" channel="TV Brno 1 CZ">
-    <title>Host dne</title>
-  </programme>
-  <programme start="20261109013000 +0000" stop="20261109014000 +0000" channel="TV Brno 1 CZ">
-    <title>Hasiči</title>
-  </programme>
-  <programme start="20261109014000 +0000" stop="20261109020000 +0000" channel="TV Brno 1 CZ">
-    <title>Teplá i studená kuchyně Jakuba Hübnera</title>
-  </programme>
-  <programme start="20261109020000 +0000" stop="20261109022000 +0000" channel="TV Brno 1 CZ">
-    <title>Týden na B1</title>
-  </programme>
-  <programme start="20261109022000 +0000" stop="20261109022400 +0000" channel="TV Brno 1 CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109022400 +0000" stop="20261109023000 +0000" channel="TV Brno 1 CZ">
-    <title>Host dne</title>
-  </programme>
-  <programme start="20261109023000 +0000" stop="20261109030000 +0000" channel="TV Brno 1 CZ">
-    <title>Na návštěvě u krajanů v Ontariu</title>
-  </programme>
-  <programme start="20261109030000 +0000" stop="20261109032000 +0000" channel="TV Brno 1 CZ">
-    <title>Týden na B1</title>
-  </programme>
-  <programme start="20261109032000 +0000" stop="20261109032400 +0000" channel="TV Brno 1 CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109032400 +0000" stop="20261109033000 +0000" channel="TV Brno 1 CZ">
-    <title>Host dne</title>
-  </programme>
-  <programme start="20261109033000 +0000" stop="20261109040000 +0000" channel="TV Brno 1 CZ">
-    <title>Dobré zprávy</title>
-  </programme>
-  <programme start="20261109040000 +0000" stop="20261109042000 +0000" channel="TV Brno 1 CZ">
-    <title>Týden na B1</title>
-  </programme>
-  <programme start="20261109042000 +0000" stop="20261109042400 +0000" channel="TV Brno 1 CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109042400 +0000" stop="20261109043000 +0000" channel="TV Brno 1 CZ">
-    <title>Host dne</title>
-  </programme>
-  <programme start="20261109043000 +0000" stop="20261109044000 +0000" channel="TV Brno 1 CZ">
-    <title>Hasiči</title>
-  </programme>
-  <programme start="20261109044000 +0000" stop="20261109050000 +0000" channel="TV Brno 1 CZ">
-    <title>Teplá i studená kuchyně Jakuba Hübnera</title>
-  </programme>
-  <programme start="20261109050000 +0000" stop="20261109052000 +0000" channel="TV Brno 1 CZ">
-    <title>Týden na B1</title>
-  </programme>
-  <programme start="20261109052000 +0000" stop="20261109052400 +0000" channel="TV Brno 1 CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109052400 +0000" stop="20261109053000 +0000" channel="TV Brno 1 CZ">
-    <title>Host dne</title>
-  </programme>
-  <programme start="20261109053000 +0000" stop="20261109060000 +0000" channel="TV Brno 1 CZ">
-    <title>Na návštěvě u krajanů v Ontariu</title>
-  </programme>
-  <programme start="20261109060000 +0000" stop="20261109062000 +0000" channel="TV Brno 1 CZ">
-    <title>Týden na B1</title>
-  </programme>
-  <programme start="20261109062000 +0000" stop="20261109062400 +0000" channel="TV Brno 1 CZ">
-    <title>Počasí</title>
-  </programme>
-  <programme start="20261109062400 +0000" stop="20261109063000 +0000" channel="TV Brno 1 CZ">
-    <title>Host dne</title>
-  </programme>
-  <programme start="20261109063000 +0000" stop="20261109070000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109063500 +0000" stop="20261109070000 +0000" channel="TV Brno 1 CZ">
     <title>Dobré zprávy</title>
   </programme>
   <programme start="20261109070000 +0000" stop="20261109072000 +0000" channel="TV Brno 1 CZ">
@@ -8073,13 +7837,13 @@
   <programme start="20261109072000 +0000" stop="20261109072400 +0000" channel="TV Brno 1 CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109072400 +0000" stop="20261109073000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109072400 +0000" stop="20261109073500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109073000 +0000" stop="20261109074000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109073500 +0000" stop="20261109074500 +0000" channel="TV Brno 1 CZ">
     <title>Hasiči</title>
   </programme>
-  <programme start="20261109074000 +0000" stop="20261109080000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109074500 +0000" stop="20261109080000 +0000" channel="TV Brno 1 CZ">
     <title>Teplá i studená kuchyně Jakuba Hübnera</title>
   </programme>
   <programme start="20261109080000 +0000" stop="20261109082000 +0000" channel="TV Brno 1 CZ">
@@ -8088,10 +7852,10 @@
   <programme start="20261109082000 +0000" stop="20261109082400 +0000" channel="TV Brno 1 CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109082400 +0000" stop="20261109083000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109082400 +0000" stop="20261109083500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109083000 +0000" stop="20261109090000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109083500 +0000" stop="20261109090000 +0000" channel="TV Brno 1 CZ">
     <title>Na návštěvě u krajanů v Ontariu</title>
   </programme>
   <programme start="20261109090000 +0000" stop="20261109092000 +0000" channel="TV Brno 1 CZ">
@@ -8100,25 +7864,25 @@
   <programme start="20261109092000 +0000" stop="20261109092400 +0000" channel="TV Brno 1 CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109092400 +0000" stop="20261109093000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109092400 +0000" stop="20261109093500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109093000 +0000" stop="20261109100000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109093500 +0000" stop="20261109100000 +0000" channel="TV Brno 1 CZ">
     <title>Dobré zprávy</title>
   </programme>
   <programme start="20261109100000 +0000" stop="20261109102000 +0000" channel="TV Brno 1 CZ">
     <title>Týden na B1</title>
   </programme>
-  <programme start="20261109102000 +0000" stop="20261109102400 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109102000 +0000" stop="20261109102500 +0000" channel="TV Brno 1 CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109102400 +0000" stop="20261109103000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109102500 +0000" stop="20261109103500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109103000 +0000" stop="20261109104000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109103500 +0000" stop="20261109104500 +0000" channel="TV Brno 1 CZ">
     <title>Hasiči</title>
   </programme>
-  <programme start="20261109104000 +0000" stop="20261109110000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109104500 +0000" stop="20261109110000 +0000" channel="TV Brno 1 CZ">
     <title>Teplá i studená kuchyně Jakuba Hübnera</title>
   </programme>
   <programme start="20261109110000 +0000" stop="20261109112000 +0000" channel="TV Brno 1 CZ">
@@ -8127,10 +7891,10 @@
   <programme start="20261109112000 +0000" stop="20261109112400 +0000" channel="TV Brno 1 CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109112400 +0000" stop="20261109113000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109112400 +0000" stop="20261109113500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109113000 +0000" stop="20261109120000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109113500 +0000" stop="20261109120000 +0000" channel="TV Brno 1 CZ">
     <title>Na návštěvě u krajanů v Ontariu</title>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109122000 +0000" channel="TV Brno 1 CZ">
@@ -8139,25 +7903,25 @@
   <programme start="20261109122000 +0000" stop="20261109122400 +0000" channel="TV Brno 1 CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109122400 +0000" stop="20261109123000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109122400 +0000" stop="20261109123500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109123000 +0000" stop="20261109130000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109123500 +0000" stop="20261109130000 +0000" channel="TV Brno 1 CZ">
     <title>Dobré zprávy</title>
   </programme>
   <programme start="20261109130000 +0000" stop="20261109132000 +0000" channel="TV Brno 1 CZ">
     <title>Týden na B1</title>
   </programme>
-  <programme start="20261109132000 +0000" stop="20261109132400 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109132000 +0000" stop="20261109132500 +0000" channel="TV Brno 1 CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109132400 +0000" stop="20261109133000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109132500 +0000" stop="20261109133500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109133000 +0000" stop="20261109134000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109133500 +0000" stop="20261109134500 +0000" channel="TV Brno 1 CZ">
     <title>Hasiči</title>
   </programme>
-  <programme start="20261109134000 +0000" stop="20261109140000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109134500 +0000" stop="20261109140000 +0000" channel="TV Brno 1 CZ">
     <title>Teplá i studená kuchyně Jakuba Hübnera</title>
   </programme>
   <programme start="20261109140000 +0000" stop="20261109142000 +0000" channel="TV Brno 1 CZ">
@@ -8166,10 +7930,10 @@
   <programme start="20261109142000 +0000" stop="20261109142400 +0000" channel="TV Brno 1 CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109142400 +0000" stop="20261109143000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109142400 +0000" stop="20261109143500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109143000 +0000" stop="20261109150000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109143500 +0000" stop="20261109150000 +0000" channel="TV Brno 1 CZ">
     <title>Na návštěvě u krajanů v Ontariu</title>
   </programme>
   <programme start="20261109150000 +0000" stop="20261109152000 +0000" channel="TV Brno 1 CZ">
@@ -8178,10 +7942,10 @@
   <programme start="20261109152000 +0000" stop="20261109152400 +0000" channel="TV Brno 1 CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109152400 +0000" stop="20261109153000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109152400 +0000" stop="20261109153500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109153000 +0000" stop="20261109160000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109153500 +0000" stop="20261109160000 +0000" channel="TV Brno 1 CZ">
     <title>Dobré zprávy</title>
   </programme>
   <programme start="20261109160000 +0000" stop="20261109162000 +0000" channel="TV Brno 1 CZ">
@@ -8190,13 +7954,13 @@
   <programme start="20261109162000 +0000" stop="20261109162400 +0000" channel="TV Brno 1 CZ">
     <title>Počasí</title>
   </programme>
-  <programme start="20261109162400 +0000" stop="20261109163000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109162400 +0000" stop="20261109163500 +0000" channel="TV Brno 1 CZ">
     <title>Host dne</title>
   </programme>
-  <programme start="20261109163000 +0000" stop="20261109164000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109163500 +0000" stop="20261109164500 +0000" channel="TV Brno 1 CZ">
     <title>Hasiči</title>
   </programme>
-  <programme start="20261109164000 +0000" stop="20261109170000 +0000" channel="TV Brno 1 CZ">
+  <programme start="20261109164500 +0000" stop="20261109170000 +0000" channel="TV Brno 1 CZ">
     <title>Teplá i studená kuchyně Jakuba Hübnera</title>
   </programme>
   <programme start="20261109170000 +0000" stop="20261109171000 +0000" channel="TV Brno 1 CZ">
@@ -8778,30 +8542,6 @@
   <programme start="20261111053000 +0000" stop="20261111060000 +0000" channel="TV Brno 1 CZ">
     <title>Dobré zprávy</title>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109003000 +0000" channel="Jihoceska televize">
-    <title>Zprávy +, Počasí, Studio Z, Tipy pro volný čas</title>
-  </programme>
-  <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="Jihoceska televize">
-    <title>Zprávy +, Počasí, Studio Z, Tipy pro volný čas</title>
-  </programme>
-  <programme start="20261109010000 +0000" stop="20261109013000 +0000" channel="Jihoceska televize">
-    <title>Zprávy +, Počasí, Studio Z, Tipy pro volný čas</title>
-  </programme>
-  <programme start="20261109013000 +0000" stop="20261109020000 +0000" channel="Jihoceska televize">
-    <title>Zprávy +, Počasí, Studio Z, Tipy pro volný čas</title>
-  </programme>
-  <programme start="20261109020000 +0000" stop="20261109023000 +0000" channel="Jihoceska televize">
-    <title>Zprávy +, Počasí, Studio Z, Tipy pro volný čas</title>
-  </programme>
-  <programme start="20261109023000 +0000" stop="20261109030000 +0000" channel="Jihoceska televize">
-    <title>Zprávy +, Počasí, Studio Z, Tipy pro volný čas</title>
-  </programme>
-  <programme start="20261109030000 +0000" stop="20261109033000 +0000" channel="Jihoceska televize">
-    <title>Zprávy +, Počasí, Studio Z, Tipy pro volný čas</title>
-  </programme>
-  <programme start="20261109033000 +0000" stop="20261109040000 +0000" channel="Jihoceska televize">
-    <title>Zprávy +, Počasí, Studio Z, Tipy pro volný čas</title>
-  </programme>
   <programme start="20261109040000 +0000" stop="20261109043000 +0000" channel="Jihoceska televize">
     <title>Zprávy +, Počasí, Studio Z, Tipy pro volný čas</title>
   </programme>
@@ -9102,12 +8842,6 @@
   <programme start="20261111053000 +0000" stop="20261111060000 +0000" channel="Jihoceska televize">
     <title>Zprávy, Počasí, Studio Z, Tipy pro volný čas, Jednou větou</title>
   </programme>
-  <programme start="20261109010000 +0000" stop="20261109030000 +0000" channel="UTV CZ">
-    <title>Blok pořadů</title>
-  </programme>
-  <programme start="20261109030000 +0000" stop="20261109050000 +0000" channel="UTV CZ">
-    <title>Blok pořadů</title>
-  </programme>
   <programme start="20261109050000 +0000" stop="20261109070000 +0000" channel="UTV CZ">
     <title>Blok pořadů</title>
   </programme>
@@ -9182,18 +8916,6 @@
   </programme>
   <programme start="20261111050000 +0000" stop="20261111070000 +0000" channel="UTV CZ">
     <title>Blok pořadů</title>
-  </programme>
-  <programme start="20261109000000 +0000" stop="20261109003000 +0000" channel="Current Time TV">
-    <title>Krym.Realii</title>
-  </programme>
-  <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="Current Time TV">
-    <title>Donbass.Realii</title>
-  </programme>
-  <programme start="20261109010000 +0000" stop="20261109020000 +0000" channel="Current Time TV">
-    <title>DW. Iskusstvo v detalyakh</title>
-  </programme>
-  <programme start="20261109020000 +0000" stop="20261109040000 +0000" channel="Current Time TV">
-    <title>Realnoe kino</title>
   </programme>
   <programme start="20261109040000 +0000" stop="20261109043000 +0000" channel="Current Time TV">
     <title>Otkroy Moldovu</title>
@@ -10068,7 +9790,172 @@
   <programme start="20261109012500 +0000" stop="20261109035000 +0000" channel="Imedi TV GE">
     <title>მხატვრული ფილმი</title>
   </programme>
-  <programme start="20261109035000 +0000" stop="20261109035500 +0000" channel="Imedi TV GE">
+  <programme start="20261109035000 +0000" stop="20261109060000 +0000" channel="Imedi TV GE">
+    <title>მხატვრული ფილმი</title>
+  </programme>
+  <programme start="20261109060000 +0000" stop="20261109073000 +0000" channel="Imedi TV GE">
+    <title>შუა ქალაქში</title>
+  </programme>
+  <programme start="20261109073000 +0000" stop="20261109080000 +0000" channel="Imedi TV GE">
+    <title>იმედის დილა</title>
+  </programme>
+  <programme start="20261109080000 +0000" stop="20261109081500 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261109081500 +0000" stop="20261109090000 +0000" channel="Imedi TV GE">
+    <title>იმედის დილა</title>
+  </programme>
+  <programme start="20261109090000 +0000" stop="20261109092000 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261109092000 +0000" stop="20261109100000 +0000" channel="Imedi TV GE">
+    <title>იმედის დილა</title>
+  </programme>
+  <programme start="20261109100000 +0000" stop="20261109101000 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261109101000 +0000" stop="20261109110000 +0000" channel="Imedi TV GE">
+    <title>სიყვარული და სიამაყე 67</title>
+  </programme>
+  <programme start="20261109110000 +0000" stop="20261109112000 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261109112000 +0000" stop="20261109123000 +0000" channel="Imedi TV GE">
+    <title>გამოსასყიდი 85</title>
+  </programme>
+  <programme start="20261109123000 +0000" stop="20261109140000 +0000" channel="Imedi TV GE">
+    <title>იმედის დღე</title>
+  </programme>
+  <programme start="20261109140000 +0000" stop="20261109144500 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261109144500 +0000" stop="20261109160000 +0000" channel="Imedi TV GE">
+    <title>პატარძალი 389</title>
+  </programme>
+  <programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="Imedi TV GE">
+    <title>სიყვარული და ცოდვა 34</title>
+  </programme>
+  <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261109173000 +0000" stop="20261109180000 +0000" channel="Imedi TV GE">
+    <title>დღის ქრონიკა</title>
+  </programme>
+  <programme start="20261109180000 +0000" stop="20261109184500 +0000" channel="Imedi TV GE">
+    <title>წინაპართა ძახილი 56</title>
+  </programme>
+  <programme start="20261109184500 +0000" stop="20261109190000 +0000" channel="Imedi TV GE">
+    <title>ლეილა 70</title>
+  </programme>
+  <programme start="20261109190000 +0000" stop="20261109190300 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა - ანონსი</title>
+  </programme>
+  <programme start="20261109190300 +0000" stop="20261109200000 +0000" channel="Imedi TV GE">
+    <title>ლეილა 70</title>
+  </programme>
+  <programme start="20261109200000 +0000" stop="20261109210000 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261109210000 +0000" stop="20261109220000 +0000" channel="Imedi TV GE">
+    <title>შორეული ქალაქი მე-2 სეზონი 1</title>
+  </programme>
+  <programme start="20261109220000 +0000" stop="20261109233000 +0000" channel="Imedi TV GE">
+    <title>ჩემი საქართველო</title>
+  </programme>
+  <programme start="20261109233000 +0000" stop="20261110002000 +0000" channel="Imedi TV GE">
+    <title>გზაჯვარედინი 8</title>
+  </programme>
+  <programme start="20261110002000 +0000" stop="20261110013000 +0000" channel="Imedi TV GE">
+    <title>შუა ქალაქში 9 22-23</title>
+  </programme>
+  <programme start="20261110013000 +0000" stop="20261110035000 +0000" channel="Imedi TV GE">
+    <title>მხატვრული ფილმი</title>
+  </programme>
+  <programme start="20261110035000 +0000" stop="20261110060000 +0000" channel="Imedi TV GE">
+    <title>მხატვრული ფილმი</title>
+  </programme>
+  <programme start="20261110060000 +0000" stop="20261110073000 +0000" channel="Imedi TV GE">
+    <title>შუა ქალაქში</title>
+  </programme>
+  <programme start="20261110073000 +0000" stop="20261110080000 +0000" channel="Imedi TV GE">
+    <title>იმედის დილა</title>
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110081500 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261110081500 +0000" stop="20261110090000 +0000" channel="Imedi TV GE">
+    <title>იმედის დილა</title>
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110092000 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261110092000 +0000" stop="20261110100000 +0000" channel="Imedi TV GE">
+    <title>იმედის დილა</title>
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110101000 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261110101000 +0000" stop="20261110110000 +0000" channel="Imedi TV GE">
+    <title>სიყვარული და სიამაყე 68</title>
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110112000 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261110112000 +0000" stop="20261110123000 +0000" channel="Imedi TV GE">
+    <title>გამოსასყიდი 86</title>
+  </programme>
+  <programme start="20261110123000 +0000" stop="20261110140000 +0000" channel="Imedi TV GE">
+    <title>იმედის დღე</title>
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110144500 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261110144500 +0000" stop="20261110160000 +0000" channel="Imedi TV GE">
+    <title>პატარძალი 390</title>
+  </programme>
+  <programme start="20261110160000 +0000" stop="20261110170000 +0000" channel="Imedi TV GE">
+    <title>სიყვარული და ცოდვა 35</title>
+  </programme>
+  <programme start="20261110170000 +0000" stop="20261110173000 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261110173000 +0000" stop="20261110180000 +0000" channel="Imedi TV GE">
+    <title>დღის ქრონიკა</title>
+  </programme>
+  <programme start="20261110180000 +0000" stop="20261110184500 +0000" channel="Imedi TV GE">
+    <title>წინაპართა ძახილი 57</title>
+  </programme>
+  <programme start="20261110184500 +0000" stop="20261110190000 +0000" channel="Imedi TV GE">
+    <title>ლეილა 71</title>
+  </programme>
+  <programme start="20261110190000 +0000" stop="20261110190300 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა - ანონსი</title>
+  </programme>
+  <programme start="20261110190300 +0000" stop="20261110200000 +0000" channel="Imedi TV GE">
+    <title>ლეილა 71</title>
+  </programme>
+  <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="Imedi TV GE">
+    <title>ქრონიკა</title>
+  </programme>
+  <programme start="20261110210000 +0000" stop="20261110220000 +0000" channel="Imedi TV GE">
+    <title>შორეული ქალაქი მე-2 სეზონი 2</title>
+  </programme>
+  <programme start="20261110220000 +0000" stop="20261110223000 +0000" channel="Imedi TV GE">
+    <title>ღამის შოუ გიორგი გაბუნიასთან ერთად</title>
+  </programme>
+  <programme start="20261110223000 +0000" stop="20261110233000 +0000" channel="Imedi TV GE">
+    <title>HIT შოუ</title>
+  </programme>
+  <programme start="20261110233000 +0000" stop="20261111002000 +0000" channel="Imedi TV GE">
+    <title>გზაჯვარედინი 9</title>
+  </programme>
+  <programme start="20261111002000 +0000" stop="20261111012500 +0000" channel="Imedi TV GE">
+    <title>შუა ქალაქში 9 24 , შუა ქალაქში 10 1</title>
+  </programme>
+  <programme start="20261111012500 +0000" stop="20261111034500 +0000" channel="Imedi TV GE">
+    <title>მხატვრული ფილმი</title>
+  </programme>
+  <programme start="20261111034500 +0000" stop="20261111060000 +0000" channel="Imedi TV GE">
     <title>მხატვრული ფილმი</title>
   </programme>
   <programme start="20261109001500 +0000" stop="20261109010000 +0000" channel="Alpha TV GR">
@@ -10683,8 +10570,11 @@
   <programme start="20261109060000 +0000" stop="20261109065500 +0000" channel="ERT News GR">
     <title>Ειδήσεις - Αθλητικά - Καιρός</title>
   </programme>
-  <programme start="20261109065500 +0000" stop="20261109090000 +0000" channel="ERT News GR">
+  <programme start="20261109065500 +0000" stop="20261109070000 +0000" channel="ERT News GR">
     <title>Ειδήσεις - Νοηματική</title>
+  </programme>
+  <programme start="20261109070000 +0000" stop="20261109090000 +0000" channel="ERT News GR">
+    <title>ΕΡΤ Επικαιρότητα [K8]</title>
   </programme>
   <programme start="20261109090000 +0000" stop="20261109100000 +0000" channel="ERT News GR">
     <title>Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -10731,8 +10621,11 @@
   <programme start="20261110060000 +0000" stop="20261110065500 +0000" channel="ERT News GR">
     <title>Ειδήσεις - Αθλητικά - Καιρός</title>
   </programme>
-  <programme start="20261110065500 +0000" stop="20261110090000 +0000" channel="ERT News GR">
+  <programme start="20261110065500 +0000" stop="20261110070000 +0000" channel="ERT News GR">
     <title>Ειδήσεις - Νοηματική</title>
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110090000 +0000" channel="ERT News GR">
+    <title>ΕΡΤ Επικαιρότητα [K8]</title>
   </programme>
   <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="ERT News GR">
     <title>Ειδήσεις - Αθλητικά - Καιρός</title>
@@ -10758,14 +10651,23 @@
   <programme start="20261110180000 +0000" stop="20261110190000 +0000" channel="ERT News GR">
     <title>Ειδήσεις - Αθλητικά - Καιρός</title>
   </programme>
-  <programme start="20261110190000 +0000" stop="20261110210000 +0000" channel="ERT News GR">
+  <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="ERT News GR">
     <title>Force [K8]</title>
+  </programme>
+  <programme start="20261110200000 +0000" stop="20261110210000 +0000" channel="ERT News GR">
+    <title>Φάσμα - Ε Κύκλος [K8]</title>
   </programme>
   <programme start="20261110210000 +0000" stop="20261110230000 +0000" channel="ERT News GR">
     <title>Ειδήσεις - Αθλητικά - Καιρός</title>
   </programme>
-  <programme start="20261110230000 +0000" stop="20261111020000 +0000" channel="ERT News GR">
+  <programme start="20261110230000 +0000" stop="20261111000000 +0000" channel="ERT News GR">
     <title>ΕΡΤ Επικαιρότητα [K8]</title>
+  </programme>
+  <programme start="20261111000000 +0000" stop="20261111020000 +0000" channel="ERT News GR">
+    <title>Φάσμα - Ε Κύκλος (E) [K8]</title>
+  </programme>
+  <programme start="20261111020000 +0000" stop="20261111060000 +0000" channel="ERT News GR">
+    <title>Συνδέσεις [K8]</title>
   </programme>
   <programme start="20261109005000 +0000" stop="20261109013000 +0000" channel="Star Channel GR">
     <title>Chicago P.D. 13</title>
@@ -12150,11 +12052,8 @@
   <programme start="20261110220500 +0000" stop="20261110225500 +0000" channel="MRT 1 MK">
     <title>До полноќ со Вики</title>
   </programme>
-  <programme start="20261110225500 +0000" stop="20261110230000 +0000" channel="MRT 1 MK">
+  <programme start="20261110225500 +0000" stop="20261110235500 +0000" channel="MRT 1 MK">
     <title>Звук што се гледа</title>
-  </programme>
-  <programme start="20261110230000 +0000" stop="20261110235500 +0000" channel="MRT 1 MK">
-    <title>МРТ 1 HD 00:00 11-11-2026</title>
   </programme>
   <programme start="20261110235500 +0000" stop="20261111004000 +0000" channel="MRT 1 MK">
     <title>На Прва со Пеце и Нора</title>
@@ -12162,11 +12061,8 @@
   <programme start="20261111004000 +0000" stop="20261111014000 +0000" channel="MRT 1 MK">
     <title>Централен дневник</title>
   </programme>
-  <programme start="20261111014000 +0000" stop="20261111030000 +0000" channel="MRT 1 MK">
+  <programme start="20261111014000 +0000" stop="20261111042000 +0000" channel="MRT 1 MK">
     <title>Добро утро Македонијо</title>
-  </programme>
-  <programme start="20261111030000 +0000" stop="20261111042000 +0000" channel="MRT 1 MK">
-    <title>МРТ 1 HD 04:00 11-11-2026</title>
   </programme>
   <programme start="20261111042000 +0000" stop="20261111044400 +0000" channel="MRT 1 MK">
     <title>Брз пулс со Алекс на Прва</title>
@@ -12528,8 +12424,11 @@
   <programme start="20261109000000 +0000" stop="20261109000500 +0000" channel="Pervyj Kanal">
     <title>Новости</title>
   </programme>
-  <programme start="20261109000500 +0000" stop="20261109004000 +0000" channel="Pervyj Kanal">
+  <programme start="20261109000500 +0000" stop="20261109002500 +0000" channel="Pervyj Kanal">
     <title>ПОДКАСТ.ЛАБ. Баден-Баден (16+)</title>
+  </programme>
+  <programme start="20261109002500 +0000" stop="20261109004000 +0000" channel="Pervyj Kanal">
+    <title>ПОДКАСТ.ЛАБ. Собрались с мыслями (16+)</title>
   </programme>
   <programme start="20261109004000 +0000" stop="20261109012000 +0000" channel="Pervyj Kanal">
     <title>ПОДКАСТ.ЛАБ. Легкие деньги (16+)</title>
@@ -12714,8 +12613,11 @@
   <programme start="20261109000000 +0000" stop="20261109003000 +0000" channel="Rossiya 1">
     <title>Вести</title>
   </programme>
-  <programme start="20261109003000 +0000" stop="20261109012900 +0000" channel="Rossiya 1">
+  <programme start="20261109003000 +0000" stop="20261109005300 +0000" channel="Rossiya 1">
     <title>Райский. Продолжение. 10-я серия - Юбилей (16+)</title>
+  </programme>
+  <programme start="20261109005300 +0000" stop="20261109012900 +0000" channel="Rossiya 1">
+    <title>Перерыв в вещании</title>
   </programme>
   <programme start="20261109012900 +0000" stop="20261109020000 +0000" channel="Rossiya 1">
     <title>Перерыв в вещании</title>
@@ -13560,6 +13462,195 @@
   <programme start="20261111045500 +0000" stop="20261111060000 +0000" channel="RTS 1 RS">
     <title>Ko je šef</title>
   </programme>
+  <programme start="20261109005500 +0000" stop="20261109011800 +0000" channel="Prva RS">
+    <title>Na mestu zločina sa Mašanom </title>
+  </programme>
+  <programme start="20261109011800 +0000" stop="20261109025700 +0000" channel="Prva RS">
+    <title>Do poslednjeg daha </title>
+  </programme>
+  <programme start="20261109025700 +0000" stop="20261109033500 +0000" channel="Prva RS">
+    <title>Igra sudbine: Bogatstvo ima cenu</title>
+  </programme>
+  <programme start="20261109033500 +0000" stop="20261109042100 +0000" channel="Prva RS">
+    <title>Pogodi cenu tačno</title>
+  </programme>
+  <programme start="20261109042100 +0000" stop="20261109050900 +0000" channel="Prva RS">
+    <title>Pogodi cenu tačno</title>
+  </programme>
+  <programme start="20261109050900 +0000" stop="20261109053000 +0000" channel="Prva RS">
+    <title>Exkluziv - Specijal </title>
+  </programme>
+  <programme start="20261109053000 +0000" stop="20261109055500 +0000" channel="Prva RS">
+    <title>Exploziv </title>
+  </programme>
+  <programme start="20261109055500 +0000" stop="20261109100000 +0000" channel="Prva RS">
+    <title>Jutro </title>
+  </programme>
+  <programme start="20261109100000 +0000" stop="20261109105400 +0000" channel="Prva RS">
+    <title>Zaklela se zemlja raju </title>
+  </programme>
+  <programme start="20261109105400 +0000" stop="20261109114300 +0000" channel="Prva RS">
+    <title>Igra sudbine: Bogatstvo ima cenu</title>
+  </programme>
+  <programme start="20261109114300 +0000" stop="20261109120100 +0000" channel="Prva RS">
+    <title>Exkluziv </title>
+  </programme>
+  <programme start="20261109120100 +0000" stop="20261109130000 +0000" channel="Prva RS">
+    <title>Pogodi cenu tačno</title>
+  </programme>
+  <programme start="20261109130000 +0000" stop="20261109131000 +0000" channel="Prva RS">
+    <title>Vesti 13 </title>
+  </programme>
+  <programme start="20261109131000 +0000" stop="20261109140000 +0000" channel="Prva RS">
+    <title>150 minuta </title>
+  </programme>
+  <programme start="20261109140000 +0000" stop="20261109141000 +0000" channel="Prva RS">
+    <title>Vesti 14 </title>
+  </programme>
+  <programme start="20261109141000 +0000" stop="20261109150000 +0000" channel="Prva RS">
+    <title>150 minuta - nastavak emisije </title>
+  </programme>
+  <programme start="20261109150000 +0000" stop="20261109151000 +0000" channel="Prva RS">
+    <title>Vesti 15 </title>
+  </programme>
+  <programme start="20261109151000 +0000" stop="20261109155500 +0000" channel="Prva RS">
+    <title>150 minuta - nastavak emisije </title>
+  </programme>
+  <programme start="20261109155500 +0000" stop="20261109161100 +0000" channel="Prva RS">
+    <title>Biostile - vaše zdravlje, naša briga </title>
+  </programme>
+  <programme start="20261109161100 +0000" stop="20261109170500 +0000" channel="Prva RS">
+    <title>Zaklela se zemlja raju </title>
+  </programme>
+  <programme start="20261109170500 +0000" stop="20261109173100 +0000" channel="Prva RS">
+    <title>Exkluziv </title>
+  </programme>
+  <programme start="20261109173100 +0000" stop="20261109180000 +0000" channel="Prva RS">
+    <title>Pobednik</title>
+  </programme>
+  <programme start="20261109180000 +0000" stop="20261109190300 +0000" channel="Prva RS">
+    <title>Vesti </title>
+  </programme>
+  <programme start="20261109190300 +0000" stop="20261109200000 +0000" channel="Prva RS">
+    <title>Pogodi cenu tačno</title>
+  </programme>
+  <programme start="20261109200000 +0000" stop="20261109200700 +0000" channel="Prva RS">
+    <title>Loto 5</title>
+  </programme>
+  <programme start="20261109200700 +0000" stop="20261109205900 +0000" channel="Prva RS">
+    <title>Igra sudbine: Bogatstvo ima cenu</title>
+  </programme>
+  <programme start="20261109205900 +0000" stop="20261109221400 +0000" channel="Prva RS">
+    <title>Hajde da se volimo</title>
+  </programme>
+  <programme start="20261109221400 +0000" stop="20261109234500 +0000" channel="Prva RS">
+    <title>Love Island Adria</title>
+  </programme>
+  <programme start="20261109234500 +0000" stop="20261110020500 +0000" channel="Prva RS">
+    <title>Magija na ostrvu Bel </title>
+  </programme>
+  <programme start="20261110020500 +0000" stop="20261110035000 +0000" channel="Prva RS">
+    <title>Ja imam super talenat</title>
+  </programme>
+  <programme start="20261110035000 +0000" stop="20261110051500 +0000" channel="Prva RS">
+    <title>Do poslednjeg daha </title>
+  </programme>
+  <programme start="20261110051500 +0000" stop="20261110053500 +0000" channel="Prva RS">
+    <title>Pobednik</title>
+  </programme>
+  <programme start="20261110053500 +0000" stop="20261110055500 +0000" channel="Prva RS">
+    <title>Exkluziv </title>
+  </programme>
+  <programme start="20261110055500 +0000" stop="20261110100000 +0000" channel="Prva RS">
+    <title>Jutro </title>
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Prva RS">
+    <title>Zaklela se zemlja raju </title>
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="Prva RS">
+    <title>Igra sudbine: Bogatstvo ima cenu</title>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Prva RS">
+    <title>Pogodi cenu tačno</title>
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110131000 +0000" channel="Prva RS">
+    <title>Vesti 13 </title>
+  </programme>
+  <programme start="20261110131000 +0000" stop="20261110140000 +0000" channel="Prva RS">
+    <title>150 minuta </title>
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110141000 +0000" channel="Prva RS">
+    <title>Vesti 14 </title>
+  </programme>
+  <programme start="20261110141000 +0000" stop="20261110150000 +0000" channel="Prva RS">
+    <title>150 minuta - nastavak emisije </title>
+  </programme>
+  <programme start="20261110150000 +0000" stop="20261110151000 +0000" channel="Prva RS">
+    <title>Vesti 15 </title>
+  </programme>
+  <programme start="20261110151000 +0000" stop="20261110151500 +0000" channel="Prva RS">
+    <title>150 minuta - nastavak emisije </title>
+  </programme>
+  <programme start="20261110151500 +0000" stop="20261110153000 +0000" channel="Prva RS">
+    <title>Biostile - vaše zdravlje, naša briga </title>
+  </programme>
+  <programme start="20261110153000 +0000" stop="20261110160000 +0000" channel="Prva RS">
+    <title>Ceca i Ljuba </title>
+  </programme>
+  <programme start="20261110160000 +0000" stop="20261110170000 +0000" channel="Prva RS">
+    <title>Zaklela se zemlja raju </title>
+  </programme>
+  <programme start="20261110170000 +0000" stop="20261110173000 +0000" channel="Prva RS">
+    <title>Exkluziv </title>
+  </programme>
+  <programme start="20261110173000 +0000" stop="20261110180000 +0000" channel="Prva RS">
+    <title>Pobednik</title>
+  </programme>
+  <programme start="20261110180000 +0000" stop="20261110190000 +0000" channel="Prva RS">
+    <title>Vesti </title>
+  </programme>
+  <programme start="20261110190000 +0000" stop="20261110200000 +0000" channel="Prva RS">
+    <title>Pogodi cenu tačno</title>
+  </programme>
+  <programme start="20261110200000 +0000" stop="20261110201000 +0000" channel="Prva RS">
+    <title>Loto </title>
+  </programme>
+  <programme start="20261110201000 +0000" stop="20261110210000 +0000" channel="Prva RS">
+    <title>Igra sudbine: Bogatstvo ima cenu</title>
+  </programme>
+  <programme start="20261110210000 +0000" stop="20261110221500 +0000" channel="Prva RS">
+    <title>Traitors Srbija</title>
+  </programme>
+  <programme start="20261110221500 +0000" stop="20261110225500 +0000" channel="Prva RS">
+    <title>Na mestu zločina sa Mašanom </title>
+  </programme>
+  <programme start="20261110225500 +0000" stop="20261110233000 +0000" channel="Prva RS">
+    <title>Ceca i Ljuba </title>
+  </programme>
+  <programme start="20261110233000 +0000" stop="20261111011500 +0000" channel="Prva RS">
+    <title>Okrutne namere </title>
+  </programme>
+  <programme start="20261111011500 +0000" stop="20261111031500 +0000" channel="Prva RS">
+    <title>Magija na ostrvu Bel </title>
+  </programme>
+  <programme start="20261111031500 +0000" stop="20261111040000 +0000" channel="Prva RS">
+    <title>Pogodi cenu tačno</title>
+  </programme>
+  <programme start="20261111040000 +0000" stop="20261111042000 +0000" channel="Prva RS">
+    <title>Na mestu zločina sa Mašanom </title>
+  </programme>
+  <programme start="20261111042000 +0000" stop="20261111044500 +0000" channel="Prva RS">
+    <title>Pobednik</title>
+  </programme>
+  <programme start="20261111044500 +0000" stop="20261111053000 +0000" channel="Prva RS">
+    <title>Zaklela se zemlja raju </title>
+  </programme>
+  <programme start="20261111053000 +0000" stop="20261111055500 +0000" channel="Prva RS">
+    <title>Exkluziv </title>
+  </programme>
+  <programme start="20261111055500 +0000" stop="20261111100000 +0000" channel="Prva RS">
+    <title>Jutro </title>
+  </programme>
   <programme start="20261109000000 +0000" stop="20261109040000 +0000" channel="STV 24 SK">
     <title>Záznam z rokovania NR SR</title>
   </programme>
@@ -14184,10 +14275,10 @@
   <programme start="20261109035500 +0000" stop="20261109040500 +0000" channel="Jednotka SK">
     <title>Počasie</title>
   </programme>
-  <programme start="20261109040500 +0000" stop="20261109042500 +0000" channel="Jednotka SK">
+  <programme start="20261109040500 +0000" stop="20261109043000 +0000" channel="Jednotka SK">
     <title>Slovensko v obrazoch</title>
   </programme>
-  <programme start="20261109042500 +0000" stop="20261109060000 +0000" channel="Jednotka SK">
+  <programme start="20261109043000 +0000" stop="20261109060000 +0000" channel="Jednotka SK">
     <title>Dámsky klub</title>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109073500 +0000" channel="Jednotka SK">
@@ -15468,7 +15559,49 @@
   <programme start="20261109173000 +0000" stop="20261109190000 +0000" channel="360 TR">
     <title>Seksenler</title>
   </programme>
-  <programme start="20261109190000 +0000" stop="20261109235900 +0000" channel="360 TR">
+  <programme start="20261109190000 +0000" stop="20261110004500 +0000" channel="360 TR">
+    <title>Ben Bilirim</title>
+  </programme>
+  <programme start="20261110004500 +0000" stop="20261110020000 +0000" channel="360 TR">
+    <title>Ben Bilirim</title>
+  </programme>
+  <programme start="20261110020000 +0000" stop="20261110031500 +0000" channel="360 TR">
+    <title>Seren'le Buluşalım</title>
+  </programme>
+  <programme start="20261110031500 +0000" stop="20261110050000 +0000" channel="360 TR">
+    <title>Zamanı Geldi</title>
+  </programme>
+  <programme start="20261110050000 +0000" stop="20261110061500 +0000" channel="360 TR">
+    <title>Mücevher Hırsızları</title>
+  </programme>
+  <programme start="20261110061500 +0000" stop="20261110064500 +0000" channel="360 TR">
+    <title>Ataman İle Devr-i Alem</title>
+  </programme>
+  <programme start="20261110064500 +0000" stop="20261110070000 +0000" channel="360 TR">
+    <title>Lezzet Peşinde</title>
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110084500 +0000" channel="360 TR">
+    <title>Ömrümce Aradım</title>
+  </programme>
+  <programme start="20261110084500 +0000" stop="20261110104500 +0000" channel="360 TR">
+    <title>Zamanı Geldi</title>
+  </programme>
+  <programme start="20261110104500 +0000" stop="20261110124500 +0000" channel="360 TR">
+    <title>Seksenler</title>
+  </programme>
+  <programme start="20261110124500 +0000" stop="20261110140000 +0000" channel="360 TR">
+    <title>Seren'le Buluşalım</title>
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110154500 +0000" channel="360 TR">
+    <title>Yağmur</title>
+  </programme>
+  <programme start="20261110154500 +0000" stop="20261110173000 +0000" channel="360 TR">
+    <title>Ömrümce Aradım</title>
+  </programme>
+  <programme start="20261110173000 +0000" stop="20261110190000 +0000" channel="360 TR">
+    <title>Seksenler</title>
+  </programme>
+  <programme start="20261110190000 +0000" stop="20261110235900 +0000" channel="360 TR">
     <title>Ben Bilirim</title>
   </programme>
   <programme start="20261109022000 +0000" stop="20261109052000 +0000" channel="ATV TR">
@@ -15942,8 +16075,89 @@
   <programme start="20261109194500 +0000" stop="20261109203000 +0000" channel="TGRT Haber">
     <title>Ana Haber</title>
   </programme>
-  <programme start="20261109203000 +0000" stop="20261109235900 +0000" channel="TGRT Haber">
+  <programme start="20261109203000 +0000" stop="20261110010000 +0000" channel="TGRT Haber">
     <title>Taksim Meydanı</title>
+  </programme>
+  <programme start="20261110010000 +0000" stop="20261110043000 +0000" channel="TGRT Haber">
+    <title>Gündem Özel</title>
+  </programme>
+  <programme start="20261110043000 +0000" stop="20261110053000 +0000" channel="TGRT Haber">
+    <title>Gecenin İçinden</title>
+  </programme>
+  <programme start="20261110053000 +0000" stop="20261110054500 +0000" channel="TGRT Haber">
+    <title>Huzura Doğru</title>
+  </programme>
+  <programme start="20261110054500 +0000" stop="20261110060000 +0000" channel="TGRT Haber">
+    <title>Gecenin İçinden</title>
+  </programme>
+  <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="TGRT Haber">
+    <title>Haber Bülteni</title>
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110075000 +0000" channel="TGRT Haber">
+    <title>Günaydın Türkiye</title>
+  </programme>
+  <programme start="20261110075000 +0000" stop="20261110080000 +0000" channel="TGRT Haber">
+    <title>Hayatın İçinden</title>
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110085000 +0000" channel="TGRT Haber">
+    <title>Günaydın Türkiye</title>
+  </programme>
+  <programme start="20261110085000 +0000" stop="20261110090000 +0000" channel="TGRT Haber">
+    <title>Hayatın İçinden</title>
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110095000 +0000" channel="TGRT Haber">
+    <title>Günaydın Türkiye</title>
+  </programme>
+  <programme start="20261110095000 +0000" stop="20261110100000 +0000" channel="TGRT Haber">
+    <title>Hayatın İçinden</title>
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110120000 +0000" channel="TGRT Haber">
+    <title>Haberin İçinden</title>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110124500 +0000" channel="TGRT Haber">
+    <title>Gün Ortası</title>
+  </programme>
+  <programme start="20261110124500 +0000" stop="20261110130000 +0000" channel="TGRT Haber">
+    <title>Hayatın İçinden</title>
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110135000 +0000" channel="TGRT Haber">
+    <title>Gün Ortası</title>
+  </programme>
+  <programme start="20261110135000 +0000" stop="20261110140000 +0000" channel="TGRT Haber">
+    <title>Hayatın İçinden</title>
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110145000 +0000" channel="TGRT Haber">
+    <title>Günün İçinden</title>
+  </programme>
+  <programme start="20261110145000 +0000" stop="20261110150000 +0000" channel="TGRT Haber">
+    <title>Hayatın İçinden</title>
+  </programme>
+  <programme start="20261110150000 +0000" stop="20261110155000 +0000" channel="TGRT Haber">
+    <title>Günün İçinden</title>
+  </programme>
+  <programme start="20261110155000 +0000" stop="20261110160000 +0000" channel="TGRT Haber">
+    <title>Hayatın İçinden</title>
+  </programme>
+  <programme start="20261110160000 +0000" stop="20261110165000 +0000" channel="TGRT Haber">
+    <title>Gündem</title>
+  </programme>
+  <programme start="20261110165000 +0000" stop="20261110170000 +0000" channel="TGRT Haber">
+    <title>Hayatın İçinden</title>
+  </programme>
+  <programme start="20261110170000 +0000" stop="20261110174500 +0000" channel="TGRT Haber">
+    <title>Dünyada Bugün</title>
+  </programme>
+  <programme start="20261110174500 +0000" stop="20261110193000 +0000" channel="TGRT Haber">
+    <title>Pınar Işık Ardor ile Bu Akşam</title>
+  </programme>
+  <programme start="20261110193000 +0000" stop="20261110194500 +0000" channel="TGRT Haber">
+    <title>Hayatın İçinden</title>
+  </programme>
+  <programme start="20261110194500 +0000" stop="20261110203000 +0000" channel="TGRT Haber">
+    <title>Ana Haber</title>
+  </programme>
+  <programme start="20261110203000 +0000" stop="20261110235900 +0000" channel="TGRT Haber">
+    <title>Gündem Özel</title>
   </programme>
   <programme start="20261109001500 +0000" stop="20261109013500 +0000" channel="TRT 1 TR">
     <title>3'te 3</title>
@@ -16173,7 +16387,94 @@
   <programme start="20261109190000 +0000" stop="20261109203000 +0000" channel="TRT Turk">
     <title>Yalnız Minare</title>
   </programme>
-  <programme start="20261109203000 +0000" stop="20261109235900 +0000" channel="TRT Turk">
+  <programme start="20261109203000 +0000" stop="20261110011500 +0000" channel="TRT Turk">
+    <title>Seksenler</title>
+  </programme>
+  <programme start="20261110011500 +0000" stop="20261110014000 +0000" channel="TRT Turk">
+    <title>Leyla ile Mecnun</title>
+  </programme>
+  <programme start="20261110014000 +0000" stop="20261110025000 +0000" channel="TRT Turk">
+    <title>Evde Konuşuruz</title>
+  </programme>
+  <programme start="20261110025000 +0000" stop="20261110035000 +0000" channel="TRT Turk">
+    <title>Benim Güzel Ailem</title>
+  </programme>
+  <programme start="20261110035000 +0000" stop="20261110045000 +0000" channel="TRT Turk">
+    <title>İyi Bak Kendine</title>
+  </programme>
+  <programme start="20261110045000 +0000" stop="20261110051500 +0000" channel="TRT Turk">
+    <title>Leyla ile Mecnun</title>
+  </programme>
+  <programme start="20261110051500 +0000" stop="20261110064500 +0000" channel="TRT Turk">
+    <title>Seksenler</title>
+  </programme>
+  <programme start="20261110064500 +0000" stop="20261110065500 +0000" channel="TRT Turk">
+    <title>Zuhurat</title>
+  </programme>
+  <programme start="20261110065500 +0000" stop="20261110070000 +0000" channel="TRT Turk">
+    <title>İstiklal Marşı Çocuk</title>
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110071000 +0000" channel="TRT Turk">
+    <title>En Güzel</title>
+  </programme>
+  <programme start="20261110071000 +0000" stop="20261110073500 +0000" channel="TRT Turk">
+    <title>Fransa'da Türk Camileri</title>
+  </programme>
+  <programme start="20261110073500 +0000" stop="20261110074500 +0000" channel="TRT Turk">
+    <title>Yeni Hayatım Hakkında</title>
+  </programme>
+  <programme start="20261110074500 +0000" stop="20261110080000 +0000" channel="TRT Turk">
+    <title>Canıgönülden</title>
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="TRT Turk">
+    <title>Benim Güzel Ailem</title>
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="TRT Turk">
+    <title>Anneler</title>
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110103000 +0000" channel="TRT Turk">
+    <title>Haberdar</title>
+  </programme>
+  <programme start="20261110103000 +0000" stop="20261110110000 +0000" channel="TRT Turk">
+    <title>Asırlık Tarifler</title>
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110121000 +0000" channel="TRT Turk">
+    <title>Evde Konuşuruz</title>
+  </programme>
+  <programme start="20261110121000 +0000" stop="20261110130000 +0000" channel="TRT Turk">
+    <title>Gönlümdeki Köln</title>
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="TRT Turk">
+    <title>İyi Bak Kendine</title>
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110145000 +0000" channel="TRT Turk">
+    <title>Öğle Ana Haber</title>
+  </programme>
+  <programme start="20261110145000 +0000" stop="20261110150000 +0000" channel="TRT Turk">
+    <title>Mikrofon Senin Karadağ</title>
+  </programme>
+  <programme start="20261110150000 +0000" stop="20261110153000 +0000" channel="TRT Turk">
+    <title>Gönül Verenler</title>
+  </programme>
+  <programme start="20261110153000 +0000" stop="20261110163000 +0000" channel="TRT Turk">
+    <title>Elde Var Hayat</title>
+  </programme>
+  <programme start="20261110163000 +0000" stop="20261110170000 +0000" channel="TRT Turk">
+    <title>Temizlik Kulübü</title>
+  </programme>
+  <programme start="20261110170000 +0000" stop="20261110180000 +0000" channel="TRT Turk">
+    <title>Benim Güzel Ailem</title>
+  </programme>
+  <programme start="20261110180000 +0000" stop="20261110184500 +0000" channel="TRT Turk">
+    <title>Günün İçinden</title>
+  </programme>
+  <programme start="20261110184500 +0000" stop="20261110190000 +0000" channel="TRT Turk">
+    <title>Mikrofon Senin Arnavutluk</title>
+  </programme>
+  <programme start="20261110190000 +0000" stop="20261110203000 +0000" channel="TRT Turk">
+    <title>Yalnız Minare</title>
+  </programme>
+  <programme start="20261110203000 +0000" stop="20261110235900 +0000" channel="TRT Turk">
     <title>Seksenler</title>
   </programme>
   <programme start="20261109000000 +0000" stop="20261109003000 +0000" channel="TRT World">
@@ -16467,8 +16768,50 @@
   <programme start="20261109124500 +0000" stop="20261109160000 +0000" channel="TV8 TR">
     <title>Temizlik Benim İşim</title>
   </programme>
-  <programme start="20261109160000 +0000" stop="20261109235900 +0000" channel="TV8 TR">
+  <programme start="20261109160000 +0000" stop="20261109190000 +0000" channel="TV8 TR">
     <title>Zuhal Topal'la Yemekteyiz</title>
+  </programme>
+  <programme start="20261109190000 +0000" stop="20261110001500 +0000" channel="TV8 TR">
+    <title>MasterChef Türkiye</title>
+  </programme>
+  <programme start="20261110001500 +0000" stop="20261110013000 +0000" channel="TV8 TR">
+    <title>Temizlik Benim İşim</title>
+  </programme>
+  <programme start="20261110013000 +0000" stop="20261110033000 +0000" channel="TV8 TR">
+    <title>Zuhal Topal'la Yemekteyiz</title>
+  </programme>
+  <programme start="20261110033000 +0000" stop="20261110053000 +0000" channel="TV8 TR">
+    <title>Gel Konuşalım</title>
+  </programme>
+  <programme start="20261110053000 +0000" stop="20261110063000 +0000" channel="TV8 TR">
+    <title>Oynat Bakalım</title>
+  </programme>
+  <programme start="20261110063000 +0000" stop="20261110071500 +0000" channel="TV8 TR">
+    <title>Tuzak</title>
+  </programme>
+  <programme start="20261110071500 +0000" stop="20261110090000 +0000" channel="TV8 TR">
+    <title>Ebru ile 8'de Sağlık</title>
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110120000 +0000" channel="TV8 TR">
+    <title>Gel Konuşalım</title>
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110160000 +0000" channel="TV8 TR">
+    <title>MasterChef Türkiye</title>
+  </programme>
+  <programme start="20261110160000 +0000" stop="20261110190000 +0000" channel="TV8 TR">
+    <title>Zuhal Topal'la Yemekteyiz</title>
+  </programme>
+  <programme start="20261110190000 +0000" stop="20261111013000 +0000" channel="TV8 TR">
+    <title>MasterChef Türkiye</title>
+  </programme>
+  <programme start="20261111013000 +0000" stop="20261111023000 +0000" channel="TV8 TR">
+    <title>Zuhal Topal'la Yemekteyiz</title>
+  </programme>
+  <programme start="20261111023000 +0000" stop="20261111043000 +0000" channel="TV8 TR">
+    <title>Gel Konuşalım</title>
+  </programme>
+  <programme start="20261111043000 +0000" stop="20261111063000 +0000" channel="TV8 TR">
+    <title>Oynat Bakalım</title>
   </programme>
   <programme start="20261109000000 +0000" stop="20261109010000 +0000" channel="1Plus1 Marafon">
     <title>Єдині новини. Телемарафон.</title>
@@ -17072,8 +17415,5 @@
   </programme>
   <programme start="20261111051000 +0000" stop="20261111060000 +0000" channel="Espreso TV UA">
     <title>Український Фокус: Ранок</title>
-  </programme>
-  <programme start="20261109000500 +0000" stop="20261109023000 +0000" channel="Pershyi UA">
-    <title>Суспільне Студія. Інформаційний проєкт.</title>
   </programme>
 </tv>

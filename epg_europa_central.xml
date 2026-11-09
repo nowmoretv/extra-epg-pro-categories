@@ -116,66 +116,6 @@
     <display-name>Telebasel</display-name>
     <icon src="https://images.open-epg.com/31447.png" />
   </channel>
-  <channel id="bx1">
-    <display-name>bx1</display-name>
-    <icon src="https://images.open-epg.com/x10.png" />
-  </channel>
-  <channel id="VRT Canvas">
-    <display-name>VRT Canvas</display-name>
-    <icon src="https://images.open-epg.com/246.png" />
-  </channel>
-  <channel id="VRT Ketnet">
-    <display-name>VRT Ketnet</display-name>
-    <icon src="https://images.open-epg.com/110.png" />
-  </channel>
-  <channel id="RTBF La Trois">
-    <display-name>RTBF La Trois</display-name>
-    <icon src="https://images.open-epg.com/114.png" />
-  </channel>
-  <channel id="RTBF La Une">
-    <display-name>RTBF La Une</display-name>
-    <icon src="https://images.open-epg.com/115.png" />
-  </channel>
-  <channel id="Matele">
-    <display-name>Matele</display-name>
-    <icon src="https://images.open-epg.com/x13.png" />
-  </channel>
-  <channel id="Notele">
-    <display-name>Notele</display-name>
-    <icon src="https://images.open-epg.com/x15.png" />
-  </channel>
-  <channel id="RTL-TVI">
-    <display-name>RTL-TVI</display-name>
-    <icon src="https://images.open-epg.com/201.png" />
-  </channel>
-  <channel id="Tele MB">
-    <display-name>Tele MB</display-name>
-    <icon src="https://images.open-epg.com/x42.png" />
-  </channel>
-  <channel id="Telesambre">
-    <display-name>Telesambre</display-name>
-    <icon src="https://images.open-epg.com/x1686.png" />
-  </channel>
-  <channel id="RTBF Tipik">
-    <display-name>RTBF Tipik</display-name>
-    <icon src="https://images.open-epg.com/222.png" />
-  </channel>
-  <channel id="Trends Z BE">
-    <display-name>Trends Z BE</display-name>
-    <icon src="https://images.open-epg.com/x2214.png" />
-  </channel>
-  <channel id="Trends Z FR">
-    <display-name>Trends Z FR</display-name>
-    <icon src="https://images.open-epg.com/x2214.png" />
-  </channel>
-  <channel id="tvlux">
-    <display-name>tvlux</display-name>
-    <icon src="https://images.open-epg.com/x38.png" />
-  </channel>
-  <channel id="VRT 1">
-    <display-name>VRT 1</display-name>
-    <icon src="https://images.open-epg.com/245.png" />
-  </channel>
   <channel id="1Twente">
     <display-name>1Twente</display-name>
     <icon src="https://images.open-epg.com/13273.png" />
@@ -256,14 +196,6 @@
     <display-name>Omroep West</display-name>
     <icon src="https://images.open-epg.com/8685.png" />
   </channel>
-  <channel id="NRK 1">
-    <display-name>NRK 1</display-name>
-    <icon src="https://images.open-epg.com/25161678.png" />
-  </channel>
-  <channel id="TV Ostfold">
-    <display-name>TV Ostfold</display-name>
-    <icon src="https://images.open-epg.com/4859.png" />
-  </channel>
   <channel id="DR 1">
     <display-name>DR 1</display-name>
     <icon src="https://images.open-epg.com/x800.png" />
@@ -271,30 +203,6 @@
   <channel id="TV2 Bornholm">
     <display-name>TV2 Bornholm</display-name>
     <icon src="https://images.open-epg.com/x1918.png" />
-  </channel>
-  <channel id="RTL9 FR">
-    <display-name>RTL9 FR</display-name>
-    <icon src="https://images.open-epg.com/19984775.png" />
-  </channel>
-  <channel id="ORF 1">
-    <display-name>ORF 1</display-name>
-    <icon src="https://images.open-epg.com/2266955.png" />
-  </channel>
-  <channel id="ORF 2">
-    <display-name>ORF 2</display-name>
-    <icon src="https://images.open-epg.com/2266956.png" />
-  </channel>
-  <channel id="ORF III">
-    <display-name>ORF III</display-name>
-    <icon src="https://images.open-epg.com/2266954.png" />
-  </channel>
-  <channel id="Tirol TV">
-    <display-name>Tirol TV</display-name>
-    <icon src="https://images.open-epg.com/40709.png" />
-  </channel>
-  <channel id="W24">
-    <display-name>W24</display-name>
-    <icon src="https://images.open-epg.com/12857280.png" />
   </channel>
   <channel id="Eveo FI">
     <display-name>Eveo FI</display-name>
@@ -351,6 +259,98 @@
   <channel id="YLE TV2">
     <display-name>YLE TV2</display-name>
     <icon src="https://images.open-epg.com/7514562.png" />
+  </channel>
+  <channel id="NRK 1">
+    <display-name>NRK 1</display-name>
+    <icon src="https://images.open-epg.com/25161678.png" />
+  </channel>
+  <channel id="TV Ostfold">
+    <display-name>TV Ostfold</display-name>
+    <icon src="https://images.open-epg.com/4859.png" />
+  </channel>
+  <channel id="RTL9 FR">
+    <display-name>RTL9 FR</display-name>
+    <icon src="https://images.open-epg.com/19984775.png" />
+  </channel>
+  <channel id="bx1">
+    <display-name>bx1</display-name>
+    <icon src="https://images.open-epg.com/x10.png" />
+  </channel>
+  <channel id="VRT Canvas">
+    <display-name>VRT Canvas</display-name>
+    <icon src="https://images.open-epg.com/246.png" />
+  </channel>
+  <channel id="VRT Ketnet">
+    <display-name>VRT Ketnet</display-name>
+    <icon src="https://images.open-epg.com/110.png" />
+  </channel>
+  <channel id="RTBF La Trois">
+    <display-name>RTBF La Trois</display-name>
+    <icon src="https://images.open-epg.com/114.png" />
+  </channel>
+  <channel id="RTBF La Une">
+    <display-name>RTBF La Une</display-name>
+    <icon src="https://images.open-epg.com/115.png" />
+  </channel>
+  <channel id="Matele">
+    <display-name>Matele</display-name>
+    <icon src="https://images.open-epg.com/x13.png" />
+  </channel>
+  <channel id="Notele">
+    <display-name>Notele</display-name>
+    <icon src="https://images.open-epg.com/x15.png" />
+  </channel>
+  <channel id="RTL-TVI">
+    <display-name>RTL-TVI</display-name>
+    <icon src="https://images.open-epg.com/201.png" />
+  </channel>
+  <channel id="Tele MB">
+    <display-name>Tele MB</display-name>
+    <icon src="https://images.open-epg.com/x42.png" />
+  </channel>
+  <channel id="Telesambre">
+    <display-name>Telesambre</display-name>
+    <icon src="https://images.open-epg.com/x1686.png" />
+  </channel>
+  <channel id="RTBF Tipik">
+    <display-name>RTBF Tipik</display-name>
+    <icon src="https://images.open-epg.com/222.png" />
+  </channel>
+  <channel id="Trends Z BE">
+    <display-name>Trends Z BE</display-name>
+    <icon src="https://images.open-epg.com/x2214.png" />
+  </channel>
+  <channel id="Trends Z FR">
+    <display-name>Trends Z FR</display-name>
+    <icon src="https://images.open-epg.com/x2214.png" />
+  </channel>
+  <channel id="tvlux">
+    <display-name>tvlux</display-name>
+    <icon src="https://images.open-epg.com/x38.png" />
+  </channel>
+  <channel id="VRT 1">
+    <display-name>VRT 1</display-name>
+    <icon src="https://images.open-epg.com/245.png" />
+  </channel>
+  <channel id="ORF 1">
+    <display-name>ORF 1</display-name>
+    <icon src="https://images.open-epg.com/2266955.png" />
+  </channel>
+  <channel id="ORF 2">
+    <display-name>ORF 2</display-name>
+    <icon src="https://images.open-epg.com/2266956.png" />
+  </channel>
+  <channel id="ORF III">
+    <display-name>ORF III</display-name>
+    <icon src="https://images.open-epg.com/2266954.png" />
+  </channel>
+  <channel id="Tirol TV">
+    <display-name>Tirol TV</display-name>
+    <icon src="https://images.open-epg.com/40709.png" />
+  </channel>
+  <channel id="W24">
+    <display-name>W24</display-name>
+    <icon src="https://images.open-epg.com/12857280.png" />
   </channel>
   <channel id="ALEX Berlin">
     <display-name>ALEX Berlin</display-name>
@@ -564,15 +564,6 @@
     <display-name>ZDFneo</display-name>
     <icon src="https://images.open-epg.com/x333.png" />
   </channel>
-  <programme start="20261109010000 +0000" stop="20261109033200 +0000" channel="ORF 1">
-    <title>Der Angriff aufs Kapitol</title>
-  </programme>
-  <programme start="20261109033200 +0000" stop="20261109042200 +0000" channel="ORF 1">
-    <title>Sisi</title>
-  </programme>
-  <programme start="20261109042200 +0000" stop="20261109050000 +0000" channel="ORF 1">
-    <title>Foodhacks mit Nadiya Hussain</title>
-  </programme>
   <programme start="20261109050000 +0000" stop="20261109050500 +0000" channel="ORF 1">
     <title>ZIB KiDS</title>
   </programme>
@@ -860,30 +851,6 @@
   </programme>
   <programme start="20261111055500 +0000" stop="20261111062000 +0000" channel="ORF 1">
     <title>Tom</title>
-  </programme>
-  <programme start="20261109003500 +0000" stop="20261109012700 +0000" channel="ORF 2">
-    <title>Klang der Erinnerung - Orchesterspuren von München bis Tel Aviv</title>
-  </programme>
-  <programme start="20261109012700 +0000" stop="20261109013400 +0000" channel="ORF 2">
-    <title>kulturWOCHE</title>
-  </programme>
-  <programme start="20261109013400 +0000" stop="20261109031500 +0000" channel="ORF 2">
-    <title>Brennero - Schatten der Vergangenheit</title>
-  </programme>
-  <programme start="20261109031500 +0000" stop="20261109032100 +0000" channel="ORF 2">
-    <title>Seitenblicke</title>
-  </programme>
-  <programme start="20261109032100 +0000" stop="20261109035100 +0000" channel="ORF 2">
-    <title>Dober dan, Koroška</title>
-  </programme>
-  <programme start="20261109035100 +0000" stop="20261109042100 +0000" channel="ORF 2">
-    <title>Dobar dan Hrvati</title>
-  </programme>
-  <programme start="20261109042100 +0000" stop="20261109045200 +0000" channel="ORF 2">
-    <title>kreuz And quer nah dran</title>
-  </programme>
-  <programme start="20261109045200 +0000" stop="20261109051500 +0000" channel="ORF 2">
-    <title>Erlebnis Österreich</title>
   </programme>
   <programme start="20261109051500 +0000" stop="20261109053000 +0000" channel="ORF 2">
     <title>Wetter-Panorama und Programmvorschau</title>
@@ -1217,24 +1184,6 @@
   </programme>
   <programme start="20261111053000 +0000" stop="20261111060000 +0000" channel="ORF 2">
     <title>Guten Morgen Österreich</title>
-  </programme>
-  <programme start="20261109004500 +0000" stop="20261109013500 +0000" channel="ORF III">
-    <title>Baumeisterinnen der Republik</title>
-  </programme>
-  <programme start="20261109013500 +0000" stop="20261109022500 +0000" channel="ORF III">
-    <title>Wie's wirklich war - Die Berichterstatter:innen der Republik</title>
-  </programme>
-  <programme start="20261109022500 +0000" stop="20261109031000 +0000" channel="ORF III">
-    <title>Österreich erzählt - Zeitzeuginnen und Zeitzeugen berichten</title>
-  </programme>
-  <programme start="20261109031000 +0000" stop="20261109040000 +0000" channel="ORF III">
-    <title>Meine jüdische Familie</title>
-  </programme>
-  <programme start="20261109040000 +0000" stop="20261109044500 +0000" channel="ORF III">
-    <title>Quer durch die Alpen</title>
-  </programme>
-  <programme start="20261109044500 +0000" stop="20261109053000 +0000" channel="ORF III">
-    <title>Fernsehen wie damals</title>
   </programme>
   <programme start="20261109053000 +0000" stop="20261109060000 +0000" channel="ORF III">
     <title>Kultur Heute</title>
@@ -5718,10 +5667,13 @@
   <programme start="20261111050000 +0000" stop="20261111075500 +0000" channel="RTBF Tipik">
     <title>Le réveil de Tipik</title>
   </programme>
-  <programme start="20261109000100 +0000" stop="20261109040100 +0000" channel="Trends Z BE">
+  <programme start="20261109000100 +0000" stop="20261109020100 +0000" channel="Trends Z BE">
     <title>Herhalingslus</title>
   </programme>
-  <programme start="20261109040100 +0000" stop="20261109090000 +0000" channel="Trends Z BE">
+  <programme start="20261109020100 +0000" stop="20261109030300 +0000" channel="Trends Z BE">
+    <title>Herhalingslus</title>
+  </programme>
+  <programme start="20261109030300 +0000" stop="20261109090000 +0000" channel="Trends Z BE">
     <title>Herhalingslus</title>
   </programme>
   <programme start="20261109090000 +0000" stop="20261109130000 +0000" channel="Trends Z BE">
@@ -5913,25 +5865,16 @@
   <programme start="20261110224700 +0000" stop="20261110225800 +0000" channel="Trends Z BE">
     <title>Z-Nieuws</title>
   </programme>
-  <programme start="20261110225800 +0000" stop="20261110230200 +0000" channel="Trends Z BE">
+  <programme start="20261110225800 +0000" stop="20261110230100 +0000" channel="Trends Z BE">
     <title>Z-Beurs</title>
+  </programme>
+  <programme start="20261110230100 +0000" stop="20261110230200 +0000" channel="Trends Z BE">
+    <title>Herhalingslus</title>
   </programme>
   <programme start="20261110230200 +0000" stop="20261110230500 +0000" channel="Trends Z BE">
     <title>Business Branding</title>
   </programme>
-  <programme start="20261110230500 +0000" stop="20261110231000 +0000" channel="Trends Z BE">
-    <title>Herhalingslus</title>
-  </programme>
-  <programme start="20261110231000 +0000" stop="20261110233600 +0000" channel="Trends Z BE">
-    <title>Trends Doc</title>
-  </programme>
-  <programme start="20261110233600 +0000" stop="20261110234000 +0000" channel="Trends Z BE">
-    <title>Z-Extra</title>
-  </programme>
-  <programme start="20261110234000 +0000" stop="20261110234300 +0000" channel="Trends Z BE">
-    <title>Business Branding</title>
-  </programme>
-  <programme start="20261110234300 +0000" stop="20261111014300 +0000" channel="Trends Z BE">
+  <programme start="20261110230500 +0000" stop="20261111030500 +0000" channel="Trends Z BE">
     <title>Herhalingslus</title>
   </programme>
   <programme start="20261111030500 +0000" stop="20261111090000 +0000" channel="Trends Z BE">
@@ -7011,13 +6954,13 @@
   <programme start="20261111053000 +0000" stop="20261111060000 +0000" channel="DR 1">
     <title>Island på kryds - og tværs</title>
   </programme>
-  <programme start="20261109003500 +0000" stop="20261109010500 +0000" channel="TV2 Bornholm">
+  <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="TV2 Bornholm">
     <title>Freia</title>
   </programme>
-  <programme start="20261109010500 +0000" stop="20261109012000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109010000 +0000" stop="20261109011500 +0000" channel="TV2 Bornholm">
     <title>Bornholmske billeder</title>
   </programme>
-  <programme start="20261109012000 +0000" stop="20261109021000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109011500 +0000" stop="20261109021000 +0000" channel="TV2 Bornholm">
     <title>Sprogblomster - Joakim Tranberg</title>
   </programme>
   <programme start="20261109021000 +0000" stop="20261109031000 +0000" channel="TV2 Bornholm">
@@ -7035,85 +6978,91 @@
   <programme start="20261109040000 +0000" stop="20261109050000 +0000" channel="TV2 Bornholm">
     <title>Mellem os</title>
   </programme>
-  <programme start="20261109050000 +0000" stop="20261109052000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109050000 +0000" stop="20261109051500 +0000" channel="TV2 Bornholm">
     <title>19.30Nyheder</title>
   </programme>
-  <programme start="20261109052000 +0000" stop="20261109054000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109051500 +0000" stop="20261109053500 +0000" channel="TV2 Bornholm">
     <title>Bornholms bedste boligsalg</title>
   </programme>
-  <programme start="20261109054000 +0000" stop="20261109063000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109053500 +0000" stop="20261109062000 +0000" channel="TV2 Bornholm">
     <title>Dokumentar</title>
   </programme>
-  <programme start="20261109063000 +0000" stop="20261109063500 +0000" channel="TV2 Bornholm">
+  <programme start="20261109062000 +0000" stop="20261109063000 +0000" channel="TV2 Bornholm">
     <title>Sej senior</title>
   </programme>
-  <programme start="20261109063500 +0000" stop="20261109065000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109063000 +0000" stop="20261109064000 +0000" channel="TV2 Bornholm">
     <title>Kong Gulerod</title>
   </programme>
-  <programme start="20261109065000 +0000" stop="20261109070000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109064000 +0000" stop="20261109065000 +0000" channel="TV2 Bornholm">
     <title>Reportagen</title>
   </programme>
-  <programme start="20261109070000 +0000" stop="20261109072000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109065000 +0000" stop="20261109070000 +0000" channel="TV2 Bornholm">
+    <title>EKKO Naturhistorier</title>
+  </programme>
+  <programme start="20261109070000 +0000" stop="20261109071500 +0000" channel="TV2 Bornholm">
     <title>19.30Nyheder</title>
   </programme>
-  <programme start="20261109072000 +0000" stop="20261109074000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109071500 +0000" stop="20261109073500 +0000" channel="TV2 Bornholm">
     <title>Bornholms bedste boligsalg</title>
   </programme>
-  <programme start="20261109074000 +0000" stop="20261109083000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109073500 +0000" stop="20261109082000 +0000" channel="TV2 Bornholm">
     <title>Dokumentar</title>
   </programme>
-  <programme start="20261109083000 +0000" stop="20261109085000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109082000 +0000" stop="20261109084000 +0000" channel="TV2 Bornholm">
     <title>Reportagen</title>
   </programme>
-  <programme start="20261109085000 +0000" stop="20261109092000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109084000 +0000" stop="20261109091500 +0000" channel="TV2 Bornholm">
     <title>Kutterkuller og Kærlighed</title>
   </programme>
-  <programme start="20261109092000 +0000" stop="20261109093000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109091500 +0000" stop="20261109092000 +0000" channel="TV2 Bornholm">
     <title>Ø-liv</title>
   </programme>
-  <programme start="20261109093000 +0000" stop="20261109095000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109092000 +0000" stop="20261109093000 +0000" channel="TV2 Bornholm">
+    <title>EKKO Naturhistorier</title>
+  </programme>
+  <programme start="20261109093000 +0000" stop="20261109094500 +0000" channel="TV2 Bornholm">
     <title>19.30Nyheder</title>
   </programme>
-  <programme start="20261109095000 +0000" stop="20261109101000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109094500 +0000" stop="20261109100500 +0000" channel="TV2 Bornholm">
     <title>Bornholms bedste boligsalg</title>
   </programme>
-  <programme start="20261109101000 +0000" stop="20261109105500 +0000" channel="TV2 Bornholm">
+  <programme start="20261109100500 +0000" stop="20261109105000 +0000" channel="TV2 Bornholm">
     <title>Dokumentar</title>
   </programme>
-  <programme start="20261109105500 +0000" stop="20261109110500 +0000" channel="TV2 Bornholm">
+  <programme start="20261109105000 +0000" stop="20261109110000 +0000" channel="TV2 Bornholm">
     <title>Sej senior</title>
   </programme>
-  <programme start="20261109110500 +0000" stop="20261109113500 +0000" channel="TV2 Bornholm">
+  <programme start="20261109110000 +0000" stop="20261109113000 +0000" channel="TV2 Bornholm">
     <title>Bornholm knokler</title>
   </programme>
-  <programme start="20261109113500 +0000" stop="20261109121000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109113000 +0000" stop="20261109120500 +0000" channel="TV2 Bornholm">
     <title>Kutterkuller og Kærlighed</title>
   </programme>
-  <programme start="20261109121000 +0000" stop="20261109123500 +0000" channel="TV2 Bornholm">
+  <programme start="20261109120500 +0000" stop="20261109123000 +0000" channel="TV2 Bornholm">
     <title>Mellem os</title>
   </programme>
-  <programme start="20261109123500 +0000" stop="20261109130500 +0000" channel="TV2 Bornholm">
+  <programme start="20261109123000 +0000" stop="20261109130000 +0000" channel="TV2 Bornholm">
     <title>Mellem os</title>
   </programme>
-  <programme start="20261109130500 +0000" stop="20261109135000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109130000 +0000" stop="20261109134500 +0000" channel="TV2 Bornholm">
     <title>Freia</title>
   </programme>
-  <programme start="20261109135000 +0000" stop="20261109140000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109134500 +0000" stop="20261109135500 +0000" channel="TV2 Bornholm">
     <title>Reportagen</title>
   </programme>
-  <programme start="20261109140000 +0000" stop="20261109142500 +0000" channel="TV2 Bornholm">
+  <programme start="20261109135500 +0000" stop="20261109142000 +0000" channel="TV2 Bornholm">
     <title>Mellem os</title>
   </programme>
-  <programme start="20261109142500 +0000" stop="20261109145500 +0000" channel="TV2 Bornholm">
+  <programme start="20261109142000 +0000" stop="20261109145000 +0000" channel="TV2 Bornholm">
     <title>Granit Kidz</title>
   </programme>
-  <programme start="20261109145500 +0000" stop="20261109152000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109145000 +0000" stop="20261109152000 +0000" channel="TV2 Bornholm">
     <title>Mellem os</title>
   </programme>
-  <programme start="20261109152000 +0000" stop="20261109154000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109152000 +0000" stop="20261109153500 +0000" channel="TV2 Bornholm">
     <title>Bornholms bedste boligsalg</title>
   </programme>
-  <programme start="20261109154000 +0000" stop="20261109155000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109153500 +0000" stop="20261109155000 +0000" channel="TV2 Bornholm">
     <title>Kong Gulerod</title>
   </programme>
   <programme start="20261109155000 +0000" stop="20261109160000 +0000" channel="TV2 Bornholm">
@@ -7155,13 +7104,13 @@
   <programme start="20261109184900 +0000" stop="20261109185000 +0000" channel="TV2 Bornholm">
     <title>Vejret i morgen</title>
   </programme>
-  <programme start="20261109185000 +0000" stop="20261109191000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109185000 +0000" stop="20261109190500 +0000" channel="TV2 Bornholm">
     <title>EKKO</title>
   </programme>
-  <programme start="20261109191000 +0000" stop="20261109193000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109190500 +0000" stop="20261109192500 +0000" channel="TV2 Bornholm">
     <title>Forelsket i en svunden tid</title>
   </programme>
-  <programme start="20261109193000 +0000" stop="20261109202000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109192500 +0000" stop="20261109202000 +0000" channel="TV2 Bornholm">
     <title>Kolonihaven Solvang</title>
   </programme>
   <programme start="20261109202000 +0000" stop="20261109202900 +0000" channel="TV2 Bornholm">
@@ -7179,13 +7128,13 @@
   <programme start="20261109210500 +0000" stop="20261109215500 +0000" channel="TV2 Bornholm">
     <title>Kolonihaven Solvang</title>
   </programme>
-  <programme start="20261109215500 +0000" stop="20261109222500 +0000" channel="TV2 Bornholm">
+  <programme start="20261109215500 +0000" stop="20261109222000 +0000" channel="TV2 Bornholm">
     <title>Freia</title>
   </programme>
-  <programme start="20261109222500 +0000" stop="20261109224000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109222000 +0000" stop="20261109223500 +0000" channel="TV2 Bornholm">
     <title>Bornholmske billeder</title>
   </programme>
-  <programme start="20261109224000 +0000" stop="20261109225000 +0000" channel="TV2 Bornholm">
+  <programme start="20261109223500 +0000" stop="20261109225000 +0000" channel="TV2 Bornholm">
     <title>Kong Gulerod</title>
   </programme>
   <programme start="20261109225000 +0000" stop="20261109230000 +0000" channel="TV2 Bornholm">
@@ -9381,8 +9330,11 @@
   <programme start="20261109085800 +0000" stop="20261109090000 +0000" channel="YLE TV1">
     <title>Kirjava luonto</title>
   </programme>
-  <programme start="20261109090000 +0000" stop="20261109100000 +0000" channel="YLE TV1">
+  <programme start="20261109090000 +0000" stop="20261109094900 +0000" channel="YLE TV1">
     <title>Jumalanpalvelus</title>
+  </programme>
+  <programme start="20261109094900 +0000" stop="20261109100000 +0000" channel="YLE TV1">
+    <title>Pieni suuri maailma</title>
   </programme>
   <programme start="20261109100000 +0000" stop="20261109103000 +0000" channel="YLE TV1">
     <title>Egenland</title>
@@ -14034,6 +13986,12 @@
   <programme start="20261111030000 +0000" stop="20261111040000 +0000" channel="HSE Extra">
     <title>Sogni d'oro Facettenreich</title>
   </programme>
+  <programme start="20261111040000 +0000" stop="20261111050000 +0000" channel="HSE Extra">
+    <title>Unsere Highlights</title>
+  </programme>
+  <programme start="20261111050000 +0000" stop="20261111060000 +0000" channel="HSE Extra">
+    <title>Stunde der Angebote</title>
+  </programme>
   <programme start="20261109004700 +0000" stop="20261109031700 +0000" channel="kabel eins">
     <title>The Revenant - Der Rückkehrer</title>
   </programme>
@@ -14208,34 +14166,34 @@
   <programme start="20261109042800 +0000" stop="20261109044500 +0000" channel="kabel eins Doku">
     <title>Abenteuer Leben Spezial</title>
   </programme>
-  <programme start="20261109044500 +0000" stop="20261109052300 +0000" channel="kabel eins Doku">
+  <programme start="20261109044500 +0000" stop="20261109052400 +0000" channel="kabel eins Doku">
     <title>Wettkampf der Waffenschmiede</title>
   </programme>
-  <programme start="20261109052300 +0000" stop="20261109060700 +0000" channel="kabel eins Doku">
+  <programme start="20261109052400 +0000" stop="20261109060800 +0000" channel="kabel eins Doku">
     <title>Wettkampf der Waffenschmiede</title>
   </programme>
-  <programme start="20261109060700 +0000" stop="20261109062700 +0000" channel="kabel eins Doku">
+  <programme start="20261109060800 +0000" stop="20261109062800 +0000" channel="kabel eins Doku">
     <title>Pawn Stars - Die Drei vom Pfandhaus</title>
   </programme>
-  <programme start="20261109062700 +0000" stop="20261109065400 +0000" channel="kabel eins Doku">
+  <programme start="20261109062800 +0000" stop="20261109065400 +0000" channel="kabel eins Doku">
     <title>Pawn Stars - Die Drei vom Pfandhaus</title>
   </programme>
   <programme start="20261109065400 +0000" stop="20261109071300 +0000" channel="kabel eins Doku">
     <title>Pawn Stars - Die Drei vom Pfandhaus</title>
   </programme>
-  <programme start="20261109071300 +0000" stop="20261109073900 +0000" channel="kabel eins Doku">
+  <programme start="20261109071300 +0000" stop="20261109074000 +0000" channel="kabel eins Doku">
     <title>Pawn Stars - Die Drei vom Pfandhaus</title>
   </programme>
-  <programme start="20261109073900 +0000" stop="20261109084000 +0000" channel="kabel eins Doku">
+  <programme start="20261109074000 +0000" stop="20261109084000 +0000" channel="kabel eins Doku">
     <title>Infomercials</title>
   </programme>
   <programme start="20261109084000 +0000" stop="20261109092700 +0000" channel="kabel eins Doku">
     <title>Die Schatzsucher von Oak Island</title>
   </programme>
-  <programme start="20261109092700 +0000" stop="20261109101200 +0000" channel="kabel eins Doku">
+  <programme start="20261109092700 +0000" stop="20261109101300 +0000" channel="kabel eins Doku">
     <title>Die Schatzsucher von Oak Island</title>
   </programme>
-  <programme start="20261109101200 +0000" stop="20261109110100 +0000" channel="kabel eins Doku">
+  <programme start="20261109101300 +0000" stop="20261109110100 +0000" channel="kabel eins Doku">
     <title>Die Schatzsucher von Oak Island</title>
   </programme>
   <programme start="20261109110100 +0000" stop="20261109123100 +0000" channel="kabel eins Doku">
@@ -14286,34 +14244,34 @@
   <programme start="20261109214500 +0000" stop="20261109223400 +0000" channel="kabel eins Doku">
     <title>Steel Buddies - Stahlharte Geschäfte</title>
   </programme>
-  <programme start="20261109223400 +0000" stop="20261109232700 +0000" channel="kabel eins Doku">
+  <programme start="20261109223400 +0000" stop="20261109231900 +0000" channel="kabel eins Doku">
     <title>Steel Buddies - Stahlharte Geschäfte</title>
   </programme>
-  <programme start="20261109232700 +0000" stop="20261110001600 +0000" channel="kabel eins Doku">
+  <programme start="20261109231900 +0000" stop="20261110000800 +0000" channel="kabel eins Doku">
     <title>Ice Pilots</title>
   </programme>
-  <programme start="20261110001600 +0000" stop="20261110005800 +0000" channel="kabel eins Doku">
+  <programme start="20261110000800 +0000" stop="20261110005000 +0000" channel="kabel eins Doku">
     <title>Ice Pilots</title>
   </programme>
-  <programme start="20261110005800 +0000" stop="20261110012300 +0000" channel="kabel eins Doku">
+  <programme start="20261110005000 +0000" stop="20261110011500 +0000" channel="kabel eins Doku">
     <title>Special Ops True</title>
   </programme>
-  <programme start="20261110012300 +0000" stop="20261110015000 +0000" channel="kabel eins Doku">
+  <programme start="20261110011500 +0000" stop="20261110014200 +0000" channel="kabel eins Doku">
     <title>Special Ops True</title>
   </programme>
-  <programme start="20261110015000 +0000" stop="20261110023400 +0000" channel="kabel eins Doku">
+  <programme start="20261110014200 +0000" stop="20261110022600 +0000" channel="kabel eins Doku">
     <title>Steel Buddies - Stahlharte Geschäfte</title>
   </programme>
-  <programme start="20261110023400 +0000" stop="20261110031400 +0000" channel="kabel eins Doku">
+  <programme start="20261110022600 +0000" stop="20261110030600 +0000" channel="kabel eins Doku">
     <title>Die Schatzsucher von Oak Island</title>
   </programme>
-  <programme start="20261110031400 +0000" stop="20261110035200 +0000" channel="kabel eins Doku">
+  <programme start="20261110030600 +0000" stop="20261110034400 +0000" channel="kabel eins Doku">
     <title>American Gold: Fünf Brüder auf Goldsuche</title>
   </programme>
-  <programme start="20261110035200 +0000" stop="20261110043000 +0000" channel="kabel eins Doku">
+  <programme start="20261110034400 +0000" stop="20261110042200 +0000" channel="kabel eins Doku">
     <title>American Gold: Fünf Brüder auf Goldsuche</title>
   </programme>
-  <programme start="20261110043000 +0000" stop="20261110044200 +0000" channel="kabel eins Doku">
+  <programme start="20261110042200 +0000" stop="20261110044200 +0000" channel="kabel eins Doku">
     <title>Abenteuer Leben Spezial</title>
   </programme>
   <programme start="20261110044200 +0000" stop="20261110052100 +0000" channel="kabel eins Doku">
@@ -15576,8 +15534,56 @@
   <programme start="20261110233000 +0000" stop="20261110234500 +0000" channel="Munchen TV">
     <title>szene münchen</title>
   </programme>
-  <programme start="20261110234500 +0000" stop="20261111160000 +0000" channel="Munchen TV">
+  <programme start="20261110234500 +0000" stop="20261111000000 +0000" channel="Munchen TV">
     <title>Heimatgschichtn</title>
+  </programme>
+  <programme start="20261111000000 +0000" stop="20261111001500 +0000" channel="Munchen TV">
+    <title>münchen heute</title>
+  </programme>
+  <programme start="20261111001500 +0000" stop="20261111010000 +0000" channel="Munchen TV">
+    <title>Bayern Agenda</title>
+  </programme>
+  <programme start="20261111010000 +0000" stop="20261111013000 +0000" channel="Munchen TV">
+    <title>münchen heute</title>
+  </programme>
+  <programme start="20261111013000 +0000" stop="20261111014500 +0000" channel="Munchen TV">
+    <title>Münchner Stadtrundgang</title>
+  </programme>
+  <programme start="20261111014500 +0000" stop="20261111020000 +0000" channel="Munchen TV">
+    <title>szene münchen</title>
+  </programme>
+  <programme start="20261111020000 +0000" stop="20261111023000 +0000" channel="Munchen TV">
+    <title>münchen heute</title>
+  </programme>
+  <programme start="20261111023000 +0000" stop="20261111024500 +0000" channel="Munchen TV">
+    <title>szene münchen</title>
+  </programme>
+  <programme start="20261111024500 +0000" stop="20261111030000 +0000" channel="Munchen TV">
+    <title>Heimatgschichtn</title>
+  </programme>
+  <programme start="20261111030000 +0000" stop="20261111033000 +0000" channel="Munchen TV">
+    <title>münchen heute</title>
+  </programme>
+  <programme start="20261111033000 +0000" stop="20261111034500 +0000" channel="Munchen TV">
+    <title>Münchner Stadtrundgang</title>
+  </programme>
+  <programme start="20261111034500 +0000" stop="20261111040000 +0000" channel="Munchen TV">
+    <title>Heimatgschichtn</title>
+  </programme>
+  <programme start="20261111040000 +0000" stop="20261111043000 +0000" channel="Munchen TV">
+    <title>münchen heute</title>
+  </programme>
+  <programme start="20261111043000 +0000" stop="20261111044500 +0000" channel="Munchen TV">
+    <title>szene münchen</title>
+  </programme>
+  <programme start="20261111044500 +0000" stop="20261111050000 +0000" channel="Munchen TV">
+    <title>Heimatgschichtn</title>
+  </programme>
+  <programme start="20261111050000 +0000" stop="20261111051500 +0000" channel="Munchen TV">
+    <title>münchen heute</title>
+  </programme>
+  <programme start="20261111051500 +0000" stop="20261111060000 +0000" channel="Munchen TV">
+    <title>Bayern Agenda</title>
   </programme>
   <programme start="20261109000000 +0000" stop="20261109010000 +0000" channel="NDR Fernsehen">
     <title>Caren Miosga</title>
@@ -17685,13 +17691,13 @@
   <programme start="20261109065900 +0000" stop="20261109074900 +0000" channel="Pro7 MAXX">
     <title>Schmugglern auf der Spur</title>
   </programme>
-  <programme start="20261109074900 +0000" stop="20261109084000 +0000" channel="Pro7 MAXX">
+  <programme start="20261109074900 +0000" stop="20261109084100 +0000" channel="Pro7 MAXX">
     <title>Schmugglern auf der Spur</title>
   </programme>
-  <programme start="20261109084000 +0000" stop="20261109092100 +0000" channel="Pro7 MAXX">
+  <programme start="20261109084100 +0000" stop="20261109092200 +0000" channel="Pro7 MAXX">
     <title>Salvage Kings - Demolieren und kassieren</title>
   </programme>
-  <programme start="20261109092100 +0000" stop="20261109101000 +0000" channel="Pro7 MAXX">
+  <programme start="20261109092200 +0000" stop="20261109101000 +0000" channel="Pro7 MAXX">
     <title>Salvage Kings - Demolieren und kassieren</title>
   </programme>
   <programme start="20261109101000 +0000" stop="20261109105900 +0000" channel="Pro7 MAXX">
@@ -17700,49 +17706,49 @@
   <programme start="20261109105900 +0000" stop="20261109112100 +0000" channel="Pro7 MAXX">
     <title>Border Patrol Australia</title>
   </programme>
-  <programme start="20261109112100 +0000" stop="20261109114800 +0000" channel="Pro7 MAXX">
+  <programme start="20261109112100 +0000" stop="20261109114900 +0000" channel="Pro7 MAXX">
     <title>Border Patrol Australia</title>
   </programme>
-  <programme start="20261109114800 +0000" stop="20261109121100 +0000" channel="Pro7 MAXX">
+  <programme start="20261109114900 +0000" stop="20261109121100 +0000" channel="Pro7 MAXX">
     <title>Border Patrol Australia</title>
   </programme>
-  <programme start="20261109121100 +0000" stop="20261109123300 +0000" channel="Pro7 MAXX">
+  <programme start="20261109121100 +0000" stop="20261109123400 +0000" channel="Pro7 MAXX">
     <title>Border Patrol Australia</title>
   </programme>
-  <programme start="20261109123300 +0000" stop="20261109130200 +0000" channel="Pro7 MAXX">
+  <programme start="20261109123400 +0000" stop="20261109130200 +0000" channel="Pro7 MAXX">
     <title>Border Patrol Australia</title>
   </programme>
-  <programme start="20261109130200 +0000" stop="20261109132400 +0000" channel="Pro7 MAXX">
+  <programme start="20261109130200 +0000" stop="20261109132500 +0000" channel="Pro7 MAXX">
     <title>Border Patrol Australia</title>
   </programme>
-  <programme start="20261109132400 +0000" stop="20261109135100 +0000" channel="Pro7 MAXX">
+  <programme start="20261109132500 +0000" stop="20261109135100 +0000" channel="Pro7 MAXX">
     <title>Auction Hunters - Zwei Asse machen Kasse</title>
   </programme>
-  <programme start="20261109135100 +0000" stop="20261109141000 +0000" channel="Pro7 MAXX">
+  <programme start="20261109135100 +0000" stop="20261109141100 +0000" channel="Pro7 MAXX">
     <title>Auction Hunters - Zwei Asse machen Kasse</title>
   </programme>
-  <programme start="20261109141000 +0000" stop="20261109143000 +0000" channel="Pro7 MAXX">
+  <programme start="20261109141100 +0000" stop="20261109143000 +0000" channel="Pro7 MAXX">
     <title>Auction Hunters - Zwei Asse machen Kasse</title>
   </programme>
   <programme start="20261109143000 +0000" stop="20261109145700 +0000" channel="Pro7 MAXX">
     <title>Auction Hunters - Zwei Asse machen Kasse</title>
   </programme>
-  <programme start="20261109145700 +0000" stop="20261109151600 +0000" channel="Pro7 MAXX">
+  <programme start="20261109145700 +0000" stop="20261109151700 +0000" channel="Pro7 MAXX">
     <title>Auction Hunters - Zwei Asse machen Kasse</title>
   </programme>
-  <programme start="20261109151600 +0000" stop="20261109154400 +0000" channel="Pro7 MAXX">
+  <programme start="20261109151700 +0000" stop="20261109154500 +0000" channel="Pro7 MAXX">
     <title>Auction Hunters - Zwei Asse machen Kasse</title>
   </programme>
-  <programme start="20261109154400 +0000" stop="20261109161100 +0000" channel="Pro7 MAXX">
+  <programme start="20261109154500 +0000" stop="20261109161200 +0000" channel="Pro7 MAXX">
     <title>Yashahime</title>
   </programme>
-  <programme start="20261109161100 +0000" stop="20261109163600 +0000" channel="Pro7 MAXX">
+  <programme start="20261109161200 +0000" stop="20261109163600 +0000" channel="Pro7 MAXX">
     <title>Dragonball</title>
   </programme>
-  <programme start="20261109163600 +0000" stop="20261109165800 +0000" channel="Pro7 MAXX">
+  <programme start="20261109163600 +0000" stop="20261109165900 +0000" channel="Pro7 MAXX">
     <title>Dragonball</title>
   </programme>
-  <programme start="20261109165800 +0000" stop="20261109172500 +0000" channel="Pro7 MAXX">
+  <programme start="20261109165900 +0000" stop="20261109172500 +0000" channel="Pro7 MAXX">
     <title>Detektiv Conan</title>
   </programme>
   <programme start="20261109172500 +0000" stop="20261109175200 +0000" channel="Pro7 MAXX">
@@ -17766,10 +17772,10 @@
   <programme start="20261109211500 +0000" stop="20261109221400 +0000" channel="Pro7 MAXX">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
   </programme>
-  <programme start="20261109221400 +0000" stop="20261109230500 +0000" channel="Pro7 MAXX">
+  <programme start="20261109221400 +0000" stop="20261109230400 +0000" channel="Pro7 MAXX">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
   </programme>
-  <programme start="20261109230500 +0000" stop="20261109235300 +0000" channel="Pro7 MAXX">
+  <programme start="20261109230400 +0000" stop="20261109235300 +0000" channel="Pro7 MAXX">
     <title>Akte X - Die unheimlichen Fälle des FBI</title>
   </programme>
   <programme start="20261109235300 +0000" stop="20261110003400 +0000" channel="Pro7 MAXX">
@@ -20202,25 +20208,25 @@
   <programme start="20261109042653 +0000" stop="20261109090030 +0000" channel="SAT1">
     <title>SAT.1-Frühstücksfernsehen</title>
   </programme>
-  <programme start="20261109090030 +0000" stop="20261109095924 +0000" channel="SAT1">
+  <programme start="20261109090030 +0000" stop="20261109095926 +0000" channel="SAT1">
     <title>Richter Alexander Hold</title>
   </programme>
-  <programme start="20261109095924 +0000" stop="20261109105858 +0000" channel="SAT1">
+  <programme start="20261109095926 +0000" stop="20261109105901 +0000" channel="SAT1">
     <title>Richter Alexander Hold</title>
   </programme>
-  <programme start="20261109105858 +0000" stop="20261109120018 +0000" channel="SAT1">
+  <programme start="20261109105901 +0000" stop="20261109120020 +0000" channel="SAT1">
     <title>Richter Alexander Hold</title>
   </programme>
-  <programme start="20261109120018 +0000" stop="20261109130006 +0000" channel="SAT1">
+  <programme start="20261109120020 +0000" stop="20261109130011 +0000" channel="SAT1">
     <title>Richter Alexander Hold</title>
   </programme>
-  <programme start="20261109130006 +0000" stop="20261109140225 +0000" channel="SAT1">
+  <programme start="20261109130011 +0000" stop="20261109140230 +0000" channel="SAT1">
     <title>Richter Alexander Hold</title>
   </programme>
-  <programme start="20261109140225 +0000" stop="20261109150157 +0000" channel="SAT1">
+  <programme start="20261109140230 +0000" stop="20261109150202 +0000" channel="SAT1">
     <title>Auf Streife</title>
   </programme>
-  <programme start="20261109150157 +0000" stop="20261109155955 +0000" channel="SAT1">
+  <programme start="20261109150202 +0000" stop="20261109155955 +0000" channel="SAT1">
     <title>Auf Streife</title>
   </programme>
   <programme start="20261109155955 +0000" stop="20261109163000 +0000" channel="SAT1">
@@ -20229,10 +20235,10 @@
   <programme start="20261109163000 +0000" stop="20261109165932 +0000" channel="SAT1">
     <title>NOTRUF / oder SAT.1 Regional-Magazine</title>
   </programme>
-  <programme start="20261109165932 +0000" stop="20261109180026 +0000" channel="SAT1">
+  <programme start="20261109165932 +0000" stop="20261109180035 +0000" channel="SAT1">
     <title>Richter Alexander Hold - Seine neuen Fälle</title>
   </programme>
-  <programme start="20261109180026 +0000" stop="20261109184500 +0000" channel="SAT1">
+  <programme start="20261109180035 +0000" stop="20261109184500 +0000" channel="SAT1">
     <title>Die Landarztpraxis - Team Sonnenhof</title>
   </programme>
   <programme start="20261109184500 +0000" stop="20261109191500 +0000" channel="SAT1">
@@ -20244,19 +20250,19 @@
   <programme start="20261109211946 +0000" stop="20261109231917 +0000" channel="SAT1">
     <title>Lenßen live - Der Kultanwalt am Telefon</title>
   </programme>
-  <programme start="20261109231917 +0000" stop="20261110011156 +0000" channel="SAT1">
+  <programme start="20261109231917 +0000" stop="20261110011158 +0000" channel="SAT1">
     <title>Weiblich. Tödlich. Sisters in Crime</title>
   </programme>
-  <programme start="20261110011156 +0000" stop="20261110013804 +0000" channel="SAT1">
+  <programme start="20261110011158 +0000" stop="20261110013806 +0000" channel="SAT1">
     <title>Die Urlaubs-Docs</title>
   </programme>
-  <programme start="20261110013804 +0000" stop="20261110020043 +0000" channel="SAT1">
+  <programme start="20261110013806 +0000" stop="20261110020047 +0000" channel="SAT1">
     <title>Die Urlaubs-Docs</title>
   </programme>
-  <programme start="20261110020043 +0000" stop="20261110020211 +0000" channel="SAT1">
+  <programme start="20261110020047 +0000" stop="20261110020216 +0000" channel="SAT1">
     <title>So gesehen</title>
   </programme>
-  <programme start="20261110020211 +0000" stop="20261110034236 +0000" channel="SAT1">
+  <programme start="20261110020216 +0000" stop="20261110034236 +0000" channel="SAT1">
     <title>Lenßen: Anklage Mord</title>
   </programme>
   <programme start="20261110034236 +0000" stop="20261110042653 +0000" channel="SAT1">
@@ -20355,40 +20361,40 @@
   <programme start="20261109031359 +0000" stop="20261109035857 +0000" channel="SAT1 Gold">
     <title>Dr. G - Beruf: Gerichtsmedizinerin</title>
   </programme>
-  <programme start="20261109035857 +0000" stop="20261109044653 +0000" channel="SAT1 Gold">
+  <programme start="20261109035857 +0000" stop="20261109044713 +0000" channel="SAT1 Gold">
     <title>Richterin Barbara Salesch</title>
   </programme>
-  <programme start="20261109044653 +0000" stop="20261109053109 +0000" channel="SAT1 Gold">
+  <programme start="20261109044713 +0000" stop="20261109053109 +0000" channel="SAT1 Gold">
     <title>Richterin Barbara Salesch</title>
   </programme>
-  <programme start="20261109053109 +0000" stop="20261109062504 +0000" channel="SAT1 Gold">
+  <programme start="20261109053109 +0000" stop="20261109062503 +0000" channel="SAT1 Gold">
     <title>Richterin Barbara Salesch</title>
   </programme>
-  <programme start="20261109062504 +0000" stop="20261109071926 +0000" channel="SAT1 Gold">
+  <programme start="20261109062503 +0000" stop="20261109071925 +0000" channel="SAT1 Gold">
     <title>Richter Alexander Hold</title>
   </programme>
-  <programme start="20261109071926 +0000" stop="20261109081423 +0000" channel="SAT1 Gold">
+  <programme start="20261109071925 +0000" stop="20261109081420 +0000" channel="SAT1 Gold">
     <title>Richter Alexander Hold</title>
   </programme>
-  <programme start="20261109081423 +0000" stop="20261109091044 +0000" channel="SAT1 Gold">
+  <programme start="20261109081420 +0000" stop="20261109091042 +0000" channel="SAT1 Gold">
     <title>Richter Alexander Hold</title>
   </programme>
-  <programme start="20261109091044 +0000" stop="20261109105932 +0000" channel="SAT1 Gold">
+  <programme start="20261109091042 +0000" stop="20261109105924 +0000" channel="SAT1 Gold">
     <title>Unsere kleine Farm</title>
   </programme>
-  <programme start="20261109105932 +0000" stop="20261109114943 +0000" channel="SAT1 Gold">
+  <programme start="20261109105924 +0000" stop="20261109114936 +0000" channel="SAT1 Gold">
     <title>Dr. Quinn - Ärztin aus Leidenschaft</title>
   </programme>
-  <programme start="20261109114943 +0000" stop="20261109124542 +0000" channel="SAT1 Gold">
+  <programme start="20261109114936 +0000" stop="20261109124532 +0000" channel="SAT1 Gold">
     <title>Die Waltons</title>
   </programme>
-  <programme start="20261109124542 +0000" stop="20261109142000 +0000" channel="SAT1 Gold">
+  <programme start="20261109124532 +0000" stop="20261109141958 +0000" channel="SAT1 Gold">
     <title>Unsere kleine Farm</title>
   </programme>
-  <programme start="20261109142000 +0000" stop="20261109151555 +0000" channel="SAT1 Gold">
+  <programme start="20261109141958 +0000" stop="20261109151554 +0000" channel="SAT1 Gold">
     <title>Mord ist ihr Hobby</title>
   </programme>
-  <programme start="20261109151555 +0000" stop="20261109161011 +0000" channel="SAT1 Gold">
+  <programme start="20261109151554 +0000" stop="20261109161011 +0000" channel="SAT1 Gold">
     <title>Mord ist ihr Hobby</title>
   </programme>
   <programme start="20261109161011 +0000" stop="20261109170516 +0000" channel="SAT1 Gold">
@@ -20412,31 +20418,31 @@
   <programme start="20261109201240 +0000" stop="20261109211047 +0000" channel="SAT1 Gold">
     <title>People Magazine: Investigativ</title>
   </programme>
-  <programme start="20261109211047 +0000" stop="20261109225051 +0000" channel="SAT1 Gold">
+  <programme start="20261109211047 +0000" stop="20261109225048 +0000" channel="SAT1 Gold">
     <title>Verbrechen nebenan - City Confidential</title>
   </programme>
-  <programme start="20261109225051 +0000" stop="20261109234142 +0000" channel="SAT1 Gold">
+  <programme start="20261109225048 +0000" stop="20261109234139 +0000" channel="SAT1 Gold">
     <title>Dr. G - Beruf: Gerichtsmedizinerin</title>
   </programme>
-  <programme start="20261109234142 +0000" stop="20261110002720 +0000" channel="SAT1 Gold">
+  <programme start="20261109234139 +0000" stop="20261110002717 +0000" channel="SAT1 Gold">
     <title>Dr. G - Beruf: Gerichtsmedizinerin</title>
   </programme>
-  <programme start="20261110002720 +0000" stop="20261110011505 +0000" channel="SAT1 Gold">
+  <programme start="20261110002717 +0000" stop="20261110011503 +0000" channel="SAT1 Gold">
     <title>Dr. G - Beruf: Gerichtsmedizinerin</title>
   </programme>
-  <programme start="20261110011505 +0000" stop="20261110015902 +0000" channel="SAT1 Gold">
+  <programme start="20261110011503 +0000" stop="20261110015900 +0000" channel="SAT1 Gold">
     <title>People Magazine: Investigativ</title>
   </programme>
-  <programme start="20261110015902 +0000" stop="20261110024256 +0000" channel="SAT1 Gold">
+  <programme start="20261110015900 +0000" stop="20261110024253 +0000" channel="SAT1 Gold">
     <title>People Magazine: Investigativ</title>
   </programme>
-  <programme start="20261110024256 +0000" stop="20261110040415 +0000" channel="SAT1 Gold">
+  <programme start="20261110024253 +0000" stop="20261110040413 +0000" channel="SAT1 Gold">
     <title>Verbrechen nebenan - City Confidential</title>
   </programme>
-  <programme start="20261110040415 +0000" stop="20261110042538 +0000" channel="SAT1 Gold">
+  <programme start="20261110040413 +0000" stop="20261110042535 +0000" channel="SAT1 Gold">
     <title>Niedrig und Kuhnt - Kommissare ermitteln</title>
   </programme>
-  <programme start="20261110042538 +0000" stop="20261110043400 +0000" channel="SAT1 Gold">
+  <programme start="20261110042535 +0000" stop="20261110043400 +0000" channel="SAT1 Gold">
     <title>Leben und genießen kompakt</title>
   </programme>
   <programme start="20261110043400 +0000" stop="20261110051807 +0000" channel="SAT1 Gold">
@@ -22453,148 +22459,148 @@
     <title>Heimspiel vom 10.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109000000 +0000" stop="20261109001500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109001500 +0000" stop="20261109003000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109010000 +0000" stop="20261109011500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109011500 +0000" stop="20261109013000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109013000 +0000" stop="20261109020000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109020000 +0000" stop="20261109021500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109021500 +0000" stop="20261109023000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109023000 +0000" stop="20261109030000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109030000 +0000" stop="20261109031500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109031500 +0000" stop="20261109033000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109033000 +0000" stop="20261109040000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109040000 +0000" stop="20261109041500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109041500 +0000" stop="20261109043000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109043000 +0000" stop="20261109050000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109050000 +0000" stop="20261109051500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109051500 +0000" stop="20261109053000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109053000 +0000" stop="20261109060000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109061500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109061500 +0000" stop="20261109063000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109063000 +0000" stop="20261109070000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109070000 +0000" stop="20261109071500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109071500 +0000" stop="20261109073000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109073000 +0000" stop="20261109080000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109080000 +0000" stop="20261109081500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109081500 +0000" stop="20261109083000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109083000 +0000" stop="20261109090000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109090000 +0000" stop="20261109100000 +0000" channel="TV Mainfranken">
     <title>Panoramawetter - LIVE</title>
   </programme>
   <programme start="20261109100000 +0000" stop="20261109101500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109101500 +0000" stop="20261109103000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109103000 +0000" stop="20261109110000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109110000 +0000" stop="20261109111500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109111500 +0000" stop="20261109113000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109113000 +0000" stop="20261109120000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109120000 +0000" stop="20261109121500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109121500 +0000" stop="20261109123000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109123000 +0000" stop="20261109130000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109130000 +0000" stop="20261109131500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109131500 +0000" stop="20261109133000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109133000 +0000" stop="20261109140000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109140000 +0000" stop="20261109141500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109141500 +0000" stop="20261109143000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109143000 +0000" stop="20261109150000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109150000 +0000" stop="20261109151500 +0000" channel="TV Mainfranken">
-    <title>Aktuell am Sonntag vom 8.November.2026 (Wh.)</title>
+    <title>Mainfranken Aktuell am Sonntag, den 08. November (Wh.)</title>
   </programme>
   <programme start="20261109151500 +0000" stop="20261109153000 +0000" channel="TV Mainfranken">
-    <title>#Hockdichhi (Wh.)</title>
+    <title>Hockdichhi - Weckzömmede (Wh.)</title>
   </programme>
   <programme start="20261109153000 +0000" stop="20261109160000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109160000 +0000" stop="20261109163000 +0000" channel="TV Mainfranken">
     <title>Dauerwerbesendung</title>
   </programme>
   <programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="TV Mainfranken">
-    <title>Kirche in Bayern (Wh.)</title>
+    <title>Kirche in Bayern - Das ökumenische Fernsehmagazin vom 06.11.2026 (Wh.)</title>
   </programme>
   <programme start="20261109170000 +0000" stop="20261109173000 +0000" channel="TV Mainfranken">
     <title>Mainfranken aktuell vom 9.November.2026</title>
@@ -26607,147 +26613,6 @@
   <programme start="20261111054800 +0000" stop="20261111060000 +0000" channel="AT5">
     <title>Amsterdamse Iconen</title>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109001500 +0000" channel="bvn">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109001500 +0000" stop="20261109011500 +0000" channel="bvn">
-    <title>WNL op zondag</title>
-  </programme>
-  <programme start="20261109011500 +0000" stop="20261109021000 +0000" channel="bvn">
-    <title>Buitenhof</title>
-  </programme>
-  <programme start="20261109021000 +0000" stop="20261109024000 +0000" channel="bvn">
-    <title>De geknipte gast</title>
-  </programme>
-  <programme start="20261109024000 +0000" stop="20261109033000 +0000" channel="bvn">
-    <title>Vier handen op één buik</title>
-  </programme>
-  <programme start="20261109033000 +0000" stop="20261109035500 +0000" channel="bvn">
-    <title>Topdoks</title>
-  </programme>
-  <programme start="20261109035500 +0000" stop="20261109050500 +0000" channel="bvn">
-    <title>Checkpoint</title>
-  </programme>
-  <programme start="20261109050500 +0000" stop="20261109051500 +0000" channel="bvn">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109051500 +0000" stop="20261109062000 +0000" channel="bvn">
-    <title>Podium klassiek</title>
-  </programme>
-  <programme start="20261109062000 +0000" stop="20261109071500 +0000" channel="bvn">
-    <title>Studio sport voetbal</title>
-  </programme>
-  <programme start="20261109071500 +0000" stop="20261109073000 +0000" channel="bvn">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109073000 +0000" stop="20261109081500 +0000" channel="bvn">
-    <title>Dwars door de Pyreneeën</title>
-  </programme>
-  <programme start="20261109081500 +0000" stop="20261109082500 +0000" channel="bvn">
-    <title>Boer zoekt vrouw</title>
-  </programme>
-  <programme start="20261109082500 +0000" stop="20261109091500 +0000" channel="bvn">
-    <title>Ivo op zondag</title>
-  </programme>
-  <programme start="20261109091500 +0000" stop="20261109094500 +0000" channel="bvn">
-    <title>Nieuwsuur</title>
-  </programme>
-  <programme start="20261109094500 +0000" stop="20261109103500 +0000" channel="bvn">
-    <title>Pauw And De Wit</title>
-  </programme>
-  <programme start="20261109103500 +0000" stop="20261109110000 +0000" channel="bvn">
-    <title>Bureau buitenland</title>
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109111500 +0000" channel="bvn">
-    <title>Gezichten van Gaza</title>
-  </programme>
-  <programme start="20261109111500 +0000" stop="20261109113000 +0000" channel="bvn">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109113000 +0000" stop="20261109120000 +0000" channel="bvn">
-    <title>2 voor 12</title>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109122000 +0000" channel="bvn">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109122000 +0000" stop="20261109123500 +0000" channel="bvn">
-    <title>Nederland in beweging</title>
-  </programme>
-  <programme start="20261109123500 +0000" stop="20261109125500 +0000" channel="bvn">
-    <title>MAX geheugentrainer</title>
-  </programme>
-  <programme start="20261109125500 +0000" stop="20261109131000 +0000" channel="bvn">
-    <title>Goedemorgen Nederland</title>
-  </programme>
-  <programme start="20261109131000 +0000" stop="20261109132500 +0000" channel="bvn">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109132500 +0000" stop="20261109134000 +0000" channel="bvn">
-    <title>Goedemorgen Nederland</title>
-  </programme>
-  <programme start="20261109134000 +0000" stop="20261109135500 +0000" channel="bvn">
-    <title>Kook mee met MAX</title>
-  </programme>
-  <programme start="20261109135500 +0000" stop="20261109141500 +0000" channel="bvn">
-    <title>Goedemorgen Nederland</title>
-  </programme>
-  <programme start="20261109141500 +0000" stop="20261109143000 +0000" channel="bvn">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109143000 +0000" stop="20261109150000 +0000" channel="bvn">
-    <title>Fryslân dok</title>
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109152500 +0000" channel="bvn">
-    <title>Blauw bloed</title>
-  </programme>
-  <programme start="20261109152500 +0000" stop="20261109154000 +0000" channel="bvn">
-    <title>Sesamstraat</title>
-  </programme>
-  <programme start="20261109154000 +0000" stop="20261109155000 +0000" channel="bvn">
-    <title>Sesamstraat: 10 voor ...</title>
-  </programme>
-  <programme start="20261109155000 +0000" stop="20261109160000 +0000" channel="bvn">
-    <title>Kindertijd</title>
-  </programme>
-  <programme start="20261109160000 +0000" stop="20261109162000 +0000" channel="bvn">
-    <title>Jeugdjournaal</title>
-  </programme>
-  <programme start="20261109162000 +0000" stop="20261109162500 +0000" channel="bvn">
-    <title>Journaal in makkelijke taal</title>
-  </programme>
-  <programme start="20261109162500 +0000" stop="20261109171000 +0000" channel="bvn">
-    <title>Tijd voor MAX</title>
-  </programme>
-  <programme start="20261109171000 +0000" stop="20261109172500 +0000" channel="bvn">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109172500 +0000" stop="20261109173500 +0000" channel="bvn">
-    <title>Het sinterklaasjournaal</title>
-  </programme>
-  <programme start="20261109173500 +0000" stop="20261109181000 +0000" channel="bvn">
-    <title>BinnensteBuiten</title>
-  </programme>
-  <programme start="20261109181000 +0000" stop="20261109183500 +0000" channel="bvn">
-    <title>EenVandaag</title>
-  </programme>
-  <programme start="20261109183500 +0000" stop="20261109192500 +0000" channel="bvn">
-    <title>Eva</title>
-  </programme>
-  <programme start="20261109192500 +0000" stop="20261109195000 +0000" channel="bvn">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109195000 +0000" stop="20261109204000 +0000" channel="bvn">
-    <title>Van Roosmalen And Groenteman</title>
-  </programme>
-  <programme start="20261109204000 +0000" stop="20261109212500 +0000" channel="bvn">
-    <title>Boer zoekt vrouw</title>
-  </programme>
-  <programme start="20261109212500 +0000" stop="20261109220000 +0000" channel="bvn">
-    <title>Nieuwsuur</title>
-  </programme>
-  <programme start="20261109220000 +0000" stop="20261109225000 +0000" channel="bvn">
-    <title>Pauw And De Wit</title>
-  </programme>
   <programme start="20261109225000 +0000" stop="20261109231000 +0000" channel="bvn">
     <title>NOS Journaal</title>
   </programme>
@@ -26796,17 +26661,8 @@
   <programme start="20261110034000 +0000" stop="20261110035000 +0000" channel="bvn">
     <title>Sesamstraat: 10 voor ...</title>
   </programme>
-  <programme start="20261110035000 +0000" stop="20261110042000 +0000" channel="bvn">
+  <programme start="20261110035000 +0000" stop="20261110051000 +0000" channel="bvn">
     <title>Kindertijd</title>
-  </programme>
-  <programme start="20261110042000 +0000" stop="20261110044000 +0000" channel="bvn">
-    <title>Jeugdjournaal</title>
-  </programme>
-  <programme start="20261110044000 +0000" stop="20261110044500 +0000" channel="bvn">
-    <title>Nederland zingt op zondag</title>
-  </programme>
-  <programme start="20261110044500 +0000" stop="20261110051000 +0000" channel="bvn">
-    <title>Nederland zingt op zondag</title>
   </programme>
   <programme start="20261110051000 +0000" stop="20261110052500 +0000" channel="bvn">
     <title>NOS Journaal</title>
@@ -27022,7 +26878,7 @@
     <title>L1 Nieuws</title>
   </programme>
   <programme start="20261109174500 +0000" stop="20261109180000 +0000" channel="L1mburg TV">
-    <title>Videovastelaovend</title>
+    <title>Óngerwaeg</title>
   </programme>
   <programme start="20261109180000 +0000" stop="20261109183000 +0000" channel="L1mburg TV">
     <title>Natuur en Zo</title>
@@ -27145,7 +27001,7 @@
     <title>L1 Nieuws</title>
   </programme>
   <programme start="20261110214500 +0000" stop="20261110220000 +0000" channel="L1mburg TV">
-    <title>Óngerwaeg</title>
+    <title>Videovastelaovend</title>
   </programme>
   <programme start="20261110220000 +0000" stop="20261110222000 +0000" channel="L1mburg TV">
     <title>L1 Nieuws</title>
@@ -27157,7 +27013,7 @@
     <title>L1 Nieuws</title>
   </programme>
   <programme start="20261110224500 +0000" stop="20261110230000 +0000" channel="L1mburg TV">
-    <title>Videovastelaovend</title>
+    <title>Óngerwaeg</title>
   </programme>
   <programme start="20261110230000 +0000" stop="20261111030000 +0000" channel="L1mburg TV">
     <title>Nachtcarrousel</title>
@@ -29622,149 +29478,77 @@
   <programme start="20261110224700 +0000" stop="20261110230000 +0000" channel="Omroep Flevoland">
     <title>Headlines Omroep Flevoland</title>
   </programme>
-  <programme start="20261110230000 +0000" stop="20261110231200 +0000" channel="Omroep Flevoland">
+  <programme start="20261110230000 +0000" stop="20261110231500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261110231200 +0000" stop="20261110231500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261110231500 +0000" stop="20261110232700 +0000" channel="Omroep Flevoland">
+  <programme start="20261110231500 +0000" stop="20261110233000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261110232700 +0000" stop="20261110233000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261110233000 +0000" stop="20261110234200 +0000" channel="Omroep Flevoland">
+  <programme start="20261110233000 +0000" stop="20261110234500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261110234200 +0000" stop="20261110234500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261110234500 +0000" stop="20261110235700 +0000" channel="Omroep Flevoland">
+  <programme start="20261110234500 +0000" stop="20261111000000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261110235700 +0000" stop="20261111000000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111000000 +0000" stop="20261111001200 +0000" channel="Omroep Flevoland">
+  <programme start="20261111000000 +0000" stop="20261111001500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111001200 +0000" stop="20261111001500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111001500 +0000" stop="20261111002700 +0000" channel="Omroep Flevoland">
+  <programme start="20261111001500 +0000" stop="20261111003000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111002700 +0000" stop="20261111003000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111003000 +0000" stop="20261111004200 +0000" channel="Omroep Flevoland">
+  <programme start="20261111003000 +0000" stop="20261111004500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111004200 +0000" stop="20261111004500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111004500 +0000" stop="20261111005700 +0000" channel="Omroep Flevoland">
+  <programme start="20261111004500 +0000" stop="20261111010000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111005700 +0000" stop="20261111010000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111010000 +0000" stop="20261111011200 +0000" channel="Omroep Flevoland">
+  <programme start="20261111010000 +0000" stop="20261111011500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111011200 +0000" stop="20261111011500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111011500 +0000" stop="20261111012700 +0000" channel="Omroep Flevoland">
+  <programme start="20261111011500 +0000" stop="20261111013000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111012700 +0000" stop="20261111013000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111013000 +0000" stop="20261111014200 +0000" channel="Omroep Flevoland">
+  <programme start="20261111013000 +0000" stop="20261111014500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111014200 +0000" stop="20261111014500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111014500 +0000" stop="20261111015700 +0000" channel="Omroep Flevoland">
+  <programme start="20261111014500 +0000" stop="20261111020000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111015700 +0000" stop="20261111020000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111020000 +0000" stop="20261111021200 +0000" channel="Omroep Flevoland">
+  <programme start="20261111020000 +0000" stop="20261111021500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111021200 +0000" stop="20261111021500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111021500 +0000" stop="20261111022700 +0000" channel="Omroep Flevoland">
+  <programme start="20261111021500 +0000" stop="20261111023000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111022700 +0000" stop="20261111023000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111023000 +0000" stop="20261111024200 +0000" channel="Omroep Flevoland">
+  <programme start="20261111023000 +0000" stop="20261111024500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111024200 +0000" stop="20261111024500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111024500 +0000" stop="20261111025700 +0000" channel="Omroep Flevoland">
+  <programme start="20261111024500 +0000" stop="20261111030000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111025700 +0000" stop="20261111030000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111030000 +0000" stop="20261111031200 +0000" channel="Omroep Flevoland">
+  <programme start="20261111030000 +0000" stop="20261111031500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111031200 +0000" stop="20261111031500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111031500 +0000" stop="20261111032700 +0000" channel="Omroep Flevoland">
+  <programme start="20261111031500 +0000" stop="20261111033000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111032700 +0000" stop="20261111033000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111033000 +0000" stop="20261111034200 +0000" channel="Omroep Flevoland">
+  <programme start="20261111033000 +0000" stop="20261111034500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111034200 +0000" stop="20261111034500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111034500 +0000" stop="20261111035700 +0000" channel="Omroep Flevoland">
+  <programme start="20261111034500 +0000" stop="20261111040000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111035700 +0000" stop="20261111040000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111040000 +0000" stop="20261111041200 +0000" channel="Omroep Flevoland">
+  <programme start="20261111040000 +0000" stop="20261111041500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111041200 +0000" stop="20261111041500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111041500 +0000" stop="20261111042700 +0000" channel="Omroep Flevoland">
+  <programme start="20261111041500 +0000" stop="20261111043000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111042700 +0000" stop="20261111043000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111043000 +0000" stop="20261111044200 +0000" channel="Omroep Flevoland">
+  <programme start="20261111043000 +0000" stop="20261111044500 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
   </programme>
-  <programme start="20261111044200 +0000" stop="20261111044500 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
-  </programme>
-  <programme start="20261111044500 +0000" stop="20261111045700 +0000" channel="Omroep Flevoland">
+  <programme start="20261111044500 +0000" stop="20261111050000 +0000" channel="Omroep Flevoland">
     <title>Dit is Flevoland nieuws</title>
-  </programme>
-  <programme start="20261111045700 +0000" stop="20261111050000 +0000" channel="Omroep Flevoland">
-    <title>Weer</title>
   </programme>
   <programme start="20261111050000 +0000" stop="20261111080000 +0000" channel="Omroep Flevoland">
     <title>Flevoland is Wakker!</title>
@@ -30417,16 +30201,16 @@
   <programme start="20261109043300 +0000" stop="20261109044800 +0000" channel="RTV Drenthe">
     <title>Djammen de Clips</title>
   </programme>
-  <programme start="20261109044800 +0000" stop="20261109051200 +0000" channel="RTV Drenthe">
+  <programme start="20261109044800 +0000" stop="20261109052200 +0000" channel="RTV Drenthe">
     <title>Onze Club</title>
   </programme>
-  <programme start="20261109051200 +0000" stop="20261109052000 +0000" channel="RTV Drenthe">
+  <programme start="20261109052200 +0000" stop="20261109053200 +0000" channel="RTV Drenthe">
     <title>Drenthe Nu</title>
   </programme>
-  <programme start="20261109052000 +0000" stop="20261109053400 +0000" channel="RTV Drenthe">
+  <programme start="20261109053200 +0000" stop="20261109054600 +0000" channel="RTV Drenthe">
     <title>Djammen de Clips</title>
   </programme>
-  <programme start="20261109053400 +0000" stop="20261109060000 +0000" channel="RTV Drenthe">
+  <programme start="20261109054600 +0000" stop="20261109060000 +0000" channel="RTV Drenthe">
     <title>Onze Club</title>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109080000 +0000" channel="RTV Drenthe">
@@ -31455,99 +31239,6 @@
   <programme start="20261111050000 +0000" stop="20261111090000 +0000" channel="RTV Noord">
     <title>De Ochtendploeg</title>
   </programme>
-  <programme start="20261109000000 +0000" stop="20261109002600 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261109002600 +0000" stop="20261109005100 +0000" channel="RTV Oost">
-    <title>Oost Sport</title>
-  </programme>
-  <programme start="20261109005100 +0000" stop="20261109010000 +0000" channel="RTV Oost">
-    <title>De Bijrijder</title>
-  </programme>
-  <programme start="20261109010000 +0000" stop="20261109012600 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261109012600 +0000" stop="20261109015100 +0000" channel="RTV Oost">
-    <title>Oost Sport</title>
-  </programme>
-  <programme start="20261109015100 +0000" stop="20261109020000 +0000" channel="RTV Oost">
-    <title>De Bijrijder</title>
-  </programme>
-  <programme start="20261109020000 +0000" stop="20261109022600 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261109022600 +0000" stop="20261109025100 +0000" channel="RTV Oost">
-    <title>Oost Sport</title>
-  </programme>
-  <programme start="20261109025100 +0000" stop="20261109030000 +0000" channel="RTV Oost">
-    <title>De Bijrijder</title>
-  </programme>
-  <programme start="20261109030000 +0000" stop="20261109032600 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261109032600 +0000" stop="20261109035100 +0000" channel="RTV Oost">
-    <title>Oost Sport</title>
-  </programme>
-  <programme start="20261109035100 +0000" stop="20261109054500 +0000" channel="RTV Oost">
-    <title>De Bijrijder</title>
-  </programme>
-  <programme start="20261109054500 +0000" stop="20261109060000 +0000" channel="RTV Oost">
-    <title>Overijssel Beweegt</title>
-  </programme>
-  <programme start="20261109060000 +0000" stop="20261109070000 +0000" channel="RTV Oost">
-    <title>Goeiemorgen met Oost</title>
-  </programme>
-  <programme start="20261109070000 +0000" stop="20261109080000 +0000" channel="RTV Oost">
-    <title>Goeiemorgen met Oost</title>
-  </programme>
-  <programme start="20261109080000 +0000" stop="20261109081500 +0000" channel="RTV Oost">
-    <title>Bij Oost</title>
-  </programme>
-  <programme start="20261109081500 +0000" stop="20261109083000 +0000" channel="RTV Oost">
-    <title>Overijssel Beweegt</title>
-  </programme>
-  <programme start="20261109083000 +0000" stop="20261109090000 +0000" channel="RTV Oost">
-    <title>Bij Oost</title>
-  </programme>
-  <programme start="20261109090000 +0000" stop="20261109120000 +0000" channel="RTV Oost">
-    <title>Bij Oost</title>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109150000 +0000" channel="RTV Oost">
-    <title>Bij Oost in de middag</title>
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109160000 +0000" channel="RTV Oost">
-    <title>De dag van Oost</title>
-  </programme>
-  <programme start="20261109160000 +0000" stop="20261109163000 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261109163000 +0000" stop="20261109173000 +0000" channel="RTV Oost">
-    <title>De Oosttribune</title>
-  </programme>
-  <programme start="20261109173000 +0000" stop="20261109180000 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261109180000 +0000" stop="20261109183000 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261109183000 +0000" stop="20261109193000 +0000" channel="RTV Oost">
-    <title>De Oosttribune</title>
-  </programme>
-  <programme start="20261109193000 +0000" stop="20261109200000 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261109203000 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261109203000 +0000" stop="20261109213000 +0000" channel="RTV Oost">
-    <title>De Oosttribune</title>
-  </programme>
-  <programme start="20261109213000 +0000" stop="20261109220000 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261109220000 +0000" stop="20261109223000 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
   <programme start="20261109223000 +0000" stop="20261109233000 +0000" channel="RTV Oost">
     <title>De Oosttribune</title>
   </programme>
@@ -31575,20 +31266,8 @@
   <programme start="20261110032200 +0000" stop="20261110034700 +0000" channel="RTV Oost">
     <title>Vandaag in Overijssel</title>
   </programme>
-  <programme start="20261110034700 +0000" stop="20261110040000 +0000" channel="RTV Oost">
+  <programme start="20261110034700 +0000" stop="20261110054500 +0000" channel="RTV Oost">
     <title>De Bijrijder</title>
-  </programme>
-  <programme start="20261110040000 +0000" stop="20261110042600 +0000" channel="RTV Oost">
-    <title>Vandaag in Overijssel</title>
-  </programme>
-  <programme start="20261110042600 +0000" stop="20261110045100 +0000" channel="RTV Oost">
-    <title>Oost Sport</title>
-  </programme>
-  <programme start="20261110045100 +0000" stop="20261110050000 +0000" channel="RTV Oost">
-    <title>De Bijrijder</title>
-  </programme>
-  <programme start="20261110050000 +0000" stop="20261110054500 +0000" channel="RTV Oost">
-    <title>Goeiemorgen met Oost</title>
   </programme>
   <programme start="20261110054500 +0000" stop="20261110060000 +0000" channel="RTV Oost">
     <title>Overijssel Beweegt</title>
@@ -31715,51 +31394,6 @@
   </programme>
   <programme start="20261111054500 +0000" stop="20261111060000 +0000" channel="RTV Oost">
     <title>Overijssel Beweegt</title>
-  </programme>
-  <programme start="20261109050000 +0000" stop="20261109160000 +0000" channel="RTV Rijnmond">
-    <title>Visual Radio</title>
-  </programme>
-  <programme start="20261109160000 +0000" stop="20261109161500 +0000" channel="RTV Rijnmond">
-    <title>Rijnmond Vandaag</title>
-  </programme>
-  <programme start="20261109161500 +0000" stop="20261109170000 +0000" channel="RTV Rijnmond">
-    <title>FC Rijnmond</title>
-  </programme>
-  <programme start="20261109170000 +0000" stop="20261109171500 +0000" channel="RTV Rijnmond">
-    <title>Rijnmond Vandaag</title>
-  </programme>
-  <programme start="20261109171500 +0000" stop="20261109180000 +0000" channel="RTV Rijnmond">
-    <title>FC Rijnmond</title>
-  </programme>
-  <programme start="20261109180000 +0000" stop="20261109181500 +0000" channel="RTV Rijnmond">
-    <title>Rijnmond Vandaag</title>
-  </programme>
-  <programme start="20261109181500 +0000" stop="20261109190000 +0000" channel="RTV Rijnmond">
-    <title>FC Rijnmond</title>
-  </programme>
-  <programme start="20261109190000 +0000" stop="20261109191500 +0000" channel="RTV Rijnmond">
-    <title>Rijnmond Vandaag</title>
-  </programme>
-  <programme start="20261109191500 +0000" stop="20261109200000 +0000" channel="RTV Rijnmond">
-    <title>FC Rijnmond</title>
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261109201500 +0000" channel="RTV Rijnmond">
-    <title>Rijnmond Vandaag</title>
-  </programme>
-  <programme start="20261109201500 +0000" stop="20261109210000 +0000" channel="RTV Rijnmond">
-    <title>FC Rijnmond</title>
-  </programme>
-  <programme start="20261109210000 +0000" stop="20261109211500 +0000" channel="RTV Rijnmond">
-    <title>Rijnmond Vandaag</title>
-  </programme>
-  <programme start="20261109211500 +0000" stop="20261109220000 +0000" channel="RTV Rijnmond">
-    <title>FC Rijnmond</title>
-  </programme>
-  <programme start="20261109220000 +0000" stop="20261109221200 +0000" channel="RTV Rijnmond">
-    <title>Journaal in makkelijke taal</title>
-  </programme>
-  <programme start="20261109221200 +0000" stop="20261109225000 +0000" channel="RTV Rijnmond">
-    <title>FC Rijnmond</title>
   </programme>
   <programme start="20261109225000 +0000" stop="20261109230000 +0000" channel="RTV Rijnmond">
     <title>Rijnmond Reels</title>
@@ -32499,147 +32133,6 @@
   <programme start="20261111055500 +0000" stop="20261111060000 +0000" channel="RTV Utrecht">
     <title>Tekst TV</title>
   </programme>
-  <programme start="20261109060000 +0000" stop="20261109064300 +0000" channel="Omroep West OpB">
-    <title>TV West Sport</title>
-  </programme>
-  <programme start="20261109064300 +0000" stop="20261109070000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109070000 +0000" stop="20261109074300 +0000" channel="Omroep West OpB">
-    <title>TV West Sport</title>
-  </programme>
-  <programme start="20261109074300 +0000" stop="20261109080000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109080000 +0000" stop="20261109084300 +0000" channel="Omroep West OpB">
-    <title>TV West Sport</title>
-  </programme>
-  <programme start="20261109084300 +0000" stop="20261109090000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109090000 +0000" stop="20261109094300 +0000" channel="Omroep West OpB">
-    <title>TV West Sport</title>
-  </programme>
-  <programme start="20261109094300 +0000" stop="20261109100000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109100000 +0000" stop="20261109104300 +0000" channel="Omroep West OpB">
-    <title>TV West Sport</title>
-  </programme>
-  <programme start="20261109104300 +0000" stop="20261109110000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109110000 +0000" stop="20261109111500 +0000" channel="Omroep West OpB">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109111500 +0000" stop="20261109120000 +0000" channel="Omroep West OpB">
-    <title>TV West Sport</title>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261109124300 +0000" channel="Omroep West OpB">
-    <title>TV West Sport</title>
-  </programme>
-  <programme start="20261109124300 +0000" stop="20261109130000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109130000 +0000" stop="20261109134300 +0000" channel="Omroep West OpB">
-    <title>TV West Sport</title>
-  </programme>
-  <programme start="20261109134300 +0000" stop="20261109140000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109140000 +0000" stop="20261109141700 +0000" channel="Omroep West OpB">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109141700 +0000" stop="20261109150000 +0000" channel="Omroep West OpB">
-    <title>TV West Sport</title>
-  </programme>
-  <programme start="20261109150000 +0000" stop="20261109154300 +0000" channel="Omroep West OpB">
-    <title>TV West Sport</title>
-  </programme>
-  <programme start="20261109154300 +0000" stop="20261109160000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109160000 +0000" stop="20261109162100 +0000" channel="Omroep West OpB">
-    <title>Hard voor Weinig</title>
-  </programme>
-  <programme start="20261109162100 +0000" stop="20261109163000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109163000 +0000" stop="20261109165200 +0000" channel="Omroep West OpB">
-    <title>West Vandaag</title>
-  </programme>
-  <programme start="20261109165200 +0000" stop="20261109170000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109170000 +0000" stop="20261109172100 +0000" channel="Omroep West OpB">
-    <title>Hard voor Weinig</title>
-  </programme>
-  <programme start="20261109172100 +0000" stop="20261109173000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109173000 +0000" stop="20261109175200 +0000" channel="Omroep West OpB">
-    <title>West Vandaag</title>
-  </programme>
-  <programme start="20261109175200 +0000" stop="20261109180000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109180000 +0000" stop="20261109182100 +0000" channel="Omroep West OpB">
-    <title>Hard voor Weinig</title>
-  </programme>
-  <programme start="20261109182100 +0000" stop="20261109183000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109183000 +0000" stop="20261109185200 +0000" channel="Omroep West OpB">
-    <title>West Vandaag</title>
-  </programme>
-  <programme start="20261109185200 +0000" stop="20261109190000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109190000 +0000" stop="20261109193000 +0000" channel="Omroep West OpB">
-    <title>NOS Journaal</title>
-  </programme>
-  <programme start="20261109193000 +0000" stop="20261109195200 +0000" channel="Omroep West OpB">
-    <title>West Vandaag</title>
-  </programme>
-  <programme start="20261109195200 +0000" stop="20261109200000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109200000 +0000" stop="20261109200900 +0000" channel="Omroep West OpB">
-    <title>Journaal in makkelijke taal</title>
-  </programme>
-  <programme start="20261109200900 +0000" stop="20261109201700 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109201700 +0000" stop="20261109203000 +0000" channel="Omroep West OpB">
-    <title>Journaal in makkelijke taal</title>
-  </programme>
-  <programme start="20261109203000 +0000" stop="20261109205200 +0000" channel="Omroep West OpB">
-    <title>West Vandaag</title>
-  </programme>
-  <programme start="20261109205200 +0000" stop="20261109210000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109210000 +0000" stop="20261109212100 +0000" channel="Omroep West OpB">
-    <title>Hard voor Weinig</title>
-  </programme>
-  <programme start="20261109212100 +0000" stop="20261109213000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109213000 +0000" stop="20261109215200 +0000" channel="Omroep West OpB">
-    <title>West Vandaag</title>
-  </programme>
-  <programme start="20261109215200 +0000" stop="20261109220000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109220000 +0000" stop="20261109222100 +0000" channel="Omroep West OpB">
-    <title>Hard voor Weinig</title>
-  </programme>
-  <programme start="20261109222100 +0000" stop="20261109223000 +0000" channel="Omroep West OpB">
-    <title>West tombola</title>
-  </programme>
-  <programme start="20261109223000 +0000" stop="20261109225200 +0000" channel="Omroep West OpB">
-    <title>West Vandaag</title>
-  </programme>
   <programme start="20261109225200 +0000" stop="20261109230000 +0000" channel="Omroep West OpB">
     <title>West tombola</title>
   </programme>
@@ -33237,19 +32730,19 @@
   <programme start="20261110230000 +0000" stop="20261111060000 +0000" channel="Omroep West">
     <title>Nachtprogrammering</title>
   </programme>
-  <programme start="20261109001129 +0000" stop="20261109005806 +0000" channel="NRK 1">
+  <programme start="20261109001746 +0000" stop="20261109010422 +0000" channel="NRK 1">
     <title>Miriam og Alans bobileventyr</title>
   </programme>
-  <programme start="20261109005806 +0000" stop="20261109012807 +0000" channel="NRK 1">
+  <programme start="20261109010422 +0000" stop="20261109013423 +0000" channel="NRK 1">
     <title>A-laget</title>
   </programme>
-  <programme start="20261109012807 +0000" stop="20261109020810 +0000" channel="NRK 1">
+  <programme start="20261109013423 +0000" stop="20261109021426 +0000" channel="NRK 1">
     <title>Katastrofe</title>
   </programme>
-  <programme start="20261109020810 +0000" stop="20261109025828 +0000" channel="NRK 1">
+  <programme start="20261109021426 +0000" stop="20261109030444 +0000" channel="NRK 1">
     <title>Ville fristelser</title>
   </programme>
-  <programme start="20261109025828 +0000" stop="20261109040000 +0000" channel="NRK 1">
+  <programme start="20261109030444 +0000" stop="20261109040000 +0000" channel="NRK 1">
     <title>Kanalpause</title>
   </programme>
   <programme start="20261109040000 +0000" stop="20261109043000 +0000" channel="NRK 1">
@@ -33312,43 +32805,43 @@
   <programme start="20261109185500 +0000" stop="20261109185959 +0000" channel="NRK 1">
     <title>Kanalpause</title>
   </programme>
-  <programme start="20261109185959 +0000" stop="20261109194902 +0000" channel="NRK 1">
+  <programme start="20261109185959 +0000" stop="20261109194903 +0000" channel="NRK 1">
     <title>Urix X Annika</title>
   </programme>
-  <programme start="20261109194902 +0000" stop="20261109200000 +0000" channel="NRK 1">
+  <programme start="20261109194903 +0000" stop="20261109200000 +0000" channel="NRK 1">
     <title>Norge i dag</title>
   </programme>
-  <programme start="20261109200000 +0000" stop="20261109201004 +0000" channel="NRK 1">
+  <programme start="20261109200000 +0000" stop="20261109201005 +0000" channel="NRK 1">
     <title>Dagsrevyen 21</title>
   </programme>
-  <programme start="20261109201004 +0000" stop="20261109210906 +0000" channel="NRK 1">
+  <programme start="20261109201005 +0000" stop="20261109210906 +0000" channel="NRK 1">
     <title>De arktiske reddere</title>
   </programme>
   <programme start="20261109210906 +0000" stop="20261109220108 +0000" channel="NRK 1">
     <title>Den siste festen</title>
   </programme>
-  <programme start="20261109220108 +0000" stop="20261109221411 +0000" channel="NRK 1">
+  <programme start="20261109220108 +0000" stop="20261109221412 +0000" channel="NRK 1">
     <title>Kveldsnytt</title>
   </programme>
-  <programme start="20261109221411 +0000" stop="20261109225428 +0000" channel="NRK 1">
+  <programme start="20261109221412 +0000" stop="20261109225429 +0000" channel="NRK 1">
     <title>Den siste festen</title>
   </programme>
-  <programme start="20261109225428 +0000" stop="20261109234803 +0000" channel="NRK 1">
+  <programme start="20261109225429 +0000" stop="20261109234804 +0000" channel="NRK 1">
     <title>Banksy og den stjålne jenta</title>
   </programme>
-  <programme start="20261109234803 +0000" stop="20261110005932 +0000" channel="NRK 1">
+  <programme start="20261109234804 +0000" stop="20261110005933 +0000" channel="NRK 1">
     <title>Jazz i stort format</title>
   </programme>
-  <programme start="20261110005932 +0000" stop="20261110013840 +0000" channel="NRK 1">
+  <programme start="20261110005933 +0000" stop="20261110013841 +0000" channel="NRK 1">
     <title>Trollstemt</title>
   </programme>
-  <programme start="20261110013840 +0000" stop="20261110021806 +0000" channel="NRK 1">
+  <programme start="20261110013841 +0000" stop="20261110021807 +0000" channel="NRK 1">
     <title>Der ingen skulle tru at nokon kunne bu</title>
   </programme>
-  <programme start="20261110021806 +0000" stop="20261110031712 +0000" channel="NRK 1">
+  <programme start="20261110021807 +0000" stop="20261110031713 +0000" channel="NRK 1">
     <title>Det sit i veggane</title>
   </programme>
-  <programme start="20261110031712 +0000" stop="20261110040000 +0000" channel="NRK 1">
+  <programme start="20261110031713 +0000" stop="20261110040000 +0000" channel="NRK 1">
     <title>Kanalpause</title>
   </programme>
   <programme start="20261110040000 +0000" stop="20261110043000 +0000" channel="NRK 1">
@@ -33539,12 +33032,6 @@
   </programme>
   <programme start="20261111030000 +0000" stop="20261111060000 +0000" channel="TV Ostfold">
     <title>Ulike programmer og reportasjer</title>
-  </programme>
-  <programme start="20261109002000 +0000" stop="20261109041500 +0000" channel="SVT 1">
-    <title>Sändningsuppehåll</title>
-  </programme>
-  <programme start="20261109041500 +0000" stop="20261109050000 +0000" channel="SVT 1">
-    <title>Landet runt</title>
   </programme>
   <programme start="20261109050000 +0000" stop="20261109090000 +0000" channel="SVT 1">
     <title>Morgonstudion</title>
@@ -36123,31 +35610,31 @@
   <programme start="20261111055500 +0000" stop="20261111061500 +0000" channel="RTS 1">
     <title>Ruben &amp; Cie</title>
   </programme>
-  <programme start="20261109002000 +0000" stop="20261109011000 +0000" channel="RTS 2">
+  <programme start="20261109003000 +0000" stop="20261109012000 +0000" channel="RTS 2">
     <title>Histoire vivante</title>
   </programme>
-  <programme start="20261109011000 +0000" stop="20261109014000 +0000" channel="RTS 2">
+  <programme start="20261109012000 +0000" stop="20261109015000 +0000" channel="RTS 2">
     <title>Le 19h30 signé</title>
   </programme>
-  <programme start="20261109014000 +0000" stop="20261109020500 +0000" channel="RTS 2">
+  <programme start="20261109015000 +0000" stop="20261109021500 +0000" channel="RTS 2">
     <title>Géopolitis</title>
   </programme>
-  <programme start="20261109020500 +0000" stop="20261109025500 +0000" channel="RTS 2">
+  <programme start="20261109021500 +0000" stop="20261109031000 +0000" channel="RTS 2">
     <title>Mise au point</title>
   </programme>
-  <programme start="20261109025500 +0000" stop="20261109033000 +0000" channel="RTS 2">
+  <programme start="20261109031000 +0000" stop="20261109034000 +0000" channel="RTS 2">
     <title>Le 19h30 signé</title>
   </programme>
-  <programme start="20261109033000 +0000" stop="20261109042000 +0000" channel="RTS 2">
+  <programme start="20261109034000 +0000" stop="20261109043000 +0000" channel="RTS 2">
     <title>Sport dimanche</title>
   </programme>
-  <programme start="20261109042000 +0000" stop="20261109044500 +0000" channel="RTS 2">
+  <programme start="20261109043000 +0000" stop="20261109045500 +0000" channel="RTS 2">
     <title>Géopolitis</title>
   </programme>
-  <programme start="20261109044500 +0000" stop="20261109054000 +0000" channel="RTS 2">
+  <programme start="20261109045500 +0000" stop="20261109054500 +0000" channel="RTS 2">
     <title>Mise au point</title>
   </programme>
-  <programme start="20261109054000 +0000" stop="20261109060000 +0000" channel="RTS 2">
+  <programme start="20261109054500 +0000" stop="20261109060000 +0000" channel="RTS 2">
     <title>RTS Info : L'actualité en continu</title>
   </programme>
   <programme start="20261109060000 +0000" stop="20261109070000 +0000" channel="RTS 2">
@@ -36420,10 +35907,10 @@
   <programme start="20261109053000 +0000" stop="20261109070000 +0000" channel="SRF 1">
     <title>News-Schlagzeilen</title>
   </programme>
-  <programme start="20261109070000 +0000" stop="20261109080500 +0000" channel="SRF 1">
+  <programme start="20261109070000 +0000" stop="20261109081000 +0000" channel="SRF 1">
     <title>Wetterkanal</title>
   </programme>
-  <programme start="20261109080500 +0000" stop="20261109081500 +0000" channel="SRF 1">
+  <programme start="20261109081000 +0000" stop="20261109081500 +0000" channel="SRF 1">
     <title>Nussbaumbandi in Gebärdensprache</title>
   </programme>
   <programme start="20261109081500 +0000" stop="20261109085000 +0000" channel="SRF 1">
@@ -36666,64 +36153,73 @@
   <programme start="20261111053500 +0000" stop="20261111070000 +0000" channel="SRF 1">
     <title>News-Schlagzeilen</title>
   </programme>
-  <programme start="20261109003500 +0000" stop="20261109013000 +0000" channel="SRF Info">
-    <title>sportpanorama</title>
-  </programme>
-  <programme start="20261109013000 +0000" stop="20261109014000 +0000" channel="SRF Info">
+  <programme start="20261109000500 +0000" stop="20261109001500 +0000" channel="SRF Info">
     <title>Tagesschau</title>
   </programme>
-  <programme start="20261109014000 +0000" stop="20261109014500 +0000" channel="SRF Info">
+  <programme start="20261109001500 +0000" stop="20261109001600 +0000" channel="SRF Info">
     <title>Meteo - Spätausgabe</title>
   </programme>
-  <programme start="20261109014500 +0000" stop="20261109023000 +0000" channel="SRF Info">
+  <programme start="20261109001600 +0000" stop="20261109010500 +0000" channel="SRF Info">
     <title>Super League - Highlights</title>
   </programme>
-  <programme start="20261109023000 +0000" stop="20261109033000 +0000" channel="SRF Info">
+  <programme start="20261109010500 +0000" stop="20261109021000 +0000" channel="SRF Info">
     <title>sportpanorama</title>
   </programme>
-  <programme start="20261109033000 +0000" stop="20261109034000 +0000" channel="SRF Info">
-    <title>Tagesschau - Spätausgabe</title>
+  <programme start="20261109021000 +0000" stop="20261109022200 +0000" channel="SRF Info">
+    <title>Tagesschau</title>
   </programme>
-  <programme start="20261109034000 +0000" stop="20261109034500 +0000" channel="SRF Info">
+  <programme start="20261109022200 +0000" stop="20261109022300 +0000" channel="SRF Info">
     <title>Meteo - Spätausgabe</title>
   </programme>
-  <programme start="20261109034500 +0000" stop="20261109041500 +0000" channel="SRF Info">
+  <programme start="20261109022300 +0000" stop="20261109031500 +0000" channel="SRF Info">
+    <title>Super League - Highlights</title>
+  </programme>
+  <programme start="20261109031500 +0000" stop="20261109041500 +0000" channel="SRF Info">
+    <title>sportpanorama</title>
+  </programme>
+  <programme start="20261109041500 +0000" stop="20261109042000 +0000" channel="SRF Info">
+    <title>Tagesschau</title>
+  </programme>
+  <programme start="20261109042000 +0000" stop="20261109042800 +0000" channel="SRF Info">
+    <title>sportpanorama</title>
+  </programme>
+  <programme start="20261109042800 +0000" stop="20261109043000 +0000" channel="SRF Info">
+    <title>Meteo - Spätausgabe</title>
+  </programme>
+  <programme start="20261109043000 +0000" stop="20261109050000 +0000" channel="SRF Info">
     <title>Kulturplatz</title>
   </programme>
-  <programme start="20261109041500 +0000" stop="20261109045500 +0000" channel="SRF Info">
+  <programme start="20261109050000 +0000" stop="20261109052000 +0000" channel="SRF Info">
     <title>Super League - Highlights</title>
   </programme>
-  <programme start="20261109045500 +0000" stop="20261109055000 +0000" channel="SRF Info">
-    <title>sportpanorama</title>
-  </programme>
-  <programme start="20261109055000 +0000" stop="20261109064000 +0000" channel="SRF Info">
+  <programme start="20261109052000 +0000" stop="20261109062000 +0000" channel="SRF Info">
     <title>Super League - Highlights</title>
   </programme>
-  <programme start="20261109064000 +0000" stop="20261109073500 +0000" channel="SRF Info">
+  <programme start="20261109062000 +0000" stop="20261109071500 +0000" channel="SRF Info">
     <title>SonntagsZeitung Standpunkte</title>
   </programme>
-  <programme start="20261109073500 +0000" stop="20261109075500 +0000" channel="SRF Info">
+  <programme start="20261109071500 +0000" stop="20261109073500 +0000" channel="SRF Info">
     <title>gesundheitheute</title>
   </programme>
-  <programme start="20261109075500 +0000" stop="20261109084500 +0000" channel="SRF Info">
+  <programme start="20261109073500 +0000" stop="20261109082500 +0000" channel="SRF Info">
     <title>SonntagsZeitung Standpunkte</title>
   </programme>
-  <programme start="20261109084500 +0000" stop="20261109091000 +0000" channel="SRF Info">
+  <programme start="20261109082500 +0000" stop="20261109085000 +0000" channel="SRF Info">
     <title>gesundheitheute</title>
   </programme>
-  <programme start="20261109091000 +0000" stop="20261109100000 +0000" channel="SRF Info">
+  <programme start="20261109085000 +0000" stop="20261109094000 +0000" channel="SRF Info">
     <title>SonntagsZeitung Standpunkte</title>
   </programme>
-  <programme start="20261109100000 +0000" stop="20261109103000 +0000" channel="SRF Info">
+  <programme start="20261109094000 +0000" stop="20261109101000 +0000" channel="SRF Info">
     <title>NZZ Format</title>
   </programme>
-  <programme start="20261109103000 +0000" stop="20261109110500 +0000" channel="SRF Info">
+  <programme start="20261109101000 +0000" stop="20261109104500 +0000" channel="SRF Info">
     <title>SRFglobal</title>
   </programme>
-  <programme start="20261109110500 +0000" stop="20261109115500 +0000" channel="SRF Info">
+  <programme start="20261109104500 +0000" stop="20261109114500 +0000" channel="SRF Info">
     <title>Super League - Highlights</title>
   </programme>
-  <programme start="20261109115500 +0000" stop="20261109125000 +0000" channel="SRF Info">
+  <programme start="20261109114500 +0000" stop="20261109125000 +0000" channel="SRF Info">
     <title>sportpanorama</title>
   </programme>
   <programme start="20261109125000 +0000" stop="20261109125500 +0000" channel="SRF Info">
@@ -36735,37 +36231,34 @@
   <programme start="20261109130000 +0000" stop="20261109133000 +0000" channel="SRF Info">
     <title>Kulturplatz</title>
   </programme>
-  <programme start="20261109133000 +0000" stop="20261109133500 +0000" channel="SRF Info">
+  <programme start="20261109133000 +0000" stop="20261109133400 +0000" channel="SRF Info">
     <title>Tagesschau kompakt - Mittagsausgabe</title>
   </programme>
-  <programme start="20261109133500 +0000" stop="20261109134000 +0000" channel="SRF Info">
+  <programme start="20261109133400 +0000" stop="20261109133500 +0000" channel="SRF Info">
     <title>Meteo - Mittagsausgabe</title>
   </programme>
-  <programme start="20261109134000 +0000" stop="20261109141500 +0000" channel="SRF Info">
+  <programme start="20261109133500 +0000" stop="20261109141000 +0000" channel="SRF Info">
     <title>SRFglobal</title>
   </programme>
-  <programme start="20261109141500 +0000" stop="20261109142000 +0000" channel="SRF Info">
+  <programme start="20261109141000 +0000" stop="20261109141700 +0000" channel="SRF Info">
     <title>Tagesschau kompakt - Mittagsausgabe</title>
   </programme>
-  <programme start="20261109142000 +0000" stop="20261109142500 +0000" channel="SRF Info">
+  <programme start="20261109141700 +0000" stop="20261109142000 +0000" channel="SRF Info">
     <title>Meteo - Mittagsausgabe</title>
   </programme>
-  <programme start="20261109142500 +0000" stop="20261109145500 +0000" channel="SRF Info">
+  <programme start="20261109142000 +0000" stop="20261109145000 +0000" channel="SRF Info">
     <title>Kulturplatz</title>
   </programme>
-  <programme start="20261109145500 +0000" stop="20261109150000 +0000" channel="SRF Info">
+  <programme start="20261109145000 +0000" stop="20261109145600 +0000" channel="SRF Info">
     <title>Tagesschau kompakt - Mittagsausgabe</title>
   </programme>
-  <programme start="20261109150000 +0000" stop="20261109150500 +0000" channel="SRF Info">
+  <programme start="20261109145600 +0000" stop="20261109150000 +0000" channel="SRF Info">
     <title>Meteo - Mittagsausgabe</title>
   </programme>
-  <programme start="20261109150500 +0000" stop="20261109154000 +0000" channel="SRF Info">
+  <programme start="20261109150000 +0000" stop="20261109154000 +0000" channel="SRF Info">
     <title>Einstein</title>
   </programme>
-  <programme start="20261109154000 +0000" stop="20261109155000 +0000" channel="SRF Info">
-    <title>Tagesschau kompakt - Mittagsausgabe</title>
-  </programme>
-  <programme start="20261109155000 +0000" stop="20261109170000 +0000" channel="SRF Info">
+  <programme start="20261109154000 +0000" stop="20261109170000 +0000" channel="SRF Info">
     <title>Arena</title>
   </programme>
   <programme start="20261109170000 +0000" stop="20261109171000 +0000" channel="SRF Info">
@@ -36957,8 +36450,11 @@
   <programme start="20261110041300 +0000" stop="20261110041500 +0000" channel="SRF Info">
     <title>sportflash</title>
   </programme>
-  <programme start="20261110041500 +0000" stop="20261110045000 +0000" channel="SRF Info">
+  <programme start="20261110041500 +0000" stop="20261110042500 +0000" channel="SRF Info">
     <title>Newsflash SRF 1</title>
+  </programme>
+  <programme start="20261110042500 +0000" stop="20261110045000 +0000" channel="SRF Info">
+    <title>10 vor 10</title>
   </programme>
   <programme start="20261110045000 +0000" stop="20261110050000 +0000" channel="SRF Info">
     <title>Telesguard</title>
@@ -37263,22 +36759,22 @@
   <programme start="20261109032000 +0000" stop="20261109044500 +0000" channel="SRF Zwei">
     <title>Prey</title>
   </programme>
-  <programme start="20261109044500 +0000" stop="20261109075500 +0000" channel="SRF Zwei">
+  <programme start="20261109044500 +0000" stop="20261109080000 +0000" channel="SRF Zwei">
     <title>3 auf zwei</title>
   </programme>
-  <programme start="20261109075500 +0000" stop="20261109082000 +0000" channel="SRF Zwei">
+  <programme start="20261109080000 +0000" stop="20261109082500 +0000" channel="SRF Zwei">
     <title>Tagesschau vor 20 Jahren</title>
   </programme>
-  <programme start="20261109082000 +0000" stop="20261109090500 +0000" channel="SRF Zwei">
+  <programme start="20261109082500 +0000" stop="20261109091000 +0000" channel="SRF Zwei">
     <title>SRF bi de Lüt - Familiensache</title>
   </programme>
-  <programme start="20261109090500 +0000" stop="20261109095000 +0000" channel="SRF Zwei">
+  <programme start="20261109091000 +0000" stop="20261109095500 +0000" channel="SRF Zwei">
     <title>SRF bi de Lüt - Familiensache</title>
   </programme>
-  <programme start="20261109095000 +0000" stop="20261109103000 +0000" channel="SRF Zwei">
+  <programme start="20261109095500 +0000" stop="20261109103500 +0000" channel="SRF Zwei">
     <title>Kulturzeit</title>
   </programme>
-  <programme start="20261109103000 +0000" stop="20261109104500 +0000" channel="SRF Zwei">
+  <programme start="20261109103500 +0000" stop="20261109104500 +0000" channel="SRF Zwei">
     <title>SRF Kids News</title>
   </programme>
   <programme start="20261109104500 +0000" stop="20261109110000 +0000" channel="SRF Zwei">
@@ -37287,10 +36783,10 @@
   <programme start="20261109110000 +0000" stop="20261109150500 +0000" channel="SRF Zwei">
     <title>3 auf zwei</title>
   </programme>
-  <programme start="20261109150500 +0000" stop="20261109155500 +0000" channel="SRF Zwei">
+  <programme start="20261109150500 +0000" stop="20261109160000 +0000" channel="SRF Zwei">
     <title>Wege zum Glück</title>
   </programme>
-  <programme start="20261109155500 +0000" stop="20261109165000 +0000" channel="SRF Zwei">
+  <programme start="20261109160000 +0000" stop="20261109165000 +0000" channel="SRF Zwei">
     <title>Chicago Fire</title>
   </programme>
   <programme start="20261109165000 +0000" stop="20261109175000 +0000" channel="SRF Zwei">
