@@ -40,6 +40,66 @@
     <display-name>RUV 2</display-name>
     <icon src="https://images.open-epg.com/25517333.png" />
   </channel>
+  <channel id="TG4">
+    <display-name>TG4</display-name>
+    <icon src="https://images.open-epg.com/x903.png" />
+  </channel>
+  <channel id="Channel 5">
+    <display-name>Channel 5</display-name>
+    <icon src="https://images.open-epg.com/x888.png" />
+  </channel>
+  <channel id="5ACTION">
+    <display-name>5ACTION</display-name>
+    <icon src="https://images.open-epg.com/15929.png" />
+  </channel>
+  <channel id="5STAR">
+    <display-name>5STAR</display-name>
+    <icon src="https://images.open-epg.com/21432.png" />
+  </channel>
+  <channel id="BBC News">
+    <display-name>BBC News</display-name>
+    <icon src="https://images.open-epg.com/x374.png" />
+  </channel>
+  <channel id="BBC One">
+    <display-name>BBC One</display-name>
+    <icon src="https://images.open-epg.com/x364.png" />
+  </channel>
+  <channel id="BBC Two">
+    <display-name>BBC Two</display-name>
+    <icon src="https://images.open-epg.com/x368.png" />
+  </channel>
+  <channel id="Channel 4">
+    <display-name>Channel 4</display-name>
+    <icon src="https://images.open-epg.com/x889.png" />
+  </channel>
+  <channel id="GB News">
+    <display-name>GB News</display-name>
+    <icon src="https://images.open-epg.com/13024.png" />
+  </channel>
+  <channel id="ITV1">
+    <display-name>ITV1</display-name>
+    <icon src="https://images.open-epg.com/x379.png" />
+  </channel>
+  <channel id="ITV Quiz">
+    <display-name>ITV Quiz</display-name>
+    <icon src="https://images.open-epg.com/x384.png" />
+  </channel>
+  <channel id="QVC">
+    <display-name>QVC</display-name>
+    <icon src="https://images.open-epg.com/13086.png" />
+  </channel>
+  <channel id="QVC Beauty">
+    <display-name>QVC Beauty</display-name>
+    <icon src="https://images.open-epg.com/16190.png" />
+  </channel>
+  <channel id="QVC Extra">
+    <display-name>QVC Extra</display-name>
+    <icon src="https://images.open-epg.com/16191.png" />
+  </channel>
+  <channel id="QVC Style">
+    <display-name>QVC Style</display-name>
+    <icon src="https://images.open-epg.com/21626.png" />
+  </channel>
   <channel id="BFM TV">
     <display-name>BFM TV</display-name>
     <icon src="https://images.open-epg.com/19984488.png" />
@@ -111,66 +171,6 @@
   <channel id="W9">
     <display-name>W9</display-name>
     <icon src="https://images.open-epg.com/19984853.png" />
-  </channel>
-  <channel id="TG4">
-    <display-name>TG4</display-name>
-    <icon src="https://images.open-epg.com/x903.png" />
-  </channel>
-  <channel id="Channel 5">
-    <display-name>Channel 5</display-name>
-    <icon src="https://images.open-epg.com/x888.png" />
-  </channel>
-  <channel id="5ACTION">
-    <display-name>5ACTION</display-name>
-    <icon src="https://images.open-epg.com/15929.png" />
-  </channel>
-  <channel id="5STAR">
-    <display-name>5STAR</display-name>
-    <icon src="https://images.open-epg.com/21432.png" />
-  </channel>
-  <channel id="BBC News">
-    <display-name>BBC News</display-name>
-    <icon src="https://images.open-epg.com/x374.png" />
-  </channel>
-  <channel id="BBC One">
-    <display-name>BBC One</display-name>
-    <icon src="https://images.open-epg.com/x364.png" />
-  </channel>
-  <channel id="BBC Two">
-    <display-name>BBC Two</display-name>
-    <icon src="https://images.open-epg.com/x368.png" />
-  </channel>
-  <channel id="Channel 4">
-    <display-name>Channel 4</display-name>
-    <icon src="https://images.open-epg.com/x889.png" />
-  </channel>
-  <channel id="GB News">
-    <display-name>GB News</display-name>
-    <icon src="https://images.open-epg.com/13024.png" />
-  </channel>
-  <channel id="ITV1">
-    <display-name>ITV1</display-name>
-    <icon src="https://images.open-epg.com/x379.png" />
-  </channel>
-  <channel id="ITV Quiz">
-    <display-name>ITV Quiz</display-name>
-    <icon src="https://images.open-epg.com/x384.png" />
-  </channel>
-  <channel id="QVC">
-    <display-name>QVC</display-name>
-    <icon src="https://images.open-epg.com/13086.png" />
-  </channel>
-  <channel id="QVC Beauty">
-    <display-name>QVC Beauty</display-name>
-    <icon src="https://images.open-epg.com/16190.png" />
-  </channel>
-  <channel id="QVC Extra">
-    <display-name>QVC Extra</display-name>
-    <icon src="https://images.open-epg.com/16191.png" />
-  </channel>
-  <channel id="QVC Style">
-    <display-name>QVC Style</display-name>
-    <icon src="https://images.open-epg.com/21626.png" />
   </channel>
   <channel id="TVE Internacional">
     <display-name>TVE Internacional</display-name>
@@ -680,77 +680,95 @@
   <programme start="20261111030400 +0000" stop="20261111035900 +0000" channel="CSTAR">
     <title>Ko Ko Mo - Garorock 2024</title>
   </programme>
-  <programme start="20261111035900 +0000" stop="20261111055500 +0000" channel="CSTAR">
+  <programme start="20261111035900 +0000" stop="20261111040000 +0000" channel="CSTAR">
     <title>Top Clip</title>
   </programme>
-  <programme start="20261111055500 +0000" stop="20261111055800 +0000" channel="CSTAR">
+  <programme start="20261111040000 +0000" stop="20261111054600 +0000" channel="CSTAR">
+    <title>Top Clip</title>
+  </programme>
+  <programme start="20261111054600 +0000" stop="20261111055800 +0000" channel="CSTAR">
     <title>L'éphéméride</title>
   </programme>
-  <programme start="20261111055800 +0000" stop="20261111065800 +0000" channel="CSTAR">
+  <programme start="20261111055800 +0000" stop="20261111064400 +0000" channel="CSTAR">
     <title>Top CStar</title>
   </programme>
-  <programme start="20261111065800 +0000" stop="20261111075500 +0000" channel="CSTAR">
+  <programme start="20261111064400 +0000" stop="20261111065800 +0000" channel="CSTAR">
+    <title>Top actu</title>
+  </programme>
+  <programme start="20261111065800 +0000" stop="20261111075200 +0000" channel="CSTAR">
     <title>Top albums</title>
   </programme>
-  <programme start="20261111075500 +0000" stop="20261111084800 +0000" channel="CSTAR">
+  <programme start="20261111075200 +0000" stop="20261111084800 +0000" channel="CSTAR">
     <title>Spots Partenaires C8 / Cstar</title>
   </programme>
-  <programme start="20261111084800 +0000" stop="20261111092200 +0000" channel="CSTAR">
+  <programme start="20261111084800 +0000" stop="20261111092100 +0000" channel="CSTAR">
     <title>Top streaming</title>
   </programme>
-  <programme start="20261111092200 +0000" stop="20261111093600 +0000" channel="CSTAR">
+  <programme start="20261111092100 +0000" stop="20261111093600 +0000" channel="CSTAR">
     <title>Top Clip</title>
   </programme>
-  <programme start="20261111093600 +0000" stop="20261111104600 +0000" channel="CSTAR">
+  <programme start="20261111093600 +0000" stop="20261111110100 +0000" channel="CSTAR">
     <title>Top actu</title>
   </programme>
-  <programme start="20261111104600 +0000" stop="20261111111500 +0000" channel="CSTAR">
+  <programme start="20261111110100 +0000" stop="20261111113100 +0000" channel="CSTAR">
     <title>Spots Partenaires C8 / Cstar</title>
   </programme>
-  <programme start="20261111111500 +0000" stop="20261111113100 +0000" channel="CSTAR">
-    <title>L'éphéméride</title>
-  </programme>
-  <programme start="20261111113100 +0000" stop="20261111115700 +0000" channel="CSTAR">
+  <programme start="20261111113100 +0000" stop="20261111113800 +0000" channel="CSTAR">
     <title>Top actu</title>
   </programme>
-  <programme start="20261111115700 +0000" stop="20261111120600 +0000" channel="CSTAR">
+  <programme start="20261111113800 +0000" stop="20261111114000 +0000" channel="CSTAR">
+    <title>L'éphéméride</title>
+  </programme>
+  <programme start="20261111114000 +0000" stop="20261111115300 +0000" channel="CSTAR">
     <title>C'est fait en France</title>
   </programme>
-  <programme start="20261111120600 +0000" stop="20261111123200 +0000" channel="CSTAR">
-    <title>Rambo</title>
+  <programme start="20261111115300 +0000" stop="20261111120200 +0000" channel="CSTAR">
+    <title>Clips Cstar</title>
   </programme>
-  <programme start="20261111123200 +0000" stop="20261111135200 +0000" channel="CSTAR">
+  <programme start="20261111120200 +0000" stop="20261111120600 +0000" channel="CSTAR">
+    <title>Clips Cstar</title>
+  </programme>
+  <programme start="20261111120600 +0000" stop="20261111122500 +0000" channel="CSTAR">
+    <title>Clips Cstar</title>
+  </programme>
+  <programme start="20261111122500 +0000" stop="20261111123200 +0000" channel="CSTAR">
+    <title>Clips Cstar</title>
+  </programme>
+  <programme start="20261111123200 +0000" stop="20261111123600 +0000" channel="CSTAR">
     <title>Top actu</title>
   </programme>
-  <programme start="20261111135200 +0000" stop="20261111154000 +0000" channel="CSTAR">
+  <programme start="20261111123600 +0000" stop="20261111125000 +0000" channel="CSTAR">
+    <title>Clip</title>
+  </programme>
+  <programme start="20261111125000 +0000" stop="20261111143600 +0000" channel="CSTAR">
+    <title>Rambo</title>
+  </programme>
+  <programme start="20261111143600 +0000" stop="20261111162500 +0000" channel="CSTAR">
     <title>Rambo II : la mission</title>
   </programme>
-  <programme start="20261111154000 +0000" stop="20261111173600 +0000" channel="CSTAR">
+  <programme start="20261111162500 +0000" stop="20261111181800 +0000" channel="CSTAR">
     <title>Rambo III</title>
   </programme>
-  <programme start="20261111173600 +0000" stop="20261111192300 +0000" channel="CSTAR">
+  <programme start="20261111181800 +0000" stop="20261111200900 +0000" channel="CSTAR">
     <title>Enquête sous haute tension</title>
   </programme>
-  <programme start="20261111192300 +0000" stop="20261111211900 +0000" channel="CSTAR">
+  <programme start="20261111200900 +0000" stop="20261111220600 +0000" channel="CSTAR">
     <title>Le dernier rempart</title>
   </programme>
-  <programme start="20261111211900 +0000" stop="20261111231300 +0000" channel="CSTAR">
+  <programme start="20261111220600 +0000" stop="20261112000100 +0000" channel="CSTAR">
     <title>Hot Seat</title>
   </programme>
-  <programme start="20261111231300 +0000" stop="20261112001500 +0000" channel="CSTAR">
+  <programme start="20261112000100 +0000" stop="20261112010300 +0000" channel="CSTAR">
     <title>Top Rock</title>
   </programme>
-  <programme start="20261112001500 +0000" stop="20261112001900 +0000" channel="CSTAR">
+  <programme start="20261112010300 +0000" stop="20261112010600 +0000" channel="CSTAR">
     <title>L'éphéméride</title>
   </programme>
-  <programme start="20261112001900 +0000" stop="20261112005500 +0000" channel="CSTAR">
+  <programme start="20261112010600 +0000" stop="20261112025900 +0000" channel="CSTAR">
     <title>Nuit nouveaux talents</title>
   </programme>
-  <programme start="20261112005500 +0000" stop="20261112010100 +0000" channel="CSTAR">
-    <title>L'éphéméride</title>
-  </programme>
-  <programme start="20261112010100 +0000" stop="20261112035900 +0000" channel="CSTAR">
-    <title>Nuit nouveaux talents</title>
+  <programme start="20261112025900 +0000" stop="20261112035900 +0000" channel="CSTAR">
+    <title>Garorock</title>
   </programme>
   <programme start="20261112035900 +0000" stop="20261112055200 +0000" channel="CSTAR">
     <title>Top Clip</title>
@@ -1709,8 +1727,89 @@
   <programme start="20261112224300 +0000" stop="20261112224900 +0000" channel="France24">
     <title>Sports</title>
   </programme>
-  <programme start="20261112224900 +0000" stop="20261113160000 +0000" channel="France24">
+  <programme start="20261112224900 +0000" stop="20261112225100 +0000" channel="France24">
     <title>Les unes de la presse</title>
+  </programme>
+  <programme start="20261112225100 +0000" stop="20261112230000 +0000" channel="France24">
+    <title>Focus</title>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261112231500 +0000" channel="France24">
+    <title>L'actu 360 : le journal</title>
+  </programme>
+  <programme start="20261112231500 +0000" stop="20261113000000 +0000" channel="France24">
+    <title>Le débat</title>
+  </programme>
+  <programme start="20261113000000 +0000" stop="20261113001500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261113001500 +0000" stop="20261113003000 +0000" channel="France24">
+    <title>Le journal de l'Afrique</title>
+  </programme>
+  <programme start="20261113003000 +0000" stop="20261113004500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261113004500 +0000" stop="20261113010000 +0000" channel="France24">
+    <title>A l'affiche</title>
+  </programme>
+  <programme start="20261113010000 +0000" stop="20261113011500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261113011500 +0000" stop="20261113015500 +0000" channel="France24">
+    <title>Politique</title>
+  </programme>
+  <programme start="20261113015500 +0000" stop="20261113020000 +0000" channel="France24">
+    <title>L'instant mobile</title>
+  </programme>
+  <programme start="20261113020000 +0000" stop="20261113021100 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261113021100 +0000" stop="20261113025500 +0000" channel="France24">
+    <title>Le débat</title>
+  </programme>
+  <programme start="20261113025500 +0000" stop="20261113030000 +0000" channel="France24">
+    <title>L'instant mobile</title>
+  </programme>
+  <programme start="20261113030000 +0000" stop="20261113031000 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261113031000 +0000" stop="20261113032200 +0000" channel="France24">
+    <title>Reporters</title>
+  </programme>
+  <programme start="20261113032200 +0000" stop="20261113033000 +0000" channel="France24">
+    <title>L'instant mobile</title>
+  </programme>
+  <programme start="20261113033000 +0000" stop="20261113034000 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261113034000 +0000" stop="20261113035500 +0000" channel="France24">
+    <title>Le Paris des arts</title>
+  </programme>
+  <programme start="20261113035500 +0000" stop="20261113040000 +0000" channel="France24">
+    <title>Culture prime</title>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113041500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261113041500 +0000" stop="20261113042100 +0000" channel="France24">
+    <title>Plan B</title>
+  </programme>
+  <programme start="20261113042100 +0000" stop="20261113043000 +0000" channel="France24">
+    <title>Focus</title>
+  </programme>
+  <programme start="20261113043000 +0000" stop="20261113044500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261113044500 +0000" stop="20261113050000 +0000" channel="France24">
+    <title>Le journal de l'Afrique</title>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113052200 +0000" channel="France24">
+    <title>A la une : le journal</title>
+  </programme>
+  <programme start="20261113052200 +0000" stop="20261113053000 +0000" channel="France24">
+    <title>Sports</title>
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="France24">
+    <title>A la une : le journal</title>
   </programme>
   <programme start="20261111000000 +0000" stop="20261111001500 +0000" channel="France24 Arabic">
     <title>Journal</title>
@@ -3392,12 +3491,6 @@
   <programme start="20261113055100 +0000" stop="20261113060000 +0000" channel="France24 English">
     <title>Sport (France 24 English)</title>
   </programme>
-  <programme start="20261111015900 +0000" stop="20261111032700 +0000" channel="franceinfo">
-    <title>La matinale info semaine</title>
-  </programme>
-  <programme start="20261111032700 +0000" stop="20261111044000 +0000" channel="franceinfo">
-    <title>La matinale info semaine</title>
-  </programme>
   <programme start="20261111044000 +0000" stop="20261111044900 +0000" channel="franceinfo">
     <title>Le 7.40 franceinfo</title>
   </programme>
@@ -3413,16 +3506,16 @@
   <programme start="20261111085800 +0000" stop="20261111100500 +0000" channel="franceinfo">
     <title>Le fil info matin</title>
   </programme>
-  <programme start="20261111100500 +0000" stop="20261111105800 +0000" channel="franceinfo">
+  <programme start="20261111100500 +0000" stop="20261111111400 +0000" channel="franceinfo">
     <title>L'info outre-mer</title>
   </programme>
-  <programme start="20261111105800 +0000" stop="20261111111400 +0000" channel="franceinfo">
-    <title>Le fil info après-midi</title>
-  </programme>
-  <programme start="20261111111400 +0000" stop="20261111133900 +0000" channel="franceinfo">
+  <programme start="20261111111400 +0000" stop="20261111115800 +0000" channel="franceinfo">
     <title>Le fil info matin</title>
   </programme>
-  <programme start="20261111133900 +0000" stop="20261111145800 +0000" channel="franceinfo">
+  <programme start="20261111115800 +0000" stop="20261111144500 +0000" channel="franceinfo">
+    <title>Le fil info après-midi</title>
+  </programme>
+  <programme start="20261111144500 +0000" stop="20261111145800 +0000" channel="franceinfo">
     <title>Le Scan info</title>
   </programme>
   <programme start="20261111145800 +0000" stop="20261111170200 +0000" channel="franceinfo">
@@ -3601,9 +3694,6 @@
   </programme>
   <programme start="20261113050000 +0000" stop="20261113072500 +0000" channel="LCI">
     <title>La matinale LCI</title>
-  </programme>
-  <programme start="20261111040000 +0000" stop="20261111080000 +0000" channel="LEquipe">
-    <title>L'Equipe du soir</title>
   </programme>
   <programme start="20261111080000 +0000" stop="20261111110000 +0000" channel="LEquipe">
     <title>V6</title>
@@ -3898,9 +3988,6 @@
   </programme>
   <programme start="20261113053000 +0000" stop="20261113065000 +0000" channel="RMC Decouverte">
     <title>Flic story</title>
-  </programme>
-  <programme start="20261111040000 +0000" stop="20261111070000 +0000" channel="RMC Life">
-    <title>Good Morning Business</title>
   </programme>
   <programme start="20261111070000 +0000" stop="20261111095500 +0000" channel="RMC Life">
     <title>Legos : les 30 constructions les plus incroyables volume 1</title>
@@ -4247,6 +4334,24 @@
   <programme start="20261112232500 +0000" stop="20261113012000 +0000" channel="T18">
     <title>Non élucidé</title>
   </programme>
+  <programme start="20261113012000 +0000" stop="20261113015000 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261113015000 +0000" stop="20261113025500 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261113025500 +0000" stop="20261113032500 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261113032500 +0000" stop="20261113043000 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261113043000 +0000" stop="20261113053000 +0000" channel="T18">
+    <title>Sur la scène du crime</title>
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113063000 +0000" channel="T18">
+    <title>Sur la scène du crime</title>
+  </programme>
   <programme start="20261111002000 +0000" stop="20261111002500 +0000" channel="TF1">
     <title>Tirage de l'EuroMillions</title>
   </programme>
@@ -4553,19 +4658,25 @@
   <programme start="20261112022900 +0000" stop="20261112024500 +0000" channel="TV5MONDE Europe">
     <title>Chic en vf</title>
   </programme>
-  <programme start="20261112024500 +0000" stop="20261112040000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112024500 +0000" stop="20261112030700 +0000" channel="TV5MONDE Europe">
     <title>Un si grand soleil</title>
   </programme>
-  <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112030700 +0000" stop="20261112033300 +0000" channel="TV5MONDE Europe">
+    <title>Chroniques d'en haut</title>
+  </programme>
+  <programme start="20261112033300 +0000" stop="20261112040300 +0000" channel="TV5MONDE Europe">
+    <title>La cuisine des mousquetaires *2022</title>
+  </programme>
+  <programme start="20261112040300 +0000" stop="20261112043000 +0000" channel="TV5MONDE Europe">
     <title>C'est du belge</title>
   </programme>
   <programme start="20261112043000 +0000" stop="20261112045600 +0000" channel="TV5MONDE Europe">
     <title>Le journal Afrique</title>
   </programme>
-  <programme start="20261112045600 +0000" stop="20261112050000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112045600 +0000" stop="20261112050100 +0000" channel="TV5MONDE Europe">
     <title>Météo</title>
   </programme>
-  <programme start="20261112050000 +0000" stop="20261112053000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112050100 +0000" stop="20261112053000 +0000" channel="TV5MONDE Europe">
     <title>Les saisons de pique-assiette</title>
   </programme>
   <programme start="20261112053000 +0000" stop="20261112055600 +0000" channel="TV5MONDE Europe">
@@ -4580,8 +4691,11 @@
   <programme start="20261112063000 +0000" stop="20261112065000 +0000" channel="TV5MONDE Europe">
     <title>Télématin</title>
   </programme>
-  <programme start="20261112065000 +0000" stop="20261112071500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112065000 +0000" stop="20261112071000 +0000" channel="TV5MONDE Europe">
     <title>Télématin</title>
+  </programme>
+  <programme start="20261112071000 +0000" stop="20261112071500 +0000" channel="TV5MONDE Europe">
+    <title>Un pays, un livre</title>
   </programme>
   <programme start="20261112071500 +0000" stop="20261112074500 +0000" channel="TV5MONDE Europe">
     <title>Télématin</title>
@@ -4592,110 +4706,107 @@
   <programme start="20261112081200 +0000" stop="20261112081500 +0000" channel="TV5MONDE Europe">
     <title>Météo</title>
   </programme>
-  <programme start="20261112081500 +0000" stop="20261112084500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112081500 +0000" stop="20261112084400 +0000" channel="TV5MONDE Europe">
     <title>Vroum</title>
   </programme>
-  <programme start="20261112084500 +0000" stop="20261112091400 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112084400 +0000" stop="20261112091400 +0000" channel="TV5MONDE Europe">
     <title>13h15, le samedi...</title>
   </programme>
-  <programme start="20261112091400 +0000" stop="20261112093100 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112091400 +0000" stop="20261112092800 +0000" channel="TV5MONDE Europe">
     <title>20h30 le vendredi</title>
   </programme>
-  <programme start="20261112093100 +0000" stop="20261112094500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112092800 +0000" stop="20261112094300 +0000" channel="TV5MONDE Europe">
     <title>Démo de mode</title>
   </programme>
-  <programme start="20261112094500 +0000" stop="20261112101200 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112094300 +0000" stop="20261112101300 +0000" channel="TV5MONDE Europe">
     <title>Tendance XXI</title>
   </programme>
-  <programme start="20261112101200 +0000" stop="20261112101500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112101300 +0000" stop="20261112101700 +0000" channel="TV5MONDE Europe">
+    <title>Un pays, un livre</title>
+  </programme>
+  <programme start="20261112101700 +0000" stop="20261112101900 +0000" channel="TV5MONDE Europe">
     <title>Météo</title>
   </programme>
-  <programme start="20261112101500 +0000" stop="20261112105000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112101900 +0000" stop="20261112105300 +0000" channel="TV5MONDE Europe">
     <title>Slam</title>
   </programme>
-  <programme start="20261112105000 +0000" stop="20261112115000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112105300 +0000" stop="20261112115200 +0000" channel="TV5MONDE Europe">
     <title>Ça commence aujourd'hui</title>
   </programme>
-  <programme start="20261112115000 +0000" stop="20261112120000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112115200 +0000" stop="20261112120500 +0000" channel="TV5MONDE Europe">
     <title>Outremer.l'info</title>
   </programme>
-  <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112120500 +0000" stop="20261112123000 +0000" channel="TV5MONDE Europe">
     <title>Un si grand soleil</title>
   </programme>
-  <programme start="20261112123000 +0000" stop="20261112130500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112123000 +0000" stop="20261112130300 +0000" channel="TV5MONDE Europe">
     <title>JT 13h (La Une)</title>
   </programme>
-  <programme start="20261112130500 +0000" stop="20261112144800 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112130300 +0000" stop="20261112144700 +0000" channel="TV5MONDE Europe">
     <title>Mort sur terre battue</title>
   </programme>
-  <programme start="20261112144800 +0000" stop="20261112152200 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112144700 +0000" stop="20261112152000 +0000" channel="TV5MONDE Europe">
     <title>A travers champs</title>
   </programme>
-  <programme start="20261112152200 +0000" stop="20261112155300 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112152000 +0000" stop="20261112155200 +0000" channel="TV5MONDE Europe">
     <title>Littoral</title>
   </programme>
-  <programme start="20261112155300 +0000" stop="20261112164500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112155200 +0000" stop="20261112164000 +0000" channel="TV5MONDE Europe">
     <title>Mise au point</title>
   </programme>
-  <programme start="20261112164500 +0000" stop="20261112170000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112164000 +0000" stop="20261112170000 +0000" channel="TV5MONDE Europe">
     <title>Chic en vf</title>
   </programme>
-  <programme start="20261112170000 +0000" stop="20261112172500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112170000 +0000" stop="20261112172600 +0000" channel="TV5MONDE Europe">
     <title>64' le monde en français</title>
   </programme>
-  <programme start="20261112172500 +0000" stop="20261112173000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112172600 +0000" stop="20261112173000 +0000" channel="TV5MONDE Europe">
     <title>Météo</title>
   </programme>
   <programme start="20261112173000 +0000" stop="20261112175300 +0000" channel="TV5MONDE Europe">
     <title>64' le monde en français</title>
   </programme>
-  <programme start="20261112175300 +0000" stop="20261112180500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112175300 +0000" stop="20261112181000 +0000" channel="TV5MONDE Europe">
     <title>L'invité</title>
   </programme>
-  <programme start="20261112180500 +0000" stop="20261112190000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112181000 +0000" stop="20261112190000 +0000" channel="TV5MONDE Europe">
     <title>Tout le monde veut prendre sa place</title>
   </programme>
   <programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="TV5MONDE Europe">
     <title>Le 19h30</title>
   </programme>
-  <programme start="20261112193000 +0000" stop="20261112200100 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112193000 +0000" stop="20261112200500 +0000" channel="TV5MONDE Europe">
     <title>Journal 20h00</title>
   </programme>
-  <programme start="20261112200100 +0000" stop="20261112200500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112200500 +0000" stop="20261112200900 +0000" channel="TV5MONDE Europe">
     <title>Un pays, un livre</title>
   </programme>
-  <programme start="20261112200500 +0000" stop="20261112205700 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112200900 +0000" stop="20261112210100 +0000" channel="TV5MONDE Europe">
     <title>L'école des XV</title>
   </programme>
-  <programme start="20261112205700 +0000" stop="20261112215300 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112210100 +0000" stop="20261112220200 +0000" channel="TV5MONDE Europe">
     <title>L'école des XV</title>
   </programme>
-  <programme start="20261112215300 +0000" stop="20261112220000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112220200 +0000" stop="20261112221000 +0000" channel="TV5MONDE Europe">
     <title>La Route du Rhum - Destination Guadeloupe</title>
   </programme>
-  <programme start="20261112220000 +0000" stop="20261112223500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112221000 +0000" stop="20261112224600 +0000" channel="TV5MONDE Europe">
     <title>L'actu</title>
   </programme>
-  <programme start="20261112223500 +0000" stop="20261113001600 +0000" channel="TV5MONDE Europe">
+  <programme start="20261112224600 +0000" stop="20261113002500 +0000" channel="TV5MONDE Europe">
     <title>Ueli Steck : sur la corde raide</title>
   </programme>
-  <programme start="20261113001600 +0000" stop="20261113004700 +0000" channel="TV5MONDE Europe">
+  <programme start="20261113002500 +0000" stop="20261113005500 +0000" channel="TV5MONDE Europe">
     <title>Le journal Afrique</title>
   </programme>
-  <programme start="20261113004700 +0000" stop="20261113021800 +0000" channel="TV5MONDE Europe">
+  <programme start="20261113005500 +0000" stop="20261113022900 +0000" channel="TV5MONDE Europe">
     <title>La grande librairie</title>
   </programme>
-  <programme start="20261113021800 +0000" stop="20261113023500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261113022900 +0000" stop="20261113024400 +0000" channel="TV5MONDE Europe">
     <title>Chic en vf</title>
   </programme>
-  <programme start="20261113023500 +0000" stop="20261113030000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261113024400 +0000" stop="20261113040000 +0000" channel="TV5MONDE Europe">
     <title>Un si grand soleil</title>
-  </programme>
-  <programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="TV5MONDE Europe">
-    <title>Littoral</title>
-  </programme>
-  <programme start="20261113033000 +0000" stop="20261113040000 +0000" channel="TV5MONDE Europe">
-    <title>Les saisons de pique-assiette</title>
   </programme>
   <programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="TV5MONDE Europe">
     <title>basik</title>
@@ -5486,10 +5597,10 @@
   <programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="TG4">
     <title>France 24</title>
   </programme>
-  <programme start="20261111003300 +0000" stop="20261111032700 +0000" channel="Canale 5">
+  <programme start="20261111004700 +0000" stop="20261111032800 +0000" channel="Canale 5">
     <title>UOMINI E DONNE</title>
   </programme>
-  <programme start="20261111032700 +0000" stop="20261111040800 +0000" channel="Canale 5">
+  <programme start="20261111032800 +0000" stop="20261111040800 +0000" channel="Canale 5">
     <title>ALL AMERICAN</title>
   </programme>
   <programme start="20261111040800 +0000" stop="20261111050000 +0000" channel="Canale 5">
@@ -5532,7 +5643,7 @@
     <title>UOMINI E DONNE</title>
   </programme>
   <programme start="20261111150500 +0000" stop="20261111152500 +0000" channel="Canale 5">
-    <title>SECONDA PARTE</title>
+    <title>TERZA PARTE</title>
   </programme>
   <programme start="20261111152500 +0000" stop="20261111155500 +0000" channel="Canale 5">
     <title>AMICI DI MARIA</title>
@@ -5552,227 +5663,212 @@
   <programme start="20261111193300 +0000" stop="20261111194000 +0000" channel="Canale 5">
     <title>METEO</title>
   </programme>
-  <programme start="20261111194000 +0000" stop="20261111202000 +0000" channel="Canale 5">
+  <programme start="20261111194000 +0000" stop="20261111202100 +0000" channel="Canale 5">
     <title>LA RUOTA DELLA FORTUNA</title>
   </programme>
-  <programme start="20261111202000 +0000" stop="20261111231000 +0000" channel="Canale 5">
-    <title>GIORGIA - LAST CALL</title>
+  <programme start="20261111202100 +0000" stop="20261111224000 +0000" channel="Canale 5">
+    <title>VIOLA COME IL MARE - TERZA STAGIONE</title>
   </programme>
-  <programme start="20261111231000 +0000" stop="20261111234900 +0000" channel="Canale 5">
+  <programme start="20261111224000 +0000" stop="20261111231900 +0000" channel="Canale 5">
     <title>TG5</title>
   </programme>
-  <programme start="20261111234900 +0000" stop="20261111235500 +0000" channel="Canale 5">
+  <programme start="20261111231900 +0000" stop="20261111232500 +0000" channel="Canale 5">
     <title>METEO</title>
   </programme>
-  <programme start="20261111235500 +0000" stop="20261112004700 +0000" channel="Canale 5">
+  <programme start="20261111232500 +0000" stop="20261112001700 +0000" channel="Canale 5">
     <title>CADUTA LIBERA</title>
   </programme>
-  <programme start="20261112004700 +0000" stop="20261112032800 +0000" channel="Canale 5">
+  <programme start="20261112001700 +0000" stop="20261112032800 +0000" channel="Canale 5">
     <title>UOMINI E DONNE</title>
   </programme>
   <programme start="20261112032800 +0000" stop="20261112040800 +0000" channel="Canale 5">
     <title>ALL AMERICAN</title>
   </programme>
   <programme start="20261112040800 +0000" stop="20261112050000 +0000" channel="Canale 5">
-    <title>SQUADRA ANTIMAFIA - PALERMO OGGI</title>
+    <title>SQUADRA ANTIMAFIA 5</title>
   </programme>
-  <programme start="20261112050000 +0000" stop="20261112231000 +0000" channel="Canale 5">
+  <programme start="20261112050000 +0000" stop="20261112231900 +0000" channel="Canale 5">
     <title>PRIMA PAGINA TG5</title>
   </programme>
-  <programme start="20261112231000 +0000" stop="20261112234900 +0000" channel="Canale 5">
-    <title>TG5</title>
-  </programme>
-  <programme start="20261112234900 +0000" stop="20261112235500 +0000" channel="Canale 5">
+  <programme start="20261112231900 +0000" stop="20261112232500 +0000" channel="Canale 5">
     <title>METEO</title>
   </programme>
-  <programme start="20261112235500 +0000" stop="20261113004700 +0000" channel="Canale 5">
+  <programme start="20261112232500 +0000" stop="20261113001700 +0000" channel="Canale 5">
     <title>CADUTA LIBERA</title>
   </programme>
-  <programme start="20261113004700 +0000" stop="20261113032800 +0000" channel="Canale 5">
+  <programme start="20261113001700 +0000" stop="20261113032800 +0000" channel="Canale 5">
     <title>UOMINI E DONNE</title>
   </programme>
   <programme start="20261113032800 +0000" stop="20261113040800 +0000" channel="Canale 5">
     <title>ALL AMERICAN</title>
   </programme>
   <programme start="20261113040800 +0000" stop="20261113050000 +0000" channel="Canale 5">
-    <title>SQUADRA ANTIMAFIA - PALERMO OGGI</title>
+    <title>SQUADRA ANTIMAFIA 5</title>
   </programme>
   <programme start="20261113050000 +0000" stop="20261113065400 +0000" channel="Canale 5">
     <title>PRIMA PAGINA TG5</title>
   </programme>
-  <programme start="20261111001400 +0000" stop="20261111004600 +0000" channel="Italia 1">
-    <title>E-PLANET</title>
-  </programme>
-  <programme start="20261111004600 +0000" stop="20261111011800 +0000" channel="Italia 1">
-    <title>DRIVE UP</title>
-  </programme>
-  <programme start="20261111011800 +0000" stop="20261111013000 +0000" channel="Italia 1">
+  <programme start="20261111000400 +0000" stop="20261111001500 +0000" channel="Italia 1">
     <title>STUDIO APERTO - LA GIORNATA</title>
   </programme>
-  <programme start="20261111013000 +0000" stop="20261111021000 +0000" channel="Italia 1">
-    <title>THE LAST SHIP</title>
+  <programme start="20261111001500 +0000" stop="20261111002000 +0000" channel="Italia 1">
+    <title>CIAK NEWS</title>
   </programme>
-  <programme start="20261111021000 +0000" stop="20261111030200 +0000" channel="Italia 1">
-    <title>CHE COSA NON HA FUNZIONATO - DISASTRI DELL'INGEGNERIA - PONTI CROLLATI</title>
+  <programme start="20261111002000 +0000" stop="20261111004300 +0000" channel="Italia 1">
+    <title>SPORT MEDIASET - LA GIORNATA</title>
   </programme>
-  <programme start="20261111030200 +0000" stop="20261111035400 +0000" channel="Italia 1">
-    <title>CHE COSA NON HA FUNZIONATO - DISASTRI DELL'INGEGNERIA - CROLLO DELLA DIGA</title>
+  <programme start="20261111004300 +0000" stop="20261111004800 +0000" channel="Italia 1">
+    <title>CAMERA CAFE'</title>
   </programme>
-  <programme start="20261111035400 +0000" stop="20261111044500 +0000" channel="Italia 1">
-    <title>CHE COSA NON HA FUNZIONATO - DISASTRI DELL'INGEGNERIA - INCIDENTI SULLE MONTAGNE RUSSE</title>
+  <programme start="20261111004800 +0000" stop="20261111014300 +0000" channel="Italia 1">
+    <title>THE CLOSER</title>
   </programme>
-  <programme start="20261111044500 +0000" stop="20261111055700 +0000" channel="Italia 1">
+  <programme start="20261111014300 +0000" stop="20261111022600 +0000" channel="Italia 1">
+    <title>THE CLOSER</title>
+  </programme>
+  <programme start="20261111022600 +0000" stop="20261111025200 +0000" channel="Italia 1">
+    <title>I CAMPIONI DEL REGNO ANIMALE - MACCHINE PER UCCIDERE - I PARTE</title>
+  </programme>
+  <programme start="20261111025200 +0000" stop="20261111034400 +0000" channel="Italia 1">
+    <title>CHE COSA NON HA FUNZIONATO - DISASTRI DELL'INGEGNERIA - CROLLO DI GRATTACIELI</title>
+  </programme>
+  <programme start="20261111034400 +0000" stop="20261111043900 +0000" channel="Italia 1">
+    <title>CHE COSA NON HA FUNZIONATO - DISASTRI DELL'INGEGNERIA - DISASTRI NELLE CENTRALI NUCLEARI</title>
+  </programme>
+  <programme start="20261111043900 +0000" stop="20261111052600 +0000" channel="Italia 1">
+    <title>INGEGNERIA DEGLI EPIC FAIL</title>
+  </programme>
+  <programme start="20261111052600 +0000" stop="20261111061100 +0000" channel="Italia 1">
     <title>SEGRETI NEL GHIACCIO</title>
   </programme>
-  <programme start="20261111055700 +0000" stop="20261111064600 +0000" channel="Italia 1">
+  <programme start="20261111061100 +0000" stop="20261111065900 +0000" channel="Italia 1">
     <title>WALKER TEXAS RANGER</title>
   </programme>
-  <programme start="20261111064600 +0000" stop="20261111073700 +0000" channel="Italia 1">
+  <programme start="20261111065900 +0000" stop="20261111074700 +0000" channel="Italia 1">
     <title>STATION 19</title>
   </programme>
-  <programme start="20261111073700 +0000" stop="20261111083300 +0000" channel="Italia 1">
+  <programme start="20261111074700 +0000" stop="20261111083800 +0000" channel="Italia 1">
     <title>CHICAGO FIRE</title>
   </programme>
-  <programme start="20261111083300 +0000" stop="20261111093000 +0000" channel="Italia 1">
+  <programme start="20261111083800 +0000" stop="20261111092900 +0000" channel="Italia 1">
     <title>CHICAGO FIRE</title>
   </programme>
-  <programme start="20261111093000 +0000" stop="20261111102700 +0000" channel="Italia 1">
+  <programme start="20261111092900 +0000" stop="20261111102500 +0000" channel="Italia 1">
     <title>LAW &amp; ORDER: SPECIAL VICTIMS UNIT</title>
   </programme>
-  <programme start="20261111102700 +0000" stop="20261111112500 +0000" channel="Italia 1">
+  <programme start="20261111102500 +0000" stop="20261111112500 +0000" channel="Italia 1">
     <title>LAW &amp; ORDER: SPECIAL VICTIMS UNIT</title>
   </programme>
-  <programme start="20261111112500 +0000" stop="20261111115900 +0000" channel="Italia 1">
+  <programme start="20261111112500 +0000" stop="20261111120000 +0000" channel="Italia 1">
     <title>STUDIO APERTO</title>
   </programme>
-  <programme start="20261111115900 +0000" stop="20261111120900 +0000" channel="Italia 1">
+  <programme start="20261111120000 +0000" stop="20261111121000 +0000" channel="Italia 1">
     <title>GRANDE FRATELLO VIP</title>
   </programme>
-  <programme start="20261111120900 +0000" stop="20261111125100 +0000" channel="Italia 1">
+  <programme start="20261111121000 +0000" stop="20261111125300 +0000" channel="Italia 1">
     <title>SPORT MEDIASET</title>
   </programme>
-  <programme start="20261111125100 +0000" stop="20261111131100 +0000" channel="Italia 1">
+  <programme start="20261111125300 +0000" stop="20261111131200 +0000" channel="Italia 1">
     <title>SPORT MEDIASET - ROAD TO ATP FINALS</title>
   </programme>
-  <programme start="20261111131100 +0000" stop="20261111133800 +0000" channel="Italia 1">
+  <programme start="20261111131200 +0000" stop="20261111133700 +0000" channel="Italia 1">
     <title>I SIMPSON</title>
   </programme>
-  <programme start="20261111133800 +0000" stop="20261111140400 +0000" channel="Italia 1">
+  <programme start="20261111133700 +0000" stop="20261111140400 +0000" channel="Italia 1">
     <title>I SIMPSON</title>
   </programme>
-  <programme start="20261111140400 +0000" stop="20261111150200 +0000" channel="Italia 1">
+  <programme start="20261111140400 +0000" stop="20261111150300 +0000" channel="Italia 1">
     <title>NCIS: LOS ANGELES</title>
   </programme>
-  <programme start="20261111150200 +0000" stop="20261111155800 +0000" channel="Italia 1">
+  <programme start="20261111150300 +0000" stop="20261111160000 +0000" channel="Italia 1">
     <title>THE MENTALIST</title>
   </programme>
-  <programme start="20261111155800 +0000" stop="20261111165500 +0000" channel="Italia 1">
+  <programme start="20261111160000 +0000" stop="20261111165200 +0000" channel="Italia 1">
     <title>THE MENTALIST</title>
   </programme>
-  <programme start="20261111165500 +0000" stop="20261111172300 +0000" channel="Italia 1">
-    <title>SPORT MEDIASET</title>
+  <programme start="20261111165200 +0000" stop="20261111172000 +0000" channel="Italia 1">
+    <title>SPORT MEDIASET - SPORT MEDIASET</title>
   </programme>
-  <programme start="20261111172300 +0000" stop="20261111173000 +0000" channel="Italia 1">
+  <programme start="20261111172000 +0000" stop="20261111173000 +0000" channel="Italia 1">
     <title>METEO.IT</title>
   </programme>
   <programme start="20261111173000 +0000" stop="20261111175300 +0000" channel="Italia 1">
     <title>STUDIO APERTO</title>
   </programme>
-  <programme start="20261111175300 +0000" stop="20261111180600 +0000" channel="Italia 1">
+  <programme start="20261111175300 +0000" stop="20261111180800 +0000" channel="Italia 1">
     <title>GRANDE FRATELLO VIP</title>
   </programme>
-  <programme start="20261111180600 +0000" stop="20261111183200 +0000" channel="Italia 1">
+  <programme start="20261111180800 +0000" stop="20261111183500 +0000" channel="Italia 1">
     <title>STUDIO APERTO MAG</title>
   </programme>
-  <programme start="20261111183200 +0000" stop="20261111193400 +0000" channel="Italia 1">
+  <programme start="20261111183500 +0000" stop="20261111193800 +0000" channel="Italia 1">
     <title>C.S.I. - SCENA DEL CRIMINE</title>
   </programme>
-  <programme start="20261111193400 +0000" stop="20261111202000 +0000" channel="Italia 1">
+  <programme start="20261111193800 +0000" stop="20261111202700 +0000" channel="Italia 1">
     <title>NCIS - UNITA' ANTICRIMINE</title>
   </programme>
-  <programme start="20261111202000 +0000" stop="20261111213100 +0000" channel="Italia 1">
-    <title>I MERCEN4RI - EXPENDABLES</title>
+  <programme start="20261111202700 +0000" stop="20261111230000 +0000" channel="Italia 1">
+    <title>LA GUERRA DI DOMANI</title>
   </programme>
-  <programme start="20261111213100 +0000" stop="20261111213900 +0000" channel="Italia 1">
-    <title>TGCOM24 BREAKING NEWS</title>
+  <programme start="20261111230000 +0000" stop="20261112010600 +0000" channel="Italia 1">
+    <title>ALIEN: ROMULUS - VM14 - PrimaTv</title>
   </programme>
-  <programme start="20261111213900 +0000" stop="20261111222500 +0000" channel="Italia 1">
-    <title>I MERCEN4RI - EXPENDABLES</title>
-  </programme>
-  <programme start="20261111222500 +0000" stop="20261111230700 +0000" channel="Italia 1">
-    <title>D-TOX</title>
-  </programme>
-  <programme start="20261111230700 +0000" stop="20261111231600 +0000" channel="Italia 1">
-    <title>TGCOM24 BREAKING NEWS</title>
-  </programme>
-  <programme start="20261111231600 +0000" stop="20261112002800 +0000" channel="Italia 1">
-    <title>D-TOX</title>
-  </programme>
-  <programme start="20261112002800 +0000" stop="20261112003900 +0000" channel="Italia 1">
+  <programme start="20261112010600 +0000" stop="20261112011800 +0000" channel="Italia 1">
     <title>STUDIO APERTO - LA GIORNATA</title>
   </programme>
-  <programme start="20261112003900 +0000" stop="20261112004600 +0000" channel="Italia 1">
-    <title>CIAK NEWS</title>
-  </programme>
-  <programme start="20261112004600 +0000" stop="20261112010100 +0000" channel="Italia 1">
+  <programme start="20261112011800 +0000" stop="20261112013300 +0000" channel="Italia 1">
     <title>SPORT MEDIASET - LA GIORNATA</title>
   </programme>
-  <programme start="20261112010100 +0000" stop="20261112014200 +0000" channel="Italia 1">
-    <title>THE LAST SHIP</title>
+  <programme start="20261112013300 +0000" stop="20261112013800 +0000" channel="Italia 1">
+    <title>NESSUNA INFORMAZIONE</title>
   </programme>
-  <programme start="20261112014200 +0000" stop="20261112023200 +0000" channel="Italia 1">
+  <programme start="20261112013800 +0000" stop="20261112022100 +0000" channel="Italia 1">
     <title>THE CLOSER</title>
   </programme>
-  <programme start="20261112023200 +0000" stop="20261112032400 +0000" channel="Italia 1">
-    <title>CHE COSA NON HA FUNZIONATO - DISASTRI DELL'INGEGNERIA - CROLLO DI GRATTACIELI</title>
+  <programme start="20261112022100 +0000" stop="20261112030500 +0000" channel="Italia 1">
+    <title>THE CLOSER</title>
   </programme>
-  <programme start="20261112032400 +0000" stop="20261112041900 +0000" channel="Italia 1">
-    <title>CHE COSA NON HA FUNZIONATO - DISASTRI DELL'INGEGNERIA - DISASTRI NELLE CENTRALI NUCLEARI</title>
-  </programme>
-  <programme start="20261112041900 +0000" stop="20261112050400 +0000" channel="Italia 1">
+  <programme start="20261112030500 +0000" stop="20261112034900 +0000" channel="Italia 1">
     <title>INGEGNERIA DEGLI EPIC FAIL</title>
   </programme>
-  <programme start="20261112050400 +0000" stop="20261112055600 +0000" channel="Italia 1">
+  <programme start="20261112034900 +0000" stop="20261112043400 +0000" channel="Italia 1">
+    <title>INGEGNERIA DEGLI EPIC FAIL</title>
+  </programme>
+  <programme start="20261112043400 +0000" stop="20261112052300 +0000" channel="Italia 1">
+    <title>INGEGNERIA DEGLI EPIC FAIL</title>
+  </programme>
+  <programme start="20261112052300 +0000" stop="20261112230000 +0000" channel="Italia 1">
     <title>SEGRETI NEL GHIACCIO</title>
   </programme>
-  <programme start="20261112055600 +0000" stop="20261112230700 +0000" channel="Italia 1">
-    <title>WALKER TEXAS RANGER</title>
+  <programme start="20261112230000 +0000" stop="20261113010600 +0000" channel="Italia 1">
+    <title>ALIEN: ROMULUS - VM14 - PrimaTv</title>
   </programme>
-  <programme start="20261112230700 +0000" stop="20261112231600 +0000" channel="Italia 1">
-    <title>TGCOM24 BREAKING NEWS</title>
-  </programme>
-  <programme start="20261112231600 +0000" stop="20261113002800 +0000" channel="Italia 1">
-    <title>D-TOX</title>
-  </programme>
-  <programme start="20261113002800 +0000" stop="20261113003900 +0000" channel="Italia 1">
+  <programme start="20261113010600 +0000" stop="20261113011800 +0000" channel="Italia 1">
     <title>STUDIO APERTO - LA GIORNATA</title>
   </programme>
-  <programme start="20261113003900 +0000" stop="20261113004600 +0000" channel="Italia 1">
-    <title>CIAK NEWS</title>
-  </programme>
-  <programme start="20261113004600 +0000" stop="20261113010100 +0000" channel="Italia 1">
+  <programme start="20261113011800 +0000" stop="20261113013300 +0000" channel="Italia 1">
     <title>SPORT MEDIASET - LA GIORNATA</title>
   </programme>
-  <programme start="20261113010100 +0000" stop="20261113014200 +0000" channel="Italia 1">
-    <title>THE LAST SHIP</title>
+  <programme start="20261113013300 +0000" stop="20261113013800 +0000" channel="Italia 1">
+    <title>NESSUNA INFORMAZIONE</title>
   </programme>
-  <programme start="20261113014200 +0000" stop="20261113023200 +0000" channel="Italia 1">
+  <programme start="20261113013800 +0000" stop="20261113022100 +0000" channel="Italia 1">
     <title>THE CLOSER</title>
   </programme>
-  <programme start="20261113023200 +0000" stop="20261113032400 +0000" channel="Italia 1">
-    <title>CHE COSA NON HA FUNZIONATO - DISASTRI DELL'INGEGNERIA - CROLLO DI GRATTACIELI</title>
+  <programme start="20261113022100 +0000" stop="20261113030500 +0000" channel="Italia 1">
+    <title>THE CLOSER</title>
   </programme>
-  <programme start="20261113032400 +0000" stop="20261113041900 +0000" channel="Italia 1">
-    <title>CHE COSA NON HA FUNZIONATO - DISASTRI DELL'INGEGNERIA - DISASTRI NELLE CENTRALI NUCLEARI</title>
-  </programme>
-  <programme start="20261113041900 +0000" stop="20261113050400 +0000" channel="Italia 1">
+  <programme start="20261113030500 +0000" stop="20261113034900 +0000" channel="Italia 1">
     <title>INGEGNERIA DEGLI EPIC FAIL</title>
   </programme>
-  <programme start="20261113050400 +0000" stop="20261113055600 +0000" channel="Italia 1">
-    <title>SEGRETI NEL GHIACCIO</title>
+  <programme start="20261113034900 +0000" stop="20261113043400 +0000" channel="Italia 1">
+    <title>INGEGNERIA DEGLI EPIC FAIL</title>
   </programme>
-  <programme start="20261113055600 +0000" stop="20261113064500 +0000" channel="Italia 1">
-    <title>WALKER TEXAS RANGER</title>
+  <programme start="20261113043400 +0000" stop="20261113052300 +0000" channel="Italia 1">
+    <title>INGEGNERIA DEGLI EPIC FAIL</title>
+  </programme>
+  <programme start="20261113052300 +0000" stop="20261113061200 +0000" channel="Italia 1">
+    <title>SEGRETI NEL GHIACCIO</title>
   </programme>
   <programme start="20261111000000 +0000" stop="20261111003000 +0000" channel="RAI News 24">
     <title>TG NOTTE + RASSEGNA STAMPA</title>
@@ -5846,10 +5942,10 @@
   <programme start="20261111072500 +0000" stop="20261111073000 +0000" channel="RAI News 24">
     <title>CISS</title>
   </programme>
-  <programme start="20261111073000 +0000" stop="20261111075500 +0000" channel="RAI News 24">
+  <programme start="20261111073000 +0000" stop="20261111075100 +0000" channel="RAI News 24">
     <title>RASSEGNA STAMPA + OSPITE</title>
   </programme>
-  <programme start="20261111075500 +0000" stop="20261111080000 +0000" channel="RAI News 24">
+  <programme start="20261111075100 +0000" stop="20261111080000 +0000" channel="RAI News 24">
     <title>METEO 24</title>
   </programme>
   <programme start="20261111080000 +0000" stop="20261111083000 +0000" channel="RAI News 24">
@@ -5885,10 +5981,10 @@
   <programme start="20261111113000 +0000" stop="20261111120000 +0000" channel="RAI News 24">
     <title>SPORT 24</title>
   </programme>
-  <programme start="20261111120000 +0000" stop="20261111122800 +0000" channel="RAI News 24">
+  <programme start="20261111120000 +0000" stop="20261111122600 +0000" channel="RAI News 24">
     <title>TITOLI + TG GIORNO</title>
   </programme>
-  <programme start="20261111122800 +0000" stop="20261111123000 +0000" channel="RAI News 24">
+  <programme start="20261111122600 +0000" stop="20261111123000 +0000" channel="RAI News 24">
     <title>METEO</title>
   </programme>
   <programme start="20261111123000 +0000" stop="20261111124000 +0000" channel="RAI News 24">
@@ -5900,22 +5996,25 @@
   <programme start="20261111130000 +0000" stop="20261111133000 +0000" channel="RAI News 24">
     <title>TITOLI + TG GIORNO</title>
   </programme>
-  <programme start="20261111133000 +0000" stop="20261111134500 +0000" channel="RAI News 24">
+  <programme start="20261111133000 +0000" stop="20261111134400 +0000" channel="RAI News 24">
     <title>SOMMARIO + TG GIORNO BREVE</title>
   </programme>
-  <programme start="20261111134500 +0000" stop="20261111140000 +0000" channel="RAI News 24">
+  <programme start="20261111134400 +0000" stop="20261111140000 +0000" channel="RAI News 24">
     <title>FOCUS 24</title>
   </programme>
-  <programme start="20261111140000 +0000" stop="20261111143000 +0000" channel="RAI News 24">
+  <programme start="20261111140000 +0000" stop="20261111142500 +0000" channel="RAI News 24">
     <title>POMERIGGIO 24</title>
+  </programme>
+  <programme start="20261111142500 +0000" stop="20261111143000 +0000" channel="RAI News 24">
+    <title>METEO 24</title>
   </programme>
   <programme start="20261111143000 +0000" stop="20261111150000 +0000" channel="RAI News 24">
     <title>POMERIGGIO 24</title>
   </programme>
-  <programme start="20261111150000 +0000" stop="20261111152700 +0000" channel="RAI News 24">
+  <programme start="20261111150000 +0000" stop="20261111152600 +0000" channel="RAI News 24">
     <title>TITOLI + TG GIORNO</title>
   </programme>
-  <programme start="20261111152700 +0000" stop="20261111153000 +0000" channel="RAI News 24">
+  <programme start="20261111152600 +0000" stop="20261111153000 +0000" channel="RAI News 24">
     <title>METEO</title>
   </programme>
   <programme start="20261111153000 +0000" stop="20261111160000 +0000" channel="RAI News 24">
@@ -5951,10 +6050,10 @@
   <programme start="20261111192600 +0000" stop="20261111193000 +0000" channel="RAI News 24">
     <title>METEO</title>
   </programme>
-  <programme start="20261111193000 +0000" stop="20261111194500 +0000" channel="RAI News 24">
+  <programme start="20261111193000 +0000" stop="20261111194400 +0000" channel="RAI News 24">
     <title>SOMMARIO + TG SERA</title>
   </programme>
-  <programme start="20261111194500 +0000" stop="20261111200000 +0000" channel="RAI News 24">
+  <programme start="20261111194400 +0000" stop="20261111200000 +0000" channel="RAI News 24">
     <title>FOCUS 24</title>
   </programme>
   <programme start="20261111200000 +0000" stop="20261111203000 +0000" channel="RAI News 24">
@@ -6104,19 +6203,19 @@
   <programme start="20261113055700 +0000" stop="20261113060000 +0000" channel="RAI News 24">
     <title>METEO</title>
   </programme>
-  <programme start="20261111001000 +0000" stop="20261111010500 +0000" channel="RAI 1">
+  <programme start="20261111003000 +0000" stop="20261111012500 +0000" channel="RAI 1">
     <title>La Nottatanza</title>
   </programme>
-  <programme start="20261111010500 +0000" stop="20261111011000 +0000" channel="RAI 1">
+  <programme start="20261111012500 +0000" stop="20261111013000 +0000" channel="RAI 1">
     <title>Che tempo fa</title>
   </programme>
-  <programme start="20261111011000 +0000" stop="20261111024000 +0000" channel="RAI 1">
+  <programme start="20261111013000 +0000" stop="20261111030000 +0000" channel="RAI 1">
     <title>Sottovoce e dintorni</title>
   </programme>
-  <programme start="20261111024000 +0000" stop="20261111032500 +0000" channel="RAI 1">
-    <title>Doc Martin 2 - Erotomania</title>
+  <programme start="20261111030000 +0000" stop="20261111034500 +0000" channel="RAI 1">
+    <title>Doc Martin 3 - On the Edge - 1^ parte</title>
   </programme>
-  <programme start="20261111032500 +0000" stop="20261111045500 +0000" channel="RAI 1">
+  <programme start="20261111034500 +0000" stop="20261111045500 +0000" channel="RAI 1">
     <title>RaiNews24</title>
   </programme>
   <programme start="20261111045500 +0000" stop="20261111052800 +0000" channel="RAI 1">
@@ -6149,7 +6248,13 @@
   <programme start="20261111080000 +0000" stop="20261111080300 +0000" channel="RAI 1">
     <title>TG 1 L.I.S.</title>
   </programme>
-  <programme start="20261111080300 +0000" stop="20261111085000 +0000" channel="RAI 1">
+  <programme start="20261111080300 +0000" stop="20261111084000 +0000" channel="RAI 1">
+    <title>UnoMattina</title>
+  </programme>
+  <programme start="20261111084000 +0000" stop="20261111084200 +0000" channel="RAI 1">
+    <title>Linea Verde Meteo Verde</title>
+  </programme>
+  <programme start="20261111084200 +0000" stop="20261111085000 +0000" channel="RAI 1">
     <title>UnoMattina</title>
   </programme>
   <programme start="20261111085000 +0000" stop="20261111105500 +0000" channel="RAI 1">
@@ -6185,29 +6290,23 @@
   <programme start="20261111193500 +0000" stop="20261111203000 +0000" channel="RAI 1">
     <title>Affari tuoi</title>
   </programme>
-  <programme start="20261111203000 +0000" stop="20261111224500 +0000" channel="RAI 1">
-    <title>Livatino, il giudice e i suoi assassini</title>
+  <programme start="20261111203000 +0000" stop="20261111231000 +0000" channel="RAI 1">
+    <title>Tale e Quale Show</title>
   </programme>
-  <programme start="20261111224500 +0000" stop="20261111225500 +0000" channel="RAI 1">
-    <title>Porta a Porta</title>
-  </programme>
-  <programme start="20261111225500 +0000" stop="20261111225900 +0000" channel="RAI 1">
+  <programme start="20261111231000 +0000" stop="20261111231500 +0000" channel="RAI 1">
     <title>TG1 Sera</title>
   </programme>
-  <programme start="20261111225900 +0000" stop="20261112003000 +0000" channel="RAI 1">
+  <programme start="20261111231500 +0000" stop="20261112010000 +0000" channel="RAI 1">
     <title>Porta a Porta</title>
   </programme>
-  <programme start="20261112003000 +0000" stop="20261112012500 +0000" channel="RAI 1">
+  <programme start="20261112010000 +0000" stop="20261112015500 +0000" channel="RAI 1">
     <title>La Nottatanza</title>
   </programme>
-  <programme start="20261112012500 +0000" stop="20261112013000 +0000" channel="RAI 1">
+  <programme start="20261112015500 +0000" stop="20261112020000 +0000" channel="RAI 1">
     <title>Che tempo fa</title>
   </programme>
-  <programme start="20261112013000 +0000" stop="20261112030000 +0000" channel="RAI 1">
-    <title>Sottovoce e dintorni</title>
-  </programme>
-  <programme start="20261112030000 +0000" stop="20261112034500 +0000" channel="RAI 1">
-    <title>Doc Martin 3 - On the Edge - 1^ parte</title>
+  <programme start="20261112020000 +0000" stop="20261112034500 +0000" channel="RAI 1">
+    <title>Tutti pazzi per amore - Strani amori - L</title>
   </programme>
   <programme start="20261112034500 +0000" stop="20261112045500 +0000" channel="RAI 1">
     <title>RaiNews24</title>
@@ -6221,20 +6320,23 @@
   <programme start="20261112053000 +0000" stop="20261112055800 +0000" channel="RAI 1">
     <title>TG1</title>
   </programme>
-  <programme start="20261112055800 +0000" stop="20261113003000 +0000" channel="RAI 1">
+  <programme start="20261112055800 +0000" stop="20261112231000 +0000" channel="RAI 1">
     <title>Che tempo fa</title>
   </programme>
-  <programme start="20261113003000 +0000" stop="20261113012500 +0000" channel="RAI 1">
+  <programme start="20261112231000 +0000" stop="20261112231500 +0000" channel="RAI 1">
+    <title>TG1 Sera</title>
+  </programme>
+  <programme start="20261112231500 +0000" stop="20261113010000 +0000" channel="RAI 1">
+    <title>Porta a Porta</title>
+  </programme>
+  <programme start="20261113010000 +0000" stop="20261113015500 +0000" channel="RAI 1">
     <title>La Nottatanza</title>
   </programme>
-  <programme start="20261113012500 +0000" stop="20261113013000 +0000" channel="RAI 1">
+  <programme start="20261113015500 +0000" stop="20261113020000 +0000" channel="RAI 1">
     <title>Che tempo fa</title>
   </programme>
-  <programme start="20261113013000 +0000" stop="20261113030000 +0000" channel="RAI 1">
-    <title>Sottovoce e dintorni</title>
-  </programme>
-  <programme start="20261113030000 +0000" stop="20261113034500 +0000" channel="RAI 1">
-    <title>Doc Martin 3 - On the Edge - 1^ parte</title>
+  <programme start="20261113020000 +0000" stop="20261113034500 +0000" channel="RAI 1">
+    <title>Tutti pazzi per amore - Strani amori - L</title>
   </programme>
   <programme start="20261113034500 +0000" stop="20261113045500 +0000" channel="RAI 1">
     <title>RaiNews24</title>
@@ -6251,20 +6353,32 @@
   <programme start="20261113055800 +0000" stop="20261113060000 +0000" channel="RAI 1">
     <title>Che tempo fa</title>
   </programme>
-  <programme start="20261111012700 +0000" stop="20261111013500 +0000" channel="RAI 2">
+  <programme start="20261111004100 +0000" stop="20261111004500 +0000" channel="RAI 2">
     <title>Meteo 2</title>
   </programme>
-  <programme start="20261111013500 +0000" stop="20261111022500 +0000" channel="RAI 2">
+  <programme start="20261111004500 +0000" stop="20261111005000 +0000" channel="RAI 2">
+    <title>Appuntamento al cinema</title>
+  </programme>
+  <programme start="20261111005000 +0000" stop="20261111014000 +0000" channel="RAI 2">
     <title>Hotel Portofino</title>
   </programme>
-  <programme start="20261111022500 +0000" stop="20261111031000 +0000" channel="RAI 2">
-    <title>Rex Gelosia</title>
+  <programme start="20261111014000 +0000" stop="20261111022500 +0000" channel="RAI 2">
+    <title>Rex Il sorriso del condannato</title>
   </programme>
-  <programme start="20261111031000 +0000" stop="20261111032000 +0000" channel="RAI 2">
+  <programme start="20261111022500 +0000" stop="20261111024000 +0000" channel="RAI 2">
+    <title>Zio Gianni Lo sfratto</title>
+  </programme>
+  <programme start="20261111024000 +0000" stop="20261111025000 +0000" channel="RAI 2">
+    <title>Impazienti - Piccolo perito - Budino - P</title>
+  </programme>
+  <programme start="20261111025000 +0000" stop="20261111030000 +0000" channel="RAI 2">
+    <title>Impazienti - San Poker - Sesto senso - I</title>
+  </programme>
+  <programme start="20261111030000 +0000" stop="20261111032000 +0000" channel="RAI 2">
     <title>Piloti</title>
   </programme>
   <programme start="20261111032000 +0000" stop="20261111041000 +0000" channel="RAI 2">
-    <title>Medici in corsia Amori giovanili</title>
+    <title>Medici in corsia Senza paura</title>
   </programme>
   <programme start="20261111041000 +0000" stop="20261111050000 +0000" channel="RAI 2">
     <title>La grande vallata</title>
@@ -6273,10 +6387,10 @@
     <title>Radio2 Social Club</title>
   </programme>
   <programme start="20261111060500 +0000" stop="20261111064500 +0000" channel="RAI 2">
-    <title>Baywatch Sfide parallele</title>
+    <title>Baywatch Luna di miele</title>
   </programme>
   <programme start="20261111064500 +0000" stop="20261111073000 +0000" channel="RAI 2">
-    <title>Baywatch Vacanze proibite</title>
+    <title>Baywatch Sotto canestro</title>
   </programme>
   <programme start="20261111073000 +0000" stop="20261111074500 +0000" channel="RAI 2">
     <title>TG2</title>
@@ -6336,10 +6450,10 @@
     <title>Meteo 2</title>
   </programme>
   <programme start="20261111180000 +0000" stop="20261111184500 +0000" channel="RAI 2">
-    <title>Blue Bloods Errore di giudizio</title>
+    <title>Blue Bloods Scavarsi la fossa</title>
   </programme>
   <programme start="20261111184500 +0000" stop="20261111193000 +0000" channel="RAI 2">
-    <title>Blue Bloods Polizia contro pompieri</title>
+    <title>Blue Bloods Misoginia</title>
   </programme>
   <programme start="20261111193000 +0000" stop="20261111200000 +0000" channel="RAI 2">
     <title>TG2 - 20.30</title>
@@ -6347,26 +6461,17 @@
   <programme start="20261111200000 +0000" stop="20261111202000 +0000" channel="RAI 2">
     <title>TG2 Post</title>
   </programme>
-  <programme start="20261111202000 +0000" stop="20261111223000 +0000" channel="RAI 2">
-    <title>Party Angels By High Life</title>
+  <programme start="20261111202000 +0000" stop="20261111235000 +0000" channel="RAI 2">
+    <title>Patù, la passione delle idee</title>
   </programme>
-  <programme start="20261111223000 +0000" stop="20261111231000 +0000" channel="RAI 2">
-    <title>Il Club - Canzoni sotto la pelle Paola I</title>
+  <programme start="20261111235000 +0000" stop="20261112013800 +0000" channel="RAI 2">
+    <title>Gli ultimi saranno ultimi</title>
   </programme>
-  <programme start="20261111231000 +0000" stop="20261112004900 +0000" channel="RAI 2">
-    <title>Appena un minuto</title>
-  </programme>
-  <programme start="20261112004900 +0000" stop="20261112005000 +0000" channel="RAI 2">
+  <programme start="20261112013800 +0000" stop="20261112014000 +0000" channel="RAI 2">
     <title>Meteo 2</title>
   </programme>
-  <programme start="20261112005000 +0000" stop="20261112005500 +0000" channel="RAI 2">
-    <title>Appuntamento al cinema</title>
-  </programme>
-  <programme start="20261112005500 +0000" stop="20261112015000 +0000" channel="RAI 2">
+  <programme start="20261112014000 +0000" stop="20261112023500 +0000" channel="RAI 2">
     <title>Hotel Portofino</title>
-  </programme>
-  <programme start="20261112015000 +0000" stop="20261112023500 +0000" channel="RAI 2">
-    <title>Rex</title>
   </programme>
   <programme start="20261112023500 +0000" stop="20261112024500 +0000" channel="RAI 2">
     <title>Zio Gianni</title>
@@ -6378,28 +6483,22 @@
     <title>Piloti</title>
   </programme>
   <programme start="20261112032000 +0000" stop="20261112041000 +0000" channel="RAI 2">
-    <title>Medici in corsia Senza paura</title>
+    <title>Medici in corsia Destino di famiglia</title>
   </programme>
   <programme start="20261112041000 +0000" stop="20261112050000 +0000" channel="RAI 2">
     <title>La grande vallata</title>
   </programme>
-  <programme start="20261112050000 +0000" stop="20261112231000 +0000" channel="RAI 2">
+  <programme start="20261112050000 +0000" stop="20261112235000 +0000" channel="RAI 2">
     <title>Radio2 Social Club</title>
   </programme>
-  <programme start="20261112231000 +0000" stop="20261113004900 +0000" channel="RAI 2">
-    <title>Appena un minuto</title>
+  <programme start="20261112235000 +0000" stop="20261113013800 +0000" channel="RAI 2">
+    <title>Gli ultimi saranno ultimi</title>
   </programme>
-  <programme start="20261113004900 +0000" stop="20261113005000 +0000" channel="RAI 2">
+  <programme start="20261113013800 +0000" stop="20261113014000 +0000" channel="RAI 2">
     <title>Meteo 2</title>
   </programme>
-  <programme start="20261113005000 +0000" stop="20261113005500 +0000" channel="RAI 2">
-    <title>Appuntamento al cinema</title>
-  </programme>
-  <programme start="20261113005500 +0000" stop="20261113015000 +0000" channel="RAI 2">
+  <programme start="20261113014000 +0000" stop="20261113023500 +0000" channel="RAI 2">
     <title>Hotel Portofino</title>
-  </programme>
-  <programme start="20261113015000 +0000" stop="20261113023500 +0000" channel="RAI 2">
-    <title>Rex</title>
   </programme>
   <programme start="20261113023500 +0000" stop="20261113024500 +0000" channel="RAI 2">
     <title>Zio Gianni</title>
@@ -6411,7 +6510,7 @@
     <title>Piloti</title>
   </programme>
   <programme start="20261113032000 +0000" stop="20261113041000 +0000" channel="RAI 2">
-    <title>Medici in corsia Senza paura</title>
+    <title>Medici in corsia Destino di famiglia</title>
   </programme>
   <programme start="20261113041000 +0000" stop="20261113050000 +0000" channel="RAI 2">
     <title>La grande vallata</title>
@@ -6425,13 +6524,13 @@
   <programme start="20261111000500 +0000" stop="20261111001500 +0000" channel="RAI 3">
     <title>TG- Magazine</title>
   </programme>
-  <programme start="20261111001500 +0000" stop="20261111010000 +0000" channel="RAI 3">
-    <title>O anche no</title>
+  <programme start="20261111001500 +0000" stop="20261111004500 +0000" channel="RAI 3">
+    <title>Protestantesimo Accanto a chi cura</title>
   </programme>
-  <programme start="20261111010000 +0000" stop="20261111013000 +0000" channel="RAI 3">
-    <title>Sorgente di vita Rubrica di vita e cultu</title>
+  <programme start="20261111004500 +0000" stop="20261111012000 +0000" channel="RAI 3">
+    <title>Sulla via di Damasco</title>
   </programme>
-  <programme start="20261111013000 +0000" stop="20261111050000 +0000" channel="RAI 3">
+  <programme start="20261111012000 +0000" stop="20261111050000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
   </programme>
   <programme start="20261111050000 +0000" stop="20261111060000 +0000" channel="RAI 3">
@@ -6465,7 +6564,7 @@
     <title>Quante storie</title>
   </programme>
   <programme start="20261111122000 +0000" stop="20261111130000 +0000" channel="RAI 3">
-    <title>Passato e Presente: L'Altare della Patri</title>
+    <title>Passato e Presente: Maurizio Valenzi da</title>
   </programme>
   <programme start="20261111130000 +0000" stop="20261111131900 +0000" channel="RAI 3">
     <title>TG Regione</title>
@@ -6491,13 +6590,10 @@
   <programme start="20261111142000 +0000" stop="20261111142500 +0000" channel="RAI 3">
     <title>Rai Parlamento Telegiornale</title>
   </programme>
-  <programme start="20261111142500 +0000" stop="20261111143500 +0000" channel="RAI 3">
-    <title>Spaziolibero</title>
+  <programme start="20261111142500 +0000" stop="20261111151000 +0000" channel="RAI 3">
+    <title>Last Cop - L'ultimo sbirro</title>
   </programme>
-  <programme start="20261111143500 +0000" stop="20261111152500 +0000" channel="RAI 3">
-    <title>Filorosso</title>
-  </programme>
-  <programme start="20261111152500 +0000" stop="20261111160000 +0000" channel="RAI 3">
+  <programme start="20261111151000 +0000" stop="20261111160000 +0000" channel="RAI 3">
     <title>Aspettando Geo</title>
   </programme>
   <programme start="20261111160000 +0000" stop="20261111180000 +0000" channel="RAI 3">
@@ -6525,7 +6621,7 @@
     <title>Un posto al sole</title>
   </programme>
   <programme start="20261111201500 +0000" stop="20261111230000 +0000" channel="RAI 3">
-    <title>Filorosso</title>
+    <title>Chi l'ha visto?</title>
   </programme>
   <programme start="20261111230000 +0000" stop="20261112000000 +0000" channel="RAI 3">
     <title>TG3 Linea Notte</title>
@@ -6536,13 +6632,16 @@
   <programme start="20261112000500 +0000" stop="20261112001500 +0000" channel="RAI 3">
     <title>TG- Magazine</title>
   </programme>
-  <programme start="20261112001500 +0000" stop="20261112004500 +0000" channel="RAI 3">
+  <programme start="20261112001500 +0000" stop="20261112002500 +0000" channel="RAI 3">
+    <title>sVista</title>
+  </programme>
+  <programme start="20261112002500 +0000" stop="20261112005500 +0000" channel="RAI 3">
     <title>Protestantesimo Accanto a chi cura</title>
   </programme>
-  <programme start="20261112004500 +0000" stop="20261112012000 +0000" channel="RAI 3">
+  <programme start="20261112005500 +0000" stop="20261112013000 +0000" channel="RAI 3">
     <title>Sulla via di Damasco</title>
   </programme>
-  <programme start="20261112012000 +0000" stop="20261112050000 +0000" channel="RAI 3">
+  <programme start="20261112013000 +0000" stop="20261112050000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
   </programme>
   <programme start="20261112050000 +0000" stop="20261112230000 +0000" channel="RAI 3">
@@ -6557,107 +6656,113 @@
   <programme start="20261113000500 +0000" stop="20261113001500 +0000" channel="RAI 3">
     <title>TG- Magazine</title>
   </programme>
-  <programme start="20261113001500 +0000" stop="20261113004500 +0000" channel="RAI 3">
+  <programme start="20261113001500 +0000" stop="20261113002500 +0000" channel="RAI 3">
+    <title>sVista</title>
+  </programme>
+  <programme start="20261113002500 +0000" stop="20261113005500 +0000" channel="RAI 3">
     <title>Protestantesimo Accanto a chi cura</title>
   </programme>
-  <programme start="20261113004500 +0000" stop="20261113012000 +0000" channel="RAI 3">
+  <programme start="20261113005500 +0000" stop="20261113013000 +0000" channel="RAI 3">
     <title>Sulla via di Damasco</title>
   </programme>
-  <programme start="20261113012000 +0000" stop="20261113050000 +0000" channel="RAI 3">
+  <programme start="20261113013000 +0000" stop="20261113050000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
   </programme>
   <programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
   </programme>
+  <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="QVC IT">
+    <title>In Cucina insieme a KitchenAid</title>
+  </programme>
+  <programme start="20261111080000 +0000" stop="20261111090000 +0000" channel="QVC IT">
+    <title>Missha Medicube Biodance la tua k-beauty</title>
+  </programme>
   <programme start="20261111090000 +0000" stop="20261111100000 +0000" channel="QVC IT">
-    <title>In Cucina insieme a Severin</title>
+    <title>Aimee Kestenberg, bag couture</title>
   </programme>
-  <programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="QVC IT">
-    <title>Motivi, valorizza la tua femminilita'</title>
-  </programme>
-  <programme start="20261111110000 +0000" stop="20261111120000 +0000" channel="QVC IT">
-    <title>Westland, original outerwear</title>
+  <programme start="20261111100000 +0000" stop="20261111120000 +0000" channel="QVC IT">
+    <title>In Cucina insieme a KitchenAid</title>
   </programme>
   <programme start="20261111120000 +0000" stop="20261111130000 +0000" channel="QVC IT">
-    <title>Dyson, tecnologia ed innovazione</title>
+    <title>E' tutta un'altra casa con Midea</title>
   </programme>
   <programme start="20261111130000 +0000" stop="20261111140000 +0000" channel="QVC IT">
-    <title>Sanagens, benessere in un paio di scarpe</title>
+    <title>Kitchen Aid, all'altezza dei grandi chef</title>
   </programme>
   <programme start="20261111140000 +0000" stop="20261111150000 +0000" channel="QVC IT">
-    <title>In Cucina insieme a Severin</title>
+    <title>Aimee Kestenberg, bag couture</title>
   </programme>
   <programme start="20261111150000 +0000" stop="20261111160000 +0000" channel="QVC IT">
-    <title>L'Una, stile comfort per sentirsi unica</title>
+    <title>Missha Medicube Biodance la tua k-beauty</title>
   </programme>
   <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="QVC IT">
-    <title>Westland, original outerwear</title>
+    <title>In Cucina insieme a KitchenAid</title>
   </programme>
   <programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="QVC IT">
-    <title>Bievisan Integrazione polivalente</title>
+    <title>Apricot, London style con fantasia</title>
   </programme>
   <programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="QVC IT">
-    <title>In Cucina insieme a Severin</title>
+    <title>Aimee Kestenberg, bag couture</title>
   </programme>
   <programme start="20261111190000 +0000" stop="20261111210000 +0000" channel="QVC IT">
-    <title>Adesso e' Moda</title>
+    <title>In Cucina insieme a KitchenAid</title>
   </programme>
   <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="QVC IT">
-    <title>Vesti la tua casa con Dondi Home</title>
+    <title>SBC: la tua naturale bellezza</title>
   </programme>
   <programme start="20261111220000 +0000" stop="20261111230000 +0000" channel="QVC IT">
-    <title>Turboline, al servizio della casa</title>
+    <title>Best of event</title>
   </programme>
   <programme start="20261111230000 +0000" stop="20261112070000 +0000" channel="QVC IT">
-    <title>E' tutta un'altra casa con iRobot</title>
+    <title>AeroPilates, allenamento mente e corpo</title>
   </programme>
-  <programme start="20261112070000 +0000" stop="20261112080000 +0000" channel="QVC IT">
-    <title>Vesti la tua casa con Dondi Home</title>
-  </programme>
-  <programme start="20261112080000 +0000" stop="20261112090000 +0000" channel="QVC IT">
-    <title>Vesti la tua casa con Dondi Home</title>
+  <programme start="20261112070000 +0000" stop="20261112090000 +0000" channel="QVC IT">
+    <title>Oltre, la moda parla di te</title>
   </programme>
   <programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="QVC IT">
-    <title>Fiorella Rubino, si', la moda e' un plus</title>
+    <title>In cucina con Peccatucci di mamma Andrea</title>
   </programme>
   <programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="QVC IT">
-    <title>No Limits, moda che ama lo sport</title>
+    <title>Renpho, il benessere e' smart</title>
   </programme>
   <programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="QVC IT">
-    <title>Vesti la tua casa con Dondi Home</title>
+    <title>Oltre, la moda parla di te</title>
   </programme>
   <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="QVC IT">
-    <title>No Limits, moda che ama lo sport</title>
+    <title>E' tutta un'altra casa con Philips</title>
   </programme>
   <programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="QVC IT">
-    <title>Appuntamento in Cucina</title>
+    <title>Circles, nuova era di benessere</title>
   </programme>
   <programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="QVC IT">
-    <title>Fiorella Rubino, si', la moda e' un plus</title>
+    <title>Oltre, la moda parla di te</title>
   </programme>
   <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="QVC IT">
-    <title>In cucina con Lindt</title>
+    <title>E' tutta un'altra casa con Philips</title>
   </programme>
   <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="QVC IT">
-    <title>Vesti la tua casa con Dondi Home</title>
+    <title>In cucina con Peccatucci di mamma Andrea</title>
   </programme>
   <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="QVC IT">
-    <title>Reflower Una rinascita di benessere</title>
+    <title>Doctors Formula, soluzioni per la pelle</title>
   </programme>
   <programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="QVC IT">
-    <title>Vesti la tua casa con Dondi Home</title>
+    <title>Oltre, la moda parla di te</title>
   </programme>
   <programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="QVC IT">
-    <title>SmoothSkin Luce pulsata, pelle come seta</title>
+    <title>E' tutta un'altra casa con Philips</title>
   </programme>
   <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="QVC IT">
-    <title>Fiorella Rubino, si', la moda e' un plus</title>
+    <title>In cucina con Peccatucci di mamma Andrea</title>
   </programme>
   <programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="QVC IT">
-    <title>E' tutta un'altra casa con iRobot</title>
+    <title>AeroPilates, allenamento mente e corpo</title>
   </programme>
-  <programme start="20261112220000 +0000" stop="20261112225900 +0000" channel="QVC IT">
+  <programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="QVC IT">
     <title>Best of the day</title>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261113070000 +0000" channel="QVC IT">
+    <title>In cucina con De'Longhi</title>
   </programme>
   <programme start="20261111010000 +0000" stop="20261111043000 +0000" channel="One MT">
     <title>Trażmissjoni matul il-lejl</title>
@@ -7076,6 +7181,21 @@
   <programme start="20261112221500 +0000" stop="20261112235000 +0000" channel="TVE Internacional">
     <title>El perro andaluz by manu sanchez</title>
   </programme>
+  <programme start="20261112235000 +0000" stop="20261113003500 +0000" channel="TVE Internacional">
+    <title>Sukha</title>
+  </programme>
+  <programme start="20261113003500 +0000" stop="20261113030500 +0000" channel="TVE Internacional">
+    <title>La noche en 24h</title>
+  </programme>
+  <programme start="20261113030500 +0000" stop="20261113043000 +0000" channel="TVE Internacional">
+    <title>Noticias 24h</title>
+  </programme>
+  <programme start="20261113043000 +0000" stop="20261113053000 +0000" channel="TVE Internacional">
+    <title>Universo uned</title>
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113065000 +0000" channel="TVE Internacional">
+    <title>Telediario matinal</title>
+  </programme>
   <programme start="20261111000500 +0000" stop="20261111010000 +0000" channel="Channel 5">
     <title>Police 999: Clear And Present Danger</title>
   </programme>
@@ -7398,7 +7518,7 @@
     <title>Cruise TV with LoveitBookit</title>
   </programme>
   <programme start="20261111080000 +0000" stop="20261111090000 +0000" channel="5ACTION">
-    <title>Cruise TV with LoveitBookit</title>
+    <title>New: Cruise TV with LoveitBookit</title>
   </programme>
   <programme start="20261111090000 +0000" stop="20261111092500 +0000" channel="5ACTION">
     <title>Car Pound Cops</title>
@@ -7482,7 +7602,7 @@
     <title>Cruise TV with LoveitBookit</title>
   </programme>
   <programme start="20261112080000 +0000" stop="20261112090000 +0000" channel="5ACTION">
-    <title>Cruise TV with LoveitBookit</title>
+    <title>New: Cruise TV with LoveitBookit</title>
   </programme>
   <programme start="20261112090000 +0000" stop="20261112091500 +0000" channel="5ACTION">
     <title>Entertainment News on 5</title>
@@ -7493,25 +7613,25 @@
   <programme start="20261112101500 +0000" stop="20261112111500 +0000" channel="5ACTION">
     <title>Police Interceptors</title>
   </programme>
-  <programme start="20261112111500 +0000" stop="20261112121500 +0000" channel="5ACTION">
+  <programme start="20261112111500 +0000" stop="20261112122000 +0000" channel="5ACTION">
     <title>Police Interceptors</title>
   </programme>
-  <programme start="20261112121500 +0000" stop="20261112131500 +0000" channel="5ACTION">
+  <programme start="20261112122000 +0000" stop="20261112132000 +0000" channel="5ACTION">
     <title>A Man Alone</title>
   </programme>
-  <programme start="20261112131500 +0000" stop="20261112132000 +0000" channel="5ACTION">
+  <programme start="20261112132000 +0000" stop="20261112132500 +0000" channel="5ACTION">
     <title>Entertainment News on 5</title>
   </programme>
-  <programme start="20261112132000 +0000" stop="20261112141500 +0000" channel="5ACTION">
+  <programme start="20261112132500 +0000" stop="20261112142000 +0000" channel="5ACTION">
     <title>A Man Alone</title>
   </programme>
-  <programme start="20261112141500 +0000" stop="20261112151500 +0000" channel="5ACTION">
+  <programme start="20261112142000 +0000" stop="20261112152000 +0000" channel="5ACTION">
     <title>Four Fast Guns</title>
   </programme>
-  <programme start="20261112151500 +0000" stop="20261112152000 +0000" channel="5ACTION">
+  <programme start="20261112152000 +0000" stop="20261112152500 +0000" channel="5ACTION">
     <title>Entertainment News on 5</title>
   </programme>
-  <programme start="20261112152000 +0000" stop="20261112160000 +0000" channel="5ACTION">
+  <programme start="20261112152500 +0000" stop="20261112160000 +0000" channel="5ACTION">
     <title>Four Fast Guns</title>
   </programme>
   <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="5ACTION">
@@ -7764,7 +7884,7 @@
     <title>Business Today</title>
   </programme>
   <programme start="20261111034500 +0000" stop="20261111040000 +0000" channel="BBC News">
-    <title>Asia Specific</title>
+    <title>Asia Specific: What's Next for...</title>
   </programme>
   <programme start="20261111040000 +0000" stop="20261111043000 +0000" channel="BBC News">
     <title>Newsday</title>
@@ -8052,7 +8172,7 @@
     <title>BBC News</title>
   </programme>
   <programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="BBC News">
-    <title>The Interface</title>
+    <title>The Big Cases: The Downfall of Russell Brand</title>
   </programme>
   <programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="BBC News">
     <title>Newsday</title>
@@ -8705,7 +8825,7 @@
   <programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="GB News">
     <title>Patrick Christys Tonight Late...</title>
   </programme>
-  <programme start="20261111003500 +0000" stop="20261111030000 +0000" channel="ITV1">
+  <programme start="20261111004500 +0000" stop="20261111030000 +0000" channel="ITV1">
     <title>Shop on TV</title>
   </programme>
   <programme start="20261111030000 +0000" stop="20261111035000 +0000" channel="ITV1">
@@ -9030,7 +9150,7 @@
     <title>Gifting Spectacle on Free Delivery</title>
   </programme>
   <programme start="20261111120000 +0000" stop="20261111130000 +0000" channel="QVC">
-    <title>Monsoon</title>
+    <title>Up to 30% off Monsoon</title>
   </programme>
   <programme start="20261111130000 +0000" stop="20261111140000 +0000" channel="QVC">
     <title>Gifts for Family and Friends</title>
@@ -9039,7 +9159,7 @@
     <title>EMU Footwear</title>
   </programme>
   <programme start="20261111150000 +0000" stop="20261111160000 +0000" channel="QVC">
-    <title>Monsoon</title>
+    <title>Up to 30% off Monsoon</title>
   </programme>
   <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="QVC">
     <title>NEOM Wellbeing London Gifts</title>
@@ -9096,7 +9216,7 @@
     <title>Studio 10 Cosmetics Gifts</title>
   </programme>
   <programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="QVC">
-    <title>Seasalt Cornwall Fashion</title>
+    <title>Up to 30% Off Seasalt Cornwall Fashion</title>
   </programme>
   <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="QVC">
     <title>Bundleberry by Amanda Holden</title>
@@ -9180,7 +9300,7 @@
     <title>Must Have Beauty Gifts</title>
   </programme>
   <programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="QVC Beauty">
-    <title>QVC Selection</title>
+    <title>Beauty Tool Gifts</title>
   </programme>
   <programme start="20261111110000 +0000" stop="20261111120000 +0000" channel="QVC Beauty">
     <title>Beauty Offers Spectacular</title>
@@ -9198,10 +9318,10 @@
     <title>Beauty Gift Ideas</title>
   </programme>
   <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="QVC Beauty">
-    <title>Scandinavian BioLabs</title>
+    <title>Liz Earle Botanical Christmas Gift</title>
   </programme>
   <programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="QVC Beauty">
-    <title>Shay &amp; Blue Boutique Gifts</title>
+    <title>Gift Ideas with L'Occitane</title>
   </programme>
   <programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="QVC Beauty">
     <title>Laura Geller Make-Up Gifts</title>
@@ -9210,7 +9330,7 @@
     <title>Best of Beauty Gifts</title>
   </programme>
   <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="QVC Beauty">
-    <title>QVC Selection</title>
+    <title>Beauty Tool Gifts</title>
   </programme>
   <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="QVC Beauty">
     <title>Liz Earle Botanical Christmas Gift</title>
@@ -9222,94 +9342,94 @@
     <title>Beauty Gift Ideas</title>
   </programme>
   <programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Must Have Beauty Gifts</title>
   </programme>
   <programme start="20261112010000 +0000" stop="20261112020000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>M. Asam Beauty Is Our Tradition</title>
   </programme>
   <programme start="20261112020000 +0000" stop="20261112030000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Elemis The Gift Of Great Skin</title>
   </programme>
   <programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Prai Beauty</title>
   </programme>
   <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Best of Beauty Gifts</title>
   </programme>
   <programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Shay &amp; Blue Boutique Gifts</title>
   </programme>
   <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>All New Beauty Gifts of the Season</title>
   </programme>
   <programme start="20261112070000 +0000" stop="20261112080000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Dyson Haircare</title>
   </programme>
   <programme start="20261112080000 +0000" stop="20261112090000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Beauty Gift Ideas</title>
   </programme>
   <programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Must Have Beauty Gifts</title>
   </programme>
   <programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>QVC Selection</title>
   </programme>
   <programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Beauty Offers Spectacular</title>
   </programme>
   <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Laura Geller Make-Up Gifts</title>
   </programme>
   <programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>All New Beauty Gifts of the Season</title>
   </programme>
   <programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Best of Beauty Gifts</title>
   </programme>
   <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Beauty Gift Ideas</title>
   </programme>
   <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>NEOM Wellbeing London Gifts</title>
   </programme>
   <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Gift Ideas with L'Occitane</title>
   </programme>
   <programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Molton Brown Indulgent Gifts</title>
   </programme>
   <programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Best of Beauty Gifts</title>
   </programme>
   <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>QVC Selection</title>
   </programme>
   <programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Liz Earle Botanical Christmas Gift</title>
   </programme>
   <programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Gatineau Beauty Gifts</title>
   </programme>
   <programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Beauty Gift Ideas</title>
   </programme>
   <programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Must Have Beauty Gifts</title>
   </programme>
   <programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>M. Asam Beauty Is Our Tradition</title>
   </programme>
   <programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Elemis The Gift Of Great Skin</title>
   </programme>
   <programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Prai Beauty</title>
   </programme>
   <programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Best of Beauty Gifts</title>
   </programme>
   <programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="QVC Beauty">
-    <title>Best Of QVC Beauty</title>
+    <title>Shay &amp; Blue Boutique Gifts</title>
   </programme>
   <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="QVC Extra">
     <title>Top Tech Gifts for Everyone</title>
@@ -9330,7 +9450,7 @@
     <title>Best of QVC Christmas</title>
   </programme>
   <programme start="20261111060000 +0000" stop="20261111070000 +0000" channel="QVC Extra">
-    <title>Practical Gifts</title>
+    <title>Christmas with Hotel Chocolat</title>
   </programme>
   <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="QVC Extra">
     <title>Festive Food Favourites</title>
@@ -9342,7 +9462,7 @@
     <title>Festive Culinary Gifts</title>
   </programme>
   <programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="QVC Extra">
-    <title>Christmas Gift Ideas</title>
+    <title>QVC Christmas</title>
   </programme>
   <programme start="20261111110000 +0000" stop="20261111120000 +0000" channel="QVC Extra">
     <title>Cozee Home Gifts</title>
@@ -9384,115 +9504,115 @@
     <title>Gifting Spectacle on Free Delivery</title>
   </programme>
   <programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Practical Gifts</title>
   </programme>
   <programme start="20261112010000 +0000" stop="20261112020000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Practical Gifts</title>
   </programme>
   <programme start="20261112020000 +0000" stop="20261112030000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Beauty Gift Ideas</title>
   </programme>
   <programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Beauty Gift Ideas</title>
   </programme>
   <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Beauty Gift Ideas</title>
   </programme>
   <programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Best of QVC Christmas</title>
   </programme>
   <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>New In: Nostalgic Christmas Shop</title>
   </programme>
   <programme start="20261112070000 +0000" stop="20261112080000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>EMU Footwear</title>
   </programme>
   <programme start="20261112080000 +0000" stop="20261112090000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Gifts for Family and Friends</title>
   </programme>
   <programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Swarovski Gifts</title>
   </programme>
   <programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>QVC Christmas</title>
   </programme>
   <programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Cozee Home Gifts</title>
   </programme>
   <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Christmas with Hotel Chocolat</title>
   </programme>
   <programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Best of QVC Christmas</title>
   </programme>
   <programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Top Tech Gifts for Everyone</title>
   </programme>
   <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>A Taste of Christmas</title>
   </programme>
   <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Christmas Gift Ideas</title>
   </programme>
   <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Cozee Home</title>
   </programme>
   <programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="QVC Extra">
     <title>Best of QVC Extra</title>
   </programme>
   <programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Gifts for Family and Friends</title>
   </programme>
   <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Festive Culinary Gifts</title>
   </programme>
   <programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Adesso Footwear</title>
   </programme>
   <programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Hotel Chocolat</title>
   </programme>
   <programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Christmas Gifts with Lindt</title>
   </programme>
   <programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Top Tech Gifts for Everyone</title>
   </programme>
   <programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Practical Gifts</title>
   </programme>
   <programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>The Jewellery Box with Diamonique</title>
   </programme>
   <programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>The Jewellery Box with Diamonique</title>
   </programme>
   <programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>The Jewellery Box with Diamonique</title>
   </programme>
   <programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="QVC Extra">
-    <title>Best of QVC Extra</title>
+    <title>Best of QVC Christmas</title>
   </programme>
   <programme start="20261111000000 +0000" stop="20261111010000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Ben de Lisi</title>
   </programme>
   <programme start="20261111010000 +0000" stop="20261111020000 +0000" channel="QVC Style">
-    <title>Lara Pearls Collection</title>
-  </programme>
-  <programme start="20261111020000 +0000" stop="20261111030000 +0000" channel="QVC Style">
-    <title>Fashion on Friday with Julia</title>
-  </programme>
-  <programme start="20261111030000 +0000" stop="20261111040000 +0000" channel="QVC Style">
     <title>Denim &amp; Co</title>
   </programme>
-  <programme start="20261111040000 +0000" stop="20261111050000 +0000" channel="QVC Style">
+  <programme start="20261111020000 +0000" stop="20261111030000 +0000" channel="QVC Style">
     <title>Skechers Footwear</title>
   </programme>
-  <programme start="20261111050000 +0000" stop="20261111060000 +0000" channel="QVC Style">
+  <programme start="20261111030000 +0000" stop="20261111040000 +0000" channel="QVC Style">
+    <title>Menswear Collection</title>
+  </programme>
+  <programme start="20261111040000 +0000" stop="20261111050000 +0000" channel="QVC Style">
     <title>Ruth Langsford Fashion</title>
   </programme>
-  <programme start="20261111060000 +0000" stop="20261111070000 +0000" channel="QVC Style">
+  <programme start="20261111050000 +0000" stop="20261111060000 +0000" channel="QVC Style">
     <title>Chinti &amp; Parker Fashion</title>
+  </programme>
+  <programme start="20261111060000 +0000" stop="20261111070000 +0000" channel="QVC Style">
+    <title>Kim &amp; Co</title>
   </programme>
   <programme start="20261111070000 +0000" stop="20261111080000 +0000" channel="QVC Style">
     <title>Accessories by Kipling</title>
@@ -9501,19 +9621,19 @@
     <title>The Fashion Edit with Caroline</title>
   </programme>
   <programme start="20261111090000 +0000" stop="20261111100000 +0000" channel="QVC Style">
-    <title>Vero Moda Clothing</title>
+    <title>Bronx Footwear</title>
   </programme>
   <programme start="20261111100000 +0000" stop="20261111110000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Accessory Gifts by Kipling</title>
   </programme>
   <programme start="20261111110000 +0000" stop="20261111120000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>ICHI: Celebrate in Style</title>
   </programme>
   <programme start="20261111120000 +0000" stop="20261111130000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Perfect Gifts For Him</title>
   </programme>
   <programme start="20261111130000 +0000" stop="20261111140000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Kim &amp; Co</title>
   </programme>
   <programme start="20261111140000 +0000" stop="20261111150000 +0000" channel="QVC Style">
     <title>Camper Shoes</title>
@@ -9522,73 +9642,73 @@
     <title>Finery London</title>
   </programme>
   <programme start="20261111160000 +0000" stop="20261111170000 +0000" channel="QVC Style">
-    <title>High Street New to Sale</title>
+    <title>Up to 30% off High Street Fashion</title>
   </programme>
   <programme start="20261111170000 +0000" stop="20261111180000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Accessory Gifts by Kipling</title>
   </programme>
   <programme start="20261111180000 +0000" stop="20261111190000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Denim &amp; Co</title>
   </programme>
   <programme start="20261111190000 +0000" stop="20261111200000 +0000" channel="QVC Style">
     <title>Camper Shoes</title>
   </programme>
   <programme start="20261111200000 +0000" stop="20261111210000 +0000" channel="QVC Style">
-    <title>VILA Clothing</title>
+    <title>Finery London</title>
   </programme>
   <programme start="20261111210000 +0000" stop="20261111220000 +0000" channel="QVC Style">
-    <title>New Season East Clothing</title>
+    <title>Up to 30% off High Street Fashion</title>
   </programme>
   <programme start="20261111220000 +0000" stop="20261111230000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Kim &amp; Co</title>
   </programme>
   <programme start="20261111230000 +0000" stop="20261112000000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>The Jewellery Box</title>
   </programme>
   <programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>EMU Footwear</title>
   </programme>
   <programme start="20261112010000 +0000" stop="20261112020000 +0000" channel="QVC Style">
-    <title>Denim &amp; Co</title>
-  </programme>
-  <programme start="20261112020000 +0000" stop="20261112030000 +0000" channel="QVC Style">
-    <title>Skechers Footwear</title>
-  </programme>
-  <programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="QVC Style">
     <title>Ruth Langsford Fashion</title>
   </programme>
-  <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="QVC Style">
+  <programme start="20261112020000 +0000" stop="20261112030000 +0000" channel="QVC Style">
     <title>Chinti &amp; Parker Fashion</title>
   </programme>
-  <programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="QVC Style">
+  <programme start="20261112030000 +0000" stop="20261112040000 +0000" channel="QVC Style">
+    <title>Kim &amp; Co</title>
+  </programme>
+  <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="QVC Style">
     <title>Accessories by Kipling</title>
   </programme>
-  <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="QVC Style">
+  <programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="QVC Style">
     <title>The Fashion Edit with Caroline</title>
+  </programme>
+  <programme start="20261112060000 +0000" stop="20261112070000 +0000" channel="QVC Style">
+    <title>Bronx Footwear</title>
   </programme>
   <programme start="20261112070000 +0000" stop="20261112080000 +0000" channel="QVC Style">
     <title>Vero Moda Clothing</title>
   </programme>
   <programme start="20261112080000 +0000" stop="20261112090000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>New Season Compania Fantastica</title>
   </programme>
   <programme start="20261112090000 +0000" stop="20261112100000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>ONLY Fashion</title>
   </programme>
   <programme start="20261112100000 +0000" stop="20261112110000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Morning Style with Katy</title>
   </programme>
   <programme start="20261112110000 +0000" stop="20261112120000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Ben de Lisi</title>
   </programme>
   <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>EMU Footwear</title>
   </programme>
   <programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Monsoon</title>
   </programme>
   <programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Up to 30% off Monsoon Sale</title>
   </programme>
   <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="QVC Style">
     <title>EMU Footwear</title>
@@ -9597,13 +9717,13 @@
     <title>Loungewear</title>
   </programme>
   <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Ben de Lisi</title>
   </programme>
   <programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Swarovski Gifts</title>
   </programme>
   <programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="QVC Style">
-    <title>JDY Fashion</title>
+    <title>Monsoon</title>
   </programme>
   <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="QVC Style">
     <title>EMU Footwear</title>
@@ -9612,27 +9732,27 @@
     <title>Loungewear</title>
   </programme>
   <programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Monsoon</title>
   </programme>
   <programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>ONLY Fashion</title>
   </programme>
   <programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>ICHI: Celebrate in Style</title>
   </programme>
   <programme start="20261113010000 +0000" stop="20261113020000 +0000" channel="QVC Style">
-    <title>Ruth Langsford Fashion</title>
-  </programme>
-  <programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="QVC Style">
-    <title>Chinti &amp; Parker Fashion</title>
-  </programme>
-  <programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="QVC Style">
     <title>Accessories by Kipling</title>
   </programme>
-  <programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="QVC Style">
+  <programme start="20261113020000 +0000" stop="20261113030000 +0000" channel="QVC Style">
     <title>The Fashion Edit with Caroline</title>
   </programme>
-  <programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="QVC Style">
+  <programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="QVC Style">
+    <title>Bronx Footwear</title>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="QVC Style">
     <title>Vero Moda Clothing</title>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113060000 +0000" channel="QVC Style">
+    <title>New Season Compania Fantastica</title>
   </programme>
 </tv>
