@@ -12,6 +12,10 @@
     <display-name>RUV 2</display-name>
     <icon src="https://images.open-epg.com/25517333.png" />
   </channel>
+  <channel id="TVE Internacional">
+    <display-name>TVE Internacional</display-name>
+    <icon src="https://images.open-epg.com/17656.png" />
+  </channel>
   <channel id="TG4">
     <display-name>TG4</display-name>
     <icon src="https://images.open-epg.com/x903.png" />
@@ -71,10 +75,6 @@
   <channel id="QVC Style">
     <display-name>QVC Style</display-name>
     <icon src="https://images.open-epg.com/21626.png" />
-  </channel>
-  <channel id="TVE Internacional">
-    <display-name>TVE Internacional</display-name>
-    <icon src="https://images.open-epg.com/17656.png" />
   </channel>
   <channel id="Canale 5">
     <display-name>Canale 5</display-name>
@@ -235,7 +235,7 @@
     <title>Le direct BFMTV</title>
   </programme>
   <programme start="20261121050000 +0000" stop="20261121090000 +0000" channel="BFM TV">
-    <title>BFM Première week-end</title>
+    <title>Week-end première</title>
   </programme>
   <programme start="20261119000200 +0000" stop="20261119000800 +0000" channel="CNEWS">
     <title>La sélection</title>
@@ -309,19 +309,19 @@
   <programme start="20261119032800 +0000" stop="20261119035000 +0000" channel="CNEWS">
     <title>Edition de la nuit</title>
   </programme>
-  <programme start="20261119035000 +0000" stop="20261119035800 +0000" channel="CNEWS">
+  <programme start="20261119035000 +0000" stop="20261119035200 +0000" channel="CNEWS">
     <title>La sélection</title>
   </programme>
-  <programme start="20261119035800 +0000" stop="20261119035900 +0000" channel="CNEWS">
+  <programme start="20261119035200 +0000" stop="20261119035400 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261119035900 +0000" stop="20261119042500 +0000" channel="CNEWS">
+  <programme start="20261119035400 +0000" stop="20261119042200 +0000" channel="CNEWS">
     <title>Edition de la nuit</title>
   </programme>
-  <programme start="20261119042500 +0000" stop="20261119042600 +0000" channel="CNEWS">
+  <programme start="20261119042200 +0000" stop="20261119042400 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261119042600 +0000" stop="20261119045200 +0000" channel="CNEWS">
+  <programme start="20261119042400 +0000" stop="20261119045200 +0000" channel="CNEWS">
     <title>Edition de la nuit</title>
   </programme>
   <programme start="20261119045200 +0000" stop="20261119045400 +0000" channel="CNEWS">
@@ -333,10 +333,10 @@
   <programme start="20261119045700 +0000" stop="20261119045800 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261119045800 +0000" stop="20261119075000 +0000" channel="CNEWS">
+  <programme start="20261119045800 +0000" stop="20261119074800 +0000" channel="CNEWS">
     <title>La matinale</title>
   </programme>
-  <programme start="20261119075000 +0000" stop="20261119075800 +0000" channel="CNEWS">
+  <programme start="20261119074800 +0000" stop="20261119075800 +0000" channel="CNEWS">
     <title>Météo 9h</title>
   </programme>
   <programme start="20261119075800 +0000" stop="20261119095700 +0000" channel="CNEWS">
@@ -354,19 +354,19 @@
   <programme start="20261119115900 +0000" stop="20261119135300 +0000" channel="CNEWS">
     <title>Police Justice 24H en France</title>
   </programme>
-  <programme start="20261119135300 +0000" stop="20261119135500 +0000" channel="CNEWS">
+  <programme start="20261119135300 +0000" stop="20261119135600 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261119135500 +0000" stop="20261119135700 +0000" channel="CNEWS">
+  <programme start="20261119135600 +0000" stop="20261119135700 +0000" channel="CNEWS">
     <title>C'est fait en France</title>
   </programme>
   <programme start="20261119135700 +0000" stop="20261119135900 +0000" channel="CNEWS">
     <title>L'éphéméride</title>
   </programme>
-  <programme start="20261119135900 +0000" stop="20261119152700 +0000" channel="CNEWS">
+  <programme start="20261119135900 +0000" stop="20261119152600 +0000" channel="CNEWS">
     <title>L'Info de Vilno</title>
   </programme>
-  <programme start="20261119152700 +0000" stop="20261119152900 +0000" channel="CNEWS">
+  <programme start="20261119152600 +0000" stop="20261119152900 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
   <programme start="20261119152900 +0000" stop="20261119155200 +0000" channel="CNEWS">
@@ -378,46 +378,49 @@
   <programme start="20261119155700 +0000" stop="20261119155900 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261119155900 +0000" stop="20261119172900 +0000" channel="CNEWS">
+  <programme start="20261119155900 +0000" stop="20261119173000 +0000" channel="CNEWS">
     <title>Punchline</title>
   </programme>
-  <programme start="20261119172900 +0000" stop="20261119175900 +0000" channel="CNEWS">
+  <programme start="20261119173000 +0000" stop="20261119175900 +0000" channel="CNEWS">
     <title>Face à l'Info Le 18H30</title>
   </programme>
   <programme start="20261119175900 +0000" stop="20261119190600 +0000" channel="CNEWS">
     <title>Face à l'info</title>
   </programme>
-  <programme start="20261119190600 +0000" stop="20261119200600 +0000" channel="CNEWS">
+  <programme start="20261119190600 +0000" stop="20261119200500 +0000" channel="CNEWS">
     <title>L'heure des Pros 2</title>
   </programme>
-  <programme start="20261119200600 +0000" stop="20261119215900 +0000" channel="CNEWS">
+  <programme start="20261119200500 +0000" stop="20261119204000 +0000" channel="CNEWS">
+    <title>Policiers : Martyrs de la République</title>
+  </programme>
+  <programme start="20261119204000 +0000" stop="20261119215900 +0000" channel="CNEWS">
     <title>100% Politique</title>
   </programme>
-  <programme start="20261119215900 +0000" stop="20261119232000 +0000" channel="CNEWS">
+  <programme start="20261119215900 +0000" stop="20261119232300 +0000" channel="CNEWS">
     <title>Soir Info</title>
   </programme>
-  <programme start="20261119232000 +0000" stop="20261119232800 +0000" channel="CNEWS">
+  <programme start="20261119232300 +0000" stop="20261119232800 +0000" channel="CNEWS">
     <title>C avec le sourire !</title>
   </programme>
   <programme start="20261119232800 +0000" stop="20261119232900 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261119232900 +0000" stop="20261119235100 +0000" channel="CNEWS">
+  <programme start="20261119232900 +0000" stop="20261119235200 +0000" channel="CNEWS">
     <title>Edition de la nuit</title>
   </programme>
-  <programme start="20261119235100 +0000" stop="20261120000100 +0000" channel="CNEWS">
+  <programme start="20261119235200 +0000" stop="20261120000300 +0000" channel="CNEWS">
     <title>L'heure des livres</title>
   </programme>
-  <programme start="20261120000100 +0000" stop="20261120000900 +0000" channel="CNEWS">
+  <programme start="20261120000300 +0000" stop="20261120001000 +0000" channel="CNEWS">
     <title>La sélection</title>
   </programme>
-  <programme start="20261120000900 +0000" stop="20261120001000 +0000" channel="CNEWS">
+  <programme start="20261120001000 +0000" stop="20261120001100 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261120001000 +0000" stop="20261120003600 +0000" channel="CNEWS">
+  <programme start="20261120001100 +0000" stop="20261120003700 +0000" channel="CNEWS">
     <title>Edition de la nuit</title>
   </programme>
-  <programme start="20261120003600 +0000" stop="20261120003800 +0000" channel="CNEWS">
+  <programme start="20261120003700 +0000" stop="20261120003800 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
   <programme start="20261120003800 +0000" stop="20261120010000 +0000" channel="CNEWS">
@@ -426,58 +429,58 @@
   <programme start="20261120010000 +0000" stop="20261120010200 +0000" channel="CNEWS">
     <title>L'éphéméride</title>
   </programme>
-  <programme start="20261120010200 +0000" stop="20261120010300 +0000" channel="CNEWS">
+  <programme start="20261120010200 +0000" stop="20261120010400 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261120010300 +0000" stop="20261120012500 +0000" channel="CNEWS">
+  <programme start="20261120010400 +0000" stop="20261120012600 +0000" channel="CNEWS">
     <title>Edition de la nuit</title>
   </programme>
-  <programme start="20261120012500 +0000" stop="20261120012700 +0000" channel="CNEWS">
+  <programme start="20261120012600 +0000" stop="20261120012700 +0000" channel="CNEWS">
     <title>La sélection</title>
   </programme>
   <programme start="20261120012700 +0000" stop="20261120012900 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261120012900 +0000" stop="20261120015000 +0000" channel="CNEWS">
+  <programme start="20261120012900 +0000" stop="20261120015100 +0000" channel="CNEWS">
     <title>Edition de la nuit</title>
   </programme>
-  <programme start="20261120015000 +0000" stop="20261120015200 +0000" channel="CNEWS">
-    <title>La sélection</title>
-  </programme>
-  <programme start="20261120015200 +0000" stop="20261120015400 +0000" channel="CNEWS">
-    <title>Météo</title>
-  </programme>
-  <programme start="20261120015400 +0000" stop="20261120021600 +0000" channel="CNEWS">
-    <title>Edition de la nuit</title>
-  </programme>
-  <programme start="20261120021600 +0000" stop="20261120021800 +0000" channel="CNEWS">
-    <title>La sélection</title>
-  </programme>
-  <programme start="20261120021800 +0000" stop="20261120021900 +0000" channel="CNEWS">
-    <title>Météo</title>
-  </programme>
-  <programme start="20261120021900 +0000" stop="20261120024100 +0000" channel="CNEWS">
-    <title>Edition de la nuit</title>
-  </programme>
-  <programme start="20261120024100 +0000" stop="20261120024300 +0000" channel="CNEWS">
-    <title>La sélection</title>
-  </programme>
-  <programme start="20261120024300 +0000" stop="20261120024400 +0000" channel="CNEWS">
-    <title>Météo</title>
-  </programme>
-  <programme start="20261120024400 +0000" stop="20261120030600 +0000" channel="CNEWS">
-    <title>Edition de la nuit</title>
-  </programme>
-  <programme start="20261120030600 +0000" stop="20261120031600 +0000" channel="CNEWS">
+  <programme start="20261120015100 +0000" stop="20261120020300 +0000" channel="CNEWS">
     <title>L'heure des livres</title>
   </programme>
-  <programme start="20261120031600 +0000" stop="20261120031800 +0000" channel="CNEWS">
+  <programme start="20261120020300 +0000" stop="20261120020500 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261120031800 +0000" stop="20261120034000 +0000" channel="CNEWS">
+  <programme start="20261120020500 +0000" stop="20261120022600 +0000" channel="CNEWS">
     <title>Edition de la nuit</title>
   </programme>
-  <programme start="20261120034000 +0000" stop="20261120035800 +0000" channel="CNEWS">
+  <programme start="20261120022600 +0000" stop="20261120022800 +0000" channel="CNEWS">
+    <title>La sélection</title>
+  </programme>
+  <programme start="20261120022800 +0000" stop="20261120023000 +0000" channel="CNEWS">
+    <title>Météo</title>
+  </programme>
+  <programme start="20261120023000 +0000" stop="20261120025200 +0000" channel="CNEWS">
+    <title>Edition de la nuit</title>
+  </programme>
+  <programme start="20261120025200 +0000" stop="20261120025400 +0000" channel="CNEWS">
+    <title>L'éphéméride</title>
+  </programme>
+  <programme start="20261120025400 +0000" stop="20261120025500 +0000" channel="CNEWS">
+    <title>Météo</title>
+  </programme>
+  <programme start="20261120025500 +0000" stop="20261120031700 +0000" channel="CNEWS">
+    <title>Edition de la nuit</title>
+  </programme>
+  <programme start="20261120031700 +0000" stop="20261120033000 +0000" channel="CNEWS">
+    <title>L'heure des livres</title>
+  </programme>
+  <programme start="20261120033000 +0000" stop="20261120033100 +0000" channel="CNEWS">
+    <title>Météo</title>
+  </programme>
+  <programme start="20261120033100 +0000" stop="20261120035300 +0000" channel="CNEWS">
+    <title>Edition de la nuit</title>
+  </programme>
+  <programme start="20261120035300 +0000" stop="20261120035800 +0000" channel="CNEWS">
     <title>La sélection</title>
   </programme>
   <programme start="20261120035800 +0000" stop="20261120035900 +0000" channel="CNEWS">
@@ -519,10 +522,10 @@
   <programme start="20261120115700 +0000" stop="20261120115900 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
-  <programme start="20261120115900 +0000" stop="20261120132700 +0000" channel="CNEWS">
+  <programme start="20261120115900 +0000" stop="20261120135300 +0000" channel="CNEWS">
     <title>Police Justice 24H en France</title>
   </programme>
-  <programme start="20261120132700 +0000" stop="20261120135500 +0000" channel="CNEWS">
+  <programme start="20261120135300 +0000" stop="20261120135500 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
   <programme start="20261120135500 +0000" stop="20261120135700 +0000" channel="CNEWS">
@@ -531,10 +534,10 @@
   <programme start="20261120135700 +0000" stop="20261120135900 +0000" channel="CNEWS">
     <title>L'éphéméride</title>
   </programme>
-  <programme start="20261120135900 +0000" stop="20261120152700 +0000" channel="CNEWS">
+  <programme start="20261120135900 +0000" stop="20261120155000 +0000" channel="CNEWS">
     <title>100% Actu</title>
   </programme>
-  <programme start="20261120152700 +0000" stop="20261120155200 +0000" channel="CNEWS">
+  <programme start="20261120155000 +0000" stop="20261120155200 +0000" channel="CNEWS">
     <title>Météo</title>
   </programme>
   <programme start="20261120155200 +0000" stop="20261120155700 +0000" channel="CNEWS">
@@ -672,88 +675,82 @@
   <programme start="20261121045900 +0000" stop="20261121075000 +0000" channel="CNEWS">
     <title>La matinale week-end</title>
   </programme>
-  <programme start="20261119003400 +0000" stop="20261119013600 +0000" channel="CSTAR">
+  <programme start="20261119001400 +0000" stop="20261119011700 +0000" channel="CSTAR">
     <title>Top Rock</title>
   </programme>
-  <programme start="20261119013600 +0000" stop="20261119013700 +0000" channel="CSTAR">
-    <title>L'éphéméride</title>
-  </programme>
-  <programme start="20261119013700 +0000" stop="20261119015100 +0000" channel="CSTAR">
+  <programme start="20261119011700 +0000" stop="20261119013600 +0000" channel="CSTAR">
     <title>L'heure des livres</title>
   </programme>
-  <programme start="20261119015100 +0000" stop="20261119032100 +0000" channel="CSTAR">
+  <programme start="20261119013600 +0000" stop="20261119015100 +0000" channel="CSTAR">
+    <title>L'éphéméride</title>
+  </programme>
+  <programme start="20261119015100 +0000" stop="20261119025800 +0000" channel="CSTAR">
     <title>Nuit nouveaux talents</title>
+  </programme>
+  <programme start="20261119025800 +0000" stop="20261119032100 +0000" channel="CSTAR">
+    <title>Trym - Garorock 2024</title>
   </programme>
   <programme start="20261119032100 +0000" stop="20261119035900 +0000" channel="CSTAR">
     <title>Trym - Garorock 2024</title>
   </programme>
-  <programme start="20261119035900 +0000" stop="20261119055200 +0000" channel="CSTAR">
+  <programme start="20261119035900 +0000" stop="20261119054700 +0000" channel="CSTAR">
     <title>Top Clip</title>
   </programme>
-  <programme start="20261119055200 +0000" stop="20261119060000 +0000" channel="CSTAR">
+  <programme start="20261119054700 +0000" stop="20261119055500 +0000" channel="CSTAR">
     <title>L'éphéméride</title>
   </programme>
-  <programme start="20261119060000 +0000" stop="20261119064900 +0000" channel="CSTAR">
+  <programme start="20261119055500 +0000" stop="20261119064400 +0000" channel="CSTAR">
     <title>Top France</title>
   </programme>
-  <programme start="20261119064900 +0000" stop="20261119074900 +0000" channel="CSTAR">
+  <programme start="20261119064400 +0000" stop="20261119074400 +0000" channel="CSTAR">
     <title>Top CStar</title>
   </programme>
-  <programme start="20261119074900 +0000" stop="20261119075100 +0000" channel="CSTAR">
+  <programme start="20261119074400 +0000" stop="20261119074600 +0000" channel="CSTAR">
     <title>Top actu</title>
   </programme>
-  <programme start="20261119075100 +0000" stop="20261119085500 +0000" channel="CSTAR">
+  <programme start="20261119074600 +0000" stop="20261119085000 +0000" channel="CSTAR">
     <title>Top albums</title>
   </programme>
-  <programme start="20261119085500 +0000" stop="20261119094900 +0000" channel="CSTAR">
+  <programme start="20261119085000 +0000" stop="20261119095000 +0000" channel="CSTAR">
     <title>Top CStar</title>
   </programme>
-  <programme start="20261119094900 +0000" stop="20261119095500 +0000" channel="CSTAR">
+  <programme start="20261119095000 +0000" stop="20261119114900 +0000" channel="CSTAR">
     <title>Spots Partenaires C8 / Cstar</title>
   </programme>
-  <programme start="20261119095500 +0000" stop="20261119114500 +0000" channel="CSTAR">
-    <title>Top Clip</title>
-  </programme>
-  <programme start="20261119114500 +0000" stop="20261119114700 +0000" channel="CSTAR">
+  <programme start="20261119114900 +0000" stop="20261119125800 +0000" channel="CSTAR">
     <title>L'éphéméride</title>
   </programme>
-  <programme start="20261119114700 +0000" stop="20261119124500 +0000" channel="CSTAR">
-    <title>Top Clip</title>
-  </programme>
-  <programme start="20261119124500 +0000" stop="20261119124700 +0000" channel="CSTAR">
+  <programme start="20261119125800 +0000" stop="20261119143000 +0000" channel="CSTAR">
     <title>Top actu</title>
   </programme>
-  <programme start="20261119124700 +0000" stop="20261119144800 +0000" channel="CSTAR">
-    <title>Top Clip</title>
-  </programme>
-  <programme start="20261119144800 +0000" stop="20261119150000 +0000" channel="CSTAR">
+  <programme start="20261119143000 +0000" stop="20261119150000 +0000" channel="CSTAR">
     <title>Spots Partenaires C8 / Cstar</title>
   </programme>
-  <programme start="20261119150000 +0000" stop="20261119152700 +0000" channel="CSTAR">
+  <programme start="20261119150000 +0000" stop="20261119150300 +0000" channel="CSTAR">
     <title>Top streaming</title>
   </programme>
-  <programme start="20261119152700 +0000" stop="20261119152900 +0000" channel="CSTAR">
+  <programme start="20261119150300 +0000" stop="20261119150500 +0000" channel="CSTAR">
     <title>Top actu</title>
   </programme>
-  <programme start="20261119152900 +0000" stop="20261119161300 +0000" channel="CSTAR">
+  <programme start="20261119150500 +0000" stop="20261119154900 +0000" channel="CSTAR">
     <title>Top France</title>
   </programme>
-  <programme start="20261119161300 +0000" stop="20261119162100 +0000" channel="CSTAR">
+  <programme start="20261119154900 +0000" stop="20261119155700 +0000" channel="CSTAR">
     <title>C'est fait en France</title>
   </programme>
-  <programme start="20261119162100 +0000" stop="20261119180400 +0000" channel="CSTAR">
+  <programme start="20261119155700 +0000" stop="20261119180500 +0000" channel="CSTAR">
     <title>Prisons françaises : la réalité derrière les barreaux</title>
   </programme>
-  <programme start="20261119180400 +0000" stop="20261119183400 +0000" channel="CSTAR">
+  <programme start="20261119180500 +0000" stop="20261119183600 +0000" channel="CSTAR">
     <title>Douanes sous haute surveillance</title>
   </programme>
-  <programme start="20261119183400 +0000" stop="20261119190400 +0000" channel="CSTAR">
+  <programme start="20261119183600 +0000" stop="20261119190500 +0000" channel="CSTAR">
     <title>Douanes sous haute surveillance</title>
   </programme>
-  <programme start="20261119190400 +0000" stop="20261119193300 +0000" channel="CSTAR">
+  <programme start="20261119190500 +0000" stop="20261119193400 +0000" channel="CSTAR">
     <title>Douanes sous haute surveillance</title>
   </programme>
-  <programme start="20261119193300 +0000" stop="20261119201000 +0000" channel="CSTAR">
+  <programme start="20261119193400 +0000" stop="20261119201000 +0000" channel="CSTAR">
     <title>Douanes sous haute surveillance</title>
   </programme>
   <programme start="20261119201000 +0000" stop="20261119215800 +0000" channel="CSTAR">
@@ -765,14 +762,11 @@
   <programme start="20261119234400 +0000" stop="20261120011600 +0000" channel="CSTAR">
     <title>100 jours</title>
   </programme>
-  <programme start="20261120011600 +0000" stop="20261120015300 +0000" channel="CSTAR">
+  <programme start="20261120011600 +0000" stop="20261120015400 +0000" channel="CSTAR">
     <title>Top France</title>
   </programme>
-  <programme start="20261120015300 +0000" stop="20261120015500 +0000" channel="CSTAR">
+  <programme start="20261120015400 +0000" stop="20261120020000 +0000" channel="CSTAR">
     <title>L'éphéméride</title>
-  </programme>
-  <programme start="20261120015500 +0000" stop="20261120020000 +0000" channel="CSTAR">
-    <title>Nuit rap français</title>
   </programme>
   <programme start="20261120020000 +0000" stop="20261120021900 +0000" channel="CSTAR">
     <title>Nuit rap français</title>
@@ -780,10 +774,10 @@
   <programme start="20261120021900 +0000" stop="20261120022100 +0000" channel="CSTAR">
     <title>L'éphéméride</title>
   </programme>
-  <programme start="20261120022100 +0000" stop="20261120040000 +0000" channel="CSTAR">
+  <programme start="20261120022100 +0000" stop="20261120035900 +0000" channel="CSTAR">
     <title>Nuit rap français</title>
   </programme>
-  <programme start="20261120040000 +0000" stop="20261120055200 +0000" channel="CSTAR">
+  <programme start="20261120035900 +0000" stop="20261120055200 +0000" channel="CSTAR">
     <title>Top Clip</title>
   </programme>
   <programme start="20261120055200 +0000" stop="20261120060000 +0000" channel="CSTAR">
@@ -792,94 +786,82 @@
   <programme start="20261120060000 +0000" stop="20261120070000 +0000" channel="CSTAR">
     <title>Top CStar</title>
   </programme>
-  <programme start="20261120070000 +0000" stop="20261120080800 +0000" channel="CSTAR">
+  <programme start="20261120070000 +0000" stop="20261120080000 +0000" channel="CSTAR">
     <title>Top albums</title>
   </programme>
-  <programme start="20261120080800 +0000" stop="20261120081500 +0000" channel="CSTAR">
+  <programme start="20261120080000 +0000" stop="20261120080200 +0000" channel="CSTAR">
     <title>Top actu</title>
   </programme>
-  <programme start="20261120081500 +0000" stop="20261120091000 +0000" channel="CSTAR">
+  <programme start="20261120080200 +0000" stop="20261120085500 +0000" channel="CSTAR">
     <title>Top France</title>
   </programme>
-  <programme start="20261120091000 +0000" stop="20261120100300 +0000" channel="CSTAR">
+  <programme start="20261120085500 +0000" stop="20261120095600 +0000" channel="CSTAR">
     <title>Top Clip</title>
   </programme>
-  <programme start="20261120100300 +0000" stop="20261120101000 +0000" channel="CSTAR">
+  <programme start="20261120095600 +0000" stop="20261120095800 +0000" channel="CSTAR">
     <title>Top actu</title>
   </programme>
-  <programme start="20261120101000 +0000" stop="20261120103000 +0000" channel="CSTAR">
+  <programme start="20261120095800 +0000" stop="20261120102400 +0000" channel="CSTAR">
     <title>Top Clip</title>
   </programme>
-  <programme start="20261120103000 +0000" stop="20261120112800 +0000" channel="CSTAR">
+  <programme start="20261120102400 +0000" stop="20261120111800 +0000" channel="CSTAR">
     <title>Spots Partenaires C8 / Cstar</title>
   </programme>
-  <programme start="20261120112800 +0000" stop="20261120113000 +0000" channel="CSTAR">
+  <programme start="20261120111800 +0000" stop="20261120112000 +0000" channel="CSTAR">
     <title>L'éphéméride</title>
   </programme>
-  <programme start="20261120113000 +0000" stop="20261120132300 +0000" channel="CSTAR">
+  <programme start="20261120112000 +0000" stop="20261120132200 +0000" channel="CSTAR">
     <title>Le top Europe 2</title>
   </programme>
-  <programme start="20261120132300 +0000" stop="20261120133000 +0000" channel="CSTAR">
+  <programme start="20261120132200 +0000" stop="20261120132400 +0000" channel="CSTAR">
     <title>Top actu</title>
   </programme>
-  <programme start="20261120133000 +0000" stop="20261120160800 +0000" channel="CSTAR">
+  <programme start="20261120132400 +0000" stop="20261120154500 +0000" channel="CSTAR">
     <title>Top Clip</title>
   </programme>
-  <programme start="20261120160800 +0000" stop="20261120160900 +0000" channel="CSTAR">
+  <programme start="20261120154500 +0000" stop="20261120155300 +0000" channel="CSTAR">
     <title>C'est fait en France</title>
   </programme>
-  <programme start="20261120160900 +0000" stop="20261120161500 +0000" channel="CSTAR">
+  <programme start="20261120155300 +0000" stop="20261120163100 +0000" channel="CSTAR">
     <title>Spots Partenaires C8 / Cstar</title>
   </programme>
-  <programme start="20261120161500 +0000" stop="20261120165500 +0000" channel="CSTAR">
-    <title>Flashback</title>
-  </programme>
-  <programme start="20261120165500 +0000" stop="20261120183000 +0000" channel="CSTAR">
+  <programme start="20261120163100 +0000" stop="20261120183100 +0000" channel="CSTAR">
     <title>Michael Jackson : Les derniers secrets du roi de la Pop</title>
   </programme>
-  <programme start="20261120183000 +0000" stop="20261120190500 +0000" channel="CSTAR">
+  <programme start="20261120183100 +0000" stop="20261120190300 +0000" channel="CSTAR">
     <title>Top streaming</title>
   </programme>
-  <programme start="20261120190500 +0000" stop="20261120194000 +0000" channel="CSTAR">
+  <programme start="20261120190300 +0000" stop="20261120193500 +0000" channel="CSTAR">
     <title>Top albums</title>
   </programme>
-  <programme start="20261120194000 +0000" stop="20261120201000 +0000" channel="CSTAR">
+  <programme start="20261120193500 +0000" stop="20261120201000 +0000" channel="CSTAR">
     <title>Douanes sous haute surveillance</title>
   </programme>
-  <programme start="20261120201000 +0000" stop="20261120214500 +0000" channel="CSTAR">
+  <programme start="20261120201000 +0000" stop="20261120215300 +0000" channel="CSTAR">
     <title>Coup de foudre sur le marché de Noël</title>
   </programme>
-  <programme start="20261120214500 +0000" stop="20261120232000 +0000" channel="CSTAR">
+  <programme start="20261120215300 +0000" stop="20261120233800 +0000" channel="CSTAR">
     <title>Les saveurs de Noël</title>
   </programme>
-  <programme start="20261120232000 +0000" stop="20261121003200 +0000" channel="CSTAR">
+  <programme start="20261120233800 +0000" stop="20261121012000 +0000" channel="CSTAR">
     <title>Noël à Pemberley</title>
   </programme>
-  <programme start="20261121003200 +0000" stop="20261121010000 +0000" channel="CSTAR">
+  <programme start="20261121012000 +0000" stop="20261121034600 +0000" channel="CSTAR">
     <title>Martha Argerich et l'Orchestre Philharmonque de Monte-Carlo</title>
   </programme>
-  <programme start="20261121010000 +0000" stop="20261121014000 +0000" channel="CSTAR">
-    <title>Top CStar</title>
-  </programme>
-  <programme start="20261121014000 +0000" stop="20261121020000 +0000" channel="CSTAR">
+  <programme start="20261121034600 +0000" stop="20261121035900 +0000" channel="CSTAR">
     <title>Concert de Ismaël Margain à la Salle Gaveau</title>
   </programme>
-  <programme start="20261121020000 +0000" stop="20261121023400 +0000" channel="CSTAR">
-    <title>Nuit électro</title>
+  <programme start="20261121035900 +0000" stop="20261121043900 +0000" channel="CSTAR">
+    <title>Top Clip</title>
   </programme>
-  <programme start="20261121023400 +0000" stop="20261121023600 +0000" channel="CSTAR">
-    <title>L'éphéméride</title>
-  </programme>
-  <programme start="20261121023600 +0000" stop="20261121035900 +0000" channel="CSTAR">
-    <title>Nuit électro</title>
-  </programme>
-  <programme start="20261121035900 +0000" stop="20261121055800 +0000" channel="CSTAR">
+  <programme start="20261121043900 +0000" stop="20261121055800 +0000" channel="CSTAR">
     <title>Top Clip</title>
   </programme>
   <programme start="20261121055800 +0000" stop="20261121055900 +0000" channel="CSTAR">
     <title>L'éphéméride</title>
   </programme>
-  <programme start="20261121055900 +0000" stop="20261121080400 +0000" channel="CSTAR">
+  <programme start="20261121055900 +0000" stop="20261121080500 +0000" channel="CSTAR">
     <title>Le top Europe 2</title>
   </programme>
   <programme start="20261119004500 +0000" stop="20261119014000 +0000" channel="France 2">
@@ -948,8 +930,11 @@
   <programme start="20261119124000 +0000" stop="20261119124500 +0000" channel="France 2">
     <title>Journal Météo Climat</title>
   </programme>
-  <programme start="20261119124500 +0000" stop="20261119125500 +0000" channel="France 2">
+  <programme start="20261119124500 +0000" stop="20261119125100 +0000" channel="France 2">
     <title>Immeuble partagé</title>
+  </programme>
+  <programme start="20261119125100 +0000" stop="20261119125500 +0000" channel="France 2">
+    <title>La p'tite librairie</title>
   </programme>
   <programme start="20261119125500 +0000" stop="20261119140500 +0000" channel="France 2">
     <title>Ça commence aujourd'hui</title>
@@ -981,10 +966,10 @@
   <programme start="20261119194000 +0000" stop="20261119213000 +0000" channel="France 2">
     <title>L'heure de vérité</title>
   </programme>
-  <programme start="20261119213000 +0000" stop="20261119221500 +0000" channel="France 2">
+  <programme start="20261119213000 +0000" stop="20261119231500 +0000" channel="France 2">
     <title>L'heure de vérité, le debrief</title>
   </programme>
-  <programme start="20261119221500 +0000" stop="20261119234500 +0000" channel="France 2">
+  <programme start="20261119231500 +0000" stop="20261119234500 +0000" channel="France 2">
     <title>13h15, le dimanche...</title>
   </programme>
   <programme start="20261119234500 +0000" stop="20261120003000 +0000" channel="France 2">
@@ -1716,8 +1701,74 @@
   <programme start="20261120214400 +0000" stop="20261120220000 +0000" channel="France24">
     <title>Le journal de l'Afrique</title>
   </programme>
-  <programme start="20261120220000 +0000" stop="20261121160000 +0000" channel="France24">
+  <programme start="20261120220000 +0000" stop="20261120221000 +0000" channel="France24">
     <title>L'essentiel : le journal</title>
+  </programme>
+  <programme start="20261120221000 +0000" stop="20261120230000 +0000" channel="France24">
+    <title>Le café des sports</title>
+  </programme>
+  <programme start="20261120230000 +0000" stop="20261120231500 +0000" channel="France24">
+    <title>L'essentiel : le journal</title>
+  </programme>
+  <programme start="20261120231500 +0000" stop="20261121000000 +0000" channel="France24">
+    <title>Une semaine dans le monde</title>
+  </programme>
+  <programme start="20261121000000 +0000" stop="20261121001500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261121001500 +0000" stop="20261121003000 +0000" channel="France24">
+    <title>Le journal de l'Afrique</title>
+  </programme>
+  <programme start="20261121003000 +0000" stop="20261121004500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261121004500 +0000" stop="20261121010000 +0000" channel="France24">
+    <title>A l'affiche</title>
+  </programme>
+  <programme start="20261121010000 +0000" stop="20261121011500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261121011500 +0000" stop="20261121015500 +0000" channel="France24">
+    <title>La semaine de l'éco</title>
+  </programme>
+  <programme start="20261121015500 +0000" stop="20261121020000 +0000" channel="France24">
+    <title>L'instant mobile</title>
+  </programme>
+  <programme start="20261121020000 +0000" stop="20261121021000 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261121021000 +0000" stop="20261121030000 +0000" channel="France24">
+    <title>Le café des sports</title>
+  </programme>
+  <programme start="20261121030000 +0000" stop="20261121031100 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261121031100 +0000" stop="20261121040000 +0000" channel="France24">
+    <title>Une semaine dans le monde</title>
+  </programme>
+  <programme start="20261121040000 +0000" stop="20261121041500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261121041500 +0000" stop="20261121043000 +0000" channel="France24">
+    <title>Actuelles</title>
+  </programme>
+  <programme start="20261121043000 +0000" stop="20261121044500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261121044500 +0000" stop="20261121050000 +0000" channel="France24">
+    <title>Le journal de l'Afrique</title>
+  </programme>
+  <programme start="20261121050000 +0000" stop="20261121051500 +0000" channel="France24">
+    <title>A la une : le journal</title>
+  </programme>
+  <programme start="20261121051500 +0000" stop="20261121053000 +0000" channel="France24">
+    <title>Outre-mer</title>
+  </programme>
+  <programme start="20261121053000 +0000" stop="20261121054500 +0000" channel="France24">
+    <title>A la une : le journal</title>
+  </programme>
+  <programme start="20261121054500 +0000" stop="20261121060000 +0000" channel="France24">
+    <title>C'est en France</title>
   </programme>
   <programme start="20261119000000 +0000" stop="20261119001500 +0000" channel="France24 Arabic">
     <title>Journal</title>
@@ -3324,9 +3375,6 @@
   <programme start="20261121051200 +0000" stop="20261121060000 +0000" channel="France24 English">
     <title>The World This Week</title>
   </programme>
-  <programme start="20261119015900 +0000" stop="20261119042700 +0000" channel="franceinfo">
-    <title>La matinale info semaine</title>
-  </programme>
   <programme start="20261119042700 +0000" stop="20261119054000 +0000" channel="franceinfo">
     <title>La matinale info semaine</title>
   </programme>
@@ -3536,9 +3584,6 @@
   </programme>
   <programme start="20261121050000 +0000" stop="20261121080000 +0000" channel="LCI">
     <title>La matinale du week-end</title>
-  </programme>
-  <programme start="20261119040000 +0000" stop="20261119080000 +0000" channel="LEquipe">
-    <title>L'Equipe du soir</title>
   </programme>
   <programme start="20261119080000 +0000" stop="20261119105500 +0000" channel="LEquipe">
     <title>V6</title>
@@ -3840,35 +3885,35 @@
   <programme start="20261121051000 +0000" stop="20261121062500 +0000" channel="RMC Decouverte">
     <title>Flic story</title>
   </programme>
-  <programme start="20261119040000 +0000" stop="20261119070000 +0000" channel="RMC Life">
-    <title>Good Morning Business</title>
-  </programme>
   <programme start="20261119070000 +0000" stop="20261119075500 +0000" channel="RMC Life">
-    <title>Le zoo du Bronx</title>
+    <title>Au coeur du zoo de New York</title>
   </programme>
   <programme start="20261119075500 +0000" stop="20261119094500 +0000" channel="RMC Life">
-    <title>Le zoo du Bronx</title>
+    <title>Au coeur du zoo de New York</title>
   </programme>
   <programme start="20261119094500 +0000" stop="20261119104000 +0000" channel="RMC Life">
-    <title>Le zoo du Bronx</title>
+    <title>Au coeur du zoo de New York</title>
   </programme>
   <programme start="20261119104000 +0000" stop="20261119113500 +0000" channel="RMC Life">
-    <title>Le zoo du Bronx</title>
+    <title>Au coeur du zoo de New York</title>
   </programme>
   <programme start="20261119113500 +0000" stop="20261119153000 +0000" channel="RMC Life">
     <title>Urgences</title>
   </programme>
-  <programme start="20261119153000 +0000" stop="20261119172000 +0000" channel="RMC Life">
+  <programme start="20261119153000 +0000" stop="20261119162500 +0000" channel="RMC Life">
+    <title>A la maison pour Noël</title>
+  </programme>
+  <programme start="20261119162500 +0000" stop="20261119172000 +0000" channel="RMC Life">
     <title>A la maison pour Noël</title>
   </programme>
   <programme start="20261119172000 +0000" stop="20261119214000 +0000" channel="RMC Life">
-    <title>Le Père Noël est licencié!</title>
+    <title>Noël au pays des jouets</title>
   </programme>
-  <programme start="20261119214000 +0000" stop="20261119231500 +0000" channel="RMC Life">
+  <programme start="20261119214000 +0000" stop="20261119233500 +0000" channel="RMC Life">
     <title>Faites entrer l'accusé</title>
   </programme>
-  <programme start="20261119231500 +0000" stop="20261120040000 +0000" channel="RMC Life">
-    <title>Programmes de la nuit</title>
+  <programme start="20261119233500 +0000" stop="20261120040000 +0000" channel="RMC Life">
+    <title>Faites entrer l'accusé</title>
   </programme>
   <programme start="20261120040000 +0000" stop="20261120071500 +0000" channel="RMC Life">
     <title>Good Morning Business</title>
@@ -4176,6 +4221,21 @@
   <programme start="20261120233000 +0000" stop="20261121012000 +0000" channel="T18">
     <title>Non élucidé</title>
   </programme>
+  <programme start="20261121012000 +0000" stop="20261121015000 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261121015000 +0000" stop="20261121025500 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261121025500 +0000" stop="20261121032500 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261121032500 +0000" stop="20261121051500 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261121051500 +0000" stop="20261121061500 +0000" channel="T18">
+    <title>Sans collier</title>
+  </programme>
   <programme start="20261119000000 +0000" stop="20261119004500 +0000" channel="TF1">
     <title>Esprits criminels</title>
   </programme>
@@ -4356,29 +4416,38 @@
   <programme start="20261119023800 +0000" stop="20261119030000 +0000" channel="TV5MONDE Europe">
     <title>Un si grand soleil</title>
   </programme>
-  <programme start="20261119030000 +0000" stop="20261119033000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119030000 +0000" stop="20261119032700 +0000" channel="TV5MONDE Europe">
     <title>Chroniques d'en haut</title>
   </programme>
-  <programme start="20261119033000 +0000" stop="20261119040000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119032700 +0000" stop="20261119035400 +0000" channel="TV5MONDE Europe">
     <title>La cuisine des mousquetaires *2022</title>
   </programme>
-  <programme start="20261119040000 +0000" stop="20261119043000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119035400 +0000" stop="20261119041900 +0000" channel="TV5MONDE Europe">
     <title>C'est du belge</title>
+  </programme>
+  <programme start="20261119041900 +0000" stop="20261119043000 +0000" channel="TV5MONDE Europe">
+    <title>Enquête de sens</title>
   </programme>
   <programme start="20261119043000 +0000" stop="20261119045600 +0000" channel="TV5MONDE Europe">
     <title>Le journal Afrique</title>
   </programme>
-  <programme start="20261119045600 +0000" stop="20261119050000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119045600 +0000" stop="20261119045900 +0000" channel="TV5MONDE Europe">
     <title>Météo</title>
   </programme>
-  <programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119045900 +0000" stop="20261119052600 +0000" channel="TV5MONDE Europe">
     <title>Les saisons de pique-assiette</title>
   </programme>
-  <programme start="20261119053000 +0000" stop="20261119055600 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119052600 +0000" stop="20261119053000 +0000" channel="TV5MONDE Europe">
+    <title>Un pays, un livre</title>
+  </programme>
+  <programme start="20261119053000 +0000" stop="20261119055400 +0000" channel="TV5MONDE Europe">
     <title>Le 6h info</title>
   </programme>
-  <programme start="20261119055600 +0000" stop="20261119060000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119055400 +0000" stop="20261119055700 +0000" channel="TV5MONDE Europe">
     <title>Météo</title>
+  </programme>
+  <programme start="20261119055700 +0000" stop="20261119060000 +0000" channel="TV5MONDE Europe">
+    <title>Stances</title>
   </programme>
   <programme start="20261119060000 +0000" stop="20261119063000 +0000" channel="TV5MONDE Europe">
     <title>Le téléjournal</title>
@@ -4386,64 +4455,73 @@
   <programme start="20261119063000 +0000" stop="20261119065000 +0000" channel="TV5MONDE Europe">
     <title>Télématin</title>
   </programme>
-  <programme start="20261119065000 +0000" stop="20261119071500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119065000 +0000" stop="20261119071000 +0000" channel="TV5MONDE Europe">
     <title>Télématin</title>
+  </programme>
+  <programme start="20261119071000 +0000" stop="20261119071500 +0000" channel="TV5MONDE Europe">
+    <title>Un pays, un livre</title>
   </programme>
   <programme start="20261119071500 +0000" stop="20261119074500 +0000" channel="TV5MONDE Europe">
     <title>Télématin</title>
   </programme>
-  <programme start="20261119074500 +0000" stop="20261119081100 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119074500 +0000" stop="20261119080900 +0000" channel="TV5MONDE Europe">
     <title>Le 6h info</title>
   </programme>
-  <programme start="20261119081100 +0000" stop="20261119081500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119080900 +0000" stop="20261119081200 +0000" channel="TV5MONDE Europe">
     <title>Météo</title>
   </programme>
-  <programme start="20261119081500 +0000" stop="20261119084800 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119081200 +0000" stop="20261119084200 +0000" channel="TV5MONDE Europe">
     <title>Vroum</title>
   </programme>
-  <programme start="20261119084800 +0000" stop="20261119091700 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119084200 +0000" stop="20261119084500 +0000" channel="TV5MONDE Europe">
+    <title>Stances</title>
+  </programme>
+  <programme start="20261119084500 +0000" stop="20261119091500 +0000" channel="TV5MONDE Europe">
     <title>13h15, le samedi...</title>
   </programme>
-  <programme start="20261119091700 +0000" stop="20261119093100 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119091500 +0000" stop="20261119092800 +0000" channel="TV5MONDE Europe">
     <title>20h30 le vendredi</title>
   </programme>
-  <programme start="20261119093100 +0000" stop="20261119094500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119092800 +0000" stop="20261119094200 +0000" channel="TV5MONDE Europe">
     <title>Démo de mode</title>
   </programme>
-  <programme start="20261119094500 +0000" stop="20261119101200 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119094200 +0000" stop="20261119101200 +0000" channel="TV5MONDE Europe">
     <title>Tendance XXI</title>
   </programme>
   <programme start="20261119101200 +0000" stop="20261119101500 +0000" channel="TV5MONDE Europe">
     <title>Météo</title>
   </programme>
-  <programme start="20261119101500 +0000" stop="20261119105000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119101500 +0000" stop="20261119104700 +0000" channel="TV5MONDE Europe">
     <title>Slam</title>
   </programme>
-  <programme start="20261119105000 +0000" stop="20261119115000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119104700 +0000" stop="20261119114600 +0000" channel="TV5MONDE Europe">
     <title>Ça commence aujourd'hui</title>
   </programme>
-  <programme start="20261119115000 +0000" stop="20261119120000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119114600 +0000" stop="20261119115900 +0000" channel="TV5MONDE Europe">
     <title>Outremer.l'info</title>
   </programme>
-  <programme start="20261119120000 +0000" stop="20261119123000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119115900 +0000" stop="20261119122300 +0000" channel="TV5MONDE Europe">
     <title>Un si grand soleil</title>
   </programme>
-  <programme start="20261119123000 +0000" stop="20261119130500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119122300 +0000" stop="20261119123000 +0000" channel="TV5MONDE Europe">
+    <title>Nature = Futur !</title>
+  </programme>
+  <programme start="20261119123000 +0000" stop="20261119130200 +0000" channel="TV5MONDE Europe">
     <title>JT 13h (La Une)</title>
   </programme>
-  <programme start="20261119130500 +0000" stop="20261119143800 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119130200 +0000" stop="20261119143300 +0000" channel="TV5MONDE Europe">
     <title>Ardennes</title>
   </programme>
-  <programme start="20261119143800 +0000" stop="20261119150900 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119143300 +0000" stop="20261119150300 +0000" channel="TV5MONDE Europe">
     <title>A travers champs</title>
   </programme>
-  <programme start="20261119150900 +0000" stop="20261119153800 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119150300 +0000" stop="20261119153300 +0000" channel="TV5MONDE Europe">
     <title>Littoral</title>
   </programme>
-  <programme start="20261119153800 +0000" stop="20261119163300 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119153300 +0000" stop="20261119162800 +0000" channel="TV5MONDE Europe">
     <title>Mise au point</title>
   </programme>
-  <programme start="20261119163300 +0000" stop="20261119170000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119162800 +0000" stop="20261119170000 +0000" channel="TV5MONDE Europe">
     <title>Tendance XXI</title>
   </programme>
   <programme start="20261119170000 +0000" stop="20261119172600 +0000" channel="TV5MONDE Europe">
@@ -4452,56 +4530,50 @@
   <programme start="20261119172600 +0000" stop="20261119173000 +0000" channel="TV5MONDE Europe">
     <title>Météo</title>
   </programme>
-  <programme start="20261119173000 +0000" stop="20261119175300 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119173000 +0000" stop="20261119175400 +0000" channel="TV5MONDE Europe">
     <title>64' le monde en français</title>
   </programme>
-  <programme start="20261119175300 +0000" stop="20261119180500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119175400 +0000" stop="20261119180700 +0000" channel="TV5MONDE Europe">
     <title>L'invité</title>
   </programme>
-  <programme start="20261119180500 +0000" stop="20261119190000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119180700 +0000" stop="20261119185100 +0000" channel="TV5MONDE Europe">
     <title>Tout le monde veut prendre sa place</title>
+  </programme>
+  <programme start="20261119185100 +0000" stop="20261119190000 +0000" channel="TV5MONDE Europe">
+    <title>Home</title>
   </programme>
   <programme start="20261119190000 +0000" stop="20261119193000 +0000" channel="TV5MONDE Europe">
     <title>Le 19h30</title>
   </programme>
-  <programme start="20261119193000 +0000" stop="20261119200100 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119193000 +0000" stop="20261119200400 +0000" channel="TV5MONDE Europe">
     <title>Journal 20h00</title>
   </programme>
-  <programme start="20261119200100 +0000" stop="20261119200500 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119200400 +0000" stop="20261119200700 +0000" channel="TV5MONDE Europe">
     <title>Un pays, un livre</title>
   </programme>
-  <programme start="20261119200500 +0000" stop="20261119213300 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119200700 +0000" stop="20261119213900 +0000" channel="TV5MONDE Europe">
     <title>Destination francophonie</title>
   </programme>
-  <programme start="20261119213300 +0000" stop="20261119213800 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119213900 +0000" stop="20261119214700 +0000" channel="TV5MONDE Europe">
     <title>La Route du Rhum - Destination Guadeloupe</title>
   </programme>
-  <programme start="20261119213800 +0000" stop="20261119221000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261119214700 +0000" stop="20261119222200 +0000" channel="TV5MONDE Europe">
     <title>L'actu</title>
   </programme>
-  <programme start="20261119221000 +0000" stop="20261119230300 +0000" channel="TV5MONDE Europe">
-    <title>Toute l'Algérie du monde</title>
+  <programme start="20261119222200 +0000" stop="20261120002500 +0000" channel="TV5MONDE Europe">
+    <title>L'heure de vérité</title>
   </programme>
-  <programme start="20261119230300 +0000" stop="20261120000000 +0000" channel="TV5MONDE Europe">
-    <title>Racines, diaspora et guerre</title>
-  </programme>
-  <programme start="20261120000000 +0000" stop="20261120003000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261120002500 +0000" stop="20261120005300 +0000" channel="TV5MONDE Europe">
     <title>Le journal Afrique</title>
   </programme>
-  <programme start="20261120003000 +0000" stop="20261120020200 +0000" channel="TV5MONDE Europe">
-    <title>La grande librairie</title>
+  <programme start="20261120005300 +0000" stop="20261120015000 +0000" channel="TV5MONDE Europe">
+    <title>Toute l'Algérie du monde</title>
   </programme>
-  <programme start="20261120020200 +0000" stop="20261120023300 +0000" channel="TV5MONDE Europe">
-    <title>13h15, le samedi...</title>
+  <programme start="20261120015000 +0000" stop="20261120024000 +0000" channel="TV5MONDE Europe">
+    <title>Racines, diaspora et guerre</title>
   </programme>
-  <programme start="20261120023300 +0000" stop="20261120030000 +0000" channel="TV5MONDE Europe">
+  <programme start="20261120024000 +0000" stop="20261120040000 +0000" channel="TV5MONDE Europe">
     <title>Un si grand soleil</title>
-  </programme>
-  <programme start="20261120030000 +0000" stop="20261120033000 +0000" channel="TV5MONDE Europe">
-    <title>Littoral</title>
-  </programme>
-  <programme start="20261120033000 +0000" stop="20261120040000 +0000" channel="TV5MONDE Europe">
-    <title>A travers champs</title>
   </programme>
   <programme start="20261120040000 +0000" stop="20261120043000 +0000" channel="TV5MONDE Europe">
     <title>basik</title>
@@ -5484,10 +5556,10 @@
   <programme start="20261119124000 +0000" stop="20261119125400 +0000" channel="Canale 5">
     <title>Grande fratello vip - pillole lunedi'/sabato c5</title>
   </programme>
-  <programme start="20261119125400 +0000" stop="20261119131700 +0000" channel="Canale 5">
+  <programme start="20261119125400 +0000" stop="20261119131800 +0000" channel="Canale 5">
     <title>Beautiful - PrimaTv</title>
   </programme>
-  <programme start="20261119131700 +0000" stop="20261119134500 +0000" channel="Canale 5">
+  <programme start="20261119131800 +0000" stop="20261119134500 +0000" channel="Canale 5">
     <title>Forbidden Fruit - PrimaTv</title>
   </programme>
   <programme start="20261119134500 +0000" stop="20261119150700 +0000" channel="Canale 5">
@@ -5520,31 +5592,31 @@
   <programme start="20261119205300 +0000" stop="20261119211000 +0000" channel="Canale 5">
     <title>Tutto per la mia famiglia - PrimaTv</title>
   </programme>
-  <programme start="20261119211000 +0000" stop="20261119221600 +0000" channel="Canale 5">
+  <programme start="20261119211000 +0000" stop="20261119221800 +0000" channel="Canale 5">
     <title>Tutto per la mia famiglia - PrimaTv</title>
   </programme>
-  <programme start="20261119221600 +0000" stop="20261119231000 +0000" channel="Canale 5">
+  <programme start="20261119221800 +0000" stop="20261119231300 +0000" channel="Canale 5">
     <title>Tutto per la mia famiglia - PrimaTv</title>
   </programme>
-  <programme start="20261119231000 +0000" stop="20261119234700 +0000" channel="Canale 5">
+  <programme start="20261119231300 +0000" stop="20261119235300 +0000" channel="Canale 5">
     <title>X- Style</title>
   </programme>
-  <programme start="20261119234700 +0000" stop="20261120002700 +0000" channel="Canale 5">
+  <programme start="20261119235300 +0000" stop="20261120003200 +0000" channel="Canale 5">
     <title>Tg5</title>
   </programme>
-  <programme start="20261120002700 +0000" stop="20261120013000 +0000" channel="Canale 5">
+  <programme start="20261120003200 +0000" stop="20261120013500 +0000" channel="Canale 5">
     <title>Caduta libera - aut.</title>
   </programme>
-  <programme start="20261120013000 +0000" stop="20261120023700 +0000" channel="Canale 5">
+  <programme start="20261120013500 +0000" stop="20261120024200 +0000" channel="Canale 5">
     <title>Uomini e donne</title>
   </programme>
-  <programme start="20261120023700 +0000" stop="20261120032800 +0000" channel="Canale 5">
+  <programme start="20261120024200 +0000" stop="20261120033200 +0000" channel="Canale 5">
     <title>Una Vita</title>
   </programme>
-  <programme start="20261120032800 +0000" stop="20261120041200 +0000" channel="Canale 5">
+  <programme start="20261120033200 +0000" stop="20261120041700 +0000" channel="Canale 5">
     <title>All American</title>
   </programme>
-  <programme start="20261120041200 +0000" stop="20261120050000 +0000" channel="Canale 5">
+  <programme start="20261120041700 +0000" stop="20261120050000 +0000" channel="Canale 5">
     <title>Squadra antimafia 5</title>
   </programme>
   <programme start="20261120050000 +0000" stop="20261120051500 +0000" channel="Canale 5">
@@ -5676,43 +5748,43 @@
   <programme start="20261119005000 +0000" stop="20261119005600 +0000" channel="Italia 1">
     <title>Camera Cafe'</title>
   </programme>
-  <programme start="20261119005600 +0000" stop="20261119010100 +0000" channel="Italia 1">
+  <programme start="20261119005600 +0000" stop="20261119010200 +0000" channel="Italia 1">
     <title>Camera Cafe'</title>
   </programme>
-  <programme start="20261119010100 +0000" stop="20261119014400 +0000" channel="Italia 1">
+  <programme start="20261119010200 +0000" stop="20261119014500 +0000" channel="Italia 1">
     <title>The Closer</title>
   </programme>
-  <programme start="20261119014400 +0000" stop="20261119023300 +0000" channel="Italia 1">
+  <programme start="20261119014500 +0000" stop="20261119023400 +0000" channel="Italia 1">
     <title>The Closer</title>
   </programme>
-  <programme start="20261119023300 +0000" stop="20261119025500 +0000" channel="Italia 1">
+  <programme start="20261119023400 +0000" stop="20261119025400 +0000" channel="Italia 1">
     <title>Cose di questo mondo</title>
   </programme>
-  <programme start="20261119025500 +0000" stop="20261119033700 +0000" channel="Italia 1">
+  <programme start="20261119025400 +0000" stop="20261119033600 +0000" channel="Italia 1">
     <title>Stranezze di questo mondo</title>
   </programme>
-  <programme start="20261119033700 +0000" stop="20261119041800 +0000" channel="Italia 1">
+  <programme start="20261119033600 +0000" stop="20261119041800 +0000" channel="Italia 1">
     <title>Stranezze di questo mondo</title>
   </programme>
-  <programme start="20261119041800 +0000" stop="20261119050500 +0000" channel="Italia 1">
+  <programme start="20261119041800 +0000" stop="20261119050400 +0000" channel="Italia 1">
     <title>Stranezze di questo mondo</title>
   </programme>
-  <programme start="20261119050500 +0000" stop="20261119060500 +0000" channel="Italia 1">
+  <programme start="20261119050400 +0000" stop="20261119055500 +0000" channel="Italia 1">
     <title>Segreti nel ghiaccio</title>
   </programme>
-  <programme start="20261119060500 +0000" stop="20261119065100 +0000" channel="Italia 1">
+  <programme start="20261119055500 +0000" stop="20261119064200 +0000" channel="Italia 1">
     <title>Walker Texas Ranger</title>
   </programme>
-  <programme start="20261119065100 +0000" stop="20261119074200 +0000" channel="Italia 1">
+  <programme start="20261119064200 +0000" stop="20261119073300 +0000" channel="Italia 1">
     <title>Station 19</title>
   </programme>
-  <programme start="20261119074200 +0000" stop="20261119083600 +0000" channel="Italia 1">
+  <programme start="20261119073300 +0000" stop="20261119082800 +0000" channel="Italia 1">
     <title>Chicago Fire</title>
   </programme>
-  <programme start="20261119083600 +0000" stop="20261119093000 +0000" channel="Italia 1">
+  <programme start="20261119082800 +0000" stop="20261119092600 +0000" channel="Italia 1">
     <title>Chicago Fire</title>
   </programme>
-  <programme start="20261119093000 +0000" stop="20261119102500 +0000" channel="Italia 1">
+  <programme start="20261119092600 +0000" stop="20261119102500 +0000" channel="Italia 1">
     <title>Law &amp; Order: Special Victims Unit</title>
   </programme>
   <programme start="20261119102500 +0000" stop="20261119112500 +0000" channel="Italia 1">
@@ -5721,13 +5793,13 @@
   <programme start="20261119112500 +0000" stop="20261119120000 +0000" channel="Italia 1">
     <title>Studio Aperto</title>
   </programme>
-  <programme start="20261119120000 +0000" stop="20261119121100 +0000" channel="Italia 1">
+  <programme start="20261119120000 +0000" stop="20261119121200 +0000" channel="Italia 1">
     <title>Grande Fratello Vip</title>
   </programme>
-  <programme start="20261119121100 +0000" stop="20261119125300 +0000" channel="Italia 1">
+  <programme start="20261119121200 +0000" stop="20261119125400 +0000" channel="Italia 1">
     <title>Sport mediaset 2026</title>
   </programme>
-  <programme start="20261119125300 +0000" stop="20261119131500 +0000" channel="Italia 1">
+  <programme start="20261119125400 +0000" stop="20261119131500 +0000" channel="Italia 1">
     <title>Sport Mediaset Speciale Nitto ATP Finals</title>
   </programme>
   <programme start="20261119131500 +0000" stop="20261119134100 +0000" channel="Italia 1">
@@ -5739,61 +5811,76 @@
   <programme start="20261119140800 +0000" stop="20261119150600 +0000" channel="Italia 1">
     <title>NCIS: Los Angeles</title>
   </programme>
-  <programme start="20261119150600 +0000" stop="20261119160400 +0000" channel="Italia 1">
+  <programme start="20261119150600 +0000" stop="20261119160300 +0000" channel="Italia 1">
     <title>The mentalist</title>
   </programme>
-  <programme start="20261119160400 +0000" stop="20261119165500 +0000" channel="Italia 1">
+  <programme start="20261119160300 +0000" stop="20261119165400 +0000" channel="Italia 1">
     <title>The mentalist</title>
   </programme>
-  <programme start="20261119165500 +0000" stop="20261119172100 +0000" channel="Italia 1">
+  <programme start="20261119165400 +0000" stop="20261119172000 +0000" channel="Italia 1">
     <title>Sport mediaset</title>
   </programme>
-  <programme start="20261119172100 +0000" stop="20261119173000 +0000" channel="Italia 1">
+  <programme start="20261119172000 +0000" stop="20261119173000 +0000" channel="Italia 1">
     <title>Studio Aperto Live</title>
   </programme>
-  <programme start="20261119173000 +0000" stop="20261119175700 +0000" channel="Italia 1">
+  <programme start="20261119173000 +0000" stop="20261119175600 +0000" channel="Italia 1">
     <title>Studio Aperto</title>
   </programme>
-  <programme start="20261119175700 +0000" stop="20261119182300 +0000" channel="Italia 1">
+  <programme start="20261119175600 +0000" stop="20261119182200 +0000" channel="Italia 1">
     <title>Studio Aperto Mag</title>
   </programme>
-  <programme start="20261119182300 +0000" stop="20261119191800 +0000" channel="Italia 1">
+  <programme start="20261119182200 +0000" stop="20261119191200 +0000" channel="Italia 1">
     <title>C.S.I. - Scena del crimine</title>
   </programme>
-  <programme start="20261119191800 +0000" stop="20261119212100 +0000" channel="Italia 1">
+  <programme start="20261119191200 +0000" stop="20261119192000 +0000" channel="Italia 1">
     <title>Nitto ATP Finals Live</title>
   </programme>
-  <programme start="20261119212100 +0000" stop="20261119215300 +0000" channel="Italia 1">
+  <programme start="20261119192000 +0000" stop="20261119211100 +0000" channel="Italia 1">
+    <title>Zverev - Fils</title>
+  </programme>
+  <programme start="20261119211100 +0000" stop="20261119212900 +0000" channel="Italia 1">
     <title>Nitto ATP Finals Live</title>
   </programme>
-  <programme start="20261119215300 +0000" stop="20261119233100 +0000" channel="Italia 1">
+  <programme start="20261119212900 +0000" stop="20261119232400 +0000" channel="Italia 1">
     <title>Una notte da leoni 3</title>
   </programme>
-  <programme start="20261119233100 +0000" stop="20261119234500 +0000" channel="Italia 1">
+  <programme start="20261119232400 +0000" stop="20261119234200 +0000" channel="Italia 1">
     <title>Studio Aperto - La giornata</title>
   </programme>
-  <programme start="20261119234500 +0000" stop="20261120000100 +0000" channel="Italia 1">
+  <programme start="20261119234200 +0000" stop="20261120000200 +0000" channel="Italia 1">
     <title>Sport Mediaset - La giornata</title>
   </programme>
-  <programme start="20261120000100 +0000" stop="20261120002700 +0000" channel="Italia 1">
+  <programme start="20261120000200 +0000" stop="20261120002300 +0000" channel="Italia 1">
     <title>Nitto ATP Finals Show</title>
   </programme>
-  <programme start="20261120002700 +0000" stop="20261120011200 +0000" channel="Italia 1">
+  <programme start="20261120002300 +0000" stop="20261120002900 +0000" channel="Italia 1">
+    <title>Camera Cafe'</title>
+  </programme>
+  <programme start="20261120002900 +0000" stop="20261120003500 +0000" channel="Italia 1">
+    <title>Camera Cafe'</title>
+  </programme>
+  <programme start="20261120003500 +0000" stop="20261120004100 +0000" channel="Italia 1">
+    <title>Camera Cafe'</title>
+  </programme>
+  <programme start="20261120004100 +0000" stop="20261120012600 +0000" channel="Italia 1">
     <title>The Closer</title>
   </programme>
-  <programme start="20261120011200 +0000" stop="20261120015500 +0000" channel="Italia 1">
+  <programme start="20261120012600 +0000" stop="20261120020900 +0000" channel="Italia 1">
     <title>The Closer</title>
   </programme>
-  <programme start="20261120015500 +0000" stop="20261120023700 +0000" channel="Italia 1">
+  <programme start="20261120020900 +0000" stop="20261120023100 +0000" channel="Italia 1">
+    <title>Cose di questo mondo</title>
+  </programme>
+  <programme start="20261120023100 +0000" stop="20261120031300 +0000" channel="Italia 1">
     <title>Stranezze di questo mondo</title>
   </programme>
-  <programme start="20261120023700 +0000" stop="20261120031900 +0000" channel="Italia 1">
+  <programme start="20261120031300 +0000" stop="20261120035500 +0000" channel="Italia 1">
     <title>Stranezze di questo mondo</title>
   </programme>
-  <programme start="20261120031900 +0000" stop="20261120040500 +0000" channel="Italia 1">
+  <programme start="20261120035500 +0000" stop="20261120044100 +0000" channel="Italia 1">
     <title>Stranezze di questo mondo</title>
   </programme>
-  <programme start="20261120040500 +0000" stop="20261120055800 +0000" channel="Italia 1">
+  <programme start="20261120044100 +0000" stop="20261120055800 +0000" channel="Italia 1">
     <title>Segreti nel ghiaccio</title>
   </programme>
   <programme start="20261120055800 +0000" stop="20261120064600 +0000" channel="Italia 1">
@@ -5892,7 +5979,7 @@
   <programme start="20261121044900 +0000" stop="20261121053400 +0000" channel="Italia 1">
     <title>Storie dimenticate</title>
   </programme>
-  <programme start="20261121053400 +0000" stop="20261121062000 +0000" channel="Italia 1">
+  <programme start="20261121053400 +0000" stop="20261121061900 +0000" channel="Italia 1">
     <title>Storie dimenticate</title>
   </programme>
   <programme start="20261119010000 +0000" stop="20261119015500 +0000" channel="RAI 1">
@@ -5916,25 +6003,88 @@
   <programme start="20261119053000 +0000" stop="20261119055800 +0000" channel="RAI 1">
     <title>TG1</title>
   </programme>
-  <programme start="20261119055800 +0000" stop="20261119231000 +0000" channel="RAI 1">
+  <programme start="20261119055800 +0000" stop="20261119060000 +0000" channel="RAI 1">
     <title>Che tempo fa</title>
   </programme>
-  <programme start="20261119231000 +0000" stop="20261119231500 +0000" channel="RAI 1">
-    <title>TG1 Sera</title>
+  <programme start="20261119060000 +0000" stop="20261119070000 +0000" channel="RAI 1">
+    <title>TG1</title>
   </programme>
-  <programme start="20261119231500 +0000" stop="20261120010000 +0000" channel="RAI 1">
+  <programme start="20261119070000 +0000" stop="20261119073000 +0000" channel="RAI 1">
+    <title>TG1</title>
+  </programme>
+  <programme start="20261119073000 +0000" stop="20261119073500 +0000" channel="RAI 1">
+    <title>Che tempo fa</title>
+  </programme>
+  <programme start="20261119073500 +0000" stop="20261119075500 +0000" channel="RAI 1">
+    <title>UnoMattina</title>
+  </programme>
+  <programme start="20261119075500 +0000" stop="20261119080000 +0000" channel="RAI 1">
+    <title>Rai Parlamento Telegiornale</title>
+  </programme>
+  <programme start="20261119080000 +0000" stop="20261119080300 +0000" channel="RAI 1">
+    <title>TG 1 L.I.S.</title>
+  </programme>
+  <programme start="20261119080300 +0000" stop="20261119085000 +0000" channel="RAI 1">
+    <title>UnoMattina</title>
+  </programme>
+  <programme start="20261119085000 +0000" stop="20261119105500 +0000" channel="RAI 1">
+    <title>Storie italiane</title>
+  </programme>
+  <programme start="20261119105500 +0000" stop="20261119123000 +0000" channel="RAI 1">
+    <title>E' sempre mezzogiorno</title>
+  </programme>
+  <programme start="20261119123000 +0000" stop="20261119130500 +0000" channel="RAI 1">
+    <title>TELEGIORNALE</title>
+  </programme>
+  <programme start="20261119130500 +0000" stop="20261119150000 +0000" channel="RAI 1">
+    <title>La volta buona</title>
+  </programme>
+  <programme start="20261119150000 +0000" stop="20261119154500 +0000" channel="RAI 1">
+    <title>Il Paradiso delle Signore 11 - Daily Sta</title>
+  </programme>
+  <programme start="20261119154500 +0000" stop="20261119155500 +0000" channel="RAI 1">
+    <title>TG 1</title>
+  </programme>
+  <programme start="20261119155500 +0000" stop="20261119174000 +0000" channel="RAI 1">
+    <title>Vita in Diretta</title>
+  </programme>
+  <programme start="20261119174000 +0000" stop="20261119190000 +0000" channel="RAI 1">
+    <title>L'Eredità</title>
+  </programme>
+  <programme start="20261119190000 +0000" stop="20261119193000 +0000" channel="RAI 1">
+    <title>TELEGIORNALE</title>
+  </programme>
+  <programme start="20261119193000 +0000" stop="20261119193500 +0000" channel="RAI 1">
+    <title>Cinque Minuti</title>
+  </programme>
+  <programme start="20261119193500 +0000" stop="20261119203000 +0000" channel="RAI 1">
+    <title>Affari tuoi</title>
+  </programme>
+  <programme start="20261119203000 +0000" stop="20261119224500 +0000" channel="RAI 1">
+    <title>Doc - Nelle tue mani 4 - Il mondo sulle</title>
+  </programme>
+  <programme start="20261119224500 +0000" stop="20261119225500 +0000" channel="RAI 1">
     <title>Porta a Porta</title>
   </programme>
-  <programme start="20261120010000 +0000" stop="20261120015500 +0000" channel="RAI 1">
+  <programme start="20261119225500 +0000" stop="20261119230000 +0000" channel="RAI 1">
+    <title>TG1 Sera</title>
+  </programme>
+  <programme start="20261119230000 +0000" stop="20261120003000 +0000" channel="RAI 1">
+    <title>Porta a Porta</title>
+  </programme>
+  <programme start="20261120003000 +0000" stop="20261120012500 +0000" channel="RAI 1">
     <title>La Nottatanza</title>
   </programme>
-  <programme start="20261120015500 +0000" stop="20261120020000 +0000" channel="RAI 1">
+  <programme start="20261120012500 +0000" stop="20261120013000 +0000" channel="RAI 1">
     <title>Che tempo fa</title>
   </programme>
-  <programme start="20261120020000 +0000" stop="20261120034500 +0000" channel="RAI 1">
-    <title>Tutti pazzi per amore - Questione di cel</title>
+  <programme start="20261120013000 +0000" stop="20261120031500 +0000" channel="RAI 1">
+    <title>Tutti pazzi per amore - Le cose che abbi</title>
   </programme>
-  <programme start="20261120034500 +0000" stop="20261120045500 +0000" channel="RAI 1">
+  <programme start="20261120031500 +0000" stop="20261120040000 +0000" channel="RAI 1">
+    <title>Doc Martin 3 - City slickers</title>
+  </programme>
+  <programme start="20261120040000 +0000" stop="20261120045500 +0000" channel="RAI 1">
     <title>RaiNews24</title>
   </programme>
   <programme start="20261120045500 +0000" stop="20261120052800 +0000" channel="RAI 1">
@@ -5946,71 +6096,8 @@
   <programme start="20261120053000 +0000" stop="20261120055800 +0000" channel="RAI 1">
     <title>TG1</title>
   </programme>
-  <programme start="20261120055800 +0000" stop="20261120060000 +0000" channel="RAI 1">
+  <programme start="20261120055800 +0000" stop="20261120230000 +0000" channel="RAI 1">
     <title>Che tempo fa</title>
-  </programme>
-  <programme start="20261120060000 +0000" stop="20261120070000 +0000" channel="RAI 1">
-    <title>TG1</title>
-  </programme>
-  <programme start="20261120070000 +0000" stop="20261120073000 +0000" channel="RAI 1">
-    <title>TG1</title>
-  </programme>
-  <programme start="20261120073000 +0000" stop="20261120073500 +0000" channel="RAI 1">
-    <title>Che tempo fa</title>
-  </programme>
-  <programme start="20261120073500 +0000" stop="20261120075500 +0000" channel="RAI 1">
-    <title>UnoMattina</title>
-  </programme>
-  <programme start="20261120075500 +0000" stop="20261120080000 +0000" channel="RAI 1">
-    <title>Rai Parlamento Telegiornale</title>
-  </programme>
-  <programme start="20261120080000 +0000" stop="20261120080300 +0000" channel="RAI 1">
-    <title>TG 1 L.I.S.</title>
-  </programme>
-  <programme start="20261120080300 +0000" stop="20261120085000 +0000" channel="RAI 1">
-    <title>UnoMattina</title>
-  </programme>
-  <programme start="20261120085000 +0000" stop="20261120105500 +0000" channel="RAI 1">
-    <title>Storie italiane</title>
-  </programme>
-  <programme start="20261120105500 +0000" stop="20261120123000 +0000" channel="RAI 1">
-    <title>E' sempre mezzogiorno</title>
-  </programme>
-  <programme start="20261120123000 +0000" stop="20261120130500 +0000" channel="RAI 1">
-    <title>TELEGIORNALE</title>
-  </programme>
-  <programme start="20261120130500 +0000" stop="20261120150000 +0000" channel="RAI 1">
-    <title>La volta buona</title>
-  </programme>
-  <programme start="20261120150000 +0000" stop="20261120154500 +0000" channel="RAI 1">
-    <title>Il Paradiso delle Signore 11 - Daily Sta</title>
-  </programme>
-  <programme start="20261120154500 +0000" stop="20261120155500 +0000" channel="RAI 1">
-    <title>TG 1</title>
-  </programme>
-  <programme start="20261120155500 +0000" stop="20261120174000 +0000" channel="RAI 1">
-    <title>Vita in Diretta</title>
-  </programme>
-  <programme start="20261120174000 +0000" stop="20261120190000 +0000" channel="RAI 1">
-    <title>L'Eredità</title>
-  </programme>
-  <programme start="20261120190000 +0000" stop="20261120193000 +0000" channel="RAI 1">
-    <title>TELEGIORNALE</title>
-  </programme>
-  <programme start="20261120193000 +0000" stop="20261120193500 +0000" channel="RAI 1">
-    <title>Cinque Minuti</title>
-  </programme>
-  <programme start="20261120193500 +0000" stop="20261120203000 +0000" channel="RAI 1">
-    <title>Affari tuoi</title>
-  </programme>
-  <programme start="20261120203000 +0000" stop="20261120224500 +0000" channel="RAI 1">
-    <title>Doc - Nelle tue mani 4 - Il mondo sulle</title>
-  </programme>
-  <programme start="20261120224500 +0000" stop="20261120225500 +0000" channel="RAI 1">
-    <title>Porta a Porta</title>
-  </programme>
-  <programme start="20261120225500 +0000" stop="20261120230000 +0000" channel="RAI 1">
-    <title>TG1 Sera</title>
   </programme>
   <programme start="20261120230000 +0000" stop="20261121003000 +0000" channel="RAI 1">
     <title>Porta a Porta</title>
@@ -6039,7 +6126,7 @@
   <programme start="20261121053000 +0000" stop="20261121055800 +0000" channel="RAI 1">
     <title>TG1</title>
   </programme>
-  <programme start="20261121055800 +0000" stop="20261121230000 +0000" channel="RAI 1">
+  <programme start="20261121055800 +0000" stop="20261121060000 +0000" channel="RAI 1">
     <title>Che tempo fa</title>
   </programme>
   <programme start="20261119013400 +0000" stop="20261119013500 +0000" channel="RAI 2">
@@ -6063,113 +6150,116 @@
   <programme start="20261119041000 +0000" stop="20261119050000 +0000" channel="RAI 2">
     <title>La grande vallata</title>
   </programme>
-  <programme start="20261119050000 +0000" stop="20261119235000 +0000" channel="RAI 2">
+  <programme start="20261119050000 +0000" stop="20261119060500 +0000" channel="RAI 2">
     <title>Radio2 Social Club</title>
   </programme>
-  <programme start="20261119235000 +0000" stop="20261120013400 +0000" channel="RAI 2">
-    <title>Georgetown</title>
+  <programme start="20261119060500 +0000" stop="20261119064500 +0000" channel="RAI 2">
+    <title>Baywatch Ricordi</title>
   </programme>
-  <programme start="20261120013400 +0000" stop="20261120013500 +0000" channel="RAI 2">
+  <programme start="20261119064500 +0000" stop="20261119073000 +0000" channel="RAI 2">
+    <title>Baywatch Corsa contro il tempo 1^ parte</title>
+  </programme>
+  <programme start="20261119073000 +0000" stop="20261119074500 +0000" channel="RAI 2">
+    <title>TG2</title>
+  </programme>
+  <programme start="20261119074500 +0000" stop="20261119085800 +0000" channel="RAI 2">
+    <title>Radio2 Social Club</title>
+  </programme>
+  <programme start="20261119085800 +0000" stop="20261119090000 +0000" channel="RAI 2">
     <title>Meteo 2</title>
   </programme>
-  <programme start="20261120013500 +0000" stop="20261120023000 +0000" channel="RAI 2">
+  <programme start="20261119090000 +0000" stop="20261119095500 +0000" channel="RAI 2">
+    <title>TG2 Italia Europa</title>
+  </programme>
+  <programme start="20261119095500 +0000" stop="20261119100000 +0000" channel="RAI 2">
+    <title>TG2 Flash</title>
+  </programme>
+  <programme start="20261119100000 +0000" stop="20261119101000 +0000" channel="RAI 2">
+    <title>TG Sport</title>
+  </programme>
+  <programme start="20261119101000 +0000" stop="20261119120000 +0000" channel="RAI 2">
+    <title>I Fatti Vostri</title>
+  </programme>
+  <programme start="20261119120000 +0000" stop="20261119123000 +0000" channel="RAI 2">
+    <title>TG2 - GIORNO</title>
+  </programme>
+  <programme start="20261119123000 +0000" stop="20261119125000 +0000" channel="RAI 2">
+    <title>TG2 Tutto il bello che c'e'</title>
+  </programme>
+  <programme start="20261119125000 +0000" stop="20261119130000 +0000" channel="RAI 2">
+    <title>TG2 Medicina 33</title>
+  </programme>
+  <programme start="20261119130000 +0000" stop="20261119130500 +0000" channel="RAI 2">
+    <title>2 di Picche</title>
+  </programme>
+  <programme start="20261119130500 +0000" stop="20261119143000 +0000" channel="RAI 2">
+    <title>Ore 14</title>
+  </programme>
+  <programme start="20261119143000 +0000" stop="20261119160000 +0000" channel="RAI 2">
+    <title>Bellama'</title>
+  </programme>
+  <programme start="20261119160000 +0000" stop="20261119170000 +0000" channel="RAI 2">
+    <title>La Porta magica</title>
+  </programme>
+  <programme start="20261119170000 +0000" stop="20261119171000 +0000" channel="RAI 2">
+    <title>Rai Parlamento Telegiornale</title>
+  </programme>
+  <programme start="20261119171000 +0000" stop="20261119171500 +0000" channel="RAI 2">
+    <title>TG2 L.I.S.</title>
+  </programme>
+  <programme start="20261119171500 +0000" stop="20261119173500 +0000" channel="RAI 2">
+    <title>TG2</title>
+  </programme>
+  <programme start="20261119173500 +0000" stop="20261119175800 +0000" channel="RAI 2">
+    <title>TG Sport</title>
+  </programme>
+  <programme start="20261119175800 +0000" stop="20261119180000 +0000" channel="RAI 2">
+    <title>Meteo 2</title>
+  </programme>
+  <programme start="20261119180000 +0000" stop="20261119184500 +0000" channel="RAI 2">
+    <title>Blue Bloods Un nuovo Reagan</title>
+  </programme>
+  <programme start="20261119184500 +0000" stop="20261119193000 +0000" channel="RAI 2">
+    <title>Blue Bloods La resa</title>
+  </programme>
+  <programme start="20261119193000 +0000" stop="20261119200000 +0000" channel="RAI 2">
+    <title>TG2 - 20.30</title>
+  </programme>
+  <programme start="20261119200000 +0000" stop="20261119202000 +0000" channel="RAI 2">
+    <title>TG2 Post</title>
+  </programme>
+  <programme start="20261119202000 +0000" stop="20261119231500 +0000" channel="RAI 2">
+    <title>Ore 14 Sera</title>
+  </programme>
+  <programme start="20261119231500 +0000" stop="20261120005800 +0000" channel="RAI 2">
+    <title>The Startup - Accendi il tuo futuro</title>
+  </programme>
+  <programme start="20261120005800 +0000" stop="20261120010000 +0000" channel="RAI 2">
+    <title>Meteo 2</title>
+  </programme>
+  <programme start="20261120010000 +0000" stop="20261120015500 +0000" channel="RAI 2">
     <title>Hotel Portofino</title>
   </programme>
-  <programme start="20261120023000 +0000" stop="20261120024000 +0000" channel="RAI 2">
-    <title>Zio Gianni</title>
+  <programme start="20261120015500 +0000" stop="20261120024000 +0000" channel="RAI 2">
+    <title>Rex</title>
   </programme>
   <programme start="20261120024000 +0000" stop="20261120025000 +0000" channel="RAI 2">
+    <title>Zio Gianni</title>
+  </programme>
+  <programme start="20261120025000 +0000" stop="20261120030000 +0000" channel="RAI 2">
     <title>Impazienti</title>
   </programme>
-  <programme start="20261120025000 +0000" stop="20261120032000 +0000" channel="RAI 2">
+  <programme start="20261120030000 +0000" stop="20261120032000 +0000" channel="RAI 2">
     <title>Piloti</title>
   </programme>
   <programme start="20261120032000 +0000" stop="20261120041000 +0000" channel="RAI 2">
-    <title>Medici in corsia Coraggio!</title>
+    <title>Medici in corsia Punti di rottura</title>
   </programme>
   <programme start="20261120041000 +0000" stop="20261120050000 +0000" channel="RAI 2">
     <title>La grande vallata</title>
   </programme>
-  <programme start="20261120050000 +0000" stop="20261120060500 +0000" channel="RAI 2">
+  <programme start="20261120050000 +0000" stop="20261120231500 +0000" channel="RAI 2">
     <title>Radio2 Social Club</title>
-  </programme>
-  <programme start="20261120060500 +0000" stop="20261120064500 +0000" channel="RAI 2">
-    <title>Baywatch Ricordi</title>
-  </programme>
-  <programme start="20261120064500 +0000" stop="20261120073000 +0000" channel="RAI 2">
-    <title>Baywatch Corsa contro il tempo 1^ parte</title>
-  </programme>
-  <programme start="20261120073000 +0000" stop="20261120074500 +0000" channel="RAI 2">
-    <title>TG2</title>
-  </programme>
-  <programme start="20261120074500 +0000" stop="20261120085800 +0000" channel="RAI 2">
-    <title>Radio2 Social Club</title>
-  </programme>
-  <programme start="20261120085800 +0000" stop="20261120090000 +0000" channel="RAI 2">
-    <title>Meteo 2</title>
-  </programme>
-  <programme start="20261120090000 +0000" stop="20261120095500 +0000" channel="RAI 2">
-    <title>TG2 Italia Europa</title>
-  </programme>
-  <programme start="20261120095500 +0000" stop="20261120100000 +0000" channel="RAI 2">
-    <title>TG2 Flash</title>
-  </programme>
-  <programme start="20261120100000 +0000" stop="20261120101000 +0000" channel="RAI 2">
-    <title>TG Sport</title>
-  </programme>
-  <programme start="20261120101000 +0000" stop="20261120120000 +0000" channel="RAI 2">
-    <title>I Fatti Vostri</title>
-  </programme>
-  <programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="RAI 2">
-    <title>TG2 - GIORNO</title>
-  </programme>
-  <programme start="20261120123000 +0000" stop="20261120125000 +0000" channel="RAI 2">
-    <title>TG2 Tutto il bello che c'e'</title>
-  </programme>
-  <programme start="20261120125000 +0000" stop="20261120130000 +0000" channel="RAI 2">
-    <title>TG2 Medicina 33</title>
-  </programme>
-  <programme start="20261120130000 +0000" stop="20261120130500 +0000" channel="RAI 2">
-    <title>2 di Picche</title>
-  </programme>
-  <programme start="20261120130500 +0000" stop="20261120143000 +0000" channel="RAI 2">
-    <title>Ore 14</title>
-  </programme>
-  <programme start="20261120143000 +0000" stop="20261120160000 +0000" channel="RAI 2">
-    <title>Bellama'</title>
-  </programme>
-  <programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="RAI 2">
-    <title>La Porta magica</title>
-  </programme>
-  <programme start="20261120170000 +0000" stop="20261120171000 +0000" channel="RAI 2">
-    <title>Rai Parlamento Telegiornale</title>
-  </programme>
-  <programme start="20261120171000 +0000" stop="20261120171500 +0000" channel="RAI 2">
-    <title>TG2 L.I.S.</title>
-  </programme>
-  <programme start="20261120171500 +0000" stop="20261120173500 +0000" channel="RAI 2">
-    <title>TG2</title>
-  </programme>
-  <programme start="20261120173500 +0000" stop="20261120175800 +0000" channel="RAI 2">
-    <title>TG Sport</title>
-  </programme>
-  <programme start="20261120175800 +0000" stop="20261120180000 +0000" channel="RAI 2">
-    <title>Meteo 2</title>
-  </programme>
-  <programme start="20261120180000 +0000" stop="20261120184500 +0000" channel="RAI 2">
-    <title>Blue Bloods Un nuovo Reagan</title>
-  </programme>
-  <programme start="20261120184500 +0000" stop="20261120193000 +0000" channel="RAI 2">
-    <title>Blue Bloods La resa</title>
-  </programme>
-  <programme start="20261120193000 +0000" stop="20261120200000 +0000" channel="RAI 2">
-    <title>TG2 - 20.30</title>
-  </programme>
-  <programme start="20261120200000 +0000" stop="20261120202000 +0000" channel="RAI 2">
-    <title>TG2 Post</title>
-  </programme>
-  <programme start="20261120202000 +0000" stop="20261120231500 +0000" channel="RAI 2">
-    <title>Ore 14 Sera</title>
   </programme>
   <programme start="20261120231500 +0000" stop="20261121005800 +0000" channel="RAI 2">
     <title>The Startup - Accendi il tuo futuro</title>
@@ -6198,7 +6288,7 @@
   <programme start="20261121041000 +0000" stop="20261121050000 +0000" channel="RAI 2">
     <title>La grande vallata</title>
   </programme>
-  <programme start="20261121050000 +0000" stop="20261121231500 +0000" channel="RAI 2">
+  <programme start="20261121050000 +0000" stop="20261121060500 +0000" channel="RAI 2">
     <title>Radio2 Social Club</title>
   </programme>
   <programme start="20261119000000 +0000" stop="20261119000500 +0000" channel="RAI 3">
@@ -6219,8 +6309,95 @@
   <programme start="20261119013000 +0000" stop="20261119050000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
   </programme>
-  <programme start="20261119050000 +0000" stop="20261119230000 +0000" channel="RAI 3">
+  <programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
+  </programme>
+  <programme start="20261119060000 +0000" stop="20261119063000 +0000" channel="RAI 3">
+    <title>TGR Buongiorno Italia</title>
+  </programme>
+  <programme start="20261119063000 +0000" stop="20261119070000 +0000" channel="RAI 3">
+    <title>TGR Buongiorno Regione</title>
+  </programme>
+  <programme start="20261119070000 +0000" stop="20261119085000 +0000" channel="RAI 3">
+    <title>Agorà</title>
+  </programme>
+  <programme start="20261119085000 +0000" stop="20261119094500 +0000" channel="RAI 3">
+    <title>Agorà Extra</title>
+  </programme>
+  <programme start="20261119094500 +0000" stop="20261119105500 +0000" channel="RAI 3">
+    <title>Elisir</title>
+  </programme>
+  <programme start="20261119105500 +0000" stop="20261119110000 +0000" channel="RAI 3">
+    <title>Meteo 3</title>
+  </programme>
+  <programme start="20261119110000 +0000" stop="20261119112500 +0000" channel="RAI 3">
+    <title>TG3</title>
+  </programme>
+  <programme start="20261119112500 +0000" stop="20261119114500 +0000" channel="RAI 3">
+    <title>TG3 Fuori TG</title>
+  </programme>
+  <programme start="20261119114500 +0000" stop="20261119122000 +0000" channel="RAI 3">
+    <title>Quante storie</title>
+  </programme>
+  <programme start="20261119122000 +0000" stop="20261119130000 +0000" channel="RAI 3">
+    <title>Passato e Presente: I ruggenti anni '20</title>
+  </programme>
+  <programme start="20261119130000 +0000" stop="20261119131900 +0000" channel="RAI 3">
+    <title>TG Regione</title>
+  </programme>
+  <programme start="20261119131900 +0000" stop="20261119132000 +0000" channel="RAI 3">
+    <title>TG Regione Meteo</title>
+  </programme>
+  <programme start="20261119132000 +0000" stop="20261119134900 +0000" channel="RAI 3">
+    <title>TG3</title>
+  </programme>
+  <programme start="20261119134900 +0000" stop="20261119135000 +0000" channel="RAI 3">
+    <title>Meteo 3</title>
+  </programme>
+  <programme start="20261119135000 +0000" stop="20261119140500 +0000" channel="RAI 3">
+    <title>LEONARDO</title>
+  </programme>
+  <programme start="20261119140500 +0000" stop="20261119141500 +0000" channel="RAI 3">
+    <title>PIAZZA AFFARI</title>
+  </programme>
+  <programme start="20261119141500 +0000" stop="20261119142000 +0000" channel="RAI 3">
+    <title>TG3 LIS</title>
+  </programme>
+  <programme start="20261119142000 +0000" stop="20261119142500 +0000" channel="RAI 3">
+    <title>Rai Parlamento Telegiornale</title>
+  </programme>
+  <programme start="20261119142500 +0000" stop="20261119151000 +0000" channel="RAI 3">
+    <title>Last Cop - L'ultimo sbirro</title>
+  </programme>
+  <programme start="20261119151000 +0000" stop="20261119160000 +0000" channel="RAI 3">
+    <title>Aspettando Geo</title>
+  </programme>
+  <programme start="20261119160000 +0000" stop="20261119180000 +0000" channel="RAI 3">
+    <title>Geo</title>
+  </programme>
+  <programme start="20261119180000 +0000" stop="20261119183000 +0000" channel="RAI 3">
+    <title>TG3</title>
+  </programme>
+  <programme start="20261119183000 +0000" stop="20261119185100 +0000" channel="RAI 3">
+    <title>TG Regione</title>
+  </programme>
+  <programme start="20261119185100 +0000" stop="20261119190000 +0000" channel="RAI 3">
+    <title>TG Regione Meteo</title>
+  </programme>
+  <programme start="20261119190000 +0000" stop="20261119191500 +0000" channel="RAI 3">
+    <title>Blob</title>
+  </programme>
+  <programme start="20261119191500 +0000" stop="20261119193500 +0000" channel="RAI 3">
+    <title>Generazione Bellezza</title>
+  </programme>
+  <programme start="20261119193500 +0000" stop="20261119194500 +0000" channel="RAI 3">
+    <title>Il Cavallo e la Torre</title>
+  </programme>
+  <programme start="20261119194500 +0000" stop="20261119201500 +0000" channel="RAI 3">
+    <title>Un posto al sole</title>
+  </programme>
+  <programme start="20261119201500 +0000" stop="20261119230000 +0000" channel="RAI 3">
+    <title>Splendida Cornice</title>
   </programme>
   <programme start="20261119230000 +0000" stop="20261120000000 +0000" channel="RAI 3">
     <title>TG3 Linea Notte</title>
@@ -6231,107 +6408,17 @@
   <programme start="20261120000500 +0000" stop="20261120001500 +0000" channel="RAI 3">
     <title>TG- Magazine</title>
   </programme>
-  <programme start="20261120001500 +0000" stop="20261120002500 +0000" channel="RAI 3">
-    <title>sVista</title>
+  <programme start="20261120001500 +0000" stop="20261120004500 +0000" channel="RAI 3">
+    <title>Save the Date Incontri, Arti e Cultura</title>
   </programme>
-  <programme start="20261120002500 +0000" stop="20261120005500 +0000" channel="RAI 3">
-    <title>Sorgente di vita Rubrica di vita e cultu</title>
+  <programme start="20261120004500 +0000" stop="20261120013500 +0000" channel="RAI 3">
+    <title>Tappeto Rosso</title>
   </programme>
-  <programme start="20261120005500 +0000" stop="20261120013000 +0000" channel="RAI 3">
-    <title>Sulla via di Damasco</title>
-  </programme>
-  <programme start="20261120013000 +0000" stop="20261120050000 +0000" channel="RAI 3">
+  <programme start="20261120013500 +0000" stop="20261120050000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
   </programme>
-  <programme start="20261120050000 +0000" stop="20261120060000 +0000" channel="RAI 3">
+  <programme start="20261120050000 +0000" stop="20261120230000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
-  </programme>
-  <programme start="20261120060000 +0000" stop="20261120063000 +0000" channel="RAI 3">
-    <title>TGR Buongiorno Italia</title>
-  </programme>
-  <programme start="20261120063000 +0000" stop="20261120070000 +0000" channel="RAI 3">
-    <title>TGR Buongiorno Regione</title>
-  </programme>
-  <programme start="20261120070000 +0000" stop="20261120085000 +0000" channel="RAI 3">
-    <title>Agorà</title>
-  </programme>
-  <programme start="20261120085000 +0000" stop="20261120094500 +0000" channel="RAI 3">
-    <title>Agorà Extra</title>
-  </programme>
-  <programme start="20261120094500 +0000" stop="20261120105500 +0000" channel="RAI 3">
-    <title>Elisir</title>
-  </programme>
-  <programme start="20261120105500 +0000" stop="20261120110000 +0000" channel="RAI 3">
-    <title>Meteo 3</title>
-  </programme>
-  <programme start="20261120110000 +0000" stop="20261120112500 +0000" channel="RAI 3">
-    <title>TG3</title>
-  </programme>
-  <programme start="20261120112500 +0000" stop="20261120114500 +0000" channel="RAI 3">
-    <title>TG3 Fuori TG</title>
-  </programme>
-  <programme start="20261120114500 +0000" stop="20261120122000 +0000" channel="RAI 3">
-    <title>Quante storie</title>
-  </programme>
-  <programme start="20261120122000 +0000" stop="20261120130000 +0000" channel="RAI 3">
-    <title>Passato e Presente: I ruggenti anni '20</title>
-  </programme>
-  <programme start="20261120130000 +0000" stop="20261120131900 +0000" channel="RAI 3">
-    <title>TG Regione</title>
-  </programme>
-  <programme start="20261120131900 +0000" stop="20261120132000 +0000" channel="RAI 3">
-    <title>TG Regione Meteo</title>
-  </programme>
-  <programme start="20261120132000 +0000" stop="20261120134900 +0000" channel="RAI 3">
-    <title>TG3</title>
-  </programme>
-  <programme start="20261120134900 +0000" stop="20261120135000 +0000" channel="RAI 3">
-    <title>Meteo 3</title>
-  </programme>
-  <programme start="20261120135000 +0000" stop="20261120140500 +0000" channel="RAI 3">
-    <title>LEONARDO</title>
-  </programme>
-  <programme start="20261120140500 +0000" stop="20261120141500 +0000" channel="RAI 3">
-    <title>PIAZZA AFFARI</title>
-  </programme>
-  <programme start="20261120141500 +0000" stop="20261120142000 +0000" channel="RAI 3">
-    <title>TG3 LIS</title>
-  </programme>
-  <programme start="20261120142000 +0000" stop="20261120142500 +0000" channel="RAI 3">
-    <title>Rai Parlamento Telegiornale</title>
-  </programme>
-  <programme start="20261120142500 +0000" stop="20261120151000 +0000" channel="RAI 3">
-    <title>Last Cop - L'ultimo sbirro</title>
-  </programme>
-  <programme start="20261120151000 +0000" stop="20261120160000 +0000" channel="RAI 3">
-    <title>Aspettando Geo</title>
-  </programme>
-  <programme start="20261120160000 +0000" stop="20261120180000 +0000" channel="RAI 3">
-    <title>Geo</title>
-  </programme>
-  <programme start="20261120180000 +0000" stop="20261120183000 +0000" channel="RAI 3">
-    <title>TG3</title>
-  </programme>
-  <programme start="20261120183000 +0000" stop="20261120185100 +0000" channel="RAI 3">
-    <title>TG Regione</title>
-  </programme>
-  <programme start="20261120185100 +0000" stop="20261120190000 +0000" channel="RAI 3">
-    <title>TG Regione Meteo</title>
-  </programme>
-  <programme start="20261120190000 +0000" stop="20261120191500 +0000" channel="RAI 3">
-    <title>Blob</title>
-  </programme>
-  <programme start="20261120191500 +0000" stop="20261120193500 +0000" channel="RAI 3">
-    <title>Generazione Bellezza</title>
-  </programme>
-  <programme start="20261120193500 +0000" stop="20261120194500 +0000" channel="RAI 3">
-    <title>Il Cavallo e la Torre</title>
-  </programme>
-  <programme start="20261120194500 +0000" stop="20261120201500 +0000" channel="RAI 3">
-    <title>Un posto al sole</title>
-  </programme>
-  <programme start="20261120201500 +0000" stop="20261120230000 +0000" channel="RAI 3">
-    <title>Splendida Cornice</title>
   </programme>
   <programme start="20261120230000 +0000" stop="20261121000000 +0000" channel="RAI 3">
     <title>TG3 Linea Notte</title>
@@ -6351,7 +6438,7 @@
   <programme start="20261121013500 +0000" stop="20261121050000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
   </programme>
-  <programme start="20261121050000 +0000" stop="20261121230000 +0000" channel="RAI 3">
+  <programme start="20261121050000 +0000" stop="20261121060000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
   </programme>
   <programme start="20261119010000 +0000" stop="20261119043000 +0000" channel="One MT">
@@ -6777,6 +6864,15 @@
   <programme start="20261120225000 +0000" stop="20261120233000 +0000" channel="TVE Internacional">
     <title>En Portada</title>
   </programme>
+  <programme start="20261120233000 +0000" stop="20261121002500 +0000" channel="TVE Internacional">
+    <title>Sukha</title>
+  </programme>
+  <programme start="20261121002500 +0000" stop="20261121050000 +0000" channel="TVE Internacional">
+    <title>Noticias 24h</title>
+  </programme>
+  <programme start="20261121050000 +0000" stop="20261121060000 +0000" channel="TVE Internacional">
+    <title>Noticias 24h</title>
+  </programme>
   <programme start="20261119003000 +0000" stop="20261119005500 +0000" channel="Channel 5">
     <title>Cops</title>
   </programme>
@@ -6918,10 +7014,10 @@
   <programme start="20261120030000 +0000" stop="20261120032500 +0000" channel="Channel 5">
     <title>**Visually Signed**The Wonderful..</title>
   </programme>
-  <programme start="20261120032500 +0000" stop="20261120034500 +0000" channel="Channel 5">
+  <programme start="20261120032500 +0000" stop="20261120035000 +0000" channel="Channel 5">
     <title>**Visually Signed**The Wonderful..</title>
   </programme>
-  <programme start="20261120034500 +0000" stop="20261120041500 +0000" channel="Channel 5">
+  <programme start="20261120035000 +0000" stop="20261120041500 +0000" channel="Channel 5">
     <title>**Visually Signed**The Wonderful..</title>
   </programme>
   <programme start="20261120041500 +0000" stop="20261120043500 +0000" channel="Channel 5">
@@ -7096,7 +7192,7 @@
     <title>Cruise TV with LoveitBookit</title>
   </programme>
   <programme start="20261119080000 +0000" stop="20261119090000 +0000" channel="5ACTION">
-    <title>Cruise TV with LoveitBookit</title>
+    <title>New: Cruise TV with LoveitBookit</title>
   </programme>
   <programme start="20261119090000 +0000" stop="20261119091000 +0000" channel="5ACTION">
     <title>Entertainment News on 5</title>
@@ -7159,15 +7255,15 @@
     <title>Cops</title>
   </programme>
   <programme start="20261120010000 +0000" stop="20261120020000 +0000" channel="5ACTION">
-    <title>999 Emergency: Winter Road Rescue</title>
+    <title>Winter Road Rescue</title>
   </programme>
   <programme start="20261120020000 +0000" stop="20261120030000 +0000" channel="5ACTION">
     <title>Trucking Hell</title>
   </programme>
-  <programme start="20261120030000 +0000" stop="20261120035000 +0000" channel="5ACTION">
+  <programme start="20261120030000 +0000" stop="20261120035500 +0000" channel="5ACTION">
     <title>Trucking Hell</title>
   </programme>
-  <programme start="20261120035000 +0000" stop="20261120040000 +0000" channel="5ACTION">
+  <programme start="20261120035500 +0000" stop="20261120040000 +0000" channel="5ACTION">
     <title>Entertainment News on 5</title>
   </programme>
   <programme start="20261120040000 +0000" stop="20261120060000 +0000" channel="5ACTION">
@@ -7318,7 +7414,7 @@
     <title>Home and Away</title>
   </programme>
   <programme start="20261119183000 +0000" stop="20261119190000 +0000" channel="5STAR">
-    <title>Home and Away</title>
+    <title>New: Home and Away</title>
   </programme>
   <programme start="20261119190000 +0000" stop="20261119200000 +0000" channel="5STAR">
     <title>GPs: Behind Closed Doors</title>
@@ -7432,13 +7528,10 @@
     <title>BBC News</title>
   </programme>
   <programme start="20261119003000 +0000" stop="20261119010000 +0000" channel="BBC News">
-    <title>Newscast</title>
+    <title>The Climate Question</title>
   </programme>
-  <programme start="20261119010000 +0000" stop="20261119013000 +0000" channel="BBC News">
+  <programme start="20261119010000 +0000" stop="20261119020000 +0000" channel="BBC News">
     <title>BBC News</title>
-  </programme>
-  <programme start="20261119013000 +0000" stop="20261119020000 +0000" channel="BBC News">
-    <title>AI Decoded: Is the AI Party Over?</title>
   </programme>
   <programme start="20261119020000 +0000" stop="20261119023000 +0000" channel="BBC News">
     <title>Newsday</title>
@@ -8800,7 +8893,7 @@
     <title>Cozy Christmas with Prices Candles</title>
   </programme>
   <programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="QVC">
-    <title>Ben de Lisi Deals</title>
+    <title>Ben de Lisi Outlet</title>
   </programme>
   <programme start="20261120170000 +0000" stop="20261120180000 +0000" channel="QVC">
     <title>Fashion on Friday with SOYACONCEPT</title>
@@ -8866,13 +8959,13 @@
     <title>Molton Brown Indulgent Gifts</title>
   </programme>
   <programme start="20261119090000 +0000" stop="20261119100000 +0000" channel="QVC Beauty">
-    <title>Must Have Beauty Gifts</title>
+    <title>Molton Brown Indulgent Gifts</title>
   </programme>
   <programme start="20261119100000 +0000" stop="20261119110000 +0000" channel="QVC Beauty">
-    <title>QVC Selection</title>
+    <title>Beauty Tool Gifts</title>
   </programme>
   <programme start="20261119110000 +0000" stop="20261119120000 +0000" channel="QVC Beauty">
-    <title>Gatineau The Gift of Skincare</title>
+    <title>Gatineau Beauty Gifts</title>
   </programme>
   <programme start="20261119120000 +0000" stop="20261119130000 +0000" channel="QVC Beauty">
     <title>Beauty Gift Ideas</title>
@@ -8884,7 +8977,7 @@
     <title>Best of Beauty Gifts</title>
   </programme>
   <programme start="20261119150000 +0000" stop="20261119160000 +0000" channel="QVC Beauty">
-    <title>Nails Inc</title>
+    <title>Nails Inc Christmas Gifts</title>
   </programme>
   <programme start="20261119160000 +0000" stop="20261119170000 +0000" channel="QVC Beauty">
     <title>All New Beauty Gifts of the Season</title>
@@ -8899,16 +8992,16 @@
     <title>Best of Beauty Gifts</title>
   </programme>
   <programme start="20261119200000 +0000" stop="20261119210000 +0000" channel="QVC Beauty">
-    <title>NassifMD Skincare</title>
+    <title>Independent Living</title>
   </programme>
   <programme start="20261119210000 +0000" stop="20261119220000 +0000" channel="QVC Beauty">
-    <title>Liz Earle Radiant Gifts</title>
+    <title>Dyson Haircare</title>
   </programme>
   <programme start="20261119220000 +0000" stop="20261119230000 +0000" channel="QVC Beauty">
-    <title>NEOM Wellbeing London Gifts</title>
+    <title>All New Beauty Gifts of the Season</title>
   </programme>
   <programme start="20261119230000 +0000" stop="20261120000000 +0000" channel="QVC Beauty">
-    <title>QVC Selection</title>
+    <title>Beauty Tool Gifts</title>
   </programme>
   <programme start="20261120000000 +0000" stop="20261120010000 +0000" channel="QVC Beauty">
     <title>Best Of QVC Beauty</title>
@@ -9025,7 +9118,7 @@
     <title>Gifts for Family and Friends</title>
   </programme>
   <programme start="20261119080000 +0000" stop="20261119090000 +0000" channel="QVC Extra">
-    <title>Perfect Gift For Him with Glen</title>
+    <title>Top Tech Gifts for Everyone</title>
   </programme>
   <programme start="20261119090000 +0000" stop="20261119100000 +0000" channel="QVC Extra">
     <title>Kitchen Gifts and Gadgets</title>
@@ -9055,7 +9148,7 @@
     <title>Kitchen Gifts and Gadgets</title>
   </programme>
   <programme start="20261119180000 +0000" stop="20261119190000 +0000" channel="QVC Extra">
-    <title>Cozee Home</title>
+    <title>Spectacular Seasonal Savings: Up to 40%</title>
   </programme>
   <programme start="20261119190000 +0000" stop="20261119200000 +0000" channel="QVC Extra">
     <title>Gifts for Family and Friends</title>
@@ -9163,7 +9256,7 @@
     <title>Best of QVC Extra</title>
   </programme>
   <programme start="20261119000000 +0000" stop="20261119010000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>New to QVC: Party with VILA Clothing</title>
   </programme>
   <programme start="20261119010000 +0000" stop="20261119020000 +0000" channel="QVC Style">
     <title>Ben de Lisi in Season Deals</title>
@@ -9181,43 +9274,43 @@
     <title>Step into Style with Sam</title>
   </programme>
   <programme start="20261119060000 +0000" stop="20261119070000 +0000" channel="QVC Style">
-    <title>Outwear Shop</title>
+    <title>The Outerwear Shop</title>
   </programme>
   <programme start="20261119070000 +0000" stop="20261119080000 +0000" channel="QVC Style">
     <title>Denim &amp; Co</title>
   </programme>
   <programme start="20261119080000 +0000" stop="20261119090000 +0000" channel="QVC Style">
-    <title>Nina Leonard Sale</title>
+    <title>Izabel London Fashion</title>
   </programme>
   <programme start="20261119090000 +0000" stop="20261119100000 +0000" channel="QVC Style">
     <title>New to QVC: Dearfoams Sippers</title>
   </programme>
   <programme start="20261119100000 +0000" stop="20261119110000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Kim &amp; Co</title>
   </programme>
   <programme start="20261119110000 +0000" stop="20261119120000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Vionic Footwear with FMT Technology</title>
   </programme>
   <programme start="20261119120000 +0000" stop="20261119130000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Masai Clothing Copenhagen</title>
   </programme>
   <programme start="20261119130000 +0000" stop="20261119140000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Denim &amp; Co</title>
   </programme>
   <programme start="20261119140000 +0000" stop="20261119150000 +0000" channel="QVC Style">
-    <title>Luxury Jewellery Gifts</title>
+    <title>Luxury Jewellery</title>
   </programme>
   <programme start="20261119150000 +0000" stop="20261119160000 +0000" channel="QVC Style">
     <title>Up to 30% off High Street Fashion</title>
   </programme>
   <programme start="20261119160000 +0000" stop="20261119170000 +0000" channel="QVC Style">
-    <title>Vionic Footwear</title>
+    <title>Vionic Footwear with FMT Technology</title>
   </programme>
   <programme start="20261119170000 +0000" stop="20261119180000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Diamond Spectacular</title>
   </programme>
   <programme start="20261119180000 +0000" stop="20261119190000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Diamond Spectacular</title>
   </programme>
   <programme start="20261119190000 +0000" stop="20261119200000 +0000" channel="QVC Style">
     <title>Luxury Jewellery</title>
@@ -9229,10 +9322,10 @@
     <title>Vionic Footwear</title>
   </programme>
   <programme start="20261119220000 +0000" stop="20261119230000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Kim &amp; Co</title>
   </programme>
   <programme start="20261119230000 +0000" stop="20261120000000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>EMU Footwear</title>
   </programme>
   <programme start="20261120000000 +0000" stop="20261120010000 +0000" channel="QVC Style">
     <title>Best of QVC Style</title>
@@ -9283,7 +9376,7 @@
     <title>Fashion on Friday</title>
   </programme>
   <programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="QVC Style">
-    <title>Best of QVC Style</title>
+    <title>Vero Moda Clothing</title>
   </programme>
   <programme start="20261120170000 +0000" stop="20261120180000 +0000" channel="QVC Style">
     <title>Best of QVC Style</title>
@@ -9298,7 +9391,7 @@
     <title>Fashion on Friday with Julia</title>
   </programme>
   <programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="QVC Style">
-    <title>Winter Accessories with Muk Luks</title>
+    <title>Seasalt Cornwall Fashion</title>
   </programme>
   <programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="QVC Style">
     <title>Best of QVC Style</title>
