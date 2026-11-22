@@ -12,18 +12,6 @@
     <display-name>Eesti Televisioon</display-name>
     <icon src="https://images.open-epg.com/12665079.png" />
   </channel>
-  <channel id="1TV GE">
-    <display-name>1TV GE</display-name>
-    <icon src="https://images.open-epg.com/nologo.png" />
-  </channel>
-  <channel id="Palitra News">
-    <display-name>Palitra News</display-name>
-    <icon src="https://images.open-epg.com/2963.png" />
-  </channel>
-  <channel id="Imedi TV GE">
-    <display-name>Imedi TV GE</display-name>
-    <icon src="https://images.open-epg.com/1995.png" />
-  </channel>
   <channel id="RTS 1 RS">
     <display-name>RTS 1 RS</display-name>
     <icon src="https://images.open-epg.com/nologo.png" />
@@ -31,50 +19,6 @@
   <channel id="Prva RS">
     <display-name>Prva RS</display-name>
     <icon src="https://images.open-epg.com/13789341.png" />
-  </channel>
-  <channel id="360 TR">
-    <display-name>360 TR</display-name>
-    <icon src="https://images.open-epg.com/9752.png" />
-  </channel>
-  <channel id="ATV TR">
-    <display-name>ATV TR</display-name>
-    <icon src="https://images.open-epg.com/9761.png" />
-  </channel>
-  <channel id="Haberturk">
-    <display-name>Haberturk</display-name>
-    <icon src="https://images.open-epg.com/9814.png" />
-  </channel>
-  <channel id="Now TR">
-    <display-name>Now TR</display-name>
-    <icon src="https://images.open-epg.com/9811.png" />
-  </channel>
-  <channel id="NTV RT">
-    <display-name>NTV RT</display-name>
-    <icon src="https://images.open-epg.com/9828.png" />
-  </channel>
-  <channel id="TGRT Haber">
-    <display-name>TGRT Haber</display-name>
-    <icon src="https://images.open-epg.com/9835.png" />
-  </channel>
-  <channel id="TRT 1 TR">
-    <display-name>TRT 1 TR</display-name>
-    <icon src="https://images.open-epg.com/9838.png" />
-  </channel>
-  <channel id="TRT Haber">
-    <display-name>TRT Haber</display-name>
-    <icon src="https://images.open-epg.com/9843.png" />
-  </channel>
-  <channel id="TRT Turk">
-    <display-name>TRT Turk</display-name>
-    <icon src="https://images.open-epg.com/9847.png" />
-  </channel>
-  <channel id="TRT World">
-    <display-name>TRT World</display-name>
-    <icon src="https://images.open-epg.com/9848.png" />
-  </channel>
-  <channel id="TV8 TR">
-    <display-name>TV8 TR</display-name>
-    <icon src="https://images.open-epg.com/9852.png" />
   </channel>
   <channel id="1Plus1 International">
     <display-name>1Plus1 International</display-name>
@@ -354,6 +298,27 @@
     <title>RTSH 1</title>
   </programme>
   <programme start="20261122230000 +0000" stop="20261123070000 +0000" channel="RTSH 1 AL">
+    <title>Programet e RTSH</title>
+  </programme>
+  <programme start="20261123070000 +0000" stop="20261123150000 +0000" channel="RTSH 1 AL">
+    <title>Programet e RTSH</title>
+  </programme>
+  <programme start="20261123150000 +0000" stop="20261123160000 +0000" channel="RTSH 1 AL">
+    <title>RTSH 1</title>
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123180000 +0000" channel="RTSH 1 AL">
+    <title>RTSH 1</title>
+  </programme>
+  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="RTSH 1 AL">
+    <title>RTSH 1</title>
+  </programme>
+  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="RTSH 1 AL">
+    <title>RTSH 1</title>
+  </programme>
+  <programme start="20261123220000 +0000" stop="20261123230000 +0000" channel="RTSH 1 AL">
+    <title>RTSH 1</title>
+  </programme>
+  <programme start="20261123230000 +0000" stop="20261124070000 +0000" channel="RTSH 1 AL">
     <title>Programet e RTSH</title>
   </programme>
   <programme start="20261122005000 +0000" stop="20261122013500 +0000" channel="Vizion Plus AL">
@@ -692,13 +657,10 @@
   <programme start="20261124055500 +0000" stop="20261124090000 +0000" channel="BHT 1 HR">
     <title>Jutro za sve</title>
   </programme>
-  <programme start="20261122000000 +0000" stop="20261122054000 +0000" channel="Federalna TV HR">
-    <title>Kraj programa</title>
-  </programme>
-  <programme start="20261122054000 +0000" stop="20261122061500 +0000" channel="Federalna TV HR">
+  <programme start="20261122054500 +0000" stop="20261122062000 +0000" channel="Federalna TV HR">
     <title>Dnevnik 2</title>
   </programme>
-  <programme start="20261122061500 +0000" stop="20261122070000 +0000" channel="Federalna TV HR">
+  <programme start="20261122062000 +0000" stop="20261122070000 +0000" channel="Federalna TV HR">
     <title>Mozaik religija</title>
   </programme>
   <programme start="20261122070000 +0000" stop="20261122070500 +0000" channel="Federalna TV HR">
@@ -707,19 +669,22 @@
   <programme start="20261122070500 +0000" stop="20261122071000 +0000" channel="Federalna TV HR">
     <title>Svijet na dlanu</title>
   </programme>
-  <programme start="20261122071000 +0000" stop="20261122073500 +0000" channel="Federalna TV HR">
+  <programme start="20261122071000 +0000" stop="20261122072000 +0000" channel="Federalna TV HR">
+    <title>Bibin čarobni svijet</title>
+  </programme>
+  <programme start="20261122072000 +0000" stop="20261122074000 +0000" channel="Federalna TV HR">
     <title>Voz dinosaurusa</title>
   </programme>
-  <programme start="20261122073500 +0000" stop="20261122075000 +0000" channel="Federalna TV HR">
+  <programme start="20261122074000 +0000" stop="20261122075500 +0000" channel="Federalna TV HR">
     <title>Životinjski slučajevi</title>
   </programme>
-  <programme start="20261122075000 +0000" stop="20261122080500 +0000" channel="Federalna TV HR">
+  <programme start="20261122075500 +0000" stop="20261122080500 +0000" channel="Federalna TV HR">
     <title>Super krila</title>
   </programme>
   <programme start="20261122080500 +0000" stop="20261122083000 +0000" channel="Federalna TV HR">
     <title>Sportske igre mladih</title>
   </programme>
-  <programme start="20261122083000 +0000" stop="20261122090000 +0000" channel="Federalna TV HR">
+  <programme start="20261122082500 +0000" stop="20261122090000 +0000" channel="Federalna TV HR">
     <title>ZNZKVI</title>
   </programme>
   <programme start="20261122090000 +0000" stop="20261122090500 +0000" channel="Federalna TV HR">
@@ -728,31 +693,34 @@
   <programme start="20261122090500 +0000" stop="20261122093500 +0000" channel="Federalna TV HR">
     <title>Nađi pronađi</title>
   </programme>
-  <programme start="20261122093500 +0000" stop="20261122100000 +0000" channel="Federalna TV HR">
-    <title>Hayd u Park</title>
+  <programme start="20261122093500 +0000" stop="20261122095000 +0000" channel="Federalna TV HR">
+    <title>Životinjski slučajevi</title>
   </programme>
-  <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="Federalna TV HR">
+  <programme start="20261122095000 +0000" stop="20261122110000 +0000" channel="Federalna TV HR">
     <title>Yellowstone</title>
   </programme>
   <programme start="20261122110000 +0000" stop="20261122111500 +0000" channel="Federalna TV HR">
     <title>Dnevnik 1</title>
   </programme>
-  <programme start="20261122111500 +0000" stop="20261122120500 +0000" channel="Federalna TV HR">
+  <programme start="20261122111500 +0000" stop="20261122120000 +0000" channel="Federalna TV HR">
     <title>Zelena panorama</title>
   </programme>
-  <programme start="20261122120500 +0000" stop="20261122123500 +0000" channel="Federalna TV HR">
+  <programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="Federalna TV HR">
     <title>U žensko ime</title>
   </programme>
-  <programme start="20261122123500 +0000" stop="20261122131000 +0000" channel="Federalna TV HR">
-    <title>Dokumentarni program</title>
+  <programme start="20261122123000 +0000" stop="20261122131000 +0000" channel="Federalna TV HR">
+    <title>Igra riječi i sjena</title>
   </programme>
-  <programme start="20261122131000 +0000" stop="20261122140000 +0000" channel="Federalna TV HR">
+  <programme start="20261122131000 +0000" stop="20261122134500 +0000" channel="Federalna TV HR">
     <title>Art Kvart razgovor</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122140500 +0000" channel="Federalna TV HR">
-    <title>Vijesti</title>
+  <programme start="20261122134500 +0000" stop="20261122140000 +0000" channel="Federalna TV HR">
+    <title>Blijedi jahač</title>
   </programme>
-  <programme start="20261122140500 +0000" stop="20261122160000 +0000" channel="Federalna TV HR">
+  <programme start="20261122140000 +0000" stop="20261122141000 +0000" channel="Federalna TV HR">
+    <title>Vijesti (u prekidu)</title>
+  </programme>
+  <programme start="20261122141000 +0000" stop="20261122160000 +0000" channel="Federalna TV HR">
     <title>Blijedi jahač</title>
   </programme>
   <programme start="20261122160000 +0000" stop="20261122175000 +0000" channel="Federalna TV HR">
@@ -770,28 +738,28 @@
   <programme start="20261122183000 +0000" stop="20261122190500 +0000" channel="Federalna TV HR">
     <title>Dnevnik 2</title>
   </programme>
-  <programme start="20261122190500 +0000" stop="20261122192000 +0000" channel="Federalna TV HR">
+  <programme start="20261122190500 +0000" stop="20261122191500 +0000" channel="Federalna TV HR">
     <title>Sport</title>
   </programme>
-  <programme start="20261122192000 +0000" stop="20261122192500 +0000" channel="Federalna TV HR">
+  <programme start="20261122191500 +0000" stop="20261122192000 +0000" channel="Federalna TV HR">
     <title>Vremenska prognoza</title>
   </programme>
-  <programme start="20261122192500 +0000" stop="20261122204500 +0000" channel="Federalna TV HR">
+  <programme start="20261122192000 +0000" stop="20261122204000 +0000" channel="Federalna TV HR">
     <title>Velo misto</title>
   </programme>
-  <programme start="20261122204500 +0000" stop="20261122205000 +0000" channel="Federalna TV HR">
+  <programme start="20261122204000 +0000" stop="20261122204500 +0000" channel="Federalna TV HR">
     <title>Vijesti</title>
   </programme>
-  <programme start="20261122205000 +0000" stop="20261122214000 +0000" channel="Federalna TV HR">
+  <programme start="20261122204500 +0000" stop="20261122213000 +0000" channel="Federalna TV HR">
     <title>Svijet</title>
   </programme>
-  <programme start="20261122214000 +0000" stop="20261122222500 +0000" channel="Federalna TV HR">
+  <programme start="20261122213000 +0000" stop="20261122222000 +0000" channel="Federalna TV HR">
     <title>Noćni pozivi</title>
   </programme>
-  <programme start="20261122222500 +0000" stop="20261123001500 +0000" channel="Federalna TV HR">
+  <programme start="20261122222000 +0000" stop="20261122234500 +0000" channel="Federalna TV HR">
     <title>22 milje</title>
   </programme>
-  <programme start="20261123001500 +0000" stop="20261123043500 +0000" channel="Federalna TV HR">
+  <programme start="20261122234500 +0000" stop="20261123043500 +0000" channel="Federalna TV HR">
     <title>Kraj programa</title>
   </programme>
   <programme start="20261123043500 +0000" stop="20261123051000 +0000" channel="Federalna TV HR">
@@ -812,115 +780,115 @@
   <programme start="20261123080000 +0000" stop="20261123080500 +0000" channel="Federalna TV HR">
     <title>Vijesti</title>
   </programme>
-  <programme start="20261123080500 +0000" stop="20261123081500 +0000" channel="Federalna TV HR">
-    <title>Bibin čarobni svijet</title>
-  </programme>
-  <programme start="20261123081500 +0000" stop="20261123082000 +0000" channel="Federalna TV HR">
-    <title>Bibin čarobni svijet</title>
-  </programme>
-  <programme start="20261123082000 +0000" stop="20261123083500 +0000" channel="Federalna TV HR">
-    <title>Životinjski slučajevi</title>
-  </programme>
-  <programme start="20261123083500 +0000" stop="20261123084500 +0000" channel="Federalna TV HR">
-    <title>Životinjski slučajevi</title>
-  </programme>
-  <programme start="20261123084500 +0000" stop="20261123090000 +0000" channel="Federalna TV HR">
-    <title>Super krila</title>
-  </programme>
-  <programme start="20261123090000 +0000" stop="20261123090500 +0000" channel="Federalna TV HR">
-    <title>Vijesti</title>
-  </programme>
-  <programme start="20261123090500 +0000" stop="20261123093000 +0000" channel="Federalna TV HR">
+  <programme start="20261123080500 +0000" stop="20261123083000 +0000" channel="Federalna TV HR">
     <title>Voz dinosaurusa</title>
   </programme>
-  <programme start="20261123093000 +0000" stop="20261123100500 +0000" channel="Federalna TV HR">
+  <programme start="20261123081500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
+    <title>Bibin čarobni svijet</title>
+  </programme>
+  <programme start="20261123082000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
+    <title>Životinjski slučajevi</title>
+  </programme>
+  <programme start="20261123083500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
+    <title>Životinjski slučajevi</title>
+  </programme>
+  <programme start="20261123084500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
+    <title>Super krila</title>
+  </programme>
+  <programme start="20261123090000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
+    <title>Vijesti</title>
+  </programme>
+  <programme start="20261123090500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
+    <title>Voz dinosaurusa</title>
+  </programme>
+  <programme start="20261123093500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Nađi pronađi</title>
   </programme>
-  <programme start="20261123100500 +0000" stop="20261123101000 +0000" channel="Federalna TV HR">
+  <programme start="20261123100500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Mini TV: 3Hills Skills</title>
   </programme>
-  <programme start="20261123101000 +0000" stop="20261123101500 +0000" channel="Federalna TV HR">
+  <programme start="20261123101000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Pjesma dana</title>
   </programme>
-  <programme start="20261123101500 +0000" stop="20261123104500 +0000" channel="Federalna TV HR">
+  <programme start="20261123101500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Perspektiva</title>
   </programme>
-  <programme start="20261123104500 +0000" stop="20261123110000 +0000" channel="Federalna TV HR">
+  <programme start="20261123104500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Dok je ljudi mjeriće se vrijeme</title>
   </programme>
-  <programme start="20261123110000 +0000" stop="20261123111500 +0000" channel="Federalna TV HR">
+  <programme start="20261123110000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Dnevnik 1</title>
   </programme>
-  <programme start="20261123111500 +0000" stop="20261123121000 +0000" channel="Federalna TV HR">
+  <programme start="20261123111500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Divlje pčele</title>
   </programme>
-  <programme start="20261123121000 +0000" stop="20261123140000 +0000" channel="Federalna TV HR">
+  <programme start="20261123121000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Blijedi jahač</title>
   </programme>
-  <programme start="20261123140000 +0000" stop="20261123141000 +0000" channel="Federalna TV HR">
+  <programme start="20261123140000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Vijesti (u prekidu)</title>
   </programme>
-  <programme start="20261123141000 +0000" stop="20261123142000 +0000" channel="Federalna TV HR">
+  <programme start="20261123140500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Blijedi jahač</title>
   </programme>
-  <programme start="20261123142000 +0000" stop="20261123150500 +0000" channel="Federalna TV HR">
+  <programme start="20261123141500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Svijet</title>
   </programme>
-  <programme start="20261123150500 +0000" stop="20261123160000 +0000" channel="Federalna TV HR">
+  <programme start="20261123150500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>San snova</title>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123163500 +0000" channel="Federalna TV HR">
+  <programme start="20261123160000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Federacija danas</title>
   </programme>
-  <programme start="20261123163500 +0000" stop="20261123173500 +0000" channel="Federalna TV HR">
+  <programme start="20261123163500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Divlje pčele</title>
   </programme>
-  <programme start="20261123173500 +0000" stop="20261123183000 +0000" channel="Federalna TV HR">
+  <programme start="20261123173000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Sport</title>
   </programme>
-  <programme start="20261123183000 +0000" stop="20261123190500 +0000" channel="Federalna TV HR">
+  <programme start="20261123183000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Dnevnik 2</title>
   </programme>
-  <programme start="20261123190500 +0000" stop="20261123192000 +0000" channel="Federalna TV HR">
+  <programme start="20261123190500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Sport</title>
   </programme>
-  <programme start="20261123192000 +0000" stop="20261123192500 +0000" channel="Federalna TV HR">
+  <programme start="20261123192000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Vremenska prognoza</title>
   </programme>
-  <programme start="20261123192500 +0000" stop="20261123200000 +0000" channel="Federalna TV HR">
+  <programme start="20261123192500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Nacionalna klasa</title>
   </programme>
-  <programme start="20261123200000 +0000" stop="20261123205500 +0000" channel="Federalna TV HR">
+  <programme start="20261123200500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Plenum</title>
   </programme>
-  <programme start="20261123205500 +0000" stop="20261123210000 +0000" channel="Federalna TV HR">
+  <programme start="20261123205500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Vremenska prognoza</title>
   </programme>
-  <programme start="20261123210000 +0000" stop="20261123211500 +0000" channel="Federalna TV HR">
+  <programme start="20261123210000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Dnevnik 3</title>
   </programme>
-  <programme start="20261123211500 +0000" stop="20261123212000 +0000" channel="Federalna TV HR">
+  <programme start="20261123211500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Pjesma dana</title>
   </programme>
-  <programme start="20261123212000 +0000" stop="20261123232000 +0000" channel="Federalna TV HR">
+  <programme start="20261123212000 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>Ram za sliku BH filma: Kozara</title>
   </programme>
-  <programme start="20261123232000 +0000" stop="20261123232500 +0000" channel="Federalna TV HR">
-    <title>Mini TV: 3Hills Skills</title>
-  </programme>
-  <programme start="20261123232500 +0000" stop="20261124001000 +0000" channel="Federalna TV HR">
+  <programme start="20261123232500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
     <title>San snova</title>
   </programme>
-  <programme start="20261124001000 +0000" stop="20261124043000 +0000" channel="Federalna TV HR">
+  <programme start="20261123233500 +0000" stop="20261124000000 +0000" channel="Federalna TV HR">
+    <title>San snova</title>
+  </programme>
+  <programme start="20261124002000 +0000" stop="20261125000000 +0000" channel="Federalna TV HR">
     <title>Kraj programa</title>
   </programme>
-  <programme start="20261124043000 +0000" stop="20261124050000 +0000" channel="Federalna TV HR">
+  <programme start="20261124043000 +0000" stop="20261125000000 +0000" channel="Federalna TV HR">
     <title>Dnevnik 2</title>
   </programme>
-  <programme start="20261124050000 +0000" stop="20261124054500 +0000" channel="Federalna TV HR">
+  <programme start="20261124050000 +0000" stop="20261125000000 +0000" channel="Federalna TV HR">
     <title>Sport</title>
   </programme>
-  <programme start="20261124054500 +0000" stop="20261124070000 +0000" channel="Federalna TV HR">
+  <programme start="20261124054500 +0000" stop="20261125000000 +0000" channel="Federalna TV HR">
     <title>Dobro jutro, Bosno i Hercegovino!</title>
   </programme>
   <programme start="20261122002200 +0000" stop="20261122022100 +0000" channel="HRT 1 HR">
@@ -1166,37 +1134,37 @@
   <programme start="20261122000400 +0000" stop="20261122005100 +0000" channel="HRT 2 HR">
     <title>Čitanje s kraljevskih usana</title>
   </programme>
-  <programme start="20261122005100 +0000" stop="20261122033300 +0000" channel="HRT 2 HR">
+  <programme start="20261122005100 +0000" stop="20261122033200 +0000" channel="HRT 2 HR">
     <title>Noćni glazbeni program - spotovi</title>
   </programme>
-  <programme start="20261122033300 +0000" stop="20261122040300 +0000" channel="HRT 2 HR">
+  <programme start="20261122033200 +0000" stop="20261122040200 +0000" channel="HRT 2 HR">
     <title>Kućni ljubimci</title>
   </programme>
-  <programme start="20261122040300 +0000" stop="20261122043300 +0000" channel="HRT 2 HR">
+  <programme start="20261122040200 +0000" stop="20261122043200 +0000" channel="HRT 2 HR">
     <title>Fino i vino</title>
   </programme>
-  <programme start="20261122043300 +0000" stop="20261122050400 +0000" channel="HRT 2 HR">
+  <programme start="20261122043200 +0000" stop="20261122050300 +0000" channel="HRT 2 HR">
     <title>Rekreacija</title>
   </programme>
-  <programme start="20261122050400 +0000" stop="20261122054800 +0000" channel="HRT 2 HR">
+  <programme start="20261122050300 +0000" stop="20261122054700 +0000" channel="HRT 2 HR">
     <title>Velečasni Brown, serija</title>
   </programme>
-  <programme start="20261122054800 +0000" stop="20261122063600 +0000" channel="HRT 2 HR">
+  <programme start="20261122054700 +0000" stop="20261122063500 +0000" channel="HRT 2 HR">
     <title>Velečasni Brown, serija</title>
   </programme>
-  <programme start="20261122063600 +0000" stop="20261122073200 +0000" channel="HRT 2 HR">
+  <programme start="20261122063500 +0000" stop="20261122073200 +0000" channel="HRT 2 HR">
     <title>Posljednji tango u Halifaxu, serija</title>
   </programme>
-  <programme start="20261122073200 +0000" stop="20261122083000 +0000" channel="HRT 2 HR">
+  <programme start="20261122073200 +0000" stop="20261122082900 +0000" channel="HRT 2 HR">
     <title>Posljednji tango u Halifaxu, serija</title>
   </programme>
-  <programme start="20261122083000 +0000" stop="20261122092500 +0000" channel="HRT 2 HR">
+  <programme start="20261122082900 +0000" stop="20261122092500 +0000" channel="HRT 2 HR">
     <title>Grantchester, serija</title>
   </programme>
-  <programme start="20261122092500 +0000" stop="20261122102900 +0000" channel="HRT 2 HR">
+  <programme start="20261122092500 +0000" stop="20261122102700 +0000" channel="HRT 2 HR">
     <title>UŽIVO: Skijanje, Svjetski Kup: Gurgl - slalom (M), prijenos 1. vožnje</title>
   </programme>
-  <programme start="20261122102900 +0000" stop="20261122122500 +0000" channel="HRT 2 HR">
+  <programme start="20261122102700 +0000" stop="20261122122500 +0000" channel="HRT 2 HR">
     <title>Povijesti slučajeva, serija</title>
   </programme>
   <programme start="20261122122500 +0000" stop="20261122132400 +0000" channel="HRT 2 HR">
@@ -1208,46 +1176,46 @@
   <programme start="20261122135500 +0000" stop="20261122145600 +0000" channel="HRT 2 HR">
     <title>UŽIVO: SuperSport HNL: Dinamo - Istra 1961, 1.pol.</title>
   </programme>
-  <programme start="20261122145600 +0000" stop="20261122150600 +0000" channel="HRT 2 HR">
-    <title>Sportsko srce</title>
+  <programme start="20261122145600 +0000" stop="20261122150800 +0000" channel="HRT 2 HR">
+    <title>Sportsko srce: Dino Sinovčić</title>
   </programme>
-  <programme start="20261122150600 +0000" stop="20261122155600 +0000" channel="HRT 2 HR">
+  <programme start="20261122150800 +0000" stop="20261122160000 +0000" channel="HRT 2 HR">
     <title>UŽIVO: SuperSport HNL: Dinamo - Istra 1961, 2.pol.</title>
   </programme>
-  <programme start="20261122155600 +0000" stop="20261122161500 +0000" channel="HRT 2 HR">
+  <programme start="20261122160000 +0000" stop="20261122161900 +0000" channel="HRT 2 HR">
     <title>Sportsko srce: Matea Jelić</title>
   </programme>
-  <programme start="20261122161500 +0000" stop="20261122170300 +0000" channel="HRT 2 HR">
+  <programme start="20261122161900 +0000" stop="20261122170500 +0000" channel="HRT 2 HR">
     <title>Ide auto: Fićo</title>
   </programme>
-  <programme start="20261122170300 +0000" stop="20261122174200 +0000" channel="HRT 2 HR">
+  <programme start="20261122170500 +0000" stop="20261122174400 +0000" channel="HRT 2 HR">
     <title>Lijepe naše, serija</title>
   </programme>
-  <programme start="20261122174200 +0000" stop="20261122175900 +0000" channel="HRT 2 HR">
+  <programme start="20261122174400 +0000" stop="20261122180100 +0000" channel="HRT 2 HR">
     <title>Moj album: Danko Volarić</title>
   </programme>
-  <programme start="20261122175900 +0000" stop="20261122191500 +0000" channel="HRT 2 HR">
+  <programme start="20261122180100 +0000" stop="20261122191500 +0000" channel="HRT 2 HR">
     <title>Klapa Cambi - 40 godina, Kd Vatroslav Lisinski, 15. ožuka 2026., 1.dio</title>
   </programme>
   <programme start="20261122191500 +0000" stop="20261122200500 +0000" channel="HRT 2 HR">
     <title>Elizabeth Taylor, buntovnica i superzvijezda</title>
   </programme>
-  <programme start="20261122200500 +0000" stop="20261122211100 +0000" channel="HRT 2 HR">
+  <programme start="20261122200500 +0000" stop="20261122211200 +0000" channel="HRT 2 HR">
     <title>Stadion</title>
   </programme>
-  <programme start="20261122211100 +0000" stop="20261122220700 +0000" channel="HRT 2 HR">
+  <programme start="20261122211200 +0000" stop="20261122220900 +0000" channel="HRT 2 HR">
     <title>Bogovi tenisa: Billie Jean King i Arthur Ashe</title>
   </programme>
-  <programme start="20261122220700 +0000" stop="20261122235700 +0000" channel="HRT 2 HR">
+  <programme start="20261122220900 +0000" stop="20261122235800 +0000" channel="HRT 2 HR">
     <title>Povijesti slučajeva, serija</title>
   </programme>
-  <programme start="20261122235700 +0000" stop="20261123004300 +0000" channel="HRT 2 HR">
+  <programme start="20261122235800 +0000" stop="20261123004400 +0000" channel="HRT 2 HR">
     <title>Grantchester, serija</title>
   </programme>
-  <programme start="20261123004300 +0000" stop="20261123010900 +0000" channel="HRT 2 HR">
+  <programme start="20261123004400 +0000" stop="20261123011100 +0000" channel="HRT 2 HR">
     <title>Svijet zabave</title>
   </programme>
-  <programme start="20261123010900 +0000" stop="20261123033100 +0000" channel="HRT 2 HR">
+  <programme start="20261123011100 +0000" stop="20261123033100 +0000" channel="HRT 2 HR">
     <title>Noćni glazbeni program - spotovi</title>
   </programme>
   <programme start="20261123033100 +0000" stop="20261123043100 +0000" channel="HRT 2 HR">
@@ -1367,10 +1335,10 @@
   <programme start="20261122053200 +0000" stop="20261122053500 +0000" channel="HRT 3 HR">
     <title>Sićušna čuda</title>
   </programme>
-  <programme start="20261122053500 +0000" stop="20261122055700 +0000" channel="HRT 3 HR">
+  <programme start="20261122053500 +0000" stop="20261122055800 +0000" channel="HRT 3 HR">
     <title>Psići u ophodnji</title>
   </programme>
-  <programme start="20261122055700 +0000" stop="20261122060600 +0000" channel="HRT 3 HR">
+  <programme start="20261122055800 +0000" stop="20261122060600 +0000" channel="HRT 3 HR">
     <title>Oggy Oggy</title>
   </programme>
   <programme start="20261122060600 +0000" stop="20261122061100 +0000" channel="HRT 3 HR">
@@ -1388,16 +1356,16 @@
   <programme start="20261122062800 +0000" stop="20261122063000 +0000" channel="HRT 3 HR">
     <title>Mališani</title>
   </programme>
-  <programme start="20261122063000 +0000" stop="20261122063300 +0000" channel="HRT 3 HR">
+  <programme start="20261122063000 +0000" stop="20261122063400 +0000" channel="HRT 3 HR">
     <title>FUJ - Fina Ukusna Jela: Tortilje s brusnicama</title>
   </programme>
-  <programme start="20261122063300 +0000" stop="20261122064000 +0000" channel="HRT 3 HR">
+  <programme start="20261122063400 +0000" stop="20261122064100 +0000" channel="HRT 3 HR">
     <title>Bluey</title>
   </programme>
-  <programme start="20261122064000 +0000" stop="20261122064700 +0000" channel="HRT 3 HR">
+  <programme start="20261122064100 +0000" stop="20261122064800 +0000" channel="HRT 3 HR">
     <title>Pip i Popi</title>
   </programme>
-  <programme start="20261122064700 +0000" stop="20261122065300 +0000" channel="HRT 3 HR">
+  <programme start="20261122064800 +0000" stop="20261122065300 +0000" channel="HRT 3 HR">
     <title>Pip i Popi</title>
   </programme>
   <programme start="20261122065300 +0000" stop="20261122070200 +0000" channel="HRT 3 HR">
@@ -1418,61 +1386,61 @@
   <programme start="20261122073000 +0000" stop="20261122074200 +0000" channel="HRT 3 HR">
     <title>Susjedstvo tigrića Daniela</title>
   </programme>
-  <programme start="20261122074200 +0000" stop="20261122075300 +0000" channel="HRT 3 HR">
+  <programme start="20261122074200 +0000" stop="20261122075400 +0000" channel="HRT 3 HR">
     <title>Susjedstvo tigrića Daniela</title>
   </programme>
-  <programme start="20261122075300 +0000" stop="20261122075900 +0000" channel="HRT 3 HR">
+  <programme start="20261122075400 +0000" stop="20261122075900 +0000" channel="HRT 3 HR">
     <title>Pjesmica Pleši! - Papučice</title>
   </programme>
-  <programme start="20261122075900 +0000" stop="20261122081100 +0000" channel="HRT 3 HR">
+  <programme start="20261122075900 +0000" stop="20261122081200 +0000" channel="HRT 3 HR">
     <title>Zujalica: Sleti na cvijet</title>
   </programme>
-  <programme start="20261122081100 +0000" stop="20261122083300 +0000" channel="HRT 3 HR">
+  <programme start="20261122081200 +0000" stop="20261122083400 +0000" channel="HRT 3 HR">
     <title>Žar i čudovišni strojevi</title>
   </programme>
-  <programme start="20261122083300 +0000" stop="20261122084800 +0000" channel="HRT 3 HR">
+  <programme start="20261122083400 +0000" stop="20261122084800 +0000" channel="HRT 3 HR">
     <title>Mehapomagači</title>
   </programme>
-  <programme start="20261122084800 +0000" stop="20261122085500 +0000" channel="HRT 3 HR">
+  <programme start="20261122084800 +0000" stop="20261122085600 +0000" channel="HRT 3 HR">
     <title>Ljubavno čudovište</title>
   </programme>
-  <programme start="20261122085500 +0000" stop="20261122085700 +0000" channel="HRT 3 HR">
+  <programme start="20261122085600 +0000" stop="20261122085800 +0000" channel="HRT 3 HR">
     <title>Pjesmica Medo, sve ide redom</title>
   </programme>
-  <programme start="20261122085700 +0000" stop="20261122092500 +0000" channel="HRT 3 HR">
+  <programme start="20261122085800 +0000" stop="20261122092500 +0000" channel="HRT 3 HR">
     <title>Vlak dinosaura</title>
   </programme>
   <programme start="20261122092500 +0000" stop="20261122092700 +0000" channel="HRT 3 HR">
     <title>Pjesmica Pusa</title>
   </programme>
-  <programme start="20261122092700 +0000" stop="20261122093200 +0000" channel="HRT 3 HR">
+  <programme start="20261122092700 +0000" stop="20261122093300 +0000" channel="HRT 3 HR">
     <title>Zagonetni slučajevi Elma i Tanga</title>
   </programme>
-  <programme start="20261122093200 +0000" stop="20261122093900 +0000" channel="HRT 3 HR">
+  <programme start="20261122093300 +0000" stop="20261122094000 +0000" channel="HRT 3 HR">
     <title>Bluey</title>
   </programme>
-  <programme start="20261122093900 +0000" stop="20261122094600 +0000" channel="HRT 3 HR">
+  <programme start="20261122094000 +0000" stop="20261122094700 +0000" channel="HRT 3 HR">
     <title>Pip i Popi</title>
   </programme>
-  <programme start="20261122094600 +0000" stop="20261122095400 +0000" channel="HRT 3 HR">
+  <programme start="20261122094700 +0000" stop="20261122095400 +0000" channel="HRT 3 HR">
     <title>Drvo i pčela: Neprospavana noć</title>
   </programme>
   <programme start="20261122095400 +0000" stop="20261122100100 +0000" channel="HRT 3 HR">
     <title>Hej Dagi</title>
   </programme>
-  <programme start="20261122100100 +0000" stop="20261122100400 +0000" channel="HRT 3 HR">
+  <programme start="20261122100100 +0000" stop="20261122100500 +0000" channel="HRT 3 HR">
     <title>Mališani</title>
   </programme>
-  <programme start="20261122100400 +0000" stop="20261122101000 +0000" channel="HRT 3 HR">
+  <programme start="20261122100500 +0000" stop="20261122101000 +0000" channel="HRT 3 HR">
     <title>Kockice brojalice</title>
   </programme>
   <programme start="20261122101000 +0000" stop="20261122101800 +0000" channel="HRT 3 HR">
     <title>Volim životinje: Svinja</title>
   </programme>
-  <programme start="20261122101800 +0000" stop="20261122102000 +0000" channel="HRT 3 HR">
+  <programme start="20261122101800 +0000" stop="20261122102100 +0000" channel="HRT 3 HR">
     <title>Pjesmica Pleši! - Papučice</title>
   </programme>
-  <programme start="20261122102000 +0000" stop="20261122102600 +0000" channel="HRT 3 HR">
+  <programme start="20261122102100 +0000" stop="20261122102600 +0000" channel="HRT 3 HR">
     <title>Peppa Praščić</title>
   </programme>
   <programme start="20261122102600 +0000" stop="20261122103000 +0000" channel="HRT 3 HR">
@@ -1487,19 +1455,19 @@
   <programme start="20261122105500 +0000" stop="20261122105700 +0000" channel="HRT 3 HR">
     <title>Pjesmica Medo, sve ide redom</title>
   </programme>
-  <programme start="20261122105700 +0000" stop="20261122110000 +0000" channel="HRT 3 HR">
+  <programme start="20261122105700 +0000" stop="20261122110100 +0000" channel="HRT 3 HR">
     <title>Mališani</title>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261122110200 +0000" channel="HRT 3 HR">
+  <programme start="20261122110100 +0000" stop="20261122110300 +0000" channel="HRT 3 HR">
     <title>Atletikus</title>
   </programme>
-  <programme start="20261122110200 +0000" stop="20261122110900 +0000" channel="HRT 3 HR">
+  <programme start="20261122110300 +0000" stop="20261122111000 +0000" channel="HRT 3 HR">
     <title>Medo Grizli i male napasti</title>
   </programme>
-  <programme start="20261122110900 +0000" stop="20261122113500 +0000" channel="HRT 3 HR">
+  <programme start="20261122111000 +0000" stop="20261122113600 +0000" channel="HRT 3 HR">
     <title>Psići u ophodnji</title>
   </programme>
-  <programme start="20261122113500 +0000" stop="20261122113700 +0000" channel="HRT 3 HR">
+  <programme start="20261122113600 +0000" stop="20261122113700 +0000" channel="HRT 3 HR">
     <title>Pjesmica Pusa</title>
   </programme>
   <programme start="20261122113700 +0000" stop="20261122115900 +0000" channel="HRT 3 HR">
@@ -1511,10 +1479,10 @@
   <programme start="20261122120300 +0000" stop="20261122123300 +0000" channel="HRT 3 HR">
     <title>Močvarna staništa i život u njima</title>
   </programme>
-  <programme start="20261122123300 +0000" stop="20261122130000 +0000" channel="HRT 3 HR">
+  <programme start="20261122123300 +0000" stop="20261122125900 +0000" channel="HRT 3 HR">
     <title>Otkrivamo Hrvatsku: Konavle</title>
   </programme>
-  <programme start="20261122130000 +0000" stop="20261122134500 +0000" channel="HRT 3 HR">
+  <programme start="20261122125900 +0000" stop="20261122134500 +0000" channel="HRT 3 HR">
     <title>Tajne iz zraka</title>
   </programme>
   <programme start="20261122134500 +0000" stop="20261122135500 +0000" channel="HRT 3 HR">
@@ -1526,10 +1494,10 @@
   <programme start="20261122144500 +0000" stop="20261122153500 +0000" channel="HRT 3 HR">
     <title>Ovo je umjetnost: Ludilo</title>
   </programme>
-  <programme start="20261122153500 +0000" stop="20261122180500 +0000" channel="HRT 3 HR">
+  <programme start="20261122153500 +0000" stop="20261122180600 +0000" channel="HRT 3 HR">
     <title>Svi za ElDorado, film</title>
   </programme>
-  <programme start="20261122180500 +0000" stop="20261122191000 +0000" channel="HRT 3 HR">
+  <programme start="20261122180600 +0000" stop="20261122191000 +0000" channel="HRT 3 HR">
     <title>Vrijeme je za jazz: 30 godina Jazz.hr</title>
   </programme>
   <programme start="20261122191000 +0000" stop="20261122201000 +0000" channel="HRT 3 HR">
@@ -1544,10 +1512,10 @@
   <programme start="20261122224000 +0000" stop="20261123001100 +0000" channel="HRT 3 HR">
     <title>Justin Bieber: Naš svijet, glazbeno-dokumentarni film</title>
   </programme>
-  <programme start="20261123001100 +0000" stop="20261123024000 +0000" channel="HRT 3 HR">
+  <programme start="20261123001100 +0000" stop="20261123023900 +0000" channel="HRT 3 HR">
     <title>Svi za ElDorado, film</title>
   </programme>
-  <programme start="20261123024000 +0000" stop="20261123032800 +0000" channel="HRT 3 HR">
+  <programme start="20261123023900 +0000" stop="20261123032800 +0000" channel="HRT 3 HR">
     <title>Ovo je umjetnost: Ludilo</title>
   </programme>
   <programme start="20261123032800 +0000" stop="20261123043300 +0000" channel="HRT 3 HR">
@@ -2924,20 +2892,17 @@
   <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="RTL 2 HR">
     <title>Der Trödeltrupp – Das Geld liegt im Keller</title>
   </programme>
-  <programme start="20261122004000 +0000" stop="20261122005000 +0000" channel="RTL HR">
+  <programme start="20261122005500 +0000" stop="20261122010500 +0000" channel="RTL HR">
     <title>To je Voyo</title>
   </programme>
-  <programme start="20261122005000 +0000" stop="20261122024500 +0000" channel="RTL HR">
+  <programme start="20261122010500 +0000" stop="20261122030000 +0000" channel="RTL HR">
     <title>Delirij, film</title>
   </programme>
-  <programme start="20261122024500 +0000" stop="20261122030000 +0000" channel="RTL HR">
+  <programme start="20261122030000 +0000" stop="20261122035500 +0000" channel="RTL HR">
     <title>Kraj programa</title>
   </programme>
-  <programme start="20261122030000 +0000" stop="20261122035500 +0000" channel="RTL HR">
-    <title>UŽIVO: Formula na RTL-u</title>
-  </programme>
   <programme start="20261122035500 +0000" stop="20261122061500 +0000" channel="RTL HR">
-    <title>UŽIVO: Formula 1: VN Las Vegasa</title>
+    <title>FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026</title>
   </programme>
   <programme start="20261122061500 +0000" stop="20261122065500 +0000" channel="RTL HR">
     <title>MagNet</title>
@@ -3107,26 +3072,26 @@
   <programme start="20261124053000 +0000" stop="20261124063000 +0000" channel="RTL HR">
     <title>San snova, serija</title>
   </programme>
-  <programme start="20261122000500 +0000" stop="20261122014500 +0000" channel="RTRS TV HR">
+  <programme start="20261122002600 +0000" stop="20261122021000 +0000" channel="RTRS TV HR">
     <title>Šarenica</title>
   </programme>
-  <programme start="20261122014500 +0000" stop="20261122022000 +0000" channel="RTRS TV HR">
+  <programme start="20261122021000 +0000" stop="20261122024400 +0000" channel="RTRS TV HR">
     <title>Dnevnik 2</title>
   </programme>
-  <programme start="20261122022000 +0000" stop="20261122025000 +0000" channel="RTRS TV HR">
+  <programme start="20261122024400 +0000" stop="20261122031200 +0000" channel="RTRS TV HR">
     <title>Vreme ljudi</title>
   </programme>
-  <programme start="20261122025000 +0000" stop="20261122031500 +0000" channel="RTRS TV HR">
-    <title>Rodoslavci</title>
+  <programme start="20261122031200 +0000" stop="20261122033800 +0000" channel="RTRS TV HR">
+    <title>Kvadratura kruga</title>
   </programme>
-  <programme start="20261122031500 +0000" stop="20261122035200 +0000" channel="RTRS TV HR">
-    <title>Fantastična planeta</title>
+  <programme start="20261122033800 +0000" stop="20261122034200 +0000" channel="RTRS TV HR">
+    <title>Obrazovne vinjete</title>
   </programme>
-  <programme start="20261122035200 +0000" stop="20261122040500 +0000" channel="RTRS TV HR">
+  <programme start="20261122034200 +0000" stop="20261122035200 +0000" channel="RTRS TV HR">
+    <title>Eko minijature: Spomenar iz Srbije</title>
+  </programme>
+  <programme start="20261122035200 +0000" stop="20261122044300 +0000" channel="RTRS TV HR">
     <title>Pupin, mini-serija</title>
-  </programme>
-  <programme start="20261122040500 +0000" stop="20261122044300 +0000" channel="RTRS TV HR">
-    <title>TV lica... kao sav normalan svet</title>
   </programme>
   <programme start="20261122044300 +0000" stop="20261122045500 +0000" channel="RTRS TV HR">
     <title>Verski kalendar</title>
@@ -3140,80 +3105,83 @@
   <programme start="20261122073000 +0000" stop="20261122080000 +0000" channel="RTRS TV HR">
     <title>Jutarnji program</title>
   </programme>
-  <programme start="20261122080000 +0000" stop="20261122100000 +0000" channel="RTRS TV HR">
+  <programme start="20261122080000 +0000" stop="20261122095700 +0000" channel="RTRS TV HR">
     <title>Šarenica: Golubica Teslina - algoritam ljubavi</title>
   </programme>
-  <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="RTRS TV HR">
+  <programme start="20261122095700 +0000" stop="20261122110000 +0000" channel="RTRS TV HR">
     <title>Znanje imanje: Od futoškog kupusa do organskog kivija</title>
   </programme>
   <programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="RTRS TV HR">
     <title>Dnevnik 1</title>
   </programme>
-  <programme start="20261122113000 +0000" stop="20261122123000 +0000" channel="RTRS TV HR">
-    <title>Za stolom za Apostolom</title>
+  <programme start="20261122113000 +0000" stop="20261122130000 +0000" channel="RTRS TV HR">
+    <title>Za stolom sa Apostolom: Gost Cvijetin Milivojević</title>
   </programme>
-  <programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="RTRS TV HR">
+  <programme start="20261122130000 +0000" stop="20261122132600 +0000" channel="RTRS TV HR">
     <title>Veterinarska misija: Dr Torbica</title>
   </programme>
-  <programme start="20261122130000 +0000" stop="20261122134500 +0000" channel="RTRS TV HR">
-    <title>Sat</title>
+  <programme start="20261122132600 +0000" stop="20261122141500 +0000" channel="RTRS TV HR">
+    <title>SAT: Folksvagen opozvao milione vozila, šta je sa Srbijom?</title>
   </programme>
-  <programme start="20261122134500 +0000" stop="20261122140000 +0000" channel="RTRS TV HR">
-    <title>Gastronomad</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122141000 +0000" channel="RTRS TV HR">
+  <programme start="20261122141500 +0000" stop="20261122142500 +0000" channel="RTRS TV HR">
     <title>Vesti</title>
   </programme>
-  <programme start="20261122141000 +0000" stop="20261122151000 +0000" channel="RTRS TV HR">
+  <programme start="20261122142500 +0000" stop="20261122152600 +0000" channel="RTRS TV HR">
     <title>Kuhinja moga kraja</title>
   </programme>
-  <programme start="20261122151000 +0000" stop="20261122160500 +0000" channel="RTRS TV HR">
+  <programme start="20261122152600 +0000" stop="20261122162000 +0000" channel="RTRS TV HR">
     <title>Pupin, mini-serija</title>
   </programme>
-  <programme start="20261122160500 +0000" stop="20261122161500 +0000" channel="RTRS TV HR">
+  <programme start="20261122162000 +0000" stop="20261122162900 +0000" channel="RTRS TV HR">
     <title>Vesti</title>
   </programme>
-  <programme start="20261122161500 +0000" stop="20261122172700 +0000" channel="RTRS TV HR">
+  <programme start="20261122162900 +0000" stop="20261122172300 +0000" channel="RTRS TV HR">
     <title>Branilac, serija</title>
   </programme>
-  <programme start="20261122172700 +0000" stop="20261122180000 +0000" channel="RTRS TV HR">
+  <programme start="20261122172300 +0000" stop="20261122175700 +0000" channel="RTRS TV HR">
     <title>Sasvim prirodno</title>
   </programme>
-  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="RTRS TV HR">
+  <programme start="20261122175700 +0000" stop="20261122182100 +0000" channel="RTRS TV HR">
     <title>Slagalica, kviz</title>
+  </programme>
+  <programme start="20261122182100 +0000" stop="20261122183000 +0000" channel="RTRS TV HR">
+    <title>Vreme</title>
   </programme>
   <programme start="20261122183000 +0000" stop="20261122190500 +0000" channel="RTRS TV HR">
     <title>Dnevnik</title>
   </programme>
-  <programme start="20261122190500 +0000" stop="20261122200000 +0000" channel="RTRS TV HR">
+  <programme start="20261122190500 +0000" stop="20261122200100 +0000" channel="RTRS TV HR">
     <title>Pupin, mini-serija</title>
   </programme>
-  <programme start="20261122200000 +0000" stop="20261122213000 +0000" channel="RTRS TV HR">
+  <programme start="20261122200100 +0000" stop="20261122213600 +0000" channel="RTRS TV HR">
     <title>Pogodi šta umem, game show</title>
   </programme>
-  <programme start="20261122213000 +0000" stop="20261122223000 +0000" channel="RTRS TV HR">
+  <programme start="20261122213600 +0000" stop="20261122223700 +0000" channel="RTRS TV HR">
     <title>Ko je šef</title>
   </programme>
-  <programme start="20261122223000 +0000" stop="20261122225000 +0000" channel="RTRS TV HR">
+  <programme start="20261122223700 +0000" stop="20261122225700 +0000" channel="RTRS TV HR">
     <title>Dnevnik</title>
   </programme>
-  <programme start="20261122225000 +0000" stop="20261122234000 +0000" channel="RTRS TV HR">
+  <programme start="20261122225700 +0000" stop="20261122235100 +0000" channel="RTRS TV HR">
     <title>Jeloustoun, serija</title>
   </programme>
-  <programme start="20261122234000 +0000" stop="20261123001500 +0000" channel="RTRS TV HR">
+  <programme start="20261122235100 +0000" stop="20261123003000 +0000" channel="RTRS TV HR">
     <title>Velika iluzija</title>
   </programme>
-  <programme start="20261123001500 +0000" stop="20261123010000 +0000" channel="RTRS TV HR">
+  <programme start="20261123003000 +0000" stop="20261123011600 +0000" channel="RTRS TV HR">
     <title>Sat</title>
   </programme>
-  <programme start="20261123010000 +0000" stop="20261123013500 +0000" channel="RTRS TV HR">
+  <programme start="20261123011600 +0000" stop="20261123015000 +0000" channel="RTRS TV HR">
     <title>Dnevnik 2</title>
   </programme>
-  <programme start="20261123013500 +0000" stop="20261123030000 +0000" channel="RTRS TV HR">
+  <programme start="20261123015000 +0000" stop="20261123030000 +0000" channel="RTRS TV HR">
     <title>Šarenica</title>
   </programme>
-  <programme start="20261123030000 +0000" stop="20261123035100 +0000" channel="RTRS TV HR">
+  <programme start="20261123030000 +0000" stop="20261123033200 +0000" channel="RTRS TV HR">
     <title>Jeloustoun, serija</title>
+  </programme>
+  <programme start="20261123033200 +0000" stop="20261123035100 +0000" channel="RTRS TV HR">
+    <title>Gastronomad</title>
   </programme>
   <programme start="20261123035100 +0000" stop="20261123044300 +0000" channel="RTRS TV HR">
     <title>Pupin, mini-serija</title>
@@ -3233,19 +3201,19 @@
   <programme start="20261123093000 +0000" stop="20261123110000 +0000" channel="RTRS TV HR">
     <title>Druga kafa</title>
   </programme>
-  <programme start="20261123110000 +0000" stop="20261123113000 +0000" channel="RTRS TV HR">
+  <programme start="20261123110000 +0000" stop="20261123112600 +0000" channel="RTRS TV HR">
     <title>Dnevnik 1</title>
   </programme>
-  <programme start="20261123113000 +0000" stop="20261123115000 +0000" channel="RTRS TV HR">
+  <programme start="20261123112600 +0000" stop="20261123114400 +0000" channel="RTRS TV HR">
     <title>Sportski dnevnik</title>
   </programme>
-  <programme start="20261123115000 +0000" stop="20261123120500 +0000" channel="RTRS TV HR">
+  <programme start="20261123114400 +0000" stop="20261123115900 +0000" channel="RTRS TV HR">
     <title>Kulturni dnevnik</title>
   </programme>
-  <programme start="20261123120500 +0000" stop="20261123130500 +0000" channel="RTRS TV HR">
+  <programme start="20261123115900 +0000" stop="20261123125700 +0000" channel="RTRS TV HR">
     <title>Ko je šef</title>
   </programme>
-  <programme start="20261123130500 +0000" stop="20261123140000 +0000" channel="RTRS TV HR">
+  <programme start="20261123125700 +0000" stop="20261123140000 +0000" channel="RTRS TV HR">
     <title>Kuhinja mog kraja</title>
   </programme>
   <programme start="20261123140000 +0000" stop="20261123141000 +0000" channel="RTRS TV HR">
@@ -3260,50 +3228,53 @@
   <programme start="20261123160000 +0000" stop="20261123162000 +0000" channel="RTRS TV HR">
     <title>Dnevnik RTV Vojvodine</title>
   </programme>
-  <programme start="20261123162000 +0000" stop="20261123164500 +0000" channel="RTRS TV HR">
+  <programme start="20261123162000 +0000" stop="20261123164200 +0000" channel="RTRS TV HR">
     <title>Gastronomad</title>
   </programme>
-  <programme start="20261123164500 +0000" stop="20261123172400 +0000" channel="RTRS TV HR">
+  <programme start="20261123164200 +0000" stop="20261123172200 +0000" channel="RTRS TV HR">
     <title>Beogradska hronika</title>
   </programme>
-  <programme start="20261123172400 +0000" stop="20261123180000 +0000" channel="RTRS TV HR">
+  <programme start="20261123172200 +0000" stop="20261123175700 +0000" channel="RTRS TV HR">
     <title>Oko, magazin</title>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123183000 +0000" channel="RTRS TV HR">
+  <programme start="20261123175700 +0000" stop="20261123182200 +0000" channel="RTRS TV HR">
     <title>Slagalica, kviz</title>
+  </programme>
+  <programme start="20261123182200 +0000" stop="20261123183000 +0000" channel="RTRS TV HR">
+    <title>Vreme</title>
   </programme>
   <programme start="20261123183000 +0000" stop="20261123190500 +0000" channel="RTRS TV HR">
     <title>Dnevnik</title>
   </programme>
-  <programme start="20261123190500 +0000" stop="20261123195500 +0000" channel="RTRS TV HR">
+  <programme start="20261123190500 +0000" stop="20261123195300 +0000" channel="RTRS TV HR">
     <title>Radio Mileva, serija</title>
   </programme>
-  <programme start="20261123195500 +0000" stop="20261123205500 +0000" channel="RTRS TV HR">
+  <programme start="20261123195300 +0000" stop="20261123205500 +0000" channel="RTRS TV HR">
     <title>Potera, kviz</title>
   </programme>
-  <programme start="20261123205500 +0000" stop="20261123215000 +0000" channel="RTRS TV HR">
+  <programme start="20261123205500 +0000" stop="20261123214700 +0000" channel="RTRS TV HR">
     <title>Fantastična planeta</title>
   </programme>
-  <programme start="20261123215000 +0000" stop="20261123221500 +0000" channel="RTRS TV HR">
+  <programme start="20261123214700 +0000" stop="20261123221100 +0000" channel="RTRS TV HR">
     <title>Dnevnik</title>
   </programme>
-  <programme start="20261123221500 +0000" stop="20261124000000 +0000" channel="RTRS TV HR">
+  <programme start="20261123221100 +0000" stop="20261124001100 +0000" channel="RTRS TV HR">
     <title>Šarada, film</title>
   </programme>
-  <programme start="20261124000000 +0000" stop="20261124005000 +0000" channel="RTRS TV HR">
+  <programme start="20261124001100 +0000" stop="20261124010200 +0000" channel="RTRS TV HR">
     <title>Testiranjem do odgovora, film</title>
   </programme>
-  <programme start="20261124005000 +0000" stop="20261124011000 +0000" channel="RTRS TV HR">
-    <title>Gastronomad</title>
-  </programme>
-  <programme start="20261124011000 +0000" stop="20261124014500 +0000" channel="RTRS TV HR">
+  <programme start="20261124010200 +0000" stop="20261124013600 +0000" channel="RTRS TV HR">
     <title>Dnevnik 2</title>
   </programme>
-  <programme start="20261124014500 +0000" stop="20261124032500 +0000" channel="RTRS TV HR">
+  <programme start="20261124013600 +0000" stop="20261124031500 +0000" channel="RTRS TV HR">
     <title>Umorstva u Midsomeru, serija</title>
   </programme>
-  <programme start="20261124032500 +0000" stop="20261124040000 +0000" channel="RTRS TV HR">
+  <programme start="20261124031500 +0000" stop="20261124034500 +0000" channel="RTRS TV HR">
     <title>Vreme ljudi</title>
+  </programme>
+  <programme start="20261124034500 +0000" stop="20261124040000 +0000" channel="RTRS TV HR">
+    <title>Gastronomad</title>
   </programme>
   <programme start="20261124040000 +0000" stop="20261124044300 +0000" channel="RTRS TV HR">
     <title>Radio Mileva, serija</title>
@@ -3977,309 +3948,6 @@
   <programme start="20261124051000 +0000" stop="20261124064000 +0000" channel="ETV+ EE">
     <title>Kohv+</title>
   </programme>
-  <programme start="20261122000000 +0000" stop="20261122002000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122002000 +0000" stop="20261122002500 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122002500 +0000" stop="20261122005000 +0000" channel="Palitra News">
-    <title>ჩვენი პლანეტა</title>
-  </programme>
-  <programme start="20261122005000 +0000" stop="20261122010000 +0000" channel="Palitra News">
-    <title>კალენდარი</title>
-  </programme>
-  <programme start="20261122010000 +0000" stop="20261122012000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122012000 +0000" stop="20261122012500 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122012500 +0000" stop="20261122015500 +0000" channel="Palitra News">
-    <title>სახალხო ინტერვიუ</title>
-  </programme>
-  <programme start="20261122015500 +0000" stop="20261122020000 +0000" channel="Palitra News">
-    <title>ადამიანი</title>
-  </programme>
-  <programme start="20261122020000 +0000" stop="20261122022000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122022000 +0000" stop="20261122025500 +0000" channel="Palitra News">
-    <title>ლიდერი</title>
-  </programme>
-  <programme start="20261122025500 +0000" stop="20261122030000 +0000" channel="Palitra News">
-    <title>კალენდარი</title>
-  </programme>
-  <programme start="20261122030000 +0000" stop="20261122032000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122032000 +0000" stop="20261122032500 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122032500 +0000" stop="20261122040000 +0000" channel="Palitra News">
-    <title>ჩვენი პლანეტა</title>
-  </programme>
-  <programme start="20261122040000 +0000" stop="20261122042500 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122042500 +0000" stop="20261122050000 +0000" channel="Palitra News">
-    <title>დილის პალიტრა</title>
-  </programme>
-  <programme start="20261122050000 +0000" stop="20261122052500 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122052500 +0000" stop="20261122060000 +0000" channel="Palitra News">
-    <title>დილის პალიტრა</title>
-  </programme>
-  <programme start="20261122060000 +0000" stop="20261122062700 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122062700 +0000" stop="20261122062800 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122062800 +0000" stop="20261122063000 +0000" channel="Palitra News">
-    <title>ვალუტა</title>
-  </programme>
-  <programme start="20261122063000 +0000" stop="20261122064500 +0000" channel="Palitra News">
-    <title>ნივთების ევოლუცია</title>
-  </programme>
-  <programme start="20261122064500 +0000" stop="20261122070000 +0000" channel="Palitra News">
-    <title>კომენტარის გარეშე</title>
-  </programme>
-  <programme start="20261122070000 +0000" stop="20261122072000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122072000 +0000" stop="20261122072500 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122072500 +0000" stop="20261122075000 +0000" channel="Palitra News">
-    <title>Art-time</title>
-  </programme>
-  <programme start="20261122075000 +0000" stop="20261122080000 +0000" channel="Palitra News">
-    <title>კალენდარი</title>
-  </programme>
-  <programme start="20261122080000 +0000" stop="20261122082700 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122082700 +0000" stop="20261122082800 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122082800 +0000" stop="20261122083000 +0000" channel="Palitra News">
-    <title>ვალუტა</title>
-  </programme>
-  <programme start="20261122083000 +0000" stop="20261122085000 +0000" channel="Palitra News">
-    <title>კინო</title>
-  </programme>
-  <programme start="20261122085000 +0000" stop="20261122090000 +0000" channel="Palitra News">
-    <title>ვებნიუსი</title>
-  </programme>
-  <programme start="20261122090000 +0000" stop="20261122092000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122092000 +0000" stop="20261122092500 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122092500 +0000" stop="20261122100000 +0000" channel="Palitra News">
-    <title>მკურნალი</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122102200 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122102200 +0000" stop="20261122102300 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122102300 +0000" stop="20261122102500 +0000" channel="Palitra News">
-    <title>ვალუტა</title>
-  </programme>
-  <programme start="20261122102500 +0000" stop="20261122104500 +0000" channel="Palitra News">
-    <title>ნივთების ევოლუცია</title>
-  </programme>
-  <programme start="20261122104500 +0000" stop="20261122105000 +0000" channel="Palitra News">
-    <title>კომენტარის გარეშე</title>
-  </programme>
-  <programme start="20261122105000 +0000" stop="20261122105500 +0000" channel="Palitra News">
-    <title>ერთი წიგნი</title>
-  </programme>
-  <programme start="20261122105500 +0000" stop="20261122110000 +0000" channel="Palitra News">
-    <title>კალენდარი</title>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261122112000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122112000 +0000" stop="20261122112500 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122112500 +0000" stop="20261122120000 +0000" channel="Palitra News">
-    <title>კინო</title>
-  </programme>
-  <programme start="20261122120000 +0000" stop="20261122122700 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122122700 +0000" stop="20261122122800 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122122800 +0000" stop="20261122123000 +0000" channel="Palitra News">
-    <title>ვალუტა</title>
-  </programme>
-  <programme start="20261122123000 +0000" stop="20261122125500 +0000" channel="Palitra News">
-    <title>სახალხო ინტერვიუ</title>
-  </programme>
-  <programme start="20261122125500 +0000" stop="20261122130000 +0000" channel="Palitra News">
-    <title>კალენდარი</title>
-  </programme>
-  <programme start="20261122130000 +0000" stop="20261122132200 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122132200 +0000" stop="20261122132500 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122132500 +0000" stop="20261122134500 +0000" channel="Palitra News">
-    <title>ნივთების ევოლუცია</title>
-  </programme>
-  <programme start="20261122134500 +0000" stop="20261122135000 +0000" channel="Palitra News">
-    <title>კომენტარის გარეშე</title>
-  </programme>
-  <programme start="20261122135000 +0000" stop="20261122135500 +0000" channel="Palitra News">
-    <title>ერთი წიგნი</title>
-  </programme>
-  <programme start="20261122135500 +0000" stop="20261122140000 +0000" channel="Palitra News">
-    <title>ვინილი</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122142000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122142000 +0000" stop="20261122142100 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122142100 +0000" stop="20261122142500 +0000" channel="Palitra News">
-    <title>ვალუტა</title>
-  </programme>
-  <programme start="20261122142500 +0000" stop="20261122145000 +0000" channel="Palitra News">
-    <title>კინო</title>
-  </programme>
-  <programme start="20261122145000 +0000" stop="20261122150000 +0000" channel="Palitra News">
-    <title>ART-NEWS</title>
-  </programme>
-  <programme start="20261122150000 +0000" stop="20261122152000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122152000 +0000" stop="20261122152500 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122152500 +0000" stop="20261122160000 +0000" channel="Palitra News">
-    <title>ნივთების ევოლუცია</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122164500 +0000" channel="Palitra News">
-    <title>პოლიტ-ქალაქი</title>
-  </programme>
-  <programme start="20261122164500 +0000" stop="20261122165500 +0000" channel="Palitra News">
-    <title>ვინილი</title>
-  </programme>
-  <programme start="20261122165500 +0000" stop="20261122170000 +0000" channel="Palitra News">
-    <title>კალენდარი</title>
-  </programme>
-  <programme start="20261122170000 +0000" stop="20261122170500 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122170500 +0000" stop="20261122175000 +0000" channel="Palitra News">
-    <title>ფაქტი და პოზიცია</title>
-  </programme>
-  <programme start="20261122175000 +0000" stop="20261122180000 +0000" channel="Palitra News">
-    <title>კალენდარი</title>
-  </programme>
-  <programme start="20261122180000 +0000" stop="20261122183000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122183000 +0000" stop="20261122185500 +0000" channel="Palitra News">
-    <title>სახალხო ინტერვიუ</title>
-  </programme>
-  <programme start="20261122185500 +0000" stop="20261122190000 +0000" channel="Palitra News">
-    <title>კალენდარი</title>
-  </programme>
-  <programme start="20261122190000 +0000" stop="20261122192000 +0000" channel="Palitra News">
-    <title>PALITRANEWS კოლაჟი</title>
-  </programme>
-  <programme start="20261122192000 +0000" stop="20261122192500 +0000" channel="Palitra News">
-    <title>ამინდი</title>
-  </programme>
-  <programme start="20261122192500 +0000" stop="20261122195000 +0000" channel="Palitra News">
-    <title>არტ-თაიმი</title>
-  </programme>
-  <programme start="20261122195000 +0000" stop="20261122200000 +0000" channel="Palitra News">
-    <title>კალენდარი</title>
-  </programme>
-  <programme start="20261122005000 +0000" stop="20261122024500 +0000" channel="Imedi TV GE">
-    <title>მხატვრული ფილმი</title>
-  </programme>
-  <programme start="20261122024500 +0000" stop="20261122040000 +0000" channel="Imedi TV GE">
-    <title>მხატვრული ფილმი</title>
-  </programme>
-  <programme start="20261122040000 +0000" stop="20261122045500 +0000" channel="Imedi TV GE">
-    <title>სერიალი</title>
-  </programme>
-  <programme start="20261122045500 +0000" stop="20261122070000 +0000" channel="Imedi TV GE">
-    <title>შაბათ - კვირის დილა 08.55</title>
-  </programme>
-  <programme start="20261122070000 +0000" stop="20261122072000 +0000" channel="Imedi TV GE">
-    <title>ქრონიკა</title>
-  </programme>
-  <programme start="20261122072000 +0000" stop="20261122090000 +0000" channel="Imedi TV GE">
-    <title>ჩვენი ოჯახი 11.20 პირდაპირი</title>
-  </programme>
-  <programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="Imedi TV GE">
-    <title>სპორტი იმედზე პირდაპირი</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122104500 +0000" channel="Imedi TV GE">
-    <title>ქრონიკა</title>
-  </programme>
-  <programme start="20261122104500 +0000" stop="20261122120000 +0000" channel="Imedi TV GE">
-    <title>პატარძალი 402</title>
-  </programme>
-  <programme start="20261122120000 +0000" stop="20261122130000 +0000" channel="Imedi TV GE">
-    <title>შემდეგი გაჩერება</title>
-  </programme>
-  <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="Imedi TV GE">
-    <title>ქრონიკა</title>
-  </programme>
-  <programme start="20261122133000 +0000" stop="20261122144500 +0000" channel="Imedi TV GE">
-    <title>ქ.მხატვრული ფილმი</title>
-  </programme>
-  <programme start="20261122144500 +0000" stop="20261122150000 +0000" channel="Imedi TV GE">
-    <title>ლეილა 82</title>
-  </programme>
-  <programme start="20261122150000 +0000" stop="20261122150300 +0000" channel="Imedi TV GE">
-    <title>ანონსი იმედის კვირა 20.00</title>
-  </programme>
-  <programme start="20261122150300 +0000" stop="20261122160000 +0000" channel="Imedi TV GE">
-    <title>ლეილა 82</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122173000 +0000" channel="Imedi TV GE">
-    <title>იმედის კვირა პირდაპირი</title>
-  </programme>
-  <programme start="20261122173000 +0000" stop="20261122183000 +0000" channel="Imedi TV GE">
-    <title>შორეული ქალაქი მე-2 სეზონი 14</title>
-  </programme>
-  <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="Imedi TV GE">
-    <title>ნოესთან</title>
-  </programme>
-  <programme start="20261122190000 +0000" stop="20261122193000 +0000" channel="Imedi TV GE">
-    <title>ევრო ანატომია</title>
-  </programme>
-  <programme start="20261122193000 +0000" stop="20261122202000 +0000" channel="Imedi TV GE">
-    <title>გზაჯვარედინი 21</title>
-  </programme>
-  <programme start="20261122202000 +0000" stop="20261122215500 +0000" channel="Imedi TV GE">
-    <title>მხატვრული ფილმი</title>
-  </programme>
-  <programme start="20261122215500 +0000" stop="20261122232000 +0000" channel="Imedi TV GE">
-    <title>მხატვრული ფილმი</title>
-  </programme>
-  <programme start="20261122232000 +0000" stop="20261123004500 +0000" channel="Imedi TV GE">
-    <title>მხატვრული ფილმი</title>
-  </programme>
-  <programme start="20261123004500 +0000" stop="20261123005000 +0000" channel="Imedi TV GE">
-    <title>მხატვრული ფილმი</title>
-  </programme>
   <programme start="20261122001500 +0000" stop="20261122010000 +0000" channel="Alpha TV GR">
     <title>Tracker</title>
   </programme>
@@ -4946,6 +4614,12 @@
   <programme start="20261123230000 +0000" stop="20261124010000 +0000" channel="ERT News GR">
     <title>Ευθέως (E) [K8]</title>
   </programme>
+  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="ERT News GR">
+    <title>Ειδήσεις - Αθλητικά - Καιρός</title>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124060000 +0000" channel="ERT News GR">
+    <title>Συνδέσεις [K8]</title>
+  </programme>
   <programme start="20261122000500 +0000" stop="20261122005000 +0000" channel="Star Channel GR">
     <title>The Resident 3</title>
   </programme>
@@ -5228,17 +4902,29 @@
   <programme start="20261124055000 +0000" stop="20261124061000 +0000" channel="Star Channel GR">
     <title>The Office 8</title>
   </programme>
-  <programme start="20261122002000 +0000" stop="20261122012000 +0000" channel="Pervyj Kanal">
+  <programme start="20261122002000 +0000" stop="20261122003000 +0000" channel="Pervyj Kanal">
     <title>ПОДКАСТ.ЛАБ. Кот Шрёдингера (16+)</title>
   </programme>
-  <programme start="20261122012000 +0000" stop="20261122015700 +0000" channel="Pervyj Kanal">
+  <programme start="20261122003000 +0000" stop="20261122011000 +0000" channel="Pervyj Kanal">
+    <title>ПОДКАСТ.ЛАБ. Кот Шрёдингера (16+)</title>
+  </programme>
+  <programme start="20261122011000 +0000" stop="20261122012000 +0000" channel="Pervyj Kanal">
+    <title>ПОДКАСТ.ЛАБ. Сказки старого Атоса (16+)</title>
+  </programme>
+  <programme start="20261122012000 +0000" stop="20261122014500 +0000" channel="Pervyj Kanal">
     <title>ПОДКАСТ.ЛАБ. Летописи конца времен (16+)</title>
+  </programme>
+  <programme start="20261122014500 +0000" stop="20261122015700 +0000" channel="Pervyj Kanal">
+    <title>ПОДКАСТ.ЛАБ. Мелодии моей жизни (16+)</title>
   </programme>
   <programme start="20261122015700 +0000" stop="20261122020000 +0000" channel="Pervyj Kanal">
     <title>Перерыв в вещании</title>
   </programme>
-  <programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="Pervyj Kanal">
+  <programme start="20261122020000 +0000" stop="20261122022000 +0000" channel="Pervyj Kanal">
     <title>Телеканал Доброе утро</title>
+  </programme>
+  <programme start="20261122022000 +0000" stop="20261122030000 +0000" channel="Pervyj Kanal">
+    <title>ПОДКАСТ.ЛАБ. Все хотят летать (16+)</title>
   </programme>
   <programme start="20261122030000 +0000" stop="20261122031000 +0000" channel="Pervyj Kanal">
     <title>Новости</title>
@@ -6161,14 +5847,11 @@
   <programme start="20261123045500 +0000" stop="20261123100000 +0000" channel="Prva RS">
     <title>Jutro </title>
   </programme>
-  <programme start="20261123100000 +0000" stop="20261123105300 +0000" channel="Prva RS">
+  <programme start="20261123100000 +0000" stop="20261123110000 +0000" channel="Prva RS">
     <title>Zaklela se zemlja raju </title>
   </programme>
-  <programme start="20261123105300 +0000" stop="20261123114100 +0000" channel="Prva RS">
+  <programme start="20261123110000 +0000" stop="20261123120000 +0000" channel="Prva RS">
     <title>Igra sudbine: Bogatstvo ima cenu</title>
-  </programme>
-  <programme start="20261123114100 +0000" stop="20261123120000 +0000" channel="Prva RS">
-    <title>Exkluziv </title>
   </programme>
   <programme start="20261123120000 +0000" stop="20261123121000 +0000" channel="Prva RS">
     <title>Vesti 13 </title>
@@ -6185,38 +5868,56 @@
   <programme start="20261123140000 +0000" stop="20261123141000 +0000" channel="Prva RS">
     <title>Vesti 15 </title>
   </programme>
-  <programme start="20261123141000 +0000" stop="20261123145600 +0000" channel="Prva RS">
+  <programme start="20261123141000 +0000" stop="20261123145000 +0000" channel="Prva RS">
     <title>150 minuta - nastavak emisije </title>
   </programme>
-  <programme start="20261123145600 +0000" stop="20261123151200 +0000" channel="Prva RS">
+  <programme start="20261123145000 +0000" stop="20261123150500 +0000" channel="Prva RS">
     <title>Biostile - vaše zdravlje, naša briga </title>
   </programme>
-  <programme start="20261123151200 +0000" stop="20261123160600 +0000" channel="Prva RS">
+  <programme start="20261123150500 +0000" stop="20261123160000 +0000" channel="Prva RS">
     <title>Zaklela se zemlja raju </title>
   </programme>
-  <programme start="20261123160600 +0000" stop="20261123163100 +0000" channel="Prva RS">
+  <programme start="20261123160000 +0000" stop="20261123163000 +0000" channel="Prva RS">
     <title>Exkluziv </title>
   </programme>
-  <programme start="20261123163100 +0000" stop="20261123170000 +0000" channel="Prva RS">
+  <programme start="20261123163000 +0000" stop="20261123170000 +0000" channel="Prva RS">
     <title>Pobednik</title>
   </programme>
-  <programme start="20261123170000 +0000" stop="20261123180300 +0000" channel="Prva RS">
+  <programme start="20261123170000 +0000" stop="20261123180000 +0000" channel="Prva RS">
     <title>Vesti </title>
   </programme>
-  <programme start="20261123180300 +0000" stop="20261123190000 +0000" channel="Prva RS">
+  <programme start="20261123180000 +0000" stop="20261123190000 +0000" channel="Prva RS">
     <title>Pogodi cenu tačno</title>
   </programme>
   <programme start="20261123190000 +0000" stop="20261123190700 +0000" channel="Prva RS">
     <title>Loto 5</title>
   </programme>
-  <programme start="20261123190700 +0000" stop="20261123195800 +0000" channel="Prva RS">
+  <programme start="20261123190700 +0000" stop="20261123201000 +0000" channel="Prva RS">
     <title>Igra sudbine: Bogatstvo ima cenu</title>
   </programme>
-  <programme start="20261123195800 +0000" stop="20261123211100 +0000" channel="Prva RS">
+  <programme start="20261123201000 +0000" stop="20261123212500 +0000" channel="Prva RS">
     <title>Hajde da se volimo</title>
   </programme>
-  <programme start="20261123211100 +0000" stop="20261123225900 +0000" channel="Prva RS">
+  <programme start="20261123212500 +0000" stop="20261123231500 +0000" channel="Prva RS">
     <title>Zločin na talasima </title>
+  </programme>
+  <programme start="20261123231500 +0000" stop="20261124010000 +0000" channel="Prva RS">
+    <title>Ja imam super talenat</title>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124032500 +0000" channel="Prva RS">
+    <title>Hitler, poslednji dani</title>
+  </programme>
+  <programme start="20261124032500 +0000" stop="20261124034500 +0000" channel="Prva RS">
+    <title>Pobednik</title>
+  </programme>
+  <programme start="20261124034500 +0000" stop="20261124043000 +0000" channel="Prva RS">
+    <title>Zaklela se zemlja raju </title>
+  </programme>
+  <programme start="20261124043000 +0000" stop="20261124045500 +0000" channel="Prva RS">
+    <title>Exkluziv </title>
+  </programme>
+  <programme start="20261124045500 +0000" stop="20261124100000 +0000" channel="Prva RS">
+    <title>Jutro </title>
   </programme>
   <programme start="20261122003000 +0000" stop="20261122005500 +0000" channel="TV SLO 1 SI">
     <title>Dnevnik Slovencev v Italiji</title>
@@ -6770,801 +6471,6 @@
   <programme start="20261124050000 +0000" stop="20261124070000 +0000" channel="TV SLO 3 SI">
     <title>Napoved parlamentarnih aktivnosti</title>
   </programme>
-  <programme start="20261122001500 +0000" stop="20261122004500 +0000" channel="360 TR">
-    <title>Ataman İle Devr-i Alem</title>
-  </programme>
-  <programme start="20261122004500 +0000" stop="20261122020000 +0000" channel="360 TR">
-    <title>Ben Bilirim</title>
-  </programme>
-  <programme start="20261122020000 +0000" stop="20261122021500 +0000" channel="360 TR">
-    <title>Hiç Düşündün mü?</title>
-  </programme>
-  <programme start="20261122021500 +0000" stop="20261122034500 +0000" channel="360 TR">
-    <title>Adile Teyze</title>
-  </programme>
-  <programme start="20261122034500 +0000" stop="20261122040000 +0000" channel="360 TR">
-    <title>Lezzet Peşinde</title>
-  </programme>
-  <programme start="20261122040000 +0000" stop="20261122041500 +0000" channel="360 TR">
-    <title>Lezzet Peşinde</title>
-  </programme>
-  <programme start="20261122041500 +0000" stop="20261122060000 +0000" channel="360 TR">
-    <title>Gülşah</title>
-  </programme>
-  <programme start="20261122060000 +0000" stop="20261122071500 +0000" channel="360 TR">
-    <title>Ece Vahapoğlu İle...</title>
-  </programme>
-  <programme start="20261122071500 +0000" stop="20261122090000 +0000" channel="360 TR">
-    <title>Şaka Yapma</title>
-  </programme>
-  <programme start="20261122090000 +0000" stop="20261122093000 +0000" channel="360 TR">
-    <title>Atığın Peşinde</title>
-  </programme>
-  <programme start="20261122093000 +0000" stop="20261122100000 +0000" channel="360 TR">
-    <title>Sürdürülebilir Hayat</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122130000 +0000" channel="360 TR">
-    <title>Seksenler</title>
-  </programme>
-  <programme start="20261122130000 +0000" stop="20261122134500 +0000" channel="360 TR">
-    <title>Ataman İle Devr-i Alem</title>
-  </programme>
-  <programme start="20261122134500 +0000" stop="20261122140000 +0000" channel="360 TR">
-    <title>Hiç Düşündün mü?</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122160000 +0000" channel="360 TR">
-    <title>Adile Teyze</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122164500 +0000" channel="360 TR">
-    <title>Yeniden Mümkün</title>
-  </programme>
-  <programme start="20261122164500 +0000" stop="20261122224500 +0000" channel="360 TR">
-    <title>Ben Bilirim</title>
-  </programme>
-  <programme start="20261122224500 +0000" stop="20261123001500 +0000" channel="360 TR">
-    <title>Şaka Yapma</title>
-  </programme>
-  <programme start="20261123001500 +0000" stop="20261123004500 +0000" channel="360 TR">
-    <title>Ataman İle Devr-i Alem</title>
-  </programme>
-  <programme start="20261123004500 +0000" stop="20261123020000 +0000" channel="360 TR">
-    <title>Ben Bilirim</title>
-  </programme>
-  <programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="360 TR">
-    <title>Atığın Peşinde</title>
-  </programme>
-  <programme start="20261123023000 +0000" stop="20261123040000 +0000" channel="360 TR">
-    <title>Pehlivan</title>
-  </programme>
-  <programme start="20261123040000 +0000" stop="20261123054500 +0000" channel="360 TR">
-    <title>Şaka Yapma</title>
-  </programme>
-  <programme start="20261123054500 +0000" stop="20261123074500 +0000" channel="360 TR">
-    <title>Zamanı Geldi</title>
-  </programme>
-  <programme start="20261123074500 +0000" stop="20261123094500 +0000" channel="360 TR">
-    <title>Seksenler</title>
-  </programme>
-  <programme start="20261123094500 +0000" stop="20261123110000 +0000" channel="360 TR">
-    <title>Seren'le Buluşalım</title>
-  </programme>
-  <programme start="20261123110000 +0000" stop="20261123124500 +0000" channel="360 TR">
-    <title>Kınalı Yapıncak</title>
-  </programme>
-  <programme start="20261123124500 +0000" stop="20261123143000 +0000" channel="360 TR">
-    <title>Pehlivan</title>
-  </programme>
-  <programme start="20261123143000 +0000" stop="20261123160000 +0000" channel="360 TR">
-    <title>Seksenler</title>
-  </programme>
-  <programme start="20261123160000 +0000" stop="20261123205900 +0000" channel="360 TR">
-    <title>Ben Bilirim</title>
-  </programme>
-  <programme start="20261122020000 +0000" stop="20261122043000 +0000" channel="ATV TR">
-    <title>Hercai</title>
-  </programme>
-  <programme start="20261122043000 +0000" stop="20261122070000 +0000" channel="ATV TR">
-    <title>atv'de Hafta Sonu</title>
-  </programme>
-  <programme start="20261122070000 +0000" stop="20261122082000 +0000" channel="ATV TR">
-    <title>Nihat Hatipoğlu ile...</title>
-  </programme>
-  <programme start="20261122082000 +0000" stop="20261122091000 +0000" channel="ATV TR">
-    <title>Dizi TV</title>
-  </programme>
-  <programme start="20261122091000 +0000" stop="20261122123000 +0000" channel="ATV TR">
-    <title>Güneşin Doğduğu Yer</title>
-  </programme>
-  <programme start="20261122123000 +0000" stop="20261122160000 +0000" channel="ATV TR">
-    <title>Altı Üstü İstanbul</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122170000 +0000" channel="ATV TR">
-    <title>ATV Ana Haber</title>
-  </programme>
-  <programme start="20261122170000 +0000" stop="20261122205900 +0000" channel="ATV TR">
-    <title>Kim Milyoner Olmak İster?</title>
-  </programme>
-  <programme start="20261122000000 +0000" stop="20261122001500 +0000" channel="Haberturk">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122001500 +0000" stop="20261122010000 +0000" channel="Haberturk">
-    <title>Bir Dünya Lezzet</title>
-  </programme>
-  <programme start="20261122010000 +0000" stop="20261122011500 +0000" channel="Haberturk">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122011500 +0000" stop="20261122020000 +0000" channel="Haberturk">
-    <title>HT Sinema</title>
-  </programme>
-  <programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="Haberturk">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122030000 +0000" stop="20261122031500 +0000" channel="Haberturk">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122031500 +0000" stop="20261122040000 +0000" channel="Haberturk">
-    <title>Hayatın İçinden</title>
-  </programme>
-  <programme start="20261122040000 +0000" stop="20261122050000 +0000" channel="Haberturk">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122050000 +0000" stop="20261122090000 +0000" channel="Haberturk">
-    <title>Burası Hafta Sonu</title>
-  </programme>
-  <programme start="20261122090000 +0000" stop="20261122091500 +0000" channel="Haberturk">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122091500 +0000" stop="20261122100000 +0000" channel="Haberturk">
-    <title>Airport</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="Haberturk">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261122121500 +0000" channel="Haberturk">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122121500 +0000" stop="20261122130000 +0000" channel="Haberturk">
-    <title>Dünyada Nasıl?</title>
-  </programme>
-  <programme start="20261122130000 +0000" stop="20261122140000 +0000" channel="Haberturk">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122150000 +0000" channel="Haberturk">
-    <title>Haftalık</title>
-  </programme>
-  <programme start="20261122150000 +0000" stop="20261122205900 +0000" channel="Haberturk">
-    <title>Ana Haber</title>
-  </programme>
-  <programme start="20261122000000 +0000" stop="20261122014500 +0000" channel="Now TR">
-    <title>Şevkat Yerimdar</title>
-  </programme>
-  <programme start="20261122014500 +0000" stop="20261122030000 +0000" channel="Now TR">
-    <title>Yasak Elma</title>
-  </programme>
-  <programme start="20261122030000 +0000" stop="20261122053000 +0000" channel="Now TR">
-    <title>Karagül</title>
-  </programme>
-  <programme start="20261122053000 +0000" stop="20261122081500 +0000" channel="Now TR">
-    <title>Ezgi Gözeger ile Çalar...</title>
-  </programme>
-  <programme start="20261122081500 +0000" stop="20261122100000 +0000" channel="Now TR">
-    <title>Merve Yıldırım İle...</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122130000 +0000" channel="Now TR">
-    <title>Ömür Usta</title>
-  </programme>
-  <programme start="20261122130000 +0000" stop="20261122160000 +0000" channel="Now TR">
-    <title>Anne Yarısı</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122205900 +0000" channel="Now TR">
-    <title>Deniz Uras ile Now Ana...</title>
-  </programme>
-  <programme start="20261122000000 +0000" stop="20261122001500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122001500 +0000" stop="20261122005500 +0000" channel="NTV RT">
-    <title>Osman Müftüoğlu İle...</title>
-  </programme>
-  <programme start="20261122005500 +0000" stop="20261122010000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122010000 +0000" stop="20261122011500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122011500 +0000" stop="20261122015500 +0000" channel="NTV RT">
-    <title>Çevre İçin Takipte</title>
-  </programme>
-  <programme start="20261122015500 +0000" stop="20261122020000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122020000 +0000" stop="20261122021500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122021500 +0000" stop="20261122025500 +0000" channel="NTV RT">
-    <title>Sinan Canan İle Açık Beyin</title>
-  </programme>
-  <programme start="20261122025500 +0000" stop="20261122030000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122030000 +0000" stop="20261122035500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122035500 +0000" stop="20261122040000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122040000 +0000" stop="20261122043500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122043500 +0000" stop="20261122045500 +0000" channel="NTV RT">
-    <title>Gece Gündüz</title>
-  </programme>
-  <programme start="20261122045500 +0000" stop="20261122050000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122050000 +0000" stop="20261122055500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122055500 +0000" stop="20261122060000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122060000 +0000" stop="20261122065000 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122065000 +0000" stop="20261122065500 +0000" channel="NTV RT">
-    <title>Türkiye'nin Anıt Ağaçları</title>
-  </programme>
-  <programme start="20261122065500 +0000" stop="20261122070000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122070000 +0000" stop="20261122071500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122071500 +0000" stop="20261122075000 +0000" channel="NTV RT">
-    <title>Çevre İçin Takipte</title>
-  </programme>
-  <programme start="20261122075000 +0000" stop="20261122075500 +0000" channel="NTV RT">
-    <title>Nasıl Azaltırım?</title>
-  </programme>
-  <programme start="20261122075500 +0000" stop="20261122080000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122080000 +0000" stop="20261122081500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122081500 +0000" stop="20261122085500 +0000" channel="NTV RT">
-    <title>Birol Güven İle Beyaz Perde</title>
-  </programme>
-  <programme start="20261122085500 +0000" stop="20261122090000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122090000 +0000" stop="20261122091500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122091500 +0000" stop="20261122094500 +0000" channel="NTV RT">
-    <title>Anadoludakiler</title>
-  </programme>
-  <programme start="20261122094500 +0000" stop="20261122095500 +0000" channel="NTV RT">
-    <title>Spor</title>
-  </programme>
-  <programme start="20261122095500 +0000" stop="20261122100000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122105500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122105500 +0000" stop="20261122110000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261122111500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122111500 +0000" stop="20261122114000 +0000" channel="NTV RT">
-    <title>Tekno Hayat</title>
-  </programme>
-  <programme start="20261122114000 +0000" stop="20261122114500 +0000" channel="NTV RT">
-    <title>Türkiye'nin Anıt Ağaçları</title>
-  </programme>
-  <programme start="20261122114500 +0000" stop="20261122115500 +0000" channel="NTV RT">
-    <title>Spor</title>
-  </programme>
-  <programme start="20261122115500 +0000" stop="20261122120000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122120000 +0000" stop="20261122121500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122121500 +0000" stop="20261122123000 +0000" channel="NTV RT">
-    <title>Müze Ziyaretçisi</title>
-  </programme>
-  <programme start="20261122123000 +0000" stop="20261122124500 +0000" channel="NTV RT">
-    <title>Yeşil Ekran</title>
-  </programme>
-  <programme start="20261122124500 +0000" stop="20261122125500 +0000" channel="NTV RT">
-    <title>Spor</title>
-  </programme>
-  <programme start="20261122125500 +0000" stop="20261122130000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122130000 +0000" stop="20261122131500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122131500 +0000" stop="20261122135500 +0000" channel="NTV RT">
-    <title>Her Şey Burada Başladı</title>
-  </programme>
-  <programme start="20261122135500 +0000" stop="20261122140000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122145000 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122145000 +0000" stop="20261122145500 +0000" channel="NTV RT">
-    <title>Nasıl Azaltırım?</title>
-  </programme>
-  <programme start="20261122145500 +0000" stop="20261122150000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122150000 +0000" stop="20261122151500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122151500 +0000" stop="20261122152500 +0000" channel="NTV RT">
-    <title>Spor</title>
-  </programme>
-  <programme start="20261122152500 +0000" stop="20261122153000 +0000" channel="NTV RT">
-    <title>Uzman Bakışı</title>
-  </programme>
-  <programme start="20261122153000 +0000" stop="20261122155500 +0000" channel="NTV RT">
-    <title>0</title>
-  </programme>
-  <programme start="20261122155500 +0000" stop="20261122160000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122161500 +0000" channel="NTV RT">
-    <title>Haber Bülteni</title>
-  </programme>
-  <programme start="20261122161500 +0000" stop="20261122165500 +0000" channel="NTV RT">
-    <title>Osman Müftüoğlu İle...</title>
-  </programme>
-  <programme start="20261122165500 +0000" stop="20261122170000 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122170000 +0000" stop="20261122175500 +0000" channel="NTV RT">
-    <title>Ana Haber</title>
-  </programme>
-  <programme start="20261122175500 +0000" stop="20261122205900 +0000" channel="NTV RT">
-    <title>Hava Durumu</title>
-  </programme>
-  <programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="TGRT Haber">
-    <title>Hafta Sonu Ana Haber</title>
-  </programme>
-  <programme start="20261122010000 +0000" stop="20261122013000 +0000" channel="TGRT Haber">
-    <title>Gece Haberleri</title>
-  </programme>
-  <programme start="20261122013000 +0000" stop="20261122020000 +0000" channel="TGRT Haber">
-    <title>Gecenin İçinden</title>
-  </programme>
-  <programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="TGRT Haber">
-    <title>Gece Haberleri</title>
-  </programme>
-  <programme start="20261122023000 +0000" stop="20261122024500 +0000" channel="TGRT Haber">
-    <title>Huzura Doğru</title>
-  </programme>
-  <programme start="20261122024500 +0000" stop="20261122030000 +0000" channel="TGRT Haber">
-    <title>Gecenin İçinden</title>
-  </programme>
-  <programme start="20261122030000 +0000" stop="20261122050000 +0000" channel="TGRT Haber">
-    <title>Hafta Sonu Haber</title>
-  </programme>
-  <programme start="20261122050000 +0000" stop="20261122055000 +0000" channel="TGRT Haber">
-    <title>Gün Başlıyor</title>
-  </programme>
-  <programme start="20261122055000 +0000" stop="20261122060000 +0000" channel="TGRT Haber">
-    <title>Hayatın İçinden</title>
-  </programme>
-  <programme start="20261122060000 +0000" stop="20261122065000 +0000" channel="TGRT Haber">
-    <title>Gün Başlıyor</title>
-  </programme>
-  <programme start="20261122065000 +0000" stop="20261122070000 +0000" channel="TGRT Haber">
-    <title>Hayatın İçinden</title>
-  </programme>
-  <programme start="20261122070000 +0000" stop="20261122075000 +0000" channel="TGRT Haber">
-    <title>Gün Başlıyor</title>
-  </programme>
-  <programme start="20261122075000 +0000" stop="20261122080000 +0000" channel="TGRT Haber">
-    <title>Hayatın İçinden</title>
-  </programme>
-  <programme start="20261122080000 +0000" stop="20261122081500 +0000" channel="TGRT Haber">
-    <title>Hafta Sonu Haber</title>
-  </programme>
-  <programme start="20261122081500 +0000" stop="20261122090000 +0000" channel="TGRT Haber">
-    <title>Lezzetin İzinde</title>
-  </programme>
-  <programme start="20261122090000 +0000" stop="20261122095000 +0000" channel="TGRT Haber">
-    <title>Hafta Sonu Haber</title>
-  </programme>
-  <programme start="20261122095000 +0000" stop="20261122100000 +0000" channel="TGRT Haber">
-    <title>Hayatın İçinden</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="TGRT Haber">
-    <title>Yasemin'in Penceresi</title>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261122115000 +0000" channel="TGRT Haber">
-    <title>Hafta Sonu Haber</title>
-  </programme>
-  <programme start="20261122115000 +0000" stop="20261122120000 +0000" channel="TGRT Haber">
-    <title>Hayatın İçinden</title>
-  </programme>
-  <programme start="20261122120000 +0000" stop="20261122125000 +0000" channel="TGRT Haber">
-    <title>Hafta Sonu Haber</title>
-  </programme>
-  <programme start="20261122125000 +0000" stop="20261122130000 +0000" channel="TGRT Haber">
-    <title>Hayatın İçinden</title>
-  </programme>
-  <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="TGRT Haber">
-    <title>Hafta Sonu Haber</title>
-  </programme>
-  <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="TGRT Haber">
-    <title>Doğa Ve Biz</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122145000 +0000" channel="TGRT Haber">
-    <title>Hafta Sonu Haber</title>
-  </programme>
-  <programme start="20261122145000 +0000" stop="20261122150000 +0000" channel="TGRT Haber">
-    <title>Hayatın İçinden</title>
-  </programme>
-  <programme start="20261122150000 +0000" stop="20261122155000 +0000" channel="TGRT Haber">
-    <title>Akşam Gündemi</title>
-  </programme>
-  <programme start="20261122155000 +0000" stop="20261122160000 +0000" channel="TGRT Haber">
-    <title>Hayatın İçinden</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122163000 +0000" channel="TGRT Haber">
-    <title>Akşam Gündemi</title>
-  </programme>
-  <programme start="20261122163000 +0000" stop="20261122164500 +0000" channel="TGRT Haber">
-    <title>Hayatın İçinden</title>
-  </programme>
-  <programme start="20261122164500 +0000" stop="20261122205900 +0000" channel="TGRT Haber">
-    <title>Hafta Sonu Ana Haber</title>
-  </programme>
-  <programme start="20261122002000 +0000" stop="20261122030000 +0000" channel="TRT 1 TR">
-    <title>Evlilik Güzeldir</title>
-  </programme>
-  <programme start="20261122030000 +0000" stop="20261122035500 +0000" channel="TRT 1 TR">
-    <title>Turgay Başyayla ile...</title>
-  </programme>
-  <programme start="20261122035500 +0000" stop="20261122055500 +0000" channel="TRT 1 TR">
-    <title>Yedi Güzel Adam</title>
-  </programme>
-  <programme start="20261122055500 +0000" stop="20261122084500 +0000" channel="TRT 1 TR">
-    <title>Diriliş Ertuğrul</title>
-  </programme>
-  <programme start="20261122084500 +0000" stop="20261122100000 +0000" channel="TRT 1 TR">
-    <title>Enine Boyuna</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122111000 +0000" channel="TRT 1 TR">
-    <title>Lingo Türkiye</title>
-  </programme>
-  <programme start="20261122111000 +0000" stop="20261122143000 +0000" channel="TRT 1 TR">
-    <title>Taşacak Bu Deniz</title>
-  </programme>
-  <programme start="20261122143000 +0000" stop="20261122160000 +0000" channel="TRT 1 TR">
-    <title>Kod Adı Kırlangıç</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122170000 +0000" channel="TRT 1 TR">
-    <title>Ana Haber</title>
-  </programme>
-  <programme start="20261122170000 +0000" stop="20261122205900 +0000" channel="TRT 1 TR">
-    <title>Teşkilat</title>
-  </programme>
-  <programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="TRT Haber">
-    <title>Haber 03</title>
-  </programme>
-  <programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="TRT Haber">
-    <title>Haber 04</title>
-  </programme>
-  <programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="TRT Haber">
-    <title>Haber 05</title>
-  </programme>
-  <programme start="20261122030000 +0000" stop="20261122040000 +0000" channel="TRT Haber">
-    <title>Haber 06</title>
-  </programme>
-  <programme start="20261122040000 +0000" stop="20261122070000 +0000" channel="TRT Haber">
-    <title>Günaydın Hafta Sonu</title>
-  </programme>
-  <programme start="20261122070000 +0000" stop="20261122080000 +0000" channel="TRT Haber">
-    <title>Haber 10</title>
-  </programme>
-  <programme start="20261122080000 +0000" stop="20261122090000 +0000" channel="TRT Haber">
-    <title>Haber 11</title>
-  </programme>
-  <programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="TRT Haber">
-    <title>Haber 12</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="TRT Haber">
-    <title>Haber 13</title>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261122120000 +0000" channel="TRT Haber">
-    <title>Haber 14</title>
-  </programme>
-  <programme start="20261122120000 +0000" stop="20261122130000 +0000" channel="TRT Haber">
-    <title>Haber 15</title>
-  </programme>
-  <programme start="20261122130000 +0000" stop="20261122140000 +0000" channel="TRT Haber">
-    <title>Haber 16</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122150000 +0000" channel="TRT Haber">
-    <title>Haber 17</title>
-  </programme>
-  <programme start="20261122150000 +0000" stop="20261122160000 +0000" channel="TRT Haber">
-    <title>Haber 18</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122170000 +0000" channel="TRT Haber">
-    <title>Haber 19</title>
-  </programme>
-  <programme start="20261122170000 +0000" stop="20261122205900 +0000" channel="TRT Haber">
-    <title>Ana Haber 20</title>
-  </programme>
-  <programme start="20261122002000 +0000" stop="20261122005000 +0000" channel="TRT Turk">
-    <title>Rumeli Saati</title>
-  </programme>
-  <programme start="20261122005000 +0000" stop="20261122012000 +0000" channel="TRT Turk">
-    <title>Türkiye'ye Yatırım Yolculuğu</title>
-  </programme>
-  <programme start="20261122012000 +0000" stop="20261122015000 +0000" channel="TRT Turk">
-    <title>Arabam Yerli</title>
-  </programme>
-  <programme start="20261122015000 +0000" stop="20261122021000 +0000" channel="TRT Turk">
-    <title>Köy Havası</title>
-  </programme>
-  <programme start="20261122021000 +0000" stop="20261122024000 +0000" channel="TRT Turk">
-    <title>Bebeğim, Ben Ve Hayat</title>
-  </programme>
-  <programme start="20261122024000 +0000" stop="20261122032500 +0000" channel="TRT Turk">
-    <title>Dijital Hayat</title>
-  </programme>
-  <programme start="20261122032500 +0000" stop="20261122034500 +0000" channel="TRT Turk">
-    <title>Gönül Misafiri</title>
-  </programme>
-  <programme start="20261122034500 +0000" stop="20261122035500 +0000" channel="TRT Turk">
-    <title>Anadolu Camileri</title>
-  </programme>
-  <programme start="20261122035500 +0000" stop="20261122040000 +0000" channel="TRT Turk">
-    <title>İstiklal Marşı Çocuk</title>
-  </programme>
-  <programme start="20261122040000 +0000" stop="20261122041500 +0000" channel="TRT Turk">
-    <title>Kaptan Pengu Ve Arkadaşları</title>
-  </programme>
-  <programme start="20261122041500 +0000" stop="20261122043000 +0000" channel="TRT Turk">
-    <title>Rafadan Tayfa</title>
-  </programme>
-  <programme start="20261122043000 +0000" stop="20261122060000 +0000" channel="TRT Turk">
-    <title>Ekip: Siberay Güneş...</title>
-  </programme>
-  <programme start="20261122060000 +0000" stop="20261122061500 +0000" channel="TRT Turk">
-    <title>Burak İle Bubu</title>
-  </programme>
-  <programme start="20261122061500 +0000" stop="20261122080000 +0000" channel="TRT Turk">
-    <title>Tozkoparan</title>
-  </programme>
-  <programme start="20261122080000 +0000" stop="20261122084500 +0000" channel="TRT Turk">
-    <title>Dijital Hayat</title>
-  </programme>
-  <programme start="20261122084500 +0000" stop="20261122091500 +0000" channel="TRT Turk">
-    <title>Temizlik Kulübü</title>
-  </programme>
-  <programme start="20261122091500 +0000" stop="20261122094500 +0000" channel="TRT Turk">
-    <title>Köy Havası</title>
-  </programme>
-  <programme start="20261122094500 +0000" stop="20261122100000 +0000" channel="TRT Turk">
-    <title>Tarifsiz Lezzetler</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122104500 +0000" channel="TRT Turk">
-    <title>İstanbul Stüdyosu</title>
-  </programme>
-  <programme start="20261122104500 +0000" stop="20261122110000 +0000" channel="TRT Turk">
-    <title>Zuhurat</title>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="TRT Turk">
-    <title>Kültür Noktası</title>
-  </programme>
-  <programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="TRT Turk">
-    <title>Gönül Verenler</title>
-  </programme>
-  <programme start="20261122120000 +0000" stop="20261122130000 +0000" channel="TRT Turk">
-    <title>Aklıselim</title>
-  </programme>
-  <programme start="20261122130000 +0000" stop="20261122134500 +0000" channel="TRT Turk">
-    <title>Yeni Bir Sayfa</title>
-  </programme>
-  <programme start="20261122134500 +0000" stop="20261122140000 +0000" channel="TRT Turk">
-    <title>Mikrofon Senin Arnavutluk</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122150000 +0000" channel="TRT Turk">
-    <title>Hayat Almanya</title>
-  </programme>
-  <programme start="20261122150000 +0000" stop="20261122154500 +0000" channel="TRT Turk">
-    <title>Haber 18</title>
-  </programme>
-  <programme start="20261122154500 +0000" stop="20261122160000 +0000" channel="TRT Turk">
-    <title>Zuhurat</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122163000 +0000" channel="TRT Turk">
-    <title>Arabam Yerli</title>
-  </programme>
-  <programme start="20261122163000 +0000" stop="20261122205900 +0000" channel="TRT Turk">
-    <title>Gönlümdeki Köln</title>
-  </programme>
-  <programme start="20261122000000 +0000" stop="20261122003000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122003000 +0000" stop="20261122010000 +0000" channel="TRT World">
-    <title>Just 2 Degrees</title>
-  </programme>
-  <programme start="20261122010000 +0000" stop="20261122011500 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122011500 +0000" stop="20261122013000 +0000" channel="TRT World">
-    <title>Debrief</title>
-  </programme>
-  <programme start="20261122013000 +0000" stop="20261122020000 +0000" channel="TRT World">
-    <title>The Newsmakers</title>
-  </programme>
-  <programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122023000 +0000" stop="20261122030000 +0000" channel="TRT World">
-    <title>Money Talks</title>
-  </programme>
-  <programme start="20261122030000 +0000" stop="20261122040000 +0000" channel="TRT World">
-    <title>Planet Finance</title>
-  </programme>
-  <programme start="20261122040000 +0000" stop="20261122043000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122043000 +0000" stop="20261122050000 +0000" channel="TRT World">
-    <title>The Future With Hannah Fry...</title>
-  </programme>
-  <programme start="20261122050000 +0000" stop="20261122053000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122053000 +0000" stop="20261122060000 +0000" channel="TRT World">
-    <title>Bigger Than Five</title>
-  </programme>
-  <programme start="20261122060000 +0000" stop="20261122063000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122063000 +0000" stop="20261122070000 +0000" channel="TRT World">
-    <title>Money Talks</title>
-  </programme>
-  <programme start="20261122070000 +0000" stop="20261122073000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122073000 +0000" stop="20261122080000 +0000" channel="TRT World">
-    <title>Africa Matters</title>
-  </programme>
-  <programme start="20261122080000 +0000" stop="20261122083000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122083000 +0000" stop="20261122090000 +0000" channel="TRT World">
-    <title>Roundtable</title>
-  </programme>
-  <programme start="20261122090000 +0000" stop="20261122093000 +0000" channel="TRT World">
-    <title>Nexus</title>
-  </programme>
-  <programme start="20261122093000 +0000" stop="20261122100000 +0000" channel="TRT World">
-    <title>The Newsmakers</title>
-  </programme>
-  <programme start="20261122100000 +0000" stop="20261122103000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122103000 +0000" stop="20261122110000 +0000" channel="TRT World">
-    <title>Strait Talk</title>
-  </programme>
-  <programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="TRT World">
-    <title>Inside America</title>
-  </programme>
-  <programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122123000 +0000" stop="20261122124500 +0000" channel="TRT World">
-    <title>Debrief</title>
-  </programme>
-  <programme start="20261122124500 +0000" stop="20261122130000 +0000" channel="TRT World">
-    <title>Newsfeed</title>
-  </programme>
-  <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="TRT World">
-    <title>Nextech</title>
-  </programme>
-  <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122143000 +0000" stop="20261122150000 +0000" channel="TRT World">
-    <title>Just 2 Degrees</title>
-  </programme>
-  <programme start="20261122150000 +0000" stop="20261122160000 +0000" channel="TRT World">
-    <title>Storyteller</title>
-  </programme>
-  <programme start="20261122160000 +0000" stop="20261122163000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122163000 +0000" stop="20261122170000 +0000" channel="TRT World">
-    <title>Roundtable</title>
-  </programme>
-  <programme start="20261122170000 +0000" stop="20261122173000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122173000 +0000" stop="20261122210000 +0000" channel="TRT World">
-    <title>Money Talks</title>
-  </programme>
-  <programme start="20261122210000 +0000" stop="20261122213000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122213000 +0000" stop="20261122220000 +0000" channel="TRT World">
-    <title>The Newsmakers</title>
-  </programme>
-  <programme start="20261122220000 +0000" stop="20261122223000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="TRT World">
-    <title>Roundtable</title>
-  </programme>
-  <programme start="20261122230000 +0000" stop="20261122233000 +0000" channel="TRT World">
-    <title>News</title>
-  </programme>
-  <programme start="20261122233000 +0000" stop="20261122234500 +0000" channel="TRT World">
-    <title>Scoreline</title>
-  </programme>
-  <programme start="20261122234500 +0000" stop="20261123205900 +0000" channel="TRT World">
-    <title>Debrief</title>
-  </programme>
-  <programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="TV8 TR">
-    <title>Gençlik Rüzgarı</title>
-  </programme>
-  <programme start="20261122020000 +0000" stop="20261122050000 +0000" channel="TV8 TR">
-    <title>Tuzak</title>
-  </programme>
-  <programme start="20261122050000 +0000" stop="20261122054500 +0000" channel="TV8 TR">
-    <title>Oynat Bakalım</title>
-  </programme>
-  <programme start="20261122054500 +0000" stop="20261122070000 +0000" channel="TV8 TR">
-    <title>Gençlik Rüzgarı</title>
-  </programme>
-  <programme start="20261122070000 +0000" stop="20261122123000 +0000" channel="TV8 TR">
-    <title>Gazete Magazin</title>
-  </programme>
-  <programme start="20261122123000 +0000" stop="20261122205900 +0000" channel="TV8 TR">
-    <title>Temizlik Benim İşim</title>
-  </programme>
-  <programme start="20261122021500 +0000" stop="20261122030000 +0000" channel="1Plus1 International">
-    <title>Світ навиворіт.</title>
-  </programme>
-  <programme start="20261122030000 +0000" stop="20261122033000 +0000" channel="1Plus1 International">
-    <title>Світ чекає на відкриття.</title>
-  </programme>
-  <programme start="20261122033000 +0000" stop="20261122050000 +0000" channel="1Plus1 International">
-    <title>Життя відомих людей.</title>
-  </programme>
-  <programme start="20261122050000 +0000" stop="20261122080000 +0000" channel="1Plus1 International">
-    <title>Сніданок. Вихідний. Інформаційно-розважальна програма.</title>
-  </programme>
-  <programme start="20261122080000 +0000" stop="20261122134000 +0000" channel="1Plus1 International">
-    <title>Світ навиворіт.</title>
-  </programme>
-  <programme start="20261122134000 +0000" stop="20261122163000 +0000" channel="1Plus1 International">
-    <title>Україна неймовірних людей.</title>
-  </programme>
-  <programme start="20261122163000 +0000" stop="20261122170000 +0000" channel="1Plus1 International">
-    <title>ТСН.</title>
-  </programme>
-  <programme start="20261122170000 +0000" stop="20261122180000 +0000" channel="1Plus1 International">
-    <title>Єдині новини. Телемарафон.</title>
-  </programme>
   <programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="1Plus1 Marafon">
     <title>Хроніки брехні.</title>
   </programme>
@@ -7808,140 +6714,140 @@
   <programme start="20261123003500 +0000" stop="20261123011500 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261123011500 +0000" stop="20261123030000 +0000" channel="5 Kanal UA">
+  <programme start="20261123011500 +0000" stop="20261123025500 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261123030000 +0000" stop="20261123033500 +0000" channel="5 Kanal UA">
-    <title>Час новин. Підсумки дня</title>
+  <programme start="20261123025500 +0000" stop="20261123033000 +0000" channel="5 Kanal UA">
+    <title>Час новин</title>
   </programme>
-  <programme start="20261123033500 +0000" stop="20261123041500 +0000" channel="5 Kanal UA">
+  <programme start="20261123033000 +0000" stop="20261123043000 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261123041500 +0000" stop="20261123050000 +0000" channel="5 Kanal UA">
-    <title>Ми не вдома</title>
+  <programme start="20261123043000 +0000" stop="20261123050000 +0000" channel="5 Kanal UA">
+    <title>Дайджест</title>
   </programme>
-  <programme start="20261123050000 +0000" stop="20261123054000 +0000" channel="5 Kanal UA">
+  <programme start="20261123050000 +0000" stop="20261123053500 +0000" channel="5 Kanal UA">
     <title>Час новин. Підсумки дня</title>
   </programme>
-  <programme start="20261123054000 +0000" stop="20261123060000 +0000" channel="5 Kanal UA">
-    <title>Час інтерв'ю</title>
+  <programme start="20261123053500 +0000" stop="20261123060000 +0000" channel="5 Kanal UA">
+    <title>Легендарні воїни</title>
   </programme>
   <programme start="20261123060000 +0000" stop="20261123060100 +0000" channel="5 Kanal UA">
     <title>Хвилина мовчання</title>
   </programme>
-  <programme start="20261123060100 +0000" stop="20261123063000 +0000" channel="5 Kanal UA">
+  <programme start="20261123060100 +0000" stop="20261123062500 +0000" channel="5 Kanal UA">
     <title>Час новин</title>
   </programme>
-  <programme start="20261123063000 +0000" stop="20261123074500 +0000" channel="5 Kanal UA">
+  <programme start="20261123062500 +0000" stop="20261123070000 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261123074500 +0000" stop="20261123080000 +0000" channel="5 Kanal UA">
-    <title>Військові професії. На лінії вогню</title>
+  <programme start="20261123070000 +0000" stop="20261123080500 +0000" channel="5 Kanal UA">
+    <title>Незламна країна</title>
   </programme>
-  <programme start="20261123080000 +0000" stop="20261123090000 +0000" channel="5 Kanal UA">
+  <programme start="20261123080500 +0000" stop="20261123090000 +0000" channel="5 Kanal UA">
     <title>Д/с Жінки доби бароко</title>
   </programme>
-  <programme start="20261123090000 +0000" stop="20261123092500 +0000" channel="5 Kanal UA">
+  <programme start="20261123090000 +0000" stop="20261123093000 +0000" channel="5 Kanal UA">
     <title>Час новин</title>
   </programme>
-  <programme start="20261123092500 +0000" stop="20261123104000 +0000" channel="5 Kanal UA">
+  <programme start="20261123093000 +0000" stop="20261123095000 +0000" channel="5 Kanal UA">
     <title>Машина часу</title>
   </programme>
-  <programme start="20261123104000 +0000" stop="20261123110000 +0000" channel="5 Kanal UA">
-    <title>Не ведіться</title>
+  <programme start="20261123095000 +0000" stop="20261123103000 +0000" channel="5 Kanal UA">
+    <title>Машина часу</title>
   </programme>
-  <programme start="20261123110000 +0000" stop="20261123114000 +0000" channel="5 Kanal UA">
-    <title>Час інтерв'ю</title>
-  </programme>
-  <programme start="20261123114000 +0000" stop="20261123120000 +0000" channel="5 Kanal UA">
+  <programme start="20261123103000 +0000" stop="20261123110000 +0000" channel="5 Kanal UA">
     <title>Телемагазин</title>
   </programme>
-  <programme start="20261123120000 +0000" stop="20261123122000 +0000" channel="5 Kanal UA">
+  <programme start="20261123110000 +0000" stop="20261123112500 +0000" channel="5 Kanal UA">
+    <title>Машина часу</title>
+  </programme>
+  <programme start="20261123112500 +0000" stop="20261123120000 +0000" channel="5 Kanal UA">
+    <title>Телемагазин</title>
+  </programme>
+  <programme start="20261123120000 +0000" stop="20261123123000 +0000" channel="5 Kanal UA">
     <title>Час новин</title>
   </programme>
-  <programme start="20261123122000 +0000" stop="20261123133000 +0000" channel="5 Kanal UA">
+  <programme start="20261123123000 +0000" stop="20261123130500 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261123133000 +0000" stop="20261123140000 +0000" channel="5 Kanal UA">
-    <title>Серед нас</title>
+  <programme start="20261123130500 +0000" stop="20261123133500 +0000" channel="5 Kanal UA">
+    <title>Незламна країна</title>
   </programme>
-  <programme start="20261123140000 +0000" stop="20261123142000 +0000" channel="5 Kanal UA">
-    <title>Я не можу не спитати</title>
+  <programme start="20261123133500 +0000" stop="20261123142500 +0000" channel="5 Kanal UA">
+    <title>Телемагазин</title>
   </programme>
-  <programme start="20261123142000 +0000" stop="20261123145000 +0000" channel="5 Kanal UA">
-    <title>Фокус на Європі</title>
+  <programme start="20261123142500 +0000" stop="20261123145000 +0000" channel="5 Kanal UA">
+    <title>Легендарні воїни</title>
   </programme>
   <programme start="20261123145000 +0000" stop="20261123150000 +0000" channel="5 Kanal UA">
     <title>Дайджест. СтратКом</title>
   </programme>
-  <programme start="20261123150000 +0000" stop="20261123152500 +0000" channel="5 Kanal UA">
+  <programme start="20261123150000 +0000" stop="20261123153000 +0000" channel="5 Kanal UA">
     <title>Час новин</title>
   </programme>
-  <programme start="20261123152500 +0000" stop="20261123160000 +0000" channel="5 Kanal UA">
+  <programme start="20261123153000 +0000" stop="20261123160500 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261123160000 +0000" stop="20261123162500 +0000" channel="5 Kanal UA">
-    <title>Час новин</title>
-  </programme>
-  <programme start="20261123162500 +0000" stop="20261123170000 +0000" channel="5 Kanal UA">
+  <programme start="20261123160500 +0000" stop="20261123163500 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261123170000 +0000" stop="20261123174500 +0000" channel="5 Kanal UA">
+  <programme start="20261123163500 +0000" stop="20261123170000 +0000" channel="5 Kanal UA">
+    <title>Легендарні воїни</title>
+  </programme>
+  <programme start="20261123170000 +0000" stop="20261123174000 +0000" channel="5 Kanal UA">
     <title>Час новин</title>
   </programme>
-  <programme start="20261123174500 +0000" stop="20261123180000 +0000" channel="5 Kanal UA">
+  <programme start="20261123174000 +0000" stop="20261123180000 +0000" channel="5 Kanal UA">
     <title>Не ведіться</title>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123184500 +0000" channel="5 Kanal UA">
+  <programme start="20261123180000 +0000" stop="20261123184000 +0000" channel="5 Kanal UA">
     <title>Час новин</title>
   </programme>
-  <programme start="20261123184500 +0000" stop="20261123190000 +0000" channel="5 Kanal UA">
-    <title>Д/ф По суті</title>
-  </programme>
-  <programme start="20261123190000 +0000" stop="20261123194500 +0000" channel="5 Kanal UA">
-    <title>Фокус на Європі</title>
+  <programme start="20261123184000 +0000" stop="20261123194500 +0000" channel="5 Kanal UA">
+    <title>Д/с Окупація</title>
   </programme>
   <programme start="20261123194500 +0000" stop="20261123200000 +0000" channel="5 Kanal UA">
     <title>Новини BBC</title>
   </programme>
-  <programme start="20261123200000 +0000" stop="20261123204500 +0000" channel="5 Kanal UA">
+  <programme start="20261123200000 +0000" stop="20261123204000 +0000" channel="5 Kanal UA">
     <title>Час новин. Підсумки дня</title>
   </programme>
-  <programme start="20261123204500 +0000" stop="20261123210000 +0000" channel="5 Kanal UA">
-    <title>Військові професії. На лінії вогню</title>
+  <programme start="20261123204000 +0000" stop="20261123210500 +0000" channel="5 Kanal UA">
+    <title>Д/с Полігон</title>
   </programme>
-  <programme start="20261123210000 +0000" stop="20261123214000 +0000" channel="5 Kanal UA">
+  <programme start="20261123210500 +0000" stop="20261123214500 +0000" channel="5 Kanal UA">
     <title>Час новин</title>
   </programme>
-  <programme start="20261123214000 +0000" stop="20261123225000 +0000" channel="5 Kanal UA">
+  <programme start="20261123214500 +0000" stop="20261123230500 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261123225000 +0000" stop="20261124000000 +0000" channel="5 Kanal UA">
+  <programme start="20261123230500 +0000" stop="20261124000000 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261124000000 +0000" stop="20261124004000 +0000" channel="5 Kanal UA">
+  <programme start="20261124000000 +0000" stop="20261124004500 +0000" channel="5 Kanal UA">
     <title>Час новин</title>
   </programme>
-  <programme start="20261124004000 +0000" stop="20261124015000 +0000" channel="5 Kanal UA">
+  <programme start="20261124004500 +0000" stop="20261124020500 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261124015000 +0000" stop="20261124030000 +0000" channel="5 Kanal UA">
+  <programme start="20261124020500 +0000" stop="20261124022500 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261124030000 +0000" stop="20261124034000 +0000" channel="5 Kanal UA">
-    <title>Час новин. Підсумки дня</title>
+  <programme start="20261124022500 +0000" stop="20261124030500 +0000" channel="5 Kanal UA">
+    <title>Час новин</title>
   </programme>
-  <programme start="20261124034000 +0000" stop="20261124041000 +0000" channel="5 Kanal UA">
+  <programme start="20261124030500 +0000" stop="20261124040500 +0000" channel="5 Kanal UA">
     <title>Незламна країна</title>
   </programme>
-  <programme start="20261124041000 +0000" stop="20261124050000 +0000" channel="5 Kanal UA">
-    <title>Ми не вдома</title>
+  <programme start="20261124040500 +0000" stop="20261124050000 +0000" channel="5 Kanal UA">
+    <title>Я не можу не спитати</title>
   </programme>
   <programme start="20261124050000 +0000" stop="20261124054000 +0000" channel="5 Kanal UA">
     <title>Час новин. Підсумки дня</title>
   </programme>
   <programme start="20261124054000 +0000" stop="20261124060000 +0000" channel="5 Kanal UA">
-    <title>Не ведіться</title>
+    <title>Військові професії. На лінії вогню</title>
   </programme>
   <programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="Espreso TV UA">
     <title>Київ сьогодні</title>
@@ -8018,8 +6924,11 @@
   <programme start="20261122193000 +0000" stop="20261122200000 +0000" channel="Espreso TV UA">
     <title>Точка зору</title>
   </programme>
-  <programme start="20261122200000 +0000" stop="20261122210000 +0000" channel="Espreso TV UA">
+  <programme start="20261122200000 +0000" stop="20261122203000 +0000" channel="Espreso TV UA">
     <title>Говорить СтратКом</title>
+  </programme>
+  <programme start="20261122203000 +0000" stop="20261122210000 +0000" channel="Espreso TV UA">
+    <title>Чорна скринька</title>
   </programme>
   <programme start="20261122210000 +0000" stop="20261122213500 +0000" channel="Espreso TV UA">
     <title>Студія Захід</title>
@@ -8076,7 +6985,7 @@
     <title>Тепер Головне</title>
   </programme>
   <programme start="20261123130000 +0000" stop="20261123140000 +0000" channel="Espreso TV UA">
-    <title>Алгоритми брехні</title>
+    <title>Чорна скринька</title>
   </programme>
   <programme start="20261123140000 +0000" stop="20261123150000 +0000" channel="Espreso TV UA">
     <title>Світ:Огляд</title>
