@@ -4,30 +4,6 @@
     <display-name>One MT</display-name>
     <icon src="https://images.open-epg.com/nologo.png" />
   </channel>
-  <channel id="Canale 5">
-    <display-name>Canale 5</display-name>
-    <icon src="https://images.open-epg.com/25609070.png" />
-  </channel>
-  <channel id="Italia 1">
-    <display-name>Italia 1</display-name>
-    <icon src="https://images.open-epg.com/25609220.png" />
-  </channel>
-  <channel id="RAI 1">
-    <display-name>RAI 1</display-name>
-    <icon src="https://images.open-epg.com/1266.png" />
-  </channel>
-  <channel id="RAI 2">
-    <display-name>RAI 2</display-name>
-    <icon src="https://images.open-epg.com/1267.png" />
-  </channel>
-  <channel id="RAI 3">
-    <display-name>RAI 3</display-name>
-    <icon src="https://images.open-epg.com/1268.png" />
-  </channel>
-  <channel id="TVE Internacional">
-    <display-name>TVE Internacional</display-name>
-    <icon src="https://images.open-epg.com/17656.png" />
-  </channel>
   <channel id="BFM TV">
     <display-name>BFM TV</display-name>
     <icon src="https://images.open-epg.com/19984488.png" />
@@ -100,13 +76,25 @@
     <display-name>W9</display-name>
     <icon src="https://images.open-epg.com/19984853.png" />
   </channel>
-  <channel id="RUV">
-    <display-name>RUV</display-name>
-    <icon src="https://images.open-epg.com/25517332.png" />
+  <channel id="Canale 5">
+    <display-name>Canale 5</display-name>
+    <icon src="https://images.open-epg.com/25609070.png" />
   </channel>
-  <channel id="RUV 2">
-    <display-name>RUV 2</display-name>
-    <icon src="https://images.open-epg.com/25517333.png" />
+  <channel id="Italia 1">
+    <display-name>Italia 1</display-name>
+    <icon src="https://images.open-epg.com/25609220.png" />
+  </channel>
+  <channel id="RAI 1">
+    <display-name>RAI 1</display-name>
+    <icon src="https://images.open-epg.com/1266.png" />
+  </channel>
+  <channel id="RAI 2">
+    <display-name>RAI 2</display-name>
+    <icon src="https://images.open-epg.com/1267.png" />
+  </channel>
+  <channel id="RAI 3">
+    <display-name>RAI 3</display-name>
+    <icon src="https://images.open-epg.com/1268.png" />
   </channel>
   <channel id="TG4">
     <display-name>TG4</display-name>
@@ -167,6 +155,18 @@
   <channel id="QVC Style">
     <display-name>QVC Style</display-name>
     <icon src="https://images.open-epg.com/21626.png" />
+  </channel>
+  <channel id="RUV">
+    <display-name>RUV</display-name>
+    <icon src="https://images.open-epg.com/25517332.png" />
+  </channel>
+  <channel id="RUV 2">
+    <display-name>RUV 2</display-name>
+    <icon src="https://images.open-epg.com/25517333.png" />
+  </channel>
+  <channel id="TVE Internacional">
+    <display-name>TVE Internacional</display-name>
+    <icon src="https://images.open-epg.com/17656.png" />
   </channel>
   <programme start="20261123033000 +0000" stop="20261123050000 +0000" channel="BFM TV">
     <title>BFM Première : Pré-matinale</title>
@@ -1689,8 +1689,89 @@
   <programme start="20261124224300 +0000" stop="20261124224900 +0000" channel="France24">
     <title>Sports</title>
   </programme>
-  <programme start="20261124224900 +0000" stop="20261125160000 +0000" channel="France24">
+  <programme start="20261124224900 +0000" stop="20261124225100 +0000" channel="France24">
     <title>Les unes de la presse</title>
+  </programme>
+  <programme start="20261124225100 +0000" stop="20261124230000 +0000" channel="France24">
+    <title>Focus</title>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261124231500 +0000" channel="France24">
+    <title>L'actu 360 : le journal</title>
+  </programme>
+  <programme start="20261124231500 +0000" stop="20261125000000 +0000" channel="France24">
+    <title>Le débat</title>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125001500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261125001500 +0000" stop="20261125003000 +0000" channel="France24">
+    <title>Le journal de l'Afrique</title>
+  </programme>
+  <programme start="20261125003000 +0000" stop="20261125004500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261125004500 +0000" stop="20261125010000 +0000" channel="France24">
+    <title>A l'affiche</title>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125011000 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261125011000 +0000" stop="20261125013000 +0000" channel="France24">
+    <title>Ici l'Europe : on vous écoute</title>
+  </programme>
+  <programme start="20261125013000 +0000" stop="20261125014000 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261125014000 +0000" stop="20261125015500 +0000" channel="France24">
+    <title>C'est en France</title>
+  </programme>
+  <programme start="20261125015500 +0000" stop="20261125020000 +0000" channel="France24">
+    <title>L'instant mobile</title>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125021100 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261125021100 +0000" stop="20261125025500 +0000" channel="France24">
+    <title>Le débat</title>
+  </programme>
+  <programme start="20261125025500 +0000" stop="20261125030000 +0000" channel="France24">
+    <title>L'instant mobile</title>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125031500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261125031500 +0000" stop="20261125033000 +0000" channel="France24">
+    <title>Actuelles</title>
+  </programme>
+  <programme start="20261125033000 +0000" stop="20261125034500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261125034500 +0000" stop="20261125035100 +0000" channel="France24">
+    <title>#Pas2quartier</title>
+  </programme>
+  <programme start="20261125035100 +0000" stop="20261125040000 +0000" channel="France24">
+    <title>Focus</title>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125041500 +0000" channel="France24">
+    <title>L'édition nuit : le journal</title>
+  </programme>
+  <programme start="20261125041500 +0000" stop="20261125044500 +0000" channel="France24">
+    <title>Aux avant-postes</title>
+  </programme>
+  <programme start="20261125044500 +0000" stop="20261125050000 +0000" channel="France24">
+    <title>Le journal de l'Afrique</title>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125052200 +0000" channel="France24">
+    <title>A la une : le journal</title>
+  </programme>
+  <programme start="20261125052200 +0000" stop="20261125053000 +0000" channel="France24">
+    <title>Focus</title>
+  </programme>
+  <programme start="20261125053000 +0000" stop="20261125055100 +0000" channel="France24">
+    <title>A la une : le journal</title>
+  </programme>
+  <programme start="20261125055100 +0000" stop="20261125060000 +0000" channel="France24">
+    <title>Sports</title>
   </programme>
   <programme start="20261123000000 +0000" stop="20261123001500 +0000" channel="France24 Arabic">
     <title>Journal</title>
@@ -3354,9 +3435,6 @@
   <programme start="20261125055100 +0000" stop="20261125060000 +0000" channel="France24 English">
     <title>Sport (France 24 English)</title>
   </programme>
-  <programme start="20261123025900 +0000" stop="20261123042700 +0000" channel="franceinfo">
-    <title>La matinale info semaine</title>
-  </programme>
   <programme start="20261123042700 +0000" stop="20261123054000 +0000" channel="franceinfo">
     <title>La matinale info semaine</title>
   </programme>
@@ -3564,11 +3642,8 @@
   <programme start="20261125050000 +0000" stop="20261125072500 +0000" channel="LCI">
     <title>La matinale LCI</title>
   </programme>
-  <programme start="20261123030000 +0000" stop="20261123050000 +0000" channel="LEquipe">
+  <programme start="20261123030000 +0000" stop="20261123080000 +0000" channel="LEquipe">
     <title>Programmes de la nuit</title>
-  </programme>
-  <programme start="20261123050000 +0000" stop="20261123080000 +0000" channel="LEquipe">
-    <title>Aux frontières de l'Alaska</title>
   </programme>
   <programme start="20261123080000 +0000" stop="20261123110000 +0000" channel="LEquipe">
     <title>V6</title>
@@ -3872,9 +3947,6 @@
   </programme>
   <programme start="20261125054000 +0000" stop="20261125065000 +0000" channel="RMC Decouverte">
     <title>Flic story</title>
-  </programme>
-  <programme start="20261123040000 +0000" stop="20261123070000 +0000" channel="RMC Life">
-    <title>Good Morning Business</title>
   </programme>
   <programme start="20261123070000 +0000" stop="20261123075500 +0000" channel="RMC Life">
     <title>Au coeur du zoo de New York</title>
@@ -4217,6 +4289,24 @@
   </programme>
   <programme start="20261124231500 +0000" stop="20261125012000 +0000" channel="T18">
     <title>Non élucidé</title>
+  </programme>
+  <programme start="20261125012000 +0000" stop="20261125015000 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261125015000 +0000" stop="20261125025500 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261125025500 +0000" stop="20261125032500 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261125032500 +0000" stop="20261125043000 +0000" channel="T18">
+    <title>Pour tout dire</title>
+  </programme>
+  <programme start="20261125043000 +0000" stop="20261125053000 +0000" channel="T18">
+    <title>Alerte enlèvement</title>
+  </programme>
+  <programme start="20261125053000 +0000" stop="20261125063000 +0000" channel="T18">
+    <title>Alerte enlèvement</title>
   </programme>
   <programme start="20261123005500 +0000" stop="20261123045000 +0000" channel="TF1">
     <title>Programmes de la nuit</title>
@@ -6339,317 +6429,323 @@
   <programme start="20261125050000 +0000" stop="20261125230000 +0000" channel="RAI 3">
     <title>RaiNews24</title>
   </programme>
-  <programme start="20261123010000 +0000" stop="20261123043000 +0000" channel="One MT">
+  <programme start="20261123000000 +0000" stop="20261123033000 +0000" channel="One MT">
     <title>Trażmissjoni matul il-lejl</title>
+  </programme>
+  <programme start="20261123033000 +0000" stop="20261123034500 +0000" channel="One MT">
+    <title>ONE News</title>
+  </programme>
+  <programme start="20261123034500 +0000" stop="20261123034800 +0000" channel="One MT">
+    <title>Rapport tat-Temp</title>
+  </programme>
+  <programme start="20261123034800 +0000" stop="20261123035000 +0000" channel="One MT">
+    <title>Inkontru</title>
+  </programme>
+  <programme start="20261123035000 +0000" stop="20261123040000 +0000" channel="One MT">
+    <title>Brillanti Juniors Flash</title>
+  </programme>
+  <programme start="20261123040000 +0000" stop="20261123043000 +0000" channel="One MT">
+    <title>Pink Panther</title>
   </programme>
   <programme start="20261123043000 +0000" stop="20261123044500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261123044500 +0000" stop="20261123044800 +0000" channel="One MT">
+  <programme start="20261123044500 +0000" stop="20261123044700 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261123044800 +0000" stop="20261123045000 +0000" channel="One MT">
+  <programme start="20261123044700 +0000" stop="20261123045000 +0000" channel="One MT">
     <title>Inkontru</title>
   </programme>
   <programme start="20261123045000 +0000" stop="20261123050000 +0000" channel="One MT">
-    <title>Brillanti Juniors Flash</title>
-  </programme>
-  <programme start="20261123050000 +0000" stop="20261123053000 +0000" channel="One MT">
-    <title>Pink Panther</title>
-  </programme>
-  <programme start="20261123053000 +0000" stop="20261123054500 +0000" channel="One MT">
-    <title>ONE News</title>
-  </programme>
-  <programme start="20261123054500 +0000" stop="20261123054700 +0000" channel="One MT">
-    <title>Rapport tat-Temp</title>
-  </programme>
-  <programme start="20261123054700 +0000" stop="20261123055000 +0000" channel="One MT">
-    <title>Inkontru</title>
-  </programme>
-  <programme start="20261123055000 +0000" stop="20261123060000 +0000" channel="One MT">
     <title>Karamellu tar-Raħal t'isfel</title>
   </programme>
-  <programme start="20261123060000 +0000" stop="20261123064500 +0000" channel="One MT">
+  <programme start="20261123050000 +0000" stop="20261123054500 +0000" channel="One MT">
     <title>Quddiesa tal-Jum</title>
   </programme>
-  <programme start="20261123064500 +0000" stop="20261123070000 +0000" channel="One MT">
+  <programme start="20261123054500 +0000" stop="20261123060000 +0000" channel="One MT">
     <title>Knock About Sicilia</title>
   </programme>
-  <programme start="20261123070000 +0000" stop="20261123090000 +0000" channel="One MT">
+  <programme start="20261123060000 +0000" stop="20261123080000 +0000" channel="One MT">
     <title>The Morning Mix</title>
   </programme>
-  <programme start="20261123090000 +0000" stop="20261123092000 +0000" channel="One MT">
+  <programme start="20261123080000 +0000" stop="20261123082000 +0000" channel="One MT">
     <title>Telebejgħ</title>
   </programme>
-  <programme start="20261123092000 +0000" stop="20261123093000 +0000" channel="One MT">
+  <programme start="20261123082000 +0000" stop="20261123083000 +0000" channel="One MT">
     <title>Tikka Sport</title>
   </programme>
-  <programme start="20261123093000 +0000" stop="20261123093500 +0000" channel="One MT">
+  <programme start="20261123083000 +0000" stop="20261123083500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261123093500 +0000" stop="20261123094000 +0000" channel="One MT">
+  <programme start="20261123083500 +0000" stop="20261123084000 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261123094000 +0000" stop="20261123094500 +0000" channel="One MT">
+  <programme start="20261123084000 +0000" stop="20261123084500 +0000" channel="One MT">
     <title>Namaste Yoga</title>
   </programme>
-  <programme start="20261123094500 +0000" stop="20261123101500 +0000" channel="One MT">
+  <programme start="20261123084500 +0000" stop="20261123091500 +0000" channel="One MT">
     <title>Ħbieb u Għedewwa</title>
   </programme>
-  <programme start="20261123101500 +0000" stop="20261123113000 +0000" channel="One MT">
+  <programme start="20261123091500 +0000" stop="20261123103000 +0000" channel="One MT">
     <title>Ċempel u Irbaħ</title>
   </programme>
-  <programme start="20261123113000 +0000" stop="20261123121000 +0000" channel="One MT">
+  <programme start="20261123103000 +0000" stop="20261123111000 +0000" channel="One MT">
     <title>Simpatiċi</title>
   </programme>
-  <programme start="20261123121000 +0000" stop="20261123123000 +0000" channel="One MT">
+  <programme start="20261123111000 +0000" stop="20261123113000 +0000" channel="One MT">
     <title>Telebejgħ</title>
   </programme>
-  <programme start="20261123123000 +0000" stop="20261123123300 +0000" channel="One MT">
+  <programme start="20261123113000 +0000" stop="20261123113300 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261123123300 +0000" stop="20261123123500 +0000" channel="One MT">
+  <programme start="20261123113300 +0000" stop="20261123113500 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261123123500 +0000" stop="20261123124000 +0000" channel="One MT">
+  <programme start="20261123113500 +0000" stop="20261123114000 +0000" channel="One MT">
     <title>Inkontru</title>
   </programme>
-  <programme start="20261123124000 +0000" stop="20261123142500 +0000" channel="One MT">
+  <programme start="20261123114000 +0000" stop="20261123132500 +0000" channel="One MT">
     <title>Indigo</title>
   </programme>
-  <programme start="20261123142500 +0000" stop="20261123150000 +0000" channel="One MT">
+  <programme start="20261123132500 +0000" stop="20261123140000 +0000" channel="One MT">
     <title>Ħbieb u Għedewwa</title>
   </programme>
-  <programme start="20261123150000 +0000" stop="20261123153000 +0000" channel="One MT">
+  <programme start="20261123140000 +0000" stop="20261123143000 +0000" channel="One MT">
     <title>Flimkien ma' Nancy</title>
   </programme>
-  <programme start="20261123153000 +0000" stop="20261123153500 +0000" channel="One MT">
+  <programme start="20261123143000 +0000" stop="20261123143500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261123153500 +0000" stop="20261123154000 +0000" channel="One MT">
+  <programme start="20261123143500 +0000" stop="20261123144000 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261123154000 +0000" stop="20261123171500 +0000" channel="One MT">
+  <programme start="20261123144000 +0000" stop="20261123161500 +0000" channel="One MT">
     <title>Bil-Fatti</title>
   </programme>
-  <programme start="20261123171500 +0000" stop="20261123173000 +0000" channel="One MT">
+  <programme start="20261123161500 +0000" stop="20261123163000 +0000" channel="One MT">
     <title>Inkontru</title>
   </programme>
-  <programme start="20261123173000 +0000" stop="20261123175500 +0000" channel="One MT">
+  <programme start="20261123163000 +0000" stop="20261123165500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261123175500 +0000" stop="20261123180000 +0000" channel="One MT">
+  <programme start="20261123165500 +0000" stop="20261123170000 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123181500 +0000" channel="One MT">
+  <programme start="20261123170000 +0000" stop="20261123171500 +0000" channel="One MT">
     <title>Knock About Sicilia</title>
   </programme>
-  <programme start="20261123181500 +0000" stop="20261123182500 +0000" channel="One MT">
+  <programme start="20261123171500 +0000" stop="20261123172500 +0000" channel="One MT">
     <title>Brillanti Juniors Flash</title>
   </programme>
-  <programme start="20261123182500 +0000" stop="20261123183500 +0000" channel="One MT">
+  <programme start="20261123172500 +0000" stop="20261123173500 +0000" channel="One MT">
     <title>Wara l-Każ.. fil-qosor</title>
   </programme>
-  <programme start="20261123183500 +0000" stop="20261123192500 +0000" channel="One MT">
+  <programme start="20261123173500 +0000" stop="20261123182500 +0000" channel="One MT">
     <title>Xutt u Gowl</title>
   </programme>
-  <programme start="20261123192500 +0000" stop="20261123201500 +0000" channel="One MT">
+  <programme start="20261123182500 +0000" stop="20261123191500 +0000" channel="One MT">
     <title>Ngħidu Kollox</title>
   </programme>
-  <programme start="20261123201500 +0000" stop="20261123202000 +0000" channel="One MT">
+  <programme start="20261123191500 +0000" stop="20261123192000 +0000" channel="One MT">
     <title>Smajt?</title>
   </programme>
-  <programme start="20261123202000 +0000" stop="20261123203000 +0000" channel="One MT">
+  <programme start="20261123192000 +0000" stop="20261123193000 +0000" channel="One MT">
     <title>Popcorn</title>
   </programme>
-  <programme start="20261123203000 +0000" stop="20261123203300 +0000" channel="One MT">
+  <programme start="20261123193000 +0000" stop="20261123193300 +0000" channel="One MT">
     <title>ONE News Headlines</title>
   </programme>
-  <programme start="20261123203300 +0000" stop="20261123203500 +0000" channel="One MT">
+  <programme start="20261123193300 +0000" stop="20261123193500 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261123203500 +0000" stop="20261123210000 +0000" channel="One MT">
+  <programme start="20261123193500 +0000" stop="20261123200000 +0000" channel="One MT">
     <title>Zona Sport</title>
   </programme>
-  <programme start="20261123210000 +0000" stop="20261123213000 +0000" channel="One MT">
+  <programme start="20261123200000 +0000" stop="20261123203000 +0000" channel="One MT">
     <title>The Local Traveller</title>
   </programme>
-  <programme start="20261123213000 +0000" stop="20261123214500 +0000" channel="One MT">
+  <programme start="20261123203000 +0000" stop="20261123204500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261123214500 +0000" stop="20261123215000 +0000" channel="One MT">
+  <programme start="20261123204500 +0000" stop="20261123205000 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261123215000 +0000" stop="20261124010000 +0000" channel="One MT">
+  <programme start="20261123205000 +0000" stop="20261124000000 +0000" channel="One MT">
     <title>Trażmissjoni matul il-lejl</title>
   </programme>
-  <programme start="20261124010000 +0000" stop="20261124043000 +0000" channel="One MT">
+  <programme start="20261124000000 +0000" stop="20261124033000 +0000" channel="One MT">
     <title>Trażmissjoni matul il-lejl</title>
+  </programme>
+  <programme start="20261124033000 +0000" stop="20261124034500 +0000" channel="One MT">
+    <title>ONE News</title>
+  </programme>
+  <programme start="20261124034500 +0000" stop="20261124034800 +0000" channel="One MT">
+    <title>Rapport tat-Temp</title>
+  </programme>
+  <programme start="20261124034800 +0000" stop="20261124035000 +0000" channel="One MT">
+    <title>Inkontru</title>
+  </programme>
+  <programme start="20261124035000 +0000" stop="20261124040000 +0000" channel="One MT">
+    <title>Brillanti Juniors Flash</title>
+  </programme>
+  <programme start="20261124040000 +0000" stop="20261124043000 +0000" channel="One MT">
+    <title>Fuq l-istess paġna</title>
   </programme>
   <programme start="20261124043000 +0000" stop="20261124044500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261124044500 +0000" stop="20261124044800 +0000" channel="One MT">
+  <programme start="20261124044500 +0000" stop="20261124044700 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261124044800 +0000" stop="20261124045000 +0000" channel="One MT">
+  <programme start="20261124044700 +0000" stop="20261124045000 +0000" channel="One MT">
     <title>Inkontru</title>
   </programme>
   <programme start="20261124045000 +0000" stop="20261124050000 +0000" channel="One MT">
-    <title>Brillanti Juniors Flash</title>
-  </programme>
-  <programme start="20261124050000 +0000" stop="20261124053000 +0000" channel="One MT">
-    <title>Fuq l-istess paġna</title>
-  </programme>
-  <programme start="20261124053000 +0000" stop="20261124054500 +0000" channel="One MT">
-    <title>ONE News</title>
-  </programme>
-  <programme start="20261124054500 +0000" stop="20261124054700 +0000" channel="One MT">
-    <title>Rapport tat-Temp</title>
-  </programme>
-  <programme start="20261124054700 +0000" stop="20261124055000 +0000" channel="One MT">
-    <title>Inkontru</title>
-  </programme>
-  <programme start="20261124055000 +0000" stop="20261124060000 +0000" channel="One MT">
     <title>Muzika Lokali</title>
   </programme>
-  <programme start="20261124060000 +0000" stop="20261124064500 +0000" channel="One MT">
+  <programme start="20261124050000 +0000" stop="20261124054500 +0000" channel="One MT">
     <title>Quddiesa tal-Jum</title>
   </programme>
-  <programme start="20261124064500 +0000" stop="20261124070000 +0000" channel="One MT">
+  <programme start="20261124054500 +0000" stop="20261124060000 +0000" channel="One MT">
     <title>Knock About Sicilia</title>
   </programme>
-  <programme start="20261124070000 +0000" stop="20261124090500 +0000" channel="One MT">
+  <programme start="20261124060000 +0000" stop="20261124080500 +0000" channel="One MT">
     <title>The Morning Mix</title>
   </programme>
-  <programme start="20261124090500 +0000" stop="20261124092000 +0000" channel="One MT">
+  <programme start="20261124080500 +0000" stop="20261124082000 +0000" channel="One MT">
     <title>The Local Traveller</title>
   </programme>
-  <programme start="20261124092000 +0000" stop="20261124093000 +0000" channel="One MT">
+  <programme start="20261124082000 +0000" stop="20261124083000 +0000" channel="One MT">
     <title>Popcorn</title>
   </programme>
-  <programme start="20261124093000 +0000" stop="20261124093500 +0000" channel="One MT">
+  <programme start="20261124083000 +0000" stop="20261124083500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261124093500 +0000" stop="20261124094000 +0000" channel="One MT">
+  <programme start="20261124083500 +0000" stop="20261124084000 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261124094000 +0000" stop="20261124094500 +0000" channel="One MT">
+  <programme start="20261124084000 +0000" stop="20261124084500 +0000" channel="One MT">
     <title>Namaste Yoga</title>
   </programme>
-  <programme start="20261124094500 +0000" stop="20261124101500 +0000" channel="One MT">
+  <programme start="20261124084500 +0000" stop="20261124091500 +0000" channel="One MT">
     <title>Ħbieb u Għedewwa</title>
   </programme>
-  <programme start="20261124101500 +0000" stop="20261124113000 +0000" channel="One MT">
+  <programme start="20261124091500 +0000" stop="20261124103000 +0000" channel="One MT">
     <title>Ċempel u Irbaħ</title>
   </programme>
-  <programme start="20261124113000 +0000" stop="20261124121000 +0000" channel="One MT">
+  <programme start="20261124103000 +0000" stop="20261124111000 +0000" channel="One MT">
     <title>Simpatiċi</title>
   </programme>
-  <programme start="20261124121000 +0000" stop="20261124123000 +0000" channel="One MT">
+  <programme start="20261124111000 +0000" stop="20261124113000 +0000" channel="One MT">
     <title>Telebejgħ</title>
   </programme>
-  <programme start="20261124123000 +0000" stop="20261124123300 +0000" channel="One MT">
+  <programme start="20261124113000 +0000" stop="20261124113300 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261124123300 +0000" stop="20261124123500 +0000" channel="One MT">
+  <programme start="20261124113300 +0000" stop="20261124113500 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261124123500 +0000" stop="20261124124000 +0000" channel="One MT">
+  <programme start="20261124113500 +0000" stop="20261124114000 +0000" channel="One MT">
     <title>Inkontru</title>
   </programme>
-  <programme start="20261124124000 +0000" stop="20261124142500 +0000" channel="One MT">
+  <programme start="20261124114000 +0000" stop="20261124132500 +0000" channel="One MT">
     <title>Indigo</title>
   </programme>
-  <programme start="20261124142500 +0000" stop="20261124150000 +0000" channel="One MT">
+  <programme start="20261124132500 +0000" stop="20261124140000 +0000" channel="One MT">
     <title>Ħbieb u Għedewwa</title>
   </programme>
-  <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="One MT">
+  <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="One MT">
     <title>Health Talk</title>
   </programme>
-  <programme start="20261124153000 +0000" stop="20261124153500 +0000" channel="One MT">
+  <programme start="20261124143000 +0000" stop="20261124143500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261124153500 +0000" stop="20261124154000 +0000" channel="One MT">
+  <programme start="20261124143500 +0000" stop="20261124144000 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261124154000 +0000" stop="20261124171500 +0000" channel="One MT">
+  <programme start="20261124144000 +0000" stop="20261124161500 +0000" channel="One MT">
     <title>Bil-Fatti</title>
   </programme>
-  <programme start="20261124171500 +0000" stop="20261124173000 +0000" channel="One MT">
+  <programme start="20261124161500 +0000" stop="20261124163000 +0000" channel="One MT">
     <title>Inkontru</title>
   </programme>
-  <programme start="20261124173000 +0000" stop="20261124175500 +0000" channel="One MT">
+  <programme start="20261124163000 +0000" stop="20261124165500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261124175500 +0000" stop="20261124180000 +0000" channel="One MT">
+  <programme start="20261124165500 +0000" stop="20261124170000 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261124180000 +0000" stop="20261124182000 +0000" channel="One MT">
+  <programme start="20261124170000 +0000" stop="20261124172000 +0000" channel="One MT">
     <title>Knock About Sicilia</title>
   </programme>
-  <programme start="20261124182000 +0000" stop="20261124183000 +0000" channel="One MT">
+  <programme start="20261124172000 +0000" stop="20261124173000 +0000" channel="One MT">
     <title>Brillanti Juniors Flash</title>
   </programme>
-  <programme start="20261124183000 +0000" stop="20261124195000 +0000" channel="One MT">
+  <programme start="20261124173000 +0000" stop="20261124185000 +0000" channel="One MT">
     <title>Awla</title>
   </programme>
-  <programme start="20261124195000 +0000" stop="20261124203000 +0000" channel="One MT">
+  <programme start="20261124185000 +0000" stop="20261124193000 +0000" channel="One MT">
     <title>Għidli Storja</title>
   </programme>
-  <programme start="20261124203000 +0000" stop="20261124203300 +0000" channel="One MT">
+  <programme start="20261124193000 +0000" stop="20261124193300 +0000" channel="One MT">
     <title>ONE News Headlines</title>
   </programme>
-  <programme start="20261124203300 +0000" stop="20261124203500 +0000" channel="One MT">
+  <programme start="20261124193300 +0000" stop="20261124193500 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261124203500 +0000" stop="20261124211000 +0000" channel="One MT">
+  <programme start="20261124193500 +0000" stop="20261124201000 +0000" channel="One MT">
     <title>Ondroad</title>
   </programme>
-  <programme start="20261124211000 +0000" stop="20261124212000 +0000" channel="One MT">
+  <programme start="20261124201000 +0000" stop="20261124202000 +0000" channel="One MT">
     <title>Tikka Sport</title>
   </programme>
-  <programme start="20261124212000 +0000" stop="20261124213000 +0000" channel="One MT">
+  <programme start="20261124202000 +0000" stop="20261124203000 +0000" channel="One MT">
     <title>Popcorn</title>
   </programme>
-  <programme start="20261124213000 +0000" stop="20261124214500 +0000" channel="One MT">
+  <programme start="20261124203000 +0000" stop="20261124204500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261124214500 +0000" stop="20261124215000 +0000" channel="One MT">
+  <programme start="20261124204500 +0000" stop="20261124205000 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261124215000 +0000" stop="20261125010000 +0000" channel="One MT">
+  <programme start="20261124205000 +0000" stop="20261125000000 +0000" channel="One MT">
     <title>Trażmissjoni matul il-lejl</title>
   </programme>
-  <programme start="20261125010000 +0000" stop="20261125043000 +0000" channel="One MT">
+  <programme start="20261125000000 +0000" stop="20261125033000 +0000" channel="One MT">
     <title>Trażmissjoni matul il-lejl</title>
+  </programme>
+  <programme start="20261125033000 +0000" stop="20261125034500 +0000" channel="One MT">
+    <title>ONE News</title>
+  </programme>
+  <programme start="20261125034500 +0000" stop="20261125034800 +0000" channel="One MT">
+    <title>Rapport tat-Temp</title>
+  </programme>
+  <programme start="20261125034800 +0000" stop="20261125035000 +0000" channel="One MT">
+    <title>Inkontru</title>
+  </programme>
+  <programme start="20261125035000 +0000" stop="20261125040000 +0000" channel="One MT">
+    <title>Brillanti Juniors Flash</title>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125043000 +0000" channel="One MT">
+    <title>Inklużjoni</title>
   </programme>
   <programme start="20261125043000 +0000" stop="20261125044500 +0000" channel="One MT">
     <title>ONE News</title>
   </programme>
-  <programme start="20261125044500 +0000" stop="20261125044800 +0000" channel="One MT">
+  <programme start="20261125044500 +0000" stop="20261125044700 +0000" channel="One MT">
     <title>Rapport tat-Temp</title>
   </programme>
-  <programme start="20261125044800 +0000" stop="20261125045000 +0000" channel="One MT">
+  <programme start="20261125044700 +0000" stop="20261125045000 +0000" channel="One MT">
     <title>Inkontru</title>
   </programme>
   <programme start="20261125045000 +0000" stop="20261125050000 +0000" channel="One MT">
-    <title>Brillanti Juniors Flash</title>
-  </programme>
-  <programme start="20261125050000 +0000" stop="20261125053000 +0000" channel="One MT">
-    <title>Inklużjoni</title>
-  </programme>
-  <programme start="20261125053000 +0000" stop="20261125054500 +0000" channel="One MT">
-    <title>ONE News</title>
-  </programme>
-  <programme start="20261125054500 +0000" stop="20261125054700 +0000" channel="One MT">
-    <title>Rapport tat-Temp</title>
-  </programme>
-  <programme start="20261125054700 +0000" stop="20261125055000 +0000" channel="One MT">
-    <title>Inkontru</title>
-  </programme>
-  <programme start="20261125055000 +0000" stop="20261125060000 +0000" channel="One MT">
     <title>Muzika Lokali</title>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125054500 +0000" channel="One MT">
+    <title>Quddiesa tal-Jum</title>
+  </programme>
+  <programme start="20261125054500 +0000" stop="20261125060000 +0000" channel="One MT">
+    <title>Knock About Sicilia</title>
   </programme>
   <programme start="20261123002000 +0000" stop="20261123005500 +0000" channel="TVE Internacional">
     <title>Plano general</title>
@@ -6758,6 +6854,21 @@
   </programme>
   <programme start="20261124221500 +0000" stop="20261125000000 +0000" channel="TVE Internacional">
     <title>LA CENA DE LOS IDIOTAS</title>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125004500 +0000" channel="TVE Internacional">
+    <title>Sukha</title>
+  </programme>
+  <programme start="20261125004500 +0000" stop="20261125031500 +0000" channel="TVE Internacional">
+    <title>La noche en 24h</title>
+  </programme>
+  <programme start="20261125031500 +0000" stop="20261125043000 +0000" channel="TVE Internacional">
+    <title>Noticias 24h</title>
+  </programme>
+  <programme start="20261125043000 +0000" stop="20261125053000 +0000" channel="TVE Internacional">
+    <title>La aventura del saber</title>
+  </programme>
+  <programme start="20261125053000 +0000" stop="20261125065000 +0000" channel="TVE Internacional">
+    <title>Telediario matinal</title>
   </programme>
   <programme start="20261123003000 +0000" stop="20261123005500 +0000" channel="Channel 5">
     <title>Cops</title>
