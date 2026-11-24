@@ -20,9 +20,17 @@
     <display-name>FS2</display-name>
     <icon src="https://images.open-epg.com/42652.png" />
   </channel>
-  <channel id="RTBF Tipik">
-    <display-name>RTBF Tipik</display-name>
-    <icon src="https://images.open-epg.com/222.png" />
+  <channel id="beIN Sports 1 AU">
+    <display-name>beIN Sports 1 AU</display-name>
+    <icon src="https://images.open-epg.com/x1590.png" />
+  </channel>
+  <channel id="beIN Sports 2 AU">
+    <display-name>beIN Sports 2 AU</display-name>
+    <icon src="https://images.open-epg.com/x1591.png" />
+  </channel>
+  <channel id="beIN Sports 3 AU">
+    <display-name>beIN Sports 3 AU</display-name>
+    <icon src="https://images.open-epg.com/x1592.png" />
   </channel>
   <channel id="DSPORTS UY">
     <display-name>DSPORTS UY</display-name>
@@ -40,73 +48,41 @@
     <display-name>DSPORTS Plus UY</display-name>
     <icon src="https://images.open-epg.com/21113038.png" />
   </channel>
-  <channel id="beIN Sports 1 FR">
-    <display-name>beIN Sports 1 FR</display-name>
-    <icon src="https://images.open-epg.com/19984460.png" />
-  </channel>
-  <channel id="beIN Sports 2 FR">
-    <display-name>beIN Sports 2 FR</display-name>
-    <icon src="https://images.open-epg.com/19984461.png" />
-  </channel>
-  <channel id="beIN Sports 3 FR">
-    <display-name>beIN Sports 3 FR</display-name>
-    <icon src="https://images.open-epg.com/19984462.png" />
-  </channel>
-  <channel id="beIN Sports 10 FR">
-    <display-name>beIN Sports 10 FR</display-name>
-    <icon src="https://images.open-epg.com/19984463.png" />
-  </channel>
-  <channel id="beIN Sports 4 FR">
-    <display-name>beIN Sports 4 FR</display-name>
-    <icon src="https://images.open-epg.com/19984464.png" />
-  </channel>
-  <channel id="beIN Sports 5 FR">
-    <display-name>beIN Sports 5 FR</display-name>
-    <icon src="https://images.open-epg.com/19984465.png" />
-  </channel>
-  <channel id="beIN Sports 6 FR">
-    <display-name>beIN Sports 6 FR</display-name>
-    <icon src="https://images.open-epg.com/19984466.png" />
-  </channel>
-  <channel id="beIN Sports 7 FR">
-    <display-name>beIN Sports 7 FR</display-name>
-    <icon src="https://images.open-epg.com/19984467.png" />
-  </channel>
-  <channel id="beIN Sports 8 FR">
-    <display-name>beIN Sports 8 FR</display-name>
-    <icon src="https://images.open-epg.com/19984468.png" />
-  </channel>
-  <channel id="beIN Sports 9 FR">
-    <display-name>beIN Sports 9 FR</display-name>
-    <icon src="https://images.open-epg.com/19984469.png" />
-  </channel>
-  <channel id="beIN Sports 1 AU">
-    <display-name>beIN Sports 1 AU</display-name>
-    <icon src="https://images.open-epg.com/x1590.png" />
-  </channel>
-  <channel id="beIN Sports 2 AU">
-    <display-name>beIN Sports 2 AU</display-name>
-    <icon src="https://images.open-epg.com/x1591.png" />
-  </channel>
-  <channel id="beIN Sports 3 AU">
-    <display-name>beIN Sports 3 AU</display-name>
-    <icon src="https://images.open-epg.com/x1592.png" />
-  </channel>
   <channel id="SportDigital Fussball">
     <display-name>SportDigital Fussball</display-name>
     <icon src="https://images.open-epg.com/8104.png" />
   </channel>
-  <channel id="Go3 Sport Open LT">
-    <display-name>Go3 Sport Open LT</display-name>
-    <icon src="https://images.open-epg.com/x1658.png" />
+  <channel id="Premier Sports UK">
+    <display-name>Premier Sports UK</display-name>
+    <icon src="https://images.open-epg.com/x920.png" />
   </channel>
-  <channel id="Setanta Sports LT">
-    <display-name>Setanta Sports LT</display-name>
-    <icon src="https://images.open-epg.com/19562944.png" />
+  <channel id="Premier Sports 2 UK">
+    <display-name>Premier Sports 2 UK</display-name>
+    <icon src="https://images.open-epg.com/x921.png" />
   </channel>
-  <channel id="Setanta Sports 2 LT">
-    <display-name>Setanta Sports 2 LT</display-name>
-    <icon src="https://images.open-epg.com/19562945.png" />
+  <channel id="TNT Sports 1 UK">
+    <display-name>TNT Sports 1 UK</display-name>
+    <icon src="https://images.open-epg.com/16296.png" />
+  </channel>
+  <channel id="TNT Sports 2 UK">
+    <display-name>TNT Sports 2 UK</display-name>
+    <icon src="https://images.open-epg.com/16297.png" />
+  </channel>
+  <channel id="TNT Sports 3 UK">
+    <display-name>TNT Sports 3 UK</display-name>
+    <icon src="https://images.open-epg.com/16298.png" />
+  </channel>
+  <channel id="TNT Sports 4 UK">
+    <display-name>TNT Sports 4 UK</display-name>
+    <icon src="https://images.open-epg.com/16299.png" />
+  </channel>
+  <channel id="TNT Sports 5 UK">
+    <display-name>TNT Sports 5 UK</display-name>
+    <icon src="https://images.open-epg.com/13199.png" />
+  </channel>
+  <channel id="RTBF Tipik">
+    <display-name>RTBF Tipik</display-name>
+    <icon src="https://images.open-epg.com/222.png" />
   </channel>
   <channel id="ESPN AR">
     <display-name>ESPN AR</display-name>
@@ -136,33 +112,17 @@
     <display-name>ESPN CO</display-name>
     <icon src="https://images.open-epg.com/20555990.png" />
   </channel>
-  <channel id="Premier Sports UK">
-    <display-name>Premier Sports UK</display-name>
-    <icon src="https://images.open-epg.com/x920.png" />
+  <channel id="Go3 Sport Open LT">
+    <display-name>Go3 Sport Open LT</display-name>
+    <icon src="https://images.open-epg.com/x1658.png" />
   </channel>
-  <channel id="Premier Sports 2 UK">
-    <display-name>Premier Sports 2 UK</display-name>
-    <icon src="https://images.open-epg.com/x921.png" />
+  <channel id="Setanta Sports LT">
+    <display-name>Setanta Sports LT</display-name>
+    <icon src="https://images.open-epg.com/19562944.png" />
   </channel>
-  <channel id="TNT Sports 1 UK">
-    <display-name>TNT Sports 1 UK</display-name>
-    <icon src="https://images.open-epg.com/16296.png" />
-  </channel>
-  <channel id="TNT Sports 2 UK">
-    <display-name>TNT Sports 2 UK</display-name>
-    <icon src="https://images.open-epg.com/16297.png" />
-  </channel>
-  <channel id="TNT Sports 3 UK">
-    <display-name>TNT Sports 3 UK</display-name>
-    <icon src="https://images.open-epg.com/16298.png" />
-  </channel>
-  <channel id="TNT Sports 4 UK">
-    <display-name>TNT Sports 4 UK</display-name>
-    <icon src="https://images.open-epg.com/16299.png" />
-  </channel>
-  <channel id="TNT Sports 5 UK">
-    <display-name>TNT Sports 5 UK</display-name>
-    <icon src="https://images.open-epg.com/13199.png" />
+  <channel id="Setanta Sports 2 LT">
+    <display-name>Setanta Sports 2 LT</display-name>
+    <icon src="https://images.open-epg.com/19562945.png" />
   </channel>
   <channel id="TSN 1">
     <display-name>TSN 1</display-name>
@@ -244,42 +204,46 @@
     <display-name>Hypermotion 3 OpB</display-name>
     <icon src="https://images.open-epg.com/23444229.png" />
   </channel>
-  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="ESPN AR">
-    <title>SportsCenter</title>
-    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-  </programme>
-  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="ESPN AR">
-    <title>ESPN F10</title>
-    <desc>Los fines de semana se llenan de fútbol. Tras la finalización del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
-  </programme>
-  <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="ESPN AR">
-    <title>SportsCenter</title>
-    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-  </programme>
-  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="ESPN AR">
-    <title>SportsCenter</title>
-    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-  </programme>
-  <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="ESPN AR">
-    <title>SportsCenter</title>
-    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-  </programme>
-  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="ESPN AR">
-    <title>SportsCenter</title>
-    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-  </programme>
-  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="ESPN AR">
-    <title>SportsCenter</title>
-    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-  </programme>
-  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="ESPN AR">
-    <title>SportsCenter</title>
-    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-  </programme>
-  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="ESPN AR">
-    <title>SportsCenter</title>
-    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-  </programme>
+  <channel id="beIN Sports 1 FR">
+    <display-name>beIN Sports 1 FR</display-name>
+    <icon src="https://images.open-epg.com/19984460.png" />
+  </channel>
+  <channel id="beIN Sports 2 FR">
+    <display-name>beIN Sports 2 FR</display-name>
+    <icon src="https://images.open-epg.com/19984461.png" />
+  </channel>
+  <channel id="beIN Sports 3 FR">
+    <display-name>beIN Sports 3 FR</display-name>
+    <icon src="https://images.open-epg.com/19984462.png" />
+  </channel>
+  <channel id="beIN Sports 10 FR">
+    <display-name>beIN Sports 10 FR</display-name>
+    <icon src="https://images.open-epg.com/19984463.png" />
+  </channel>
+  <channel id="beIN Sports 4 FR">
+    <display-name>beIN Sports 4 FR</display-name>
+    <icon src="https://images.open-epg.com/19984464.png" />
+  </channel>
+  <channel id="beIN Sports 5 FR">
+    <display-name>beIN Sports 5 FR</display-name>
+    <icon src="https://images.open-epg.com/19984465.png" />
+  </channel>
+  <channel id="beIN Sports 6 FR">
+    <display-name>beIN Sports 6 FR</display-name>
+    <icon src="https://images.open-epg.com/19984466.png" />
+  </channel>
+  <channel id="beIN Sports 7 FR">
+    <display-name>beIN Sports 7 FR</display-name>
+    <icon src="https://images.open-epg.com/19984467.png" />
+  </channel>
+  <channel id="beIN Sports 8 FR">
+    <display-name>beIN Sports 8 FR</display-name>
+    <icon src="https://images.open-epg.com/19984468.png" />
+  </channel>
+  <channel id="beIN Sports 9 FR">
+    <display-name>beIN Sports 9 FR</display-name>
+    <icon src="https://images.open-epg.com/19984469.png" />
+  </channel>
   <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="ESPN AR">
     <title>SportsCenter</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
@@ -403,46 +367,6 @@
   <programme start="20261126050000 +0000" stop="20261126060000 +0000" channel="ESPN AR">
     <title>SportsCenter</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-  </programme>
-  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="ESPN 2 AR">
-    <title>Equipo Scrum</title>
-    <desc>Lo mejor del mundo del Rugby en este especial que resume los acontecimientos más recientes.</desc>
-  </programme>
-  <programme start="20261124010000 +0000" stop="20261124041500 +0000" channel="ESPN 2 AR">
-    <title>Fútbol Americano NFL : Cincinnati Bengals vs. Washington Commanders</title>
-    <desc>Desde el Northwest Stadium, en Landover, Maryland, Estados Unidos.</desc>
-  </programme>
-  <programme start="20261124041500 +0000" stop="20261124051500 +0000" channel="ESPN 2 AR">
-    <title>Italian Serie A Highlights</title>
-    <desc>Lo más destacado de la jornada del fútbol Italiano.</desc>
-  </programme>
-  <programme start="20261124051500 +0000" stop="20261124061500 +0000" channel="ESPN 2 AR">
-    <title>Bundesliga Highlights Show</title>
-    <desc>Disfruta los juegos de las 34 jornadas de una de las ligas más prestigiosas a nivel mundial.</desc>
-  </programme>
-  <programme start="20261124061500 +0000" stop="20261124064500 +0000" channel="ESPN 2 AR">
-    <title>FIM Road Racing World Championship Highlights</title>
-    <desc>Recopilación de los momentos más emocionantes de las carreras del campeonato mundial de motociclismo.</desc>
-  </programme>
-  <programme start="20261124064500 +0000" stop="20261124070000 +0000" channel="ESPN 2 AR">
-    <title>Fútbol internacional : Aston Villa: Campeón de la UEFA Europa League 2025-26</title>
-    <desc>El rumbo de Aston Villa a la final de la UEFA Europa League 2025-26, en la que consiguió su primer título.</desc>
-  </programme>
-  <programme start="20261124070000 +0000" stop="20261124073000 +0000" channel="ESPN 2 AR">
-    <title>Goles de la Ligue 1 : Goles de la Ligue 1: 2025-2026</title>
-    <desc>Las jugadas y anotaciones más destacadas de la temporada 2025-26 de la Ligue 1.</desc>
-  </programme>
-  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="ESPN 2 AR">
-    <title>Fútbol LaLiga : Goles de LaLiga 2026-27</title>
-    <desc>Recopilación de los mejores goles de la temporada 2026-27 de LaLiga.</desc>
-  </programme>
-  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="ESPN 2 AR">
-    <title>Italian Serie A Highlights</title>
-    <desc>Lo más destacado de la jornada del fútbol Italiano.</desc>
-  </programme>
-  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="ESPN 2 AR">
-    <title>ESPN F10</title>
-    <desc>Los fines de semana se llenan de fútbol. Tras la finalización del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
   </programme>
   <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="ESPN 2 AR">
     <title>ESPN Compact : Finales ATP</title>
@@ -587,46 +511,6 @@
   <programme start="20261126053000 +0000" stop="20261126063000 +0000" channel="ESPN 2 AR">
     <title>ESPN Compact : UEFA Champions League: Paris Saint-Germain vs. AS Roma</title>
     <desc>Los momentos más destacados del partido de la fecha 5 de la UEFA Champions League 2026-27. Paris Saint-Germain se enfrenta a Roma. Desde el Parc des Princes, en París. Disputado el 25 de noviembre de 2026.</desc>
-  </programme>
-  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="ESPN 3 AR">
-    <title>Fútbol CONMEBOL Copa Sudamericana : Atlético Mineiro vs. Boca Juniors</title>
-    <desc>Final de la CONMEBOL Sudamericana 2026, Atlético Mineiro y Boca Juniors definen al campeón en Barranquilla. El Gallo juega su segunda final al hilo buscando su primer título, mientras que el Xeneize va por su tercera corona histórica desde 2005.</desc>
-  </programme>
-  <programme start="20261124010000 +0000" stop="20261124013000 +0000" channel="ESPN 3 AR">
-    <title>Goles de la Ligue 1 : Goles de la Ligue 1: 2025-2026</title>
-    <desc>Las jugadas y anotaciones más destacadas de la temporada 2025-26 de la Ligue 1.</desc>
-  </programme>
-  <programme start="20261124013000 +0000" stop="20261124020000 +0000" channel="ESPN 3 AR">
-    <title>Fútbol LaLiga : Goles de LaLiga 2026-27</title>
-    <desc>Recopilación de los mejores goles de la temporada 2026-27 de LaLiga.</desc>
-  </programme>
-  <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="ESPN 3 AR">
-    <title>FIM Road Racing World Championship Highlights</title>
-    <desc>Recopilación de los momentos más emocionantes de las carreras del campeonato mundial de motociclismo.</desc>
-  </programme>
-  <programme start="20261124023000 +0000" stop="20261124033000 +0000" channel="ESPN 3 AR">
-    <title>Equipo Scrum</title>
-    <desc>Lo mejor del mundo del Rugby en este especial que resume los acontecimientos más recientes.</desc>
-  </programme>
-  <programme start="20261124033000 +0000" stop="20261124040000 +0000" channel="ESPN 3 AR">
-    <title>Spirit of Yachting : Rolex Middle Sea Race 2026</title>
-    <desc>Programa para los amantes de la navegación en yate, con todas las últimas noticias y cobertura de los eventos claves.</desc>
-  </programme>
-  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="ESPN 3 AR">
-    <title>ESPN Compact : Finales ATP</title>
-    <desc>Los momentos más destacados de la etapa decisiva de las Finales ATP 2026. Desde el Inalpi Arena, en Turín, Italia. Disputado el 22 de noviembre de 2026.</desc>
-  </programme>
-  <programme start="20261124050000 +0000" stop="20261124070000 +0000" channel="ESPN 3 AR">
-    <title>ESPN KnockOut : Yoali Mosqueda vs. Carlos Mejía</title>
-    <desc>Yoali Mosqueda se enfrenta a Carlos Mejía en un combate de peso mosca a 10 asaltos. Desde el Hockey Rinks MX, en Naucalpan, Estado de México.</desc>
-  </programme>
-  <programme start="20261124070000 +0000" stop="20261124090000 +0000" channel="ESPN 3 AR">
-    <title>Fútbol LaLiga : Real Racing vs. Real Sociedad de Fútbol</title>
-    <desc>Jornada 13 de la temporada 2026-27 de LaLiga. Racing Santander se enfrenta a Real Sociedad. Desde el estadio El Sardinero. Su compromiso más reciente se saldó con empate 0-0 en este mismo estadio.</desc>
-  </programme>
-  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="ESPN 3 AR">
-    <title>Equipo Scrum</title>
-    <desc>Lo mejor del mundo del Rugby en este especial que resume los acontecimientos más recientes.</desc>
   </programme>
   <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="ESPN 3 AR">
     <title>Nations Championship 2026 : France vs. Argentina</title>
@@ -779,30 +663,6 @@
   <programme start="20261126053000 +0000" stop="20261126063000 +0000" channel="ESPN 3 AR">
     <title>Goles de la Eredivisie : Dutch League Highlights</title>
     <desc>Lo mejor de la Eredivisie.</desc>
-  </programme>
-  <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="ESPN 4 AR">
-    <title>Copa Potrero : Semifinal</title>
-    <desc>Cobertura de la semifinal de la Copa Potrero 2026. Desde la Ciudad Universitaria, en Buenos Aires, Argentina.</desc>
-  </programme>
-  <programme start="20261124020000 +0000" stop="20261124040000 +0000" channel="ESPN 4 AR">
-    <title>ESPN KnockOut : Yoali Mosqueda vs. Carlos Mejía</title>
-    <desc>Yoali Mosqueda se enfrenta a Carlos Mejía en un combate de peso mosca a 10 asaltos. Desde el Hockey Rinks MX, en Naucalpan, Estado de México.</desc>
-  </programme>
-  <programme start="20261124040000 +0000" stop="20261124043000 +0000" channel="ESPN 4 AR">
-    <title>FIM Road Racing World Championship Highlights</title>
-    <desc>Recopilación de los momentos más emocionantes de las carreras del campeonato mundial de motociclismo.</desc>
-  </programme>
-  <programme start="20261124043000 +0000" stop="20261124050000 +0000" channel="ESPN 4 AR">
-    <title>Spirit of Yachting : Rolex Middle Sea Race 2026</title>
-    <desc>Programa para los amantes de la navegación en yate, con todas las últimas noticias y cobertura de los eventos claves.</desc>
-  </programme>
-  <programme start="20261124050000 +0000" stop="20261124070000 +0000" channel="ESPN 4 AR">
-    <title>Fútbol Premier League : Brentford vs. Everton</title>
-    <desc>Jornada 11 de la temporada 2026-27 de la Premier League. Desde el estadio Brentford Community. El Everton llega tras encadenar dos victorias consecutivas en liga, mientras que el Brentford ocupa la octava posición tras caer por 2-0 ante el Brighton.</desc>
-  </programme>
-  <programme start="20261124070000 +0000" stop="20261124100000 +0000" channel="ESPN 4 AR">
-    <title>Fútbol Americano NFL : Cincinnati Bengals vs. Washington Commanders</title>
-    <desc>Primer encuentro entre ambos equipos desde el 2024, en el que Washington Commanders venció 38-33 a Cincinnati Bengals. En la semana 8, los Bengals se ubicaron en la segunda posición en productividad ofensiva con un promedio de 29.4 puntos.</desc>
   </programme>
   <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="ESPN 4 AR">
     <title>Italian Serie A Highlights</title>
@@ -960,10 +820,6 @@
     <title>Fútbol UEFA Champions League : Inter de Milán vs. VfB Stuttgart</title>
     <desc>Acción de la jornada 5 de la UEFA Champions League 2026-27. Inter busca su tercera victoria al hilo y Stuttgart romper su racha de dos partidos sin ganar.</desc>
   </programme>
-  <programme start="20261124010000 +0000" stop="20261124030000 +0000" channel="ESPN 6 AR">
-    <title>Turkish Super Lig</title>
-    <desc />
-  </programme>
   <programme start="20261124030000 +0000" stop="20261124050000 +0000" channel="ESPN 6 AR">
     <title>ESPN Knockout - Legacy Fighting Alliance...</title>
     <desc />
@@ -1024,21 +880,61 @@
     <title>UEFA Champions League</title>
     <desc />
   </programme>
-  <programme start="20261124012000 +0000" stop="20261124031000 +0000" channel="ESPN Premium AR">
-    <title>Fútbol Argentino Primera División : Instituto vs. Huracán</title>
-    <desc>Instituto recibe al Huracán en los octavos de final del Torneo Clausura 2026. Su último enfrentamiento fue en la Copa Argentina 2025, donde El Globo eliminó a La Gloria en la tanda de penales y ahora vuelven a medirse por un lugar en cuartos.</desc>
+  <programme start="20261125010000 +0000" stop="20261125030000 +0000" channel="ESPN 6 AR">
+    <title>UEFA Champions League</title>
+    <desc />
   </programme>
-  <programme start="20261124031000 +0000" stop="20261124050000 +0000" channel="ESPN Premium AR">
-    <title>Fútbol Argentino Primera División : Vélez Sársfield vs. Belgrano</title>
-    <desc>Vélez Sarsfield recibe a Belgrano en los octavos de final del Torneo Clausura 2026. Con una ventaja mínima de 16 triunfos en el historial general sobre El Pirata, El Fortín busca aprovechar su localía para avanzar a los cuartos de final.</desc>
+  <programme start="20261125030000 +0000" stop="20261125050000 +0000" channel="ESPN 6 AR">
+    <title>Moto GP - Gran Premio de Portugal, Autó...</title>
+    <desc />
   </programme>
-  <programme start="20261124050000 +0000" stop="20261124065000 +0000" channel="ESPN Premium AR">
-    <title>Fútbol Argentino Primera División : Argentinos Juniors vs. Independiente</title>
-    <desc>Argentinos Juniors recibe al Independiente en los octavos de final del Torneo Clausura 2026. Con una victoria de ventaja en la serie histórica, El Rojo vuelve a enfrentarse a El Bicho tras más de un año para buscar el pase a cuartos de final.</desc>
+  <programme start="20261125050000 +0000" stop="20261125070000 +0000" channel="ESPN 6 AR">
+    <title>UEFA Champions League - RB Leipzig (Ale)...</title>
+    <desc />
   </programme>
-  <programme start="20261124065000 +0000" stop="20261124084000 +0000" channel="ESPN Premium AR">
-    <title>Fútbol Argentino Primera División : River Plate vs. Lanús</title>
-    <desc>River Plate recibe a Lanús en los octavos de final del Torneo Clausura 2026. Con seis triunfos en nueve enfrentamientos directos desde 2018, El Millonario enfrenta a un Granate que busca repetir su histórica serie de la Copa Libertadores 2017.</desc>
+  <programme start="20261125070000 +0000" stop="20261125090000 +0000" channel="ESPN 6 AR">
+    <title>ESPN Knockout</title>
+    <desc />
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125110000 +0000" channel="ESPN 6 AR">
+    <title>Eredivisie</title>
+    <desc />
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="ESPN 6 AR">
+    <title>Highlights - UEFA Champions League</title>
+    <desc />
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125150000 +0000" channel="ESPN 6 AR">
+    <title>NFL</title>
+    <desc />
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125170000 +0000" channel="ESPN 6 AR">
+    <title>Eredivisie</title>
+    <desc />
+  </programme>
+  <programme start="20261125170000 +0000" stop="20261125190000 +0000" channel="ESPN 6 AR">
+    <title>Turkish Super Lig</title>
+    <desc />
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125193000 +0000" channel="ESPN 6 AR">
+    <title>Lo mejor de MotoGP</title>
+    <desc />
+  </programme>
+  <programme start="20261125193000 +0000" stop="20261125194000 +0000" channel="ESPN 6 AR">
+    <title>PSG Campeón UCL 2025-2026</title>
+    <desc />
+  </programme>
+  <programme start="20261125194000 +0000" stop="20261125220000 +0000" channel="ESPN 6 AR">
+    <title>UEFA Champions League</title>
+    <desc />
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261126000000 +0000" channel="ESPN 6 AR">
+    <title>UEFA Champions League</title>
+    <desc />
+  </programme>
+  <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="ESPN 6 AR">
+    <title>Highlights - UEFA Champions League</title>
+    <desc />
   </programme>
   <programme start="20261124084000 +0000" stop="20261124103000 +0000" channel="ESPN Premium AR">
     <title>Fútbol Argentino Primera División : Rosario Central vs. Gimnasia y Esgrima (M)</title>
@@ -1147,18 +1043,6 @@
   <programme start="20261126045000 +0000" stop="20261126064000 +0000" channel="ESPN Premium AR">
     <title>Fútbol Argentino Primera División : Rosario Central vs. Gimnasia y Esgrima (M)</title>
     <desc>Rosario Central recibe a Gimnasia de Mendoza en los octavos de final del Torneo Clausura 2026. En su primer duelo histórico, Los Canallas, tras pelear el título de liga, recibe a un Lobo Mendocino que alcanza la liguilla en su temporada debut.</desc>
-  </programme>
-  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="beIN Sports 1 AU">
-    <title>ATP Review</title>
-    <desc>A look back at the best of the action from the tournament.</desc>
-  </programme>
-  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="beIN Sports 1 AU">
-    <title>ATP Review</title>
-    <desc>A look back at the best of the action from the tournament.</desc>
-  </programme>
-  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="beIN Sports 1 AU">
-    <title>ATP Review</title>
-    <desc>A look back at the best of the action from the tournament.</desc>
   </programme>
   <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="beIN Sports 1 AU">
     <title>ATP Review</title>
@@ -1279,18 +1163,6 @@
   <programme start="20261126053000 +0000" stop="20261126063000 +0000" channel="beIN Sports 1 AU">
     <title>ATP Review</title>
     <desc>A look back at the best of the action from the tournament.</desc>
-  </programme>
-  <programme start="20261124000000 +0000" stop="20261124003000 +0000" channel="beIN Sports 2 AU">
-    <title>MUTV: Match Day Review</title>
-    <desc>Directly after the final whistle of every Manchester United match the MUTV team review the game and all the talking points.</desc>
-  </programme>
-  <programme start="20261124003000 +0000" stop="20261124010000 +0000" channel="beIN Sports 2 AU">
-    <title>MUTV</title>
-    <desc>Relive these 25 incredible Old Trafford moments.</desc>
-  </programme>
-  <programme start="20261124010000 +0000" stop="20261124025000 +0000" channel="beIN Sports 2 AU">
-    <title>EFL Championship</title>
-    <desc>The EFL Championship 2026/27 season sees some of biggest teams in English football compete fiercely for a spot in the Premier League.</desc>
   </programme>
   <programme start="20261124025000 +0000" stop="20261124044000 +0000" channel="beIN Sports 2 AU">
     <title>EFL Championship</title>
@@ -1467,14 +1339,6 @@
   <programme start="20261126055000 +0000" stop="20261126062000 +0000" channel="beIN Sports 2 AU">
     <title>Old Firm Classic</title>
     <desc>Rewind the clock and enjoy some of the classic Old Firm derbies from past seasons.</desc>
-  </programme>
-  <programme start="20261124005000 +0000" stop="20261124024000 +0000" channel="beIN Sports 3 AU">
-    <title>Serie A</title>
-    <desc>The giants of Italian football go head to head for the Serie A scudetto, Italy's top division of football.</desc>
-  </programme>
-  <programme start="20261124024000 +0000" stop="20261124025000 +0000" channel="beIN Sports 3 AU">
-    <title>Bundesliga Goals</title>
-    <desc>Bundesliga Goals features how to score the perfect goal and sublime moments of the game that has captivated audiences around the world.</desc>
   </programme>
   <programme start="20261124025000 +0000" stop="20261124044000 +0000" channel="beIN Sports 3 AU">
     <title>Bundesliga</title>
@@ -1677,7 +1541,7 @@
     <desc>Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
   </programme>
   <programme start="20261126053000 +0000" stop="20261126060000 +0000" channel="beIN Sports 3 AU">
-    <title>German Super Cup</title>
+    <title>Bundesliga</title>
     <desc>Unique insights and behind the scenes stories about Bundesliga clubs and players.</desc>
   </programme>
   <programme start="20261124003500 +0000" stop="20261124033500 +0000" channel="RTBF Tipik">
@@ -2980,101 +2844,105 @@
     <title>SC With Jay Onrait</title>
     <desc>The latest scores and highlights, with host Jay Onrait.</desc>
   </programme>
-  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="ESPN CO">
-    <title>Equipo Scrum</title>
-    <desc>El análisis y las opiniones de nuestros especialistas sobre lo mejor del rugby. La actualidad de los mejores torneos del mundo bajo la lupa de los analistas del programa y personalidades destacadas del deporte como invitados.</desc>
-  </programme>
-  <programme start="20261124010000 +0000" stop="20261125010000 +0000" channel="ESPN CO">
+  <programme start="20261124010000 +0000" stop="20261124041500 +0000" channel="ESPN CO">
     <title>Cincinnati Bengals vs. Washington Commanders</title>
     <desc>Vive los partidos de la edición 107º de la NFL. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.</desc>
   </programme>
-  <programme start="20261125010000 +0000" stop="20261125041500 +0000" channel="ESPN CO">
-    <title>Cincinnati Bengals vs. Washington Commanders</title>
-    <desc>Vive los partidos de la edición 107º de la NFL. El público podrá disfrutar de los encuentros más emocionantes de la mayor liga de fútbol americano profesional de Estados Unidos.</desc>
-  </programme>
-  <programme start="20261125041500 +0000" stop="20261125051500 +0000" channel="ESPN CO">
+  <programme start="20261124041500 +0000" stop="20261124051500 +0000" channel="ESPN CO">
     <title>Goles de la Serie A</title>
     <desc>El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.</desc>
   </programme>
-  <programme start="20261125051500 +0000" stop="20261125061500 +0000" channel="ESPN CO">
+  <programme start="20261124051500 +0000" stop="20261124061500 +0000" channel="ESPN CO">
     <title>Goles de la Bundesliga</title>
     <desc>Disfruta de los momentos más destacados de la Bundesliga alemana.</desc>
   </programme>
-  <programme start="20261125061500 +0000" stop="20261125064500 +0000" channel="ESPN CO">
+  <programme start="20261124061500 +0000" stop="20261124064500 +0000" channel="ESPN CO">
     <title>Lo mejor de MotoGP</title>
     <desc>Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
   </programme>
-  <programme start="20261125064500 +0000" stop="20261125070000 +0000" channel="ESPN CO">
+  <programme start="20261124064500 +0000" stop="20261124070000 +0000" channel="ESPN CO">
     <title>Aston Villa Campeón UEL 2025-2026</title>
     <desc>Vive la celebración por la victoria del club Aston Villa de la Europa League en su edición 2025-2026.</desc>
   </programme>
-  <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="ESPN CO">
+  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="ESPN CO">
     <title>Goles de la Ligue 1</title>
     <desc>Lo mejor de la primera división del fútbol francés.</desc>
   </programme>
-  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="ESPN CO">
+  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="ESPN CO">
     <title>Goles de la Serie A</title>
     <desc>El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.</desc>
   </programme>
-  <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="ESPN CO">
+  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="ESPN CO">
     <title>ESPN F10</title>
     <desc>El fútbol desde adentro. Para cerrar el domingo deportivo de la mejor manera, este show estará enfocado en profundizar lo que sucedió en la fecha del fútbol local el fin de semana y la actuación de los jugadores colombianos en el exterior.</desc>
   </programme>
-  <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="ESPN CO">
+  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="ESPN CO">
     <title>Final</title>
     <desc>Disfruta lo más destacado de esta competencia perteneciente al ATP Tour que se disputa en el Inalpi Arena de Turín, Italia. Participan los 8 mejores jugadores individuales y las 8 mejores parejas de dobles del año.</desc>
   </programme>
-  <programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="ESPN CO">
+  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="ESPN CO">
     <title>Goles de la Bundesliga</title>
     <desc>Disfruta de los momentos más destacados de la Bundesliga alemana.</desc>
   </programme>
-  <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="ESPN CO">
+  <programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="ESPN CO">
     <title>Lo mejor de MotoGP</title>
     <desc>Lo mejor de la carrera de motos más importante aprobada por la Federación Internacional de Motociclismo que se divide las categorías: MotoGP, Moto2 y Moto3.</desc>
   </programme>
-  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="ESPN CO">
+  <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="ESPN CO">
     <title>Goles de la Serie A</title>
     <desc>El repaso de lo mejor de la fecha de la Serie A TIM, la primera división del calcio italiano.</desc>
   </programme>
-  <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="ESPN CO">
+  <programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="ESPN CO">
     <title>SportsCenter</title>
     <desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
   </programme>
-  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="ESPN CO">
+  <programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="ESPN CO">
     <title>Atl. Mineiro (Bra) vs. Boca Jrs. (Arg)</title>
     <desc>Vive las emociones de los partidos de la 25º edición de la CONMEBOL Sudamericana, el segundo torneo continental más importante organizado por la CONMEBOL, que reúne a equipos de 10 países.</desc>
   </programme>
-  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="ESPN CO">
+  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="ESPN CO">
     <title>Goles de la Bundesliga</title>
     <desc>Disfruta de los momentos más destacados de la Bundesliga alemana.</desc>
   </programme>
-  <programme start="20261125170000 +0000" stop="20261125173000 +0000" channel="ESPN CO">
+  <programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="ESPN CO">
     <title>UEFA Champions League Weekly</title>
     <desc>La revista semanal de la UEFA Champions League con entrevistas, notas y curiosidades del torneo de clubes más importante del mundo.</desc>
   </programme>
-  <programme start="20261125173000 +0000" stop="20261125194000 +0000" channel="ESPN CO">
+  <programme start="20261124173000 +0000" stop="20261124194000 +0000" channel="ESPN CO">
     <title>Bodo/Glimt (Nor) vs. LASK (Aut)</title>
     <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
   </programme>
-  <programme start="20261125194000 +0000" stop="20261125215500 +0000" channel="ESPN CO">
+  <programme start="20261124194000 +0000" stop="20261124215500 +0000" channel="ESPN CO">
     <title>Arsenal (Ing) vs. Borussia Dortmund (Ale)</title>
     <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
   </programme>
-  <programme start="20261125215500 +0000" stop="20261125233000 +0000" channel="ESPN CO">
+  <programme start="20261124215500 +0000" stop="20261124233000 +0000" channel="ESPN CO">
     <title>SportsCenter</title>
     <desc>SportsCenter es todo el deporte nacional e internacional. Todos los días, todo el día, en las pantallas de ESPN.</desc>
   </programme>
-  <programme start="20261125233000 +0000" stop="20261126013000 +0000" channel="ESPN CO">
+  <programme start="20261124233000 +0000" stop="20261125013000 +0000" channel="ESPN CO">
     <title>Manchester City (Ing) vs. Napoli (Ita)</title>
     <desc>Vive los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
   </programme>
-  <programme start="20261126013000 +0000" stop="20261126023000 +0000" channel="ESPN CO">
+  <programme start="20261125013000 +0000" stop="20261125023000 +0000" channel="ESPN CO">
     <title>Arsenal (Ing) vs. Borussia Dortmund (Ale)</title>
     <desc>Revive los mejores momentos de los partidos de la 72º edición de la UEFA Champions League, la competición internacional de fútbol más prestigiosa a nivel de clubes de Europa.</desc>
   </programme>
-  <programme start="20261126023000 +0000" stop="20261127023000 +0000" channel="ESPN CO">
+  <programme start="20261125023000 +0000" stop="20261126023000 +0000" channel="ESPN CO">
     <title>Goles de la Champions League</title>
     <desc>Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
+  </programme>
+  <programme start="20261126023000 +0000" stop="20261126043000 +0000" channel="ESPN CO">
+    <title>Goles de la Champions League</title>
+    <desc>Las mejores jugadas y todos los goles de la ultima fecha del torneo más importante de Europa.</desc>
+  </programme>
+  <programme start="20261126043000 +0000" stop="20261126050000 +0000" channel="ESPN CO">
+    <title>Rolex Middle Sea Race</title>
+    <desc>Explora algunos de los eventos más emocionantes en el mundo de la navegación. Contando las historias humanas detrás de la carrera, la emoción y la dedicación necesarias para participar en cualquier evento deportivo de clase mundial</desc>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126060000 +0000" channel="ESPN CO">
+    <title>Goles de la Ligue 1</title>
+    <desc>Lo mejor de la primera división del fútbol francés.</desc>
   </programme>
   <programme start="20261124011500 +0000" stop="20261124040000 +0000" channel="Arena Sport 1 HR OpB">
     <title>UŽIVO: NFL: WASHINGTON - CINCINNATI, američki nogomet</title>
@@ -4596,6 +4464,26 @@
     <title>Basket-ball : NBA</title>
     <desc>Philadelphia 76ers v Miami HeatDiffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
   </programme>
+  <programme start="20261126003000 +0000" stop="20261126031500 +0000" channel="beIN Sports 1 FR">
+    <title>Basket-ball : NBA</title>
+    <desc>Oklahoma City Thunder v Minnesota TimberwolvesDiffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+  </programme>
+  <programme start="20261126031500 +0000" stop="20261126033000 +0000" channel="beIN Sports 1 FR">
+    <title>Ça se passe sur beIN SPORTS</title>
+    <desc>Ça se passe sur beIN SPORTS.</desc>
+  </programme>
+  <programme start="20261126033000 +0000" stop="20261126040000 +0000" channel="beIN Sports 1 FR">
+    <title>Raid des Alizées</title>
+    <desc>Au-delà de la compétition 100% féminine et solidaire, ce raid est une occasion exceptionnelle de découvrir la beauté de la Martinique sous un autre angle.</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="beIN Sports 1 FR">
+    <title>Passion sous pression</title>
+    <desc>Ils sont souvent critiqués mais sont ils sont nombreux en France. Qui sont les arbitres amateurs ou internationaux, qui sont avant tout des passionnés du jeu et du sport ?</desc>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126070000 +0000" channel="beIN Sports 1 FR">
+    <title>Football : Bundesliga</title>
+    <desc>Bayern Munich v CologneLe 20 novembre 2026, le Bayern recevra Cologne à l'Allianz Arena. Avec Harry Kane, déjà auteur de quatre buts en championnat et Michael Olise, meilleur créateur de l'équipe avec 25 occasions créées, les Bavarois disposent d'armes offensives majeures. Cologne pourra compter sur Saïd El Mala, capable de faire la différence en contre.</desc>
+  </programme>
   <programme start="20261124011500 +0000" stop="20261124041500 +0000" channel="beIN Sports 2 FR">
     <title>Football américain : NFL</title>
     <desc>Washington Commanders v Cincinnati BengalsDiffusion d'un match de la NFL (National Football League).</desc>
@@ -4728,6 +4616,30 @@
     <title>beIN STORY</title>
     <desc>Au coeur de la WNBA (épisodes 1, 2 et 3)beIN STORY.</desc>
   </programme>
+  <programme start="20261126011500 +0000" stop="20261126013000 +0000" channel="beIN Sports 2 FR">
+    <title>Ça se passe sur beIN SPORTS</title>
+    <desc>Ça se passe sur beIN SPORTS.</desc>
+  </programme>
+  <programme start="20261126013000 +0000" stop="20261126023000 +0000" channel="beIN Sports 2 FR">
+    <title>Grand Zap Coupe du monde</title>
+    <desc>Un moment dédié aux meilleurs moments et aux actions les plus spectaculaires de l'évènement.</desc>
+  </programme>
+  <programme start="20261126023000 +0000" stop="20261126024500 +0000" channel="beIN Sports 2 FR">
+    <title>Ça se passe sur beIN SPORTS</title>
+    <desc>Ça se passe sur beIN SPORTS.</desc>
+  </programme>
+  <programme start="20261126024500 +0000" stop="20261126030000 +0000" channel="beIN Sports 2 FR">
+    <title>Ça se passe sur beIN SPORTS</title>
+    <desc>Ça se passe sur beIN SPORTS.</desc>
+  </programme>
+  <programme start="20261126030000 +0000" stop="20261126054500 +0000" channel="beIN Sports 2 FR">
+    <title>Basket-ball : NBA</title>
+    <desc>Portland Trail Blazers v San Antonio SpursDiffusion d'un match de la NBA (National Basketball Association), la prestigieuse ligue américaine de basketball.</desc>
+  </programme>
+  <programme start="20261126054500 +0000" stop="20261126060000 +0000" channel="beIN Sports 2 FR">
+    <title>Ça se passe sur beIN SPORTS</title>
+    <desc>Ça se passe sur beIN SPORTS.</desc>
+  </programme>
   <programme start="20261124000000 +0000" stop="20261124030000 +0000" channel="beIN Sports 3 FR">
     <title>Hockey sur glace : NHL</title>
     <desc>New Jersey Devils v Columbus Blue JacketsRetransmission d'un match de NHL, la prestigieuse ligue nord-américaine de hockey sur glace.</desc>
@@ -4832,6 +4744,14 @@
     <title>Basket-ball : NCAA</title>
     <desc>Diffusion d'un match de NCAA, le championnat universitaire américain de Basket-ball.</desc>
   </programme>
+  <programme start="20261126011500 +0000" stop="20261126050000 +0000" channel="beIN Sports 3 FR">
+    <title>Ça se passe sur beIN SPORTS</title>
+    <desc>Ça se passe sur beIN SPORTS.</desc>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126070000 +0000" channel="beIN Sports 3 FR">
+    <title>Ça se passe sur beIN SPORTS</title>
+    <desc>Ça se passe sur beIN SPORTS.</desc>
+  </programme>
   <programme start="20261124000000 +0000" stop="20261124040000 +0000" channel="beIN Sports 10 FR">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
@@ -4877,6 +4797,14 @@
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
   </programme>
   <programme start="20261125200000 +0000" stop="20261126000000 +0000" channel="beIN Sports 10 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
+  <programme start="20261126000000 +0000" stop="20261126040000 +0000" channel="beIN Sports 10 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126080000 +0000" channel="beIN Sports 10 FR">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
   </programme>
@@ -4936,6 +4864,18 @@
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
   </programme>
+  <programme start="20261126000000 +0000" stop="20261126023000 +0000" channel="beIN Sports 4 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
+  <programme start="20261126023000 +0000" stop="20261126053000 +0000" channel="beIN Sports 4 FR">
+    <title>Hockey sur glace : NHL</title>
+    <desc>Colorado Avalanche v Montréal CanadiensRetransmission d'un match de NHL, la prestigieuse ligue nord-américaine de hockey sur glace.</desc>
+  </programme>
+  <programme start="20261126053000 +0000" stop="20261126080000 +0000" channel="beIN Sports 4 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
   <programme start="20261124000000 +0000" stop="20261124040000 +0000" channel="beIN Sports 5 FR">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
@@ -4988,6 +4928,14 @@
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
   </programme>
+  <programme start="20261126000000 +0000" stop="20261126040000 +0000" channel="beIN Sports 5 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126080000 +0000" channel="beIN Sports 5 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
   <programme start="20261124000000 +0000" stop="20261124040000 +0000" channel="beIN Sports 6 FR">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
@@ -5033,6 +4981,14 @@
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
   </programme>
   <programme start="20261125200000 +0000" stop="20261126000000 +0000" channel="beIN Sports 6 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
+  <programme start="20261126000000 +0000" stop="20261126040000 +0000" channel="beIN Sports 6 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126080000 +0000" channel="beIN Sports 6 FR">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
   </programme>
@@ -5084,6 +5040,14 @@
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
   </programme>
+  <programme start="20261126000000 +0000" stop="20261126040000 +0000" channel="beIN Sports 7 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126080000 +0000" channel="beIN Sports 7 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
   <programme start="20261124000000 +0000" stop="20261124040000 +0000" channel="beIN Sports 8 FR">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
@@ -5132,6 +5096,14 @@
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
   </programme>
+  <programme start="20261126000000 +0000" stop="20261126040000 +0000" channel="beIN Sports 8 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126080000 +0000" channel="beIN Sports 8 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
   <programme start="20261124000000 +0000" stop="20261124040000 +0000" channel="beIN Sports 9 FR">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
@@ -5177,6 +5149,14 @@
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
   </programme>
   <programme start="20261125200000 +0000" stop="20261126000000 +0000" channel="beIN Sports 9 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
+  <programme start="20261126000000 +0000" stop="20261126040000 +0000" channel="beIN Sports 9 FR">
+    <title>beIN SPORTS, le plus grand des spectacles</title>
+    <desc>beIN SPORTS, le plus grand des spectacles.</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126080000 +0000" channel="beIN Sports 9 FR">
     <title>beIN SPORTS, le plus grand des spectacles</title>
     <desc>beIN SPORTS, le plus grand des spectacles.</desc>
   </programme>
@@ -5653,432 +5633,416 @@
     <desc>The home of the biggest stars and El Clasico.</desc>
   </programme>
   <programme start="20261124001500 +0000" stop="20261124010000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Levi (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
+    <title>Copa del mundo de saltos de esquí M - Bischofshofen (T25/26)</title>
+    <desc>Trampolín largo, Deportes</desc>
   </programme>
   <programme start="20261124010000 +0000" stop="20261124030000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Abierto de Gran Bretaña de snooker (T26/27)</title>
-    <desc>Mark Selby vs Jak Jones, Deportes</desc>
+    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
+    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
   </programme>
   <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
+    <title>Copa del mundo de saltos de esquí M - Garmisch Partenkirchen (T25/26)</title>
+    <desc>Trampolín largo, Deportes</desc>
   </programme>
   <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261124050000 +0000" stop="20261124054500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124054500 +0000" stop="20261124063000 +0000" channel="Eurosport 1 ES OpB">
     <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
     <desc>Eslalon - 2ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124063000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
   </programme>
   <programme start="20261124063000 +0000" stop="20261124080000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
-    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
+    <title>Mundial de snooker (T25/26)</title>
+    <desc>Shaun Murphy - Wu Yize, Deportes</desc>
   </programme>
-  <programme start="20261124080000 +0000" stop="20261124084500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
+  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí por equipos - Lillehammer (T26/27)</title>
+    <desc>Trampolín por equipos mixtos, Deportes</desc>
   </programme>
-  <programme start="20261124084500 +0000" stop="20261124093000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
+  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
   </programme>
-  <programme start="20261124093000 +0000" stop="20261124101500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124101500 +0000" stop="20261124110000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
+  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
   </programme>
   <programme start="20261124110000 +0000" stop="20261124123000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
-    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
+    <title>Resumen de la temporada ciclista M</title>
+    <desc>Deportes</desc>
   </programme>
-  <programme start="20261124123000 +0000" stop="20261124131500 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261124123000 +0000" stop="20261124130000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
+    <desc>Eslalon - 1ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261124130000 +0000" stop="20261124134500 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
+    <desc>Eslalon - 2ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261124134500 +0000" stop="20261124143000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
+    <desc>Eslalon - 2ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261124143000 +0000" stop="20261124153000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí por equipos - Lillehammer (T26/27)</title>
+    <desc>Trampolín por equipos mixtos, Deportes</desc>
+  </programme>
+  <programme start="20261124153000 +0000" stop="20261124160000 +0000" channel="Eurosport 1 ES OpB">
     <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
     <desc>Trampolín largo - Día 2, Deportes</desc>
   </programme>
-  <programme start="20261124131500 +0000" stop="20261124140000 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="Eurosport 1 ES OpB">
     <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
     <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124144500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124144500 +0000" stop="20261124153000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124153000 +0000" stop="20261124161500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124161500 +0000" stop="20261124170000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
   </programme>
   <programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Hall Of Fame Cortina Milán 2026 (T2026)</title>
-    <desc>23/02/2026, Deportes</desc>
+    <title>Golden Trail World Series - Resumen (T2026)</title>
+    <desc>Resumen de la temporada, Deportes</desc>
   </programme>
-  <programme start="20261124180000 +0000" stop="20261124190000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
-    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
-  </programme>
-  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Mundial de Powerlifting Equipado</title>
-    <desc>Deportes</desc>
+  <programme start="20261124180000 +0000" stop="20261124200000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Masters de Shanghái de snooker (T26/27)</title>
+    <desc>Kyren Wilson vs Judd Trump, Deportes</desc>
   </programme>
   <programme start="20261124200000 +0000" stop="20261124210000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
+    <title>Copa del mundo de saltos de esquí por equipos - Lillehammer (T26/27)</title>
+    <desc>Trampolín por equipos mixtos, Deportes</desc>
   </programme>
   <programme start="20261124210000 +0000" stop="20261124220000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
   </programme>
-  <programme start="20261124220000 +0000" stop="20261124224500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Levi (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124224500 +0000" stop="20261124233000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Levi (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
+  <programme start="20261124220000 +0000" stop="20261124233000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Garmisch Partenkirchen (T25/26)</title>
+    <desc>Trampolín largo, Deportes</desc>
   </programme>
   <programme start="20261124233000 +0000" stop="20261125001500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Levi (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
+    <title>Copa del mundo de saltos de esquí M - Innsbruck (T25/26)</title>
+    <desc>Trampolín largo, Deportes</desc>
   </programme>
   <programme start="20261125001500 +0000" stop="20261125010000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Levi (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
+    <title>Copa del mundo de saltos de esquí M - Bischofshofen (T25/26)</title>
+    <desc>Trampolín largo, Deportes</desc>
   </programme>
   <programme start="20261125010000 +0000" stop="20261125030000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Abierto de Gran Bretaña de snooker (T26/27)</title>
-    <desc>Mark Selby vs Jak Jones, Deportes</desc>
+    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
+    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
   </programme>
   <programme start="20261125030000 +0000" stop="20261125040000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
+    <title>Copa del mundo de saltos de esquí M - Garmisch Partenkirchen (T25/26)</title>
+    <desc>Trampolín largo, Deportes</desc>
   </programme>
   <programme start="20261125040000 +0000" stop="20261125050000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261125050000 +0000" stop="20261125054500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125054500 +0000" stop="20261125063000 +0000" channel="Eurosport 1 ES OpB">
     <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
     <desc>Eslalon - 2ª manga, Deportes</desc>
   </programme>
-  <programme start="20261125063000 +0000" stop="20261125080000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
-    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
-  </programme>
-  <programme start="20261125080000 +0000" stop="20261125084500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125084500 +0000" stop="20261125093000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125093000 +0000" stop="20261125101500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125101500 +0000" stop="20261125110000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125110000 +0000" stop="20261125123000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
-    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
-  </programme>
-  <programme start="20261125123000 +0000" stop="20261125131500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261125131500 +0000" stop="20261125140000 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261125050000 +0000" stop="20261125063000 +0000" channel="Eurosport 1 ES OpB">
     <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
     <desc>Trampolín largo - Día 2, Deportes</desc>
   </programme>
-  <programme start="20261125140000 +0000" stop="20261125144500 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261125063000 +0000" stop="20261125080000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Mundial de snooker (T25/26)</title>
+    <desc>Shaun Murphy - Wu Yize, Deportes</desc>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí por equipos - Lillehammer (T26/27)</title>
+    <desc>Trampolín por equipos mixtos, Deportes</desc>
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125123000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Resumen de la temporada ciclista M</title>
+    <desc>Deportes</desc>
+  </programme>
+  <programme start="20261125123000 +0000" stop="20261125130000 +0000" channel="Eurosport 1 ES OpB">
     <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
     <desc>Eslalon - 1ª manga, Deportes</desc>
   </programme>
-  <programme start="20261125144500 +0000" stop="20261125153000 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261125130000 +0000" stop="20261125134500 +0000" channel="Eurosport 1 ES OpB">
     <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
     <desc>Eslalon - 2ª manga, Deportes</desc>
   </programme>
-  <programme start="20261125153000 +0000" stop="20261125161500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125161500 +0000" stop="20261125170000 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261125134500 +0000" stop="20261125143000 +0000" channel="Eurosport 1 ES OpB">
     <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
     <desc>Eslalon - 2ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261125143000 +0000" stop="20261125153000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí por equipos - Lillehammer (T26/27)</title>
+    <desc>Trampolín por equipos mixtos, Deportes</desc>
+  </programme>
+  <programme start="20261125153000 +0000" stop="20261125160000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
   </programme>
   <programme start="20261125170000 +0000" stop="20261125180000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Hall Of Fame Cortina Milán 2026 (T2026)</title>
-    <desc>23/02/2026, Deportes</desc>
+    <title>Golden Trail World Series - Resumen (T2026)</title>
+    <desc>Resumen de la temporada, Deportes</desc>
   </programme>
-  <programme start="20261125180000 +0000" stop="20261125190000 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261125180000 +0000" stop="20261125200000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Masters de Shanghái de snooker (T26/27)</title>
+    <desc>Kyren Wilson vs Judd Trump, Deportes</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125210000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí por equipos - Lillehammer (T26/27)</title>
+    <desc>Trampolín por equipos mixtos, Deportes</desc>
+  </programme>
+  <programme start="20261125210000 +0000" stop="20261125220000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125233000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Garmisch Partenkirchen (T25/26)</title>
+    <desc>Trampolín largo, Deportes</desc>
+  </programme>
+  <programme start="20261125233000 +0000" stop="20261126001500 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Innsbruck (T25/26)</title>
+    <desc>Trampolín largo, Deportes</desc>
+  </programme>
+  <programme start="20261126001500 +0000" stop="20261126010000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Bischofshofen (T25/26)</title>
+    <desc>Trampolín largo, Deportes</desc>
+  </programme>
+  <programme start="20261126010000 +0000" stop="20261126030000 +0000" channel="Eurosport 1 ES OpB">
     <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
     <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
   </programme>
-  <programme start="20261125190000 +0000" stop="20261125200000 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Garmisch Partenkirchen (T25/26)</title>
+    <desc>Trampolín largo, Deportes</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
+    <desc>Eslalon - 2ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126063000 +0000" channel="Eurosport 1 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Kitzbuehel (T25/26)</title>
+    <desc>Eslalon - primera manga, Deportes</desc>
+  </programme>
+  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Kitzbuehel (T25/26)</title>
+    <desc>Eslalon - segunda manga, Deportes</desc>
+  </programme>
+  <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Are (T25/26)</title>
+    <desc>Eslalon - primera manga, Deportes</desc>
+  </programme>
+  <programme start="20261124023000 +0000" stop="20261124030000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Are (T25/26)</title>
+    <desc>Eslalon - segunda manga, Deportes</desc>
+  </programme>
+  <programme start="20261124030000 +0000" stop="20261124050000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
+    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124054500 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
+    <desc>Eslalon - 2ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261124054500 +0000" stop="20261124063000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
+    <desc>Eslalon - 2ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261124063000 +0000" stop="20261124080000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
+  </programme>
+  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="Eurosport 2 ES OpB">
     <title>Mundial de Powerlifting Equipado</title>
     <desc>Deportes</desc>
   </programme>
-  <programme start="20261125200000 +0000" stop="20261125210000 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261124090000 +0000" stop="20261124110000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Abierto de Inglaterra de snooker (T26/27)</title>
+    <desc>Ali Carter vs Mark Williams, Deportes</desc>
+  </programme>
+  <programme start="20261124110000 +0000" stop="20261124120000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
+  </programme>
+  <programme start="20261124120000 +0000" stop="20261124130000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
+  </programme>
+  <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Hall Of Fame Cortina Milán 2026 (T2026)</title>
+    <desc>23/02/2026, Deportes</desc>
+  </programme>
+  <programme start="20261124140000 +0000" stop="20261124151500 +0000" channel="Eurosport 2 ES OpB">
+    <title>Resumen de la temporada ciclista F</title>
+    <desc>Deportes</desc>
+  </programme>
+  <programme start="20261124151500 +0000" stop="20261124161500 +0000" channel="Eurosport 2 ES OpB">
+    <title>Golden Trail World Series - Resumen (T2026)</title>
+    <desc>Resumen de la temporada, Deportes</desc>
+  </programme>
+  <programme start="20261124161500 +0000" stop="20261124164500 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
+    <desc>Eslalon - 1ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261124164500 +0000" stop="20261124173000 +0000" channel="Eurosport 2 ES OpB">
     <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
     <desc>Eslalon - 2ª manga, Deportes</desc>
   </programme>
-  <programme start="20261125210000 +0000" stop="20261125220000 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261124173000 +0000" stop="20261124181500 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
+    <desc>Eslalon - 1ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261124181500 +0000" stop="20261124190000 +0000" channel="Eurosport 2 ES OpB">
     <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
     <desc>Eslalon - 2ª manga, Deportes</desc>
   </programme>
-  <programme start="20261125220000 +0000" stop="20261125224500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Levi (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
+  <programme start="20261124190000 +0000" stop="20261124200000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
   </programme>
-  <programme start="20261125224500 +0000" stop="20261125233000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Levi (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125233000 +0000" stop="20261126001500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Levi (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261126001500 +0000" stop="20261126010000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Levi (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261126010000 +0000" stop="20261126030000 +0000" channel="Eurosport 1 ES OpB">
+  <programme start="20261124200000 +0000" stop="20261124220000 +0000" channel="Eurosport 2 ES OpB">
     <title>Abierto de Gran Bretaña de snooker (T26/27)</title>
     <desc>Mark Selby vs Jak Jones, Deportes</desc>
   </programme>
-  <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261126050000 +0000" stop="20261126054500 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261126054500 +0000" stop="20261126063000 +0000" channel="Eurosport 1 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124030000 +0000" stop="20261124050000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Mundial de snooker (T25/26)</title>
-    <desc>Shaun Murphy - Wu Yize, Deportes</desc>
-  </programme>
-  <programme start="20261124050000 +0000" stop="20261124063000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261124063000 +0000" stop="20261124071500 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124071500 +0000" stop="20261124080000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124080000 +0000" stop="20261124100000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Global Champions Tour - Verona (T2026)</title>
-    <desc>Champions League - Final, Deportes</desc>
-  </programme>
-  <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
-    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
-  </programme>
-  <programme start="20261124110000 +0000" stop="20261124113000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124113000 +0000" stop="20261124120000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261124123000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124123000 +0000" stop="20261124130000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Mundial de Resistencia de la FIA - Resumen (T2026)</title>
-    <desc>24 Horas de Le Mans, Deportes</desc>
-  </programme>
-  <programme start="20261124140000 +0000" stop="20261124170000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
-    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
-  </programme>
-  <programme start="20261124170000 +0000" stop="20261124174500 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261124174500 +0000" stop="20261124183000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261124183000 +0000" stop="20261124191500 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124191500 +0000" stop="20261124200000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261124200000 +0000" stop="20261124220000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
-    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
-  </programme>
   <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
+    <title>Copa del mundo de esquí alpino M - Wengen (T25/26)</title>
+    <desc>Descenso, Deportes</desc>
   </programme>
   <programme start="20261124230000 +0000" stop="20261125000000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Hall Of Fame Cortina Milán 2026 (T2026)</title>
-    <desc>23/02/2026, Deportes</desc>
+    <title>Copa del mundo de esquí alpino M - Kitzbuehel (T25/26)</title>
+    <desc>Descenso, Deportes</desc>
   </programme>
   <programme start="20261125000000 +0000" stop="20261125010000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
+    <title>Copa del mundo de esquí alpino M - Kitzbuehel (T25/26)</title>
+    <desc>Eslalon - primera manga, Deportes</desc>
   </programme>
   <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
+    <title>Copa del mundo de esquí alpino M - Kitzbuehel (T25/26)</title>
+    <desc>Eslalon - segunda manga, Deportes</desc>
   </programme>
-  <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
+  <programme start="20261125020000 +0000" stop="20261125023000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Are (T25/26)</title>
+    <desc>Eslalon - primera manga, Deportes</desc>
+  </programme>
+  <programme start="20261125023000 +0000" stop="20261125030000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Are (T25/26)</title>
+    <desc>Eslalon - segunda manga, Deportes</desc>
   </programme>
   <programme start="20261125030000 +0000" stop="20261125050000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Mundial de snooker (T25/26)</title>
-    <desc>Shaun Murphy - Wu Yize, Deportes</desc>
-  </programme>
-  <programme start="20261125050000 +0000" stop="20261125063000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261125063000 +0000" stop="20261125071500 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125071500 +0000" stop="20261125080000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125080000 +0000" stop="20261125100000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Global Champions Tour - Verona (T2026)</title>
-    <desc>Champions League - Final, Deportes</desc>
-  </programme>
-  <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="Eurosport 2 ES OpB">
     <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
     <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
   </programme>
-  <programme start="20261125110000 +0000" stop="20261125113000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125113000 +0000" stop="20261125120000 +0000" channel="Eurosport 2 ES OpB">
+  <programme start="20261125050000 +0000" stop="20261125054500 +0000" channel="Eurosport 2 ES OpB">
     <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
     <desc>Eslalon - 2ª manga, Deportes</desc>
   </programme>
-  <programme start="20261125120000 +0000" stop="20261125123000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125123000 +0000" stop="20261125130000 +0000" channel="Eurosport 2 ES OpB">
+  <programme start="20261125054500 +0000" stop="20261125063000 +0000" channel="Eurosport 2 ES OpB">
     <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
     <desc>Eslalon - 2ª manga, Deportes</desc>
   </programme>
-  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Mundial de Resistencia de la FIA - Resumen (T2026)</title>
-    <desc>24 Horas de Le Mans, Deportes</desc>
-  </programme>
-  <programme start="20261125140000 +0000" stop="20261125170000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
-    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
-  </programme>
-  <programme start="20261125170000 +0000" stop="20261125174500 +0000" channel="Eurosport 2 ES OpB">
+  <programme start="20261125063000 +0000" stop="20261125080000 +0000" channel="Eurosport 2 ES OpB">
     <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
     <desc>Trampolín largo - Día 2, Deportes</desc>
   </programme>
-  <programme start="20261125174500 +0000" stop="20261125183000 +0000" channel="Eurosport 2 ES OpB">
+  <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Mundial de Powerlifting Equipado</title>
+    <desc>Deportes</desc>
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125110000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Abierto de Inglaterra de snooker (T26/27)</title>
+    <desc>Ali Carter vs Mark Williams, Deportes</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
+    <desc>Trampolín largo - Día 2, Deportes</desc>
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="Eurosport 2 ES OpB">
     <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
     <desc>Trampolín largo - Día 2, Deportes</desc>
   </programme>
-  <programme start="20261125183000 +0000" stop="20261125191500 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 1ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125191500 +0000" stop="20261125200000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
-    <desc>Eslalon - 2ª manga, Deportes</desc>
-  </programme>
-  <programme start="20261125200000 +0000" stop="20261125220000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
-    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
-  </programme>
-  <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
-  </programme>
-  <programme start="20261125230000 +0000" stop="20261126000000 +0000" channel="Eurosport 2 ES OpB">
+  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="Eurosport 2 ES OpB">
     <title>Hall Of Fame Cortina Milán 2026 (T2026)</title>
     <desc>23/02/2026, Deportes</desc>
   </programme>
-  <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Copa del mundo de saltos de esquí F - Lillehammer (T26/27)</title>
-    <desc>Trampolín largo - Día 2, Deportes</desc>
+  <programme start="20261125140000 +0000" stop="20261125151500 +0000" channel="Eurosport 2 ES OpB">
+    <title>Resumen de la temporada ciclista F</title>
+    <desc>Deportes</desc>
   </programme>
-  <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="Eurosport 2 ES OpB">
+  <programme start="20261125151500 +0000" stop="20261125161500 +0000" channel="Eurosport 2 ES OpB">
+    <title>Golden Trail World Series - Resumen (T2026)</title>
+    <desc>Resumen de la temporada, Deportes</desc>
+  </programme>
+  <programme start="20261125161500 +0000" stop="20261125164500 +0000" channel="Eurosport 2 ES OpB">
     <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
     <desc>Eslalon - 1ª manga, Deportes</desc>
   </programme>
-  <programme start="20261126020000 +0000" stop="20261126030000 +0000" channel="Eurosport 2 ES OpB">
+  <programme start="20261125164500 +0000" stop="20261125173000 +0000" channel="Eurosport 2 ES OpB">
     <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
     <desc>Eslalon - 2ª manga, Deportes</desc>
   </programme>
-  <programme start="20261126030000 +0000" stop="20261126050000 +0000" channel="Eurosport 2 ES OpB">
-    <title>Mundial de snooker (T25/26)</title>
-    <desc>Shaun Murphy - Wu Yize, Deportes</desc>
+  <programme start="20261125173000 +0000" stop="20261125181500 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
+    <desc>Eslalon - 1ª manga, Deportes</desc>
   </programme>
-  <programme start="20261126050000 +0000" stop="20261126063000 +0000" channel="Eurosport 2 ES OpB">
+  <programme start="20261125181500 +0000" stop="20261125190000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
+    <desc>Eslalon - 2ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125200000 +0000" channel="Eurosport 2 ES OpB">
     <title>Copa del mundo de saltos de esquí M - Lillehammer (T26/27)</title>
     <desc>Trampolín largo - Día 2, Deportes</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125220000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Abierto de Gran Bretaña de snooker (T26/27)</title>
+    <desc>Mark Selby vs Jak Jones, Deportes</desc>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Wengen (T25/26)</title>
+    <desc>Descenso, Deportes</desc>
+  </programme>
+  <programme start="20261125230000 +0000" stop="20261126000000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Kitzbuehel (T25/26)</title>
+    <desc>Descenso, Deportes</desc>
+  </programme>
+  <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Kitzbuehel (T25/26)</title>
+    <desc>Eslalon - primera manga, Deportes</desc>
+  </programme>
+  <programme start="20261126010000 +0000" stop="20261126020000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Kitzbuehel (T25/26)</title>
+    <desc>Eslalon - segunda manga, Deportes</desc>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Are (T25/26)</title>
+    <desc>Eslalon - primera manga, Deportes</desc>
+  </programme>
+  <programme start="20261126023000 +0000" stop="20261126030000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Are (T25/26)</title>
+    <desc>Eslalon - segunda manga, Deportes</desc>
+  </programme>
+  <programme start="20261126030000 +0000" stop="20261126050000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Abierto de Irlanda del Norte de snooker (T26/27)</title>
+    <desc>Kyren Wilson vs Jak Jones, Deportes</desc>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126054500 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino F - Gurgl (T26/27)</title>
+    <desc>Eslalon - 2ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261126054500 +0000" stop="20261126063000 +0000" channel="Eurosport 2 ES OpB">
+    <title>Copa del mundo de esquí alpino M - Gurgl (T26/27)</title>
+    <desc>Eslalon - 2ª manga, Deportes</desc>
+  </programme>
+  <programme start="20261124003000 +0000" stop="20261124030000 +0000" channel="Hypermotion OpB">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>LALIGA TV HYPERMOTION</desc>
   </programme>
   <programme start="20261124030000 +0000" stop="20261124070000 +0000" channel="Hypermotion OpB">
     <title>LALIGA TV HYPERMOTION</title>
@@ -6096,23 +6060,15 @@
     <title>LALIGA TV HYPERMOTION</title>
     <desc>LALIGA TV HYPERMOTION</desc>
   </programme>
-  <programme start="20261124163000 +0000" stop="20261124183000 +0000" channel="Hypermotion OpB">
-    <title>LALIGA HYPERMOTION (T26/27)</title>
-    <desc>Girona FC - SD Eibar, Deportes</desc>
+  <programme start="20261124163000 +0000" stop="20261124203000 +0000" channel="Hypermotion OpB">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>LALIGA TV HYPERMOTION</desc>
   </programme>
-  <programme start="20261124183000 +0000" stop="20261124203000 +0000" channel="Hypermotion OpB">
-    <title>LALIGA HYPERMOTION (T26/27)</title>
-    <desc>Ceuta FC - UD Almería, Deportes</desc>
+  <programme start="20261124203000 +0000" stop="20261125003000 +0000" channel="Hypermotion OpB">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>LALIGA TV HYPERMOTION</desc>
   </programme>
-  <programme start="20261124203000 +0000" stop="20261124210000 +0000" channel="Hypermotion OpB">
-    <title>Tiempo de revisión (T26/27)</title>
-    <desc>Episodio 11, Deportes</desc>
-  </programme>
-  <programme start="20261124210000 +0000" stop="20261124230000 +0000" channel="Hypermotion OpB">
-    <title>LALIGA HYPERMOTION (T26/27)</title>
-    <desc>Real Sporting - UD Las Palmas, Deportes</desc>
-  </programme>
-  <programme start="20261124230000 +0000" stop="20261125030000 +0000" channel="Hypermotion OpB">
+  <programme start="20261125003000 +0000" stop="20261125030000 +0000" channel="Hypermotion OpB">
     <title>LALIGA TV HYPERMOTION</title>
     <desc>LALIGA TV HYPERMOTION</desc>
   </programme>
@@ -6132,23 +6088,15 @@
     <title>LALIGA TV HYPERMOTION</title>
     <desc>LALIGA TV HYPERMOTION</desc>
   </programme>
-  <programme start="20261125163000 +0000" stop="20261125183000 +0000" channel="Hypermotion OpB">
-    <title>LALIGA HYPERMOTION (T26/27)</title>
-    <desc>Girona FC - SD Eibar, Deportes</desc>
+  <programme start="20261125163000 +0000" stop="20261125203000 +0000" channel="Hypermotion OpB">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>LALIGA TV HYPERMOTION</desc>
   </programme>
-  <programme start="20261125183000 +0000" stop="20261125203000 +0000" channel="Hypermotion OpB">
-    <title>LALIGA HYPERMOTION (T26/27)</title>
-    <desc>Ceuta FC - UD Almería, Deportes</desc>
+  <programme start="20261125203000 +0000" stop="20261126003000 +0000" channel="Hypermotion OpB">
+    <title>LALIGA TV HYPERMOTION</title>
+    <desc>LALIGA TV HYPERMOTION</desc>
   </programme>
-  <programme start="20261125203000 +0000" stop="20261125210000 +0000" channel="Hypermotion OpB">
-    <title>Tiempo de revisión (T26/27)</title>
-    <desc>Episodio 11, Deportes</desc>
-  </programme>
-  <programme start="20261125210000 +0000" stop="20261125230000 +0000" channel="Hypermotion OpB">
-    <title>LALIGA HYPERMOTION (T26/27)</title>
-    <desc>Real Sporting - UD Las Palmas, Deportes</desc>
-  </programme>
-  <programme start="20261125230000 +0000" stop="20261126030000 +0000" channel="Hypermotion OpB">
+  <programme start="20261126003000 +0000" stop="20261126030000 +0000" channel="Hypermotion OpB">
     <title>LALIGA TV HYPERMOTION</title>
     <desc>LALIGA TV HYPERMOTION</desc>
   </programme>
@@ -6176,7 +6124,31 @@
     <title>LaLiga TV Hypermotion 2</title>
     <desc>LaLiga TV Hypermotion 2</desc>
   </programme>
-  <programme start="20261124230000 +0000" stop="20261125215900 +0000" channel="Hypermotion 2 OpB">
+  <programme start="20261124230000 +0000" stop="20261125030000 +0000" channel="Hypermotion 2 OpB">
+    <title>LaLiga TV Hypermotion 2</title>
+    <desc>LaLiga TV Hypermotion 2</desc>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125070000 +0000" channel="Hypermotion 2 OpB">
+    <title>LaLiga TV Hypermotion 2</title>
+    <desc>LaLiga TV Hypermotion 2</desc>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125110000 +0000" channel="Hypermotion 2 OpB">
+    <title>LaLiga TV Hypermotion 2</title>
+    <desc>LaLiga TV Hypermotion 2</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125150000 +0000" channel="Hypermotion 2 OpB">
+    <title>LaLiga TV Hypermotion 2</title>
+    <desc>LaLiga TV Hypermotion 2</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125190000 +0000" channel="Hypermotion 2 OpB">
+    <title>LaLiga TV Hypermotion 2</title>
+    <desc>LaLiga TV Hypermotion 2</desc>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125230000 +0000" channel="Hypermotion 2 OpB">
+    <title>LaLiga TV Hypermotion 2</title>
+    <desc>LaLiga TV Hypermotion 2</desc>
+  </programme>
+  <programme start="20261125230000 +0000" stop="20261126215900 +0000" channel="Hypermotion 2 OpB">
     <title>LaLiga TV Hypermotion 2</title>
     <desc>LaLiga TV Hypermotion 2</desc>
   </programme>
@@ -6200,7 +6172,31 @@
     <title>LaLiga TV Hypermotion 3</title>
     <desc>LaLiga TV Hypermotion 3</desc>
   </programme>
-  <programme start="20261124230000 +0000" stop="20261125215900 +0000" channel="Hypermotion 3 OpB">
+  <programme start="20261124230000 +0000" stop="20261125030000 +0000" channel="Hypermotion 3 OpB">
+    <title>LaLiga TV Hypermotion 3</title>
+    <desc>LaLiga TV Hypermotion 3</desc>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125070000 +0000" channel="Hypermotion 3 OpB">
+    <title>LaLiga TV Hypermotion 3</title>
+    <desc>LaLiga TV Hypermotion 3</desc>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125110000 +0000" channel="Hypermotion 3 OpB">
+    <title>LaLiga TV Hypermotion 3</title>
+    <desc>LaLiga TV Hypermotion 3</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125150000 +0000" channel="Hypermotion 3 OpB">
+    <title>LaLiga TV Hypermotion 3</title>
+    <desc>LaLiga TV Hypermotion 3</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125190000 +0000" channel="Hypermotion 3 OpB">
+    <title>LaLiga TV Hypermotion 3</title>
+    <desc>LaLiga TV Hypermotion 3</desc>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125230000 +0000" channel="Hypermotion 3 OpB">
+    <title>LaLiga TV Hypermotion 3</title>
+    <desc>LaLiga TV Hypermotion 3</desc>
+  </programme>
+  <programme start="20261125230000 +0000" stop="20261126215900 +0000" channel="Hypermotion 3 OpB">
     <title>LaLiga TV Hypermotion 3</title>
     <desc>LaLiga TV Hypermotion 3</desc>
   </programme>
@@ -6674,7 +6670,7 @@
   </programme>
   <programme start="20261124080000 +0000" stop="20261124114500 +0000" channel="TNT Sports 1 UK">
     <title>Live 2nd T20: Australia v England</title>
-    <desc>Australia T20 International Cricket action.</desc>
+    <desc>After coming out second best in the thrilling T20 series opener, Harry Brook's England head to the Gold Coast looking to bounce back against Mitchell Marsh's Australia.</desc>
   </programme>
   <programme start="20261124114500 +0000" stop="20261124124500 +0000" channel="TNT Sports 1 UK">
     <title>1st Test: New Zealand v India</title>
@@ -6690,11 +6686,11 @@
   </programme>
   <programme start="20261124133000 +0000" stop="20261124140000 +0000" channel="TNT Sports 1 UK">
     <title>ILT20 Highlights</title>
-    <desc>Highlights from the International League T20, a 20-over cricket tournament in the United Arab Emirates.</desc>
+    <desc>Highlights from the 2026 DP World ILT20 clash between Sharjah Warriorz and Desert Vipers at the Sharjah Cricket Stadium.</desc>
   </programme>
   <programme start="20261124140000 +0000" stop="20261124181500 +0000" channel="TNT Sports 1 UK">
     <title>Live ILT20: Giants v MI Emirates</title>
-    <desc>Action from the 2026 DP World International League T20 as Gulf Giants meet MI Emirates at the Dubai International Cricket Stadium.</desc>
+    <desc>Action from the 2026 DP World International League T20 as Gulf Giants meet MI Emirates at the Dubai International Cricket Stadium. Both sides won their opening game.</desc>
   </programme>
   <programme start="20261124181500 +0000" stop="20261124184500 +0000" channel="TNT Sports 1 UK">
     <title>Match Officials Mic'd Up</title>
@@ -6802,7 +6798,7 @@
   </programme>
   <programme start="20261125133000 +0000" stop="20261125140000 +0000" channel="TNT Sports 1 UK">
     <title>ILT20 Highlights</title>
-    <desc>Highlights from the International League T20, a 20-over cricket tournament in the United Arab Emirates.</desc>
+    <desc>Highlights from the 2026 DP World ILT20 as Gulf Giants and MI Emirates go head-to-head at the Dubai International Cricket Stadium.</desc>
   </programme>
   <programme start="20261125140000 +0000" stop="20261125181500 +0000" channel="TNT Sports 1 UK">
     <title>Live ILT20: Capitals v Vipers</title>
@@ -6926,7 +6922,7 @@
   </programme>
   <programme start="20261124160000 +0000" stop="20261124170000 +0000" channel="TNT Sports 2 UK">
     <title>Australia v England - 2nd T20</title>
-    <desc>Australia T20 International Cricket action.</desc>
+    <desc>After coming out second best in the thrilling T20 series opener, Harry Brook's England head to the Gold Coast looking to bounce back against Mitchell Marsh's Australia.</desc>
   </programme>
   <programme start="20261124170000 +0000" stop="20261124200000 +0000" channel="TNT Sports 2 UK">
     <title>Live UCL Galatasaray v Aston Villa</title>
@@ -6970,7 +6966,7 @@
   </programme>
   <programme start="20261125080000 +0000" stop="20261125090000 +0000" channel="TNT Sports 2 UK">
     <title>Australia v England - 2nd T20</title>
-    <desc>Australia T20 International Cricket action.</desc>
+    <desc>After coming out second best in the thrilling T20 series opener, Harry Brook's England head to the Gold Coast looking to bounce back against Mitchell Marsh's Australia.</desc>
   </programme>
   <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="TNT Sports 2 UK">
     <title>Brisbane Roar v Sydney FC</title>
@@ -7038,7 +7034,7 @@
   </programme>
   <programme start="20261125230000 +0000" stop="20261126000000 +0000" channel="TNT Sports 2 UK">
     <title>MotoGP Highlights: Portugal 2026</title>
-    <desc>Highlights from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve.</desc>
+    <desc>Highlights from the 2026 MotoGP Grand Prix of Portugal at Autodromo Internacional do Algarve. Could Marc Marquez seal his record-equalling eighth world title?</desc>
   </programme>
   <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="TNT Sports 2 UK">
     <title>FIA World Endurance Championship</title>
@@ -7170,7 +7166,7 @@
   </programme>
   <programme start="20261124183000 +0000" stop="20261124193000 +0000" channel="TNT Sports 3 UK">
     <title>Australia v England - 2nd T20</title>
-    <desc>Australia T20 International Cricket action.</desc>
+    <desc>After coming out second best in the thrilling T20 series opener, Harry Brook's England head to the Gold Coast looking to bounce back against Mitchell Marsh's Australia.</desc>
   </programme>
   <programme start="20261124193000 +0000" stop="20261124230000 +0000" channel="TNT Sports 3 UK">
     <title>Live: UCL Goals Show Xtra</title>
@@ -7258,7 +7254,7 @@
   </programme>
   <programme start="20261125131500 +0000" stop="20261125133000 +0000" channel="TNT Sports 3 UK">
     <title>TNT Sports Cricket Reload</title>
-    <desc>A look back at some of the best cricket action from around the world.</desc>
+    <desc>We revisit the second T20 between Australia and England at People First Stadium, as Harry Brook's England looked to bounce back from a narrow defeat in the series opener.</desc>
   </programme>
   <programme start="20261125133000 +0000" stop="20261125140000 +0000" channel="TNT Sports 3 UK">
     <title>T100 Triathlon World Tour Highlights</title>
@@ -7334,7 +7330,7 @@
   </programme>
   <programme start="20261126033000 +0000" stop="20261126040000 +0000" channel="TNT Sports 3 UK">
     <title>UCL: PSG v Roma</title>
-    <desc>Action from Parc des Princes as reigning champions Paris Saint-Germain look to continue their perfect start to the campaign, taking on Gian Piero Gasperini's Roma.</desc>
+    <desc>Luis Enrique's Paris Saint-Germain put their flawless league phase record on the line against Gian Piero Gasperini's Roma at Parc des Princes.</desc>
   </programme>
   <programme start="20261126040000 +0000" stop="20261126043000 +0000" channel="TNT Sports 3 UK">
     <title>UCL: Atletico Madrid v Viking</title>
@@ -7628,15 +7624,15 @@
     <title>Ski Jumping World Cup</title>
     <desc>Day two of the men's HS140, part of the FIS Ski Jumping World Cup in Lillehammer.</desc>
   </programme>
-  <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="TNT Sports 5 UK">
+  <programme start="20261124050000 +0000" stop="20261124052000 +0000" channel="TNT Sports 5 UK">
     <title>This is TNT Sports 5</title>
     <desc>TNT Sports 5 brings you even more live action, including football from around the world and other sporting events. For more information, visit tntsports.co.uk</desc>
   </programme>
-  <programme start="20261124060000 +0000" stop="20261124180000 +0000" channel="TNT Sports 5 UK">
+  <programme start="20261124052000 +0000" stop="20261124172000 +0000" channel="TNT Sports 5 UK">
     <title>This is TNT Sports 5</title>
     <desc>TNT Sports 5 brings you even more live action, including football from around the world and other sporting events. For more information, visit tntsports.co.uk</desc>
   </programme>
-  <programme start="20261124180000 +0000" stop="20261124195500 +0000" channel="TNT Sports 5 UK">
+  <programme start="20261124172000 +0000" stop="20261124195500 +0000" channel="TNT Sports 5 UK">
     <title>This is TNT Sports 5</title>
     <desc>TNT Sports 5 brings you even more live action, including football from around the world and other sporting events. For more information, visit tntsports.co.uk</desc>
   </programme>
@@ -7667,6 +7663,10 @@
   <programme start="20261126050000 +0000" stop="20261126074500 +0000" channel="TNT Sports 5 UK">
     <title>This is TNT Sports 5</title>
     <desc>TNT Sports 5 brings you even more live action, including football from around the world and other sporting events. For more information, visit tntsports.co.uk</desc>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="CBS Sports">
+    <title>College Football</title>
+    <desc>UCLA vs. Michigan. From Michigan Stadium, Ann Arbor, MI, USA</desc>
   </programme>
   <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="CBS Sports">
     <title>Poker Night in America</title>
@@ -7794,6 +7794,30 @@
   </programme>
   <programme start="20261125233000 +0000" stop="20261126000000 +0000" channel="CBS Sports">
     <title>Inside College Basketball</title>
+    <desc />
+  </programme>
+  <programme start="20261126000000 +0000" stop="20261126020000 +0000" channel="CBS Sports">
+    <title>College Basketball</title>
+    <desc>Southern Methodist University vs. Utah State. From Acrisure Arena, Palm Desert, CA, USA</desc>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="CBS Sports">
+    <title>Inside College Basketball</title>
+    <desc />
+  </programme>
+  <programme start="20261126023000 +0000" stop="20261126043000 +0000" channel="CBS Sports">
+    <title>College Basketball</title>
+    <desc>From Acrisure Arena, Palm Desert, CA, USA</desc>
+  </programme>
+  <programme start="20261126043000 +0000" stop="20261126050000 +0000" channel="CBS Sports">
+    <title>Inside College Basketball</title>
+    <desc />
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126070000 +0000" channel="CBS Sports">
+    <title>College Basketball</title>
+    <desc>From Acrisure Arena, Palm Desert, CA, USA</desc>
+  </programme>
+  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="FOX Deportes">
+    <title>El Chiringuito de Jugones</title>
     <desc />
   </programme>
   <programme start="20261124010000 +0000" stop="20261124033000 +0000" channel="FOX Deportes">
@@ -7980,6 +8004,26 @@
     <title>El Chiringuito de Jugones</title>
     <desc />
   </programme>
+  <programme start="20261126000000 +0000" stop="20261126020000 +0000" channel="FOX Deportes">
+    <title>Fútbol Argentino Primera División</title>
+    <desc>Argentine Primera Division Soccer</desc>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126030000 +0000" channel="FOX Deportes">
+    <title>Referentes</title>
+    <desc>Análisis profundo de fútbol, tocando temas tácticos de cancha con la experiencia de exfutbolistas acompañados por expertos en fútbol europeo, con entrevistas a jugadores, DT's y directivos.</desc>
+  </programme>
+  <programme start="20261126030000 +0000" stop="20261126040000 +0000" channel="FOX Deportes">
+    <title>Los espartanos con José Pablo Coello</title>
+    <desc>El deporte con conocimiento, tendencias y voz editorial fuerte, sin filtros. Debate, humor e irreverencia en una conversación deportiva que va más allá del fútbol.</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="FOX Deportes">
+    <title>FOX 365</title>
+    <desc />
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126060000 +0000" channel="FOX Deportes">
+    <title>Cuadro titular</title>
+    <desc>Aquí el fútbol se habla como lo vive el jugador, sin gritos, ni poses, solo debate auténtico.</desc>
+  </programme>
   <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="FS1">
     <title>College Football</title>
     <desc>Ohio State vs. Nebraska. From Memorial Stadium, Lincoln, NE, USA</desc>
@@ -8100,6 +8144,22 @@
     <title>NFL Films Presents</title>
     <desc />
   </programme>
+  <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="FS1">
+    <title>Best of Evo</title>
+    <desc />
+  </programme>
+  <programme start="20261126010000 +0000" stop="20261126040000 +0000" channel="FS1">
+    <title>College Football</title>
+    <desc>Utah vs. TCU. From Amon G. Carter Stadium, Fort Worth, TX, USA</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="FS1">
+    <title>College Football</title>
+    <desc>Ohio State vs. Nebraska. From Memorial Stadium, Lincoln, NE, USA</desc>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126070000 +0000" channel="FS1">
+    <title>Women's College Volleyball</title>
+    <desc>From Fishers Event Center, Fishers, Indiana, USA</desc>
+  </programme>
   <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="FS2">
     <title>AMA National Arenacross Championship</title>
     <desc />
@@ -8176,20 +8236,16 @@
     <title>College Football</title>
     <desc>Oregon vs. Michigan State. From Spartan Stadium, East Lansing, MI, USA</desc>
   </programme>
-  <programme start="20261125060000 +0000" stop="20261125090000 +0000" channel="FS2">
-    <title>College Football</title>
-    <desc />
+  <programme start="20261125060000 +0000" stop="20261125080000 +0000" channel="FS2">
+    <title>Women's College Basketball</title>
+    <desc>South Carolina vs. UConn. From Mohegan Sun Arena, Uncasville, CT, USA</desc>
   </programme>
-  <programme start="20261125090000 +0000" stop="20261125100000 +0000" channel="FS2">
+  <programme start="20261125080000 +0000" stop="20261125110000 +0000" channel="FS2">
     <title>College Football</title>
-    <desc />
+    <desc>Texas Tech vs. Baylor. From McLane Stadium, Waco, TX, USA</desc>
   </programme>
-  <programme start="20261125100000 +0000" stop="20261125103000 +0000" channel="FS2">
+  <programme start="20261125110000 +0000" stop="20261125113000 +0000" channel="FS2">
     <title>The Gronk &amp; Jules Show</title>
-    <desc />
-  </programme>
-  <programme start="20261125103000 +0000" stop="20261125113000 +0000" channel="FS2">
-    <title>UEFA Nations League Magazine</title>
     <desc />
   </programme>
   <programme start="20261125113000 +0000" stop="20261125131800 +0000" channel="FS2">
@@ -8216,9 +8272,21 @@
     <title>Women's College Basketball</title>
     <desc>South Carolina vs. UConn. From Mohegan Sun Arena, Uncasville, CT, USA</desc>
   </programme>
-  <programme start="20261125233000 +0000" stop="20261126000000 +0000" channel="FS2">
+  <programme start="20261125233000 +0000" stop="20261126003000 +0000" channel="FS2">
     <title>UEFA Nations League Magazine</title>
     <desc />
+  </programme>
+  <programme start="20261126003000 +0000" stop="20261126010000 +0000" channel="FS2">
+    <title>Women's Football Weekly</title>
+    <desc />
+  </programme>
+  <programme start="20261126010000 +0000" stop="20261126040000 +0000" channel="FS2">
+    <title>College Football</title>
+    <desc>New Mexico vs. Wyoming. From Jonah Field at War Memorial Stadium, Laramie, WY, USA</desc>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126070000 +0000" channel="FS2">
+    <title>College Football</title>
+    <desc>Arizona vs. K-State. From Bill Snyder Family Football Stadium, Manhattan, KS, USA</desc>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="DSPORTS UY">
     <title>Más que fútbol</title>
@@ -8514,7 +8582,7 @@
   </programme>
   <programme start="20261126030000 +0000" stop="20261126050000 +0000" channel="DSPORTS 2 UY">
     <title>Dinamarca vs. Argentina, Fecha 3 - Grupo C, Aspire Zone. Copa Mundial Sub-17 de la FIFA 2026</title>
-    <desc>Dinamarca recibe a Argentina en el Aspire Zone por la Fecha 3 de la Copa Mundial Sub-17 de la FIFA. Este partido es parte de la temporada 2026. Ambos equipos buscan sumar puntos en esta jornada de la competencia.</desc>
+    <desc>Dinamarca Sub-17 se enfrenta a Argentina Sub-17 en la fecha 3 de la fase de grupos de la Copa Mundial Sub-17 de la FIFA 2026, que se llevará a cabo en Aspire Zone. Este encuentro es crucial para ambos equipos en su búsqueda de avanzar en el torneo. Dinamarca y Argentina llegan a este partido con la intención de demostrar su calidad y buscar una victoria que les permita posicionarse mejor en el Grupo C.</desc>
   </programme>
   <programme start="20261126050000 +0000" stop="20261126063000 +0000" channel="DSPORTS 2 UY">
     <title>Fútbol total</title>
@@ -8582,7 +8650,7 @@
   </programme>
   <programme start="20261124152000 +0000" stop="20261124173000 +0000" channel="DSPORTS AR">
     <title>Live: Copa Mundial Sub-17 de la FIFA 2026</title>
-    <desc>Fecha 2 del Grupo L de la Copa Mundial Sub-17 de la FIFA 2026. Honduras se enfrenta a Colombia. Desde la cancha 8 del Aspire Zone, en Rayán, Catar.</desc>
+    <desc>Fecha 2 del Grupo L de la Copa Mundial Sub-17 de la FIFA 2026. Desde la cancha 8 del Aspire Zone. Samuel Martínez y Miguel Agámez anotaron un gol cada uno para darle la victoria a Colombia sobre Japón. Honduras busca su primer triunfo en el torneo.</desc>
   </programme>
   <programme start="20261124173000 +0000" stop="20261124190000 +0000" channel="DSPORTS AR">
     <title>Live: DSPORTS Noticias</title>
@@ -8654,7 +8722,7 @@
   </programme>
   <programme start="20261125132000 +0000" stop="20261125153000 +0000" channel="DSPORTS AR">
     <title>Live: Copa Mundial Sub-17 de la FIFA 2026</title>
-    <desc>Fecha 3 del Grupo D de la Copa Mundial Sub-17 de la FIFA 2026. Uruguay se enfrenta a Francia. Desde la cancha 5 del Aspire Zone, en Rayán, Catar.</desc>
+    <desc>Fecha 3 del Grupo D de la Copa Mundial Sub-17 de la FIFA 2026. Desde la cancha 5 del Aspire Zone, en Rayán, Catar. Uruguay llega el encuentro tras vencer 4-1 a Haití, mientras que Francia busca retomar el rumbo tras haber caído ante Arabia Saudita.</desc>
   </programme>
   <programme start="20261125153000 +0000" stop="20261125163000 +0000" channel="DSPORTS AR">
     <title>Live: DSPORTS Noticias Lite</title>
@@ -8822,7 +8890,7 @@
   </programme>
   <programme start="20261125152000 +0000" stop="20261125172500 +0000" channel="DSPORTS Plus UY">
     <title>Dinamarca vs. Argentina, Fecha 3 - Grupo C, Aspire Zone. Copa Mundial Sub-17 de la FIFA 2026</title>
-    <desc>Dinamarca recibe a Argentina en el Aspire Zone por la Fecha 3 de la Copa Mundial Sub-17 de la FIFA. Este partido es parte de la temporada 2026. Ambos equipos buscan sumar puntos en esta jornada de la competencia.</desc>
+    <desc>Dinamarca Sub-17 se enfrenta a Argentina Sub-17 en la fecha 3 de la fase de grupos de la Copa Mundial Sub-17 de la FIFA 2026, que se llevará a cabo en Aspire Zone. Este encuentro es crucial para ambos equipos en su búsqueda de avanzar en el torneo. Dinamarca y Argentina llegan a este partido con la intención de demostrar su calidad y buscar una victoria que les permita posicionarse mejor en el Grupo C.</desc>
   </programme>
   <programme start="20261125172500 +0000" stop="20261125193000 +0000" channel="DSPORTS Plus UY">
     <title>Rubin Kazan vs. Rodina. Copa de Rusia</title>
@@ -8946,6 +9014,74 @@
     <title lang="hr">NOGOMET: LIGA PRVAKA</title>
     <desc lang="hr">LIGA PRVAKA</desc>
   </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">NOGOMET: LIGA PRVAKA</title>
+    <desc lang="hr">LIGA PRVAKA</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">LIGA PRVAKA: COMO - AEK</title>
+    <desc lang="hr">COMO - AEK</desc>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125040000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">NFL: DALLAS - SAN FRANCISCO</title>
+    <desc lang="hr">DALLAS - SAN FRANCISCO</desc>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125060000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">LIGA PRVAKA: FEYENOORD - PORTO</title>
+    <desc lang="hr">FEYENOORD - PORTO</desc>
+  </programme>
+  <programme start="20261125060000 +0000" stop="20261125063000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">EMISIJA: SPORT BEZ GRANICA</title>
+    <desc lang="hr">SPORT BEZ GRANICA</desc>
+  </programme>
+  <programme start="20261125063000 +0000" stop="20261125070000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">RED BULL: BTS WITH A LEGEND EP.3</title>
+    <desc lang="hr">BTS WITH A LEGEND EP.3</desc>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125083000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">ABA LIGA: CEDEVITA - SLOVAN</title>
+    <desc lang="hr">CEDEVITA - SLOVAN</desc>
+  </programme>
+  <programme start="20261125083000 +0000" stop="20261125100000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">EUROPSKA LIGA M: ST. RAPHAEL - NEXE</title>
+    <desc lang="hr">ST. RAPHAEL - NEXE</desc>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125120000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">FRANCUSKA LIGA: LENS - TOULOUSE</title>
+    <desc lang="hr">LENS - TOULOUSE</desc>
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125140000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">PREMIER LEAGUE: MANCHESTER CITY - FULHAM</title>
+    <desc lang="hr">MANCHESTER CITY - FULHAM</desc>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125160000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">TALIJANSKA LIGA: MILAN - FROSINONE</title>
+    <desc lang="hr">MILAN - FROSINONE</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125170000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
+    <desc lang="hr">SAŽETAK</desc>
+  </programme>
+  <programme start="20261125170000 +0000" stop="20261125183000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">EUROPSKA LIGA M: PRESOV - SESVETE</title>
+    <desc lang="hr">PRESOV - SESVETE</desc>
+  </programme>
+  <programme start="20261125183000 +0000" stop="20261125190000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">EMISIJA: MI ŽIVIMO ZA KOŠARKU</title>
+    <desc lang="hr">MI ŽIVIMO ZA KOŠARKU</desc>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125200000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">NOGOMET: LIGA PRVAKA</title>
+    <desc lang="hr">LIGA PRVAKA</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125220000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">LIGA PRVAKA: PSG - ROMA</title>
+    <desc lang="hr">PSG - ROMA</desc>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="Arena Sport 1 HR">
+    <title lang="hr">NOGOMET: LIGA PRVAKA</title>
+    <desc lang="hr">LIGA PRVAKA</desc>
+  </programme>
   <programme start="20261124000000 +0000" stop="20261124013000 +0000" channel="Arena Sport 2 HR">
     <title lang="hr">EUROPSKA LIGA M: BERGISCHER - SESVETE</title>
     <desc lang="hr">BERGISCHER - SESVETE</desc>
@@ -8997,6 +9133,66 @@
   <programme start="20261124220000 +0000" stop="20261125000000 +0000" channel="Arena Sport 2 HR">
     <title lang="hr">LIGA PRVAKA: BODO GLIMT - LASK</title>
     <desc lang="hr">BODO GLIMT - LASK</desc>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261125000000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">LIGA PRVAKA: BODO GLIMT - LASK</title>
+    <desc lang="hr">BODO GLIMT - LASK</desc>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125013000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">EUROPSKA LIGA M: PRESOV - SESVETE</title>
+    <desc lang="hr">PRESOV - SESVETE</desc>
+  </programme>
+  <programme start="20261125013000 +0000" stop="20261125030000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">LIGA PRVAKA: JADRAN ST - MLADOST</title>
+    <desc lang="hr">JADRAN ST - MLADOST</desc>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125050000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">SVJETSKO PRVENSTVO: FINALE</title>
+    <desc lang="hr">FINALE</desc>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">TALIJANSKA LIGA: PREGLED KOLA</title>
+    <desc lang="hr">PREGLED KOLA</desc>
+  </programme>
+  <programme start="20261125060000 +0000" stop="20261125080000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">PREMIER LEAGUE: NEWCASTLE - ARSENAL</title>
+    <desc lang="hr">NEWCASTLE - ARSENAL</desc>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125100000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">DIJAMANTNA LIGA: ZURICH</title>
+    <desc lang="hr">ZURICH</desc>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125120000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">TALIJANSKA LIGA: NAPOLI - TORINO</title>
+    <desc lang="hr">NAPOLI - TORINO</desc>
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125150000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">NFL: WASHINGTON - CINCINNATI</title>
+    <desc lang="hr">WASHINGTON - CINCINNATI</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125170000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">ARGENTINSKA LIGA: RIVER PLATE - LANUS</title>
+    <desc lang="hr">RIVER PLATE - LANUS</desc>
+  </programme>
+  <programme start="20261125170000 +0000" stop="20261125174500 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">LIGUE 1: LIGUE 1 SHOW</title>
+    <desc lang="hr">LIGUE 1 SHOW</desc>
+  </programme>
+  <programme start="20261125174500 +0000" stop="20261125200000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">LIGA PRVAKA: SABAH - BARCELONA</title>
+    <desc lang="hr">SABAH - BARCELONA</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125220000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">LIGA PRVAKA: CLUB BRUGGE - LIVERPOOL</title>
+    <desc lang="hr">CLUB BRUGGE - LIVERPOOL</desc>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125223000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">RED BULL: NO CONTEST SOUTH AFRICA</title>
+    <desc lang="hr">NO CONTEST SOUTH AFRICA</desc>
+  </programme>
+  <programme start="20261125223000 +0000" stop="20261126000000 +0000" channel="Arena Sport 2 HR">
+    <title lang="hr">CHAMPIONSHIP: STOKE - MILLWALL</title>
+    <desc lang="hr">STOKE - MILLWALL</desc>
   </programme>
   <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="Arena Sport 3 HR">
     <title lang="hr">TALIJANSKA LIGA: PREGLED KOLA</title>
@@ -9054,6 +9250,70 @@
     <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
     <desc lang="hr">NEUSPJEH PRVAKA</desc>
   </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
+    <desc lang="hr">NEUSPJEH PRVAKA</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">FRANCUSKA LIGA: NICE - PSG</title>
+    <desc lang="hr">NICE - PSG</desc>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125020000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">FRANCUSKA LIGA: PREGLED KOLA</title>
+    <desc lang="hr">PREGLED KOLA</desc>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125040000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">EUROPSKO PRVENSTVO M: 1/2 FINALE</title>
+    <desc lang="hr">1/2 FINALE</desc>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125060000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">KVALIFIKACIJE ZA SP: GRUZIJA - CRNA GORA</title>
+    <desc lang="hr">GRUZIJA - CRNA GORA</desc>
+  </programme>
+  <programme start="20261125060000 +0000" stop="20261125080000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">TALIJANSKA LIGA: ATALANTA - INTER</title>
+    <desc lang="hr">ATALANTA - INTER</desc>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125083000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">EMISIJA: ARENA SPECIJAL</title>
+    <desc lang="hr">ARENA SPECIJAL</desc>
+  </programme>
+  <programme start="20261125083000 +0000" stop="20261125090000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">RED BULL: SKY TRIPPERS EP. 4</title>
+    <desc lang="hr">SKY TRIPPERS EP. 4</desc>
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125110000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">PREMIER LEAGUE: LIVERPOOL - MANCHESTER UNITED</title>
+    <desc lang="hr">LIVERPOOL - MANCHESTER UNITED</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125130000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">MLB: WORLD SERIES G3</title>
+    <desc lang="hr">WORLD SERIES G3</desc>
+  </programme>
+  <programme start="20261125130000 +0000" stop="20261125150000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">ABA LIGA: CLUJ - ZADAR</title>
+    <desc lang="hr">CLUJ - ZADAR</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125170000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">POLJSKA LIGA: WISLA PLOCK - LEGIA</title>
+    <desc lang="hr">WISLA PLOCK - LEGIA</desc>
+  </programme>
+  <programme start="20261125170000 +0000" stop="20261125174500 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">EMISIJA: MAGAZIN EUROPA LIGE</title>
+    <desc lang="hr">MAGAZIN EUROPA LIGE</desc>
+  </programme>
+  <programme start="20261125174500 +0000" stop="20261125200000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">LIGA PRVAKA: SLAVIA PRAG - VILLAREAL</title>
+    <desc lang="hr">SLAVIA PRAG - VILLAREAL</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125220000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">LIGA PRVAKA: LILLE - BAYERN</title>
+    <desc lang="hr">LILLE - BAYERN</desc>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="Arena Sport 3 HR">
+    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
+    <desc lang="hr">NEUSPJEH PRVAKA</desc>
+  </programme>
   <programme start="20261124010000 +0000" stop="20261124030000 +0000" channel="Arena Sport 4 HR">
     <title lang="hr">COPPA ITALIA: TORINO - MONZA</title>
     <desc lang="hr">TORINO - MONZA</desc>
@@ -9102,6 +9362,62 @@
     <title lang="hr">LIGA PRVAKA: RADNIČKI - ORADEA</title>
     <desc lang="hr">RADNIČKI - ORADEA</desc>
   </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">LIGA PRVAKA: RADNIČKI - ORADEA</title>
+    <desc lang="hr">RADNIČKI - ORADEA</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">ABA LIGA: FMP - IGOKEA</title>
+    <desc lang="hr">FMP - IGOKEA</desc>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125030000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">COPPA ITALIA: SASSUOLO - FROSINOE</title>
+    <desc lang="hr">SASSUOLO - FROSINOE</desc>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125050000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">RUMUNJSKA LIGA: UTA - U. CRAIOVA</title>
+    <desc lang="hr">UTA - U. CRAIOVA</desc>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125070000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">POLJSKA LIGA: WIECZYSTA - MOTOR</title>
+    <desc lang="hr">WIECZYSTA - MOTOR</desc>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125080000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">DOKUMENTARNI FILM: MNR: ČEŠ/SLO</title>
+    <desc lang="hr">MNR: ČEŠ/SLO</desc>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125100000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">EUROPSKO PRVENSTVO Ž: UTAKMICA ZA 3.MJESTO</title>
+    <desc lang="hr">UTAKMICA ZA 3.MJESTO</desc>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125120000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">LIGA PRVAKA: MANCHESTER CITY - NAPOLI</title>
+    <desc lang="hr">MANCHESTER CITY - NAPOLI</desc>
+  </programme>
+  <programme start="20261125120000 +0000" stop="20261125140000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">FRANCUSKA LIGA: LILLE - LYON</title>
+    <desc lang="hr">LILLE - LYON</desc>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125160000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">CHAMPIONSHIP: BURNLEY - BLACKBURN</title>
+    <desc lang="hr">BURNLEY - BLACKBURN</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125180000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">KVALIFIKACIJE ZA SP: GRČKA - ŠPANJOLSKA</title>
+    <desc lang="hr">GRČKA - ŠPANJOLSKA</desc>
+  </programme>
+  <programme start="20261125180000 +0000" stop="20261125200000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">PREMIER LEAGUE: BRENTFORD - EVERTON</title>
+    <desc lang="hr">BRENTFORD - EVERTON</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125220000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">LIGA PRVAKA: MULTIPRIJENOS</title>
+    <desc lang="hr">MULTIPRIJENOS</desc>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="Arena Sport 4 HR">
+    <title lang="hr">LIGA PRVAKA: NOVI BEOGRAD - BARCELONETA</title>
+    <desc lang="hr">NOVI BEOGRAD - BARCELONETA</desc>
+  </programme>
   <programme start="20261124140000 +0000" stop="20261124160000 +0000" channel="Arena Sport 5 HR">
     <title lang="hr">NHL: TAMPA BAY - BUFFALO</title>
     <desc lang="hr">TAMPA BAY - BUFFALO</desc>
@@ -9122,6 +9438,34 @@
     <title lang="hr">RUMUNJSKA LIGA: UTA - U. CRAIOVA</title>
     <desc lang="hr">UTA - U. CRAIOVA</desc>
   </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Arena Sport 5 HR">
+    <title lang="hr">RUMUNJSKA LIGA: UTA - U. CRAIOVA</title>
+    <desc lang="hr">UTA - U. CRAIOVA</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125140000 +0000" channel="Arena Sport 5 HR">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125160000 +0000" channel="Arena Sport 5 HR">
+    <title lang="hr">NHL: CAROLINA - SEATTLE</title>
+    <desc lang="hr">CAROLINA - SEATTLE</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125180000 +0000" channel="Arena Sport 5 HR">
+    <title lang="hr">DIJAMANTNA LIGA: RABAT</title>
+    <desc lang="hr">RABAT</desc>
+  </programme>
+  <programme start="20261125180000 +0000" stop="20261125200000 +0000" channel="Arena Sport 5 HR">
+    <title lang="hr">COPA SUDAMERICANA: FINALE</title>
+    <desc lang="hr">FINALE</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125220000 +0000" channel="Arena Sport 5 HR">
+    <title lang="hr">LIGA PRVAKA: SPORTING - MANCHESTER UNITED</title>
+    <desc lang="hr">SPORTING - MANCHESTER UNITED</desc>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="Arena Sport 5 HR">
+    <title lang="hr">RUMUNJSKA LIGA: DINAMO B - PETROLUL</title>
+    <desc lang="hr">DINAMO B - PETROLUL</desc>
+  </programme>
   <programme start="20261124140000 +0000" stop="20261124160000 +0000" channel="Arena Sport 6 HR">
     <title lang="hr">FRANCUSKA LIGA: MONACO - AUXERRE</title>
     <desc lang="hr">MONACO - AUXERRE</desc>
@@ -9141,6 +9485,34 @@
   <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Arena Sport 6 HR">
     <title lang="hr">POLJSKA LIGA: WISLA PLOCK - LEGIA</title>
     <desc lang="hr">WISLA PLOCK - LEGIA</desc>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Arena Sport 6 HR">
+    <title lang="hr">POLJSKA LIGA: WISLA PLOCK - LEGIA</title>
+    <desc lang="hr">WISLA PLOCK - LEGIA</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125140000 +0000" channel="Arena Sport 6 HR">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125160000 +0000" channel="Arena Sport 6 HR">
+    <title lang="hr">FRANCUSKA LIGA: PARIS FC - ANGERS</title>
+    <desc lang="hr">PARIS FC - ANGERS</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125180000 +0000" channel="Arena Sport 6 HR">
+    <title lang="hr">PREMIER LEAGUE: CHELSEA - LEEDS</title>
+    <desc lang="hr">CHELSEA - LEEDS</desc>
+  </programme>
+  <programme start="20261125180000 +0000" stop="20261125194500 +0000" channel="Arena Sport 6 HR">
+    <title lang="hr">TALIJANSKA LIGA: LAZIO - LECCE</title>
+    <desc lang="hr">LAZIO - LECCE</desc>
+  </programme>
+  <programme start="20261125194500 +0000" stop="20261125220000 +0000" channel="Arena Sport 6 HR">
+    <title lang="hr">LIGA PRVAKA M: MAGDEBURG - SPORTING</title>
+    <desc lang="hr">MAGDEBURG - SPORTING</desc>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="Arena Sport 6 HR">
+    <title lang="hr">POLJSKA LIGA: KATOWICE - LECH</title>
+    <desc lang="hr">KATOWICE - LECH</desc>
   </programme>
   <programme start="20261124000000 +0000" stop="20261124020000 +0000" channel="Arena Sport 7 HR">
     <title lang="hr">EUROPA LIGA: CRYSTAL PALACE - HOFFENHEIM</title>
@@ -9202,6 +9574,70 @@
     <title lang="hr">LIGA PRVAKA: GALATASARAY - ASTON VILLA</title>
     <desc lang="hr">GALATASARAY - ASTON VILLA</desc>
   </programme>
+  <programme start="20261124220000 +0000" stop="20261125000000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">LIGA PRVAKA: GALATASARAY - ASTON VILLA</title>
+    <desc lang="hr">GALATASARAY - ASTON VILLA</desc>
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125020000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">EUROPA LIGA: BENFICA - LECH</title>
+    <desc lang="hr">BENFICA - LECH</desc>
+  </programme>
+  <programme start="20261125020000 +0000" stop="20261125040000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">LIGA PRVAKA: ARSENAL - BORUSSIA DORTMUND</title>
+    <desc lang="hr">ARSENAL - BORUSSIA DORTMUND</desc>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125060000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">KONFERENCIJSKA LIGA: JABLONEC - BRIGHTON</title>
+    <desc lang="hr">JABLONEC - BRIGHTON</desc>
+  </programme>
+  <programme start="20261125060000 +0000" stop="20261125070000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
+    <desc lang="hr">SAŽETAK</desc>
+  </programme>
+  <programme start="20261125070000 +0000" stop="20261125090000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">EUROPA LIGA: BENFICA - LECH</title>
+    <desc lang="hr">BENFICA - LECH</desc>
+  </programme>
+  <programme start="20261125090000 +0000" stop="20261125093000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">EMISIJA: MAGAZIN LIGE PRVAKA</title>
+    <desc lang="hr">MAGAZIN LIGE PRVAKA</desc>
+  </programme>
+  <programme start="20261125093000 +0000" stop="20261125100000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">EMISIJA: GREATEST CLUB - REAL MADRID</title>
+    <desc lang="hr">GREATEST CLUB - REAL MADRID</desc>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">EUROPA LIGA: SAŽETAK</title>
+    <desc lang="hr">SAŽETAK</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125130000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">EUROPA LIGA: SPARTA PRAG - BOURNEMOUTH</title>
+    <desc lang="hr">SPARTA PRAG - BOURNEMOUTH</desc>
+  </programme>
+  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
+    <desc lang="hr">SAŽETAK</desc>
+  </programme>
+  <programme start="20261125140000 +0000" stop="20261125160000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">KONFERENCIJSKA LIGA: LINCOLN - HAJDUK</title>
+    <desc lang="hr">LINCOLN - HAJDUK</desc>
+  </programme>
+  <programme start="20261125160000 +0000" stop="20261125180000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">LIGA PRVAKA: REAL MADRID - PSV</title>
+    <desc lang="hr">REAL MADRID - PSV</desc>
+  </programme>
+  <programme start="20261125180000 +0000" stop="20261125200000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">EUROPA LIGA: STURM GRAZ - CELJE</title>
+    <desc lang="hr">STURM GRAZ - CELJE</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125220000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">LIGA PRVAKA: INTER - STUTTGART</title>
+    <desc lang="hr">INTER - STUTTGART</desc>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261126000000 +0000" channel="Arena Sport 7 HR">
+    <title lang="hr">LIGA PRVAKA: SABAH - BARCELONA</title>
+    <desc lang="hr">SABAH - BARCELONA</desc>
+  </programme>
   <programme start="20261124010000 +0000" stop="20261124030000 +0000" channel="Arena Sport 8 HR">
     <title lang="hr">MLB: LA DODGERS - ATLANTA</title>
     <desc lang="hr">LA DODGERS - ATLANTA</desc>
@@ -9250,13 +9686,93 @@
     <title lang="hr">DOKUMENTARNI FILM: TOMMY</title>
     <desc lang="hr">TOMMY</desc>
   </programme>
+  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">DOKUMENTARNI FILM: TOMMY</title>
+    <desc lang="hr">TOMMY</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">IBO SUPER WELTERWEIGHT WORLD CHAMPIONSHIP: LIMA - KOOPMAN</title>
+    <desc lang="hr">LIMA - KOOPMAN</desc>
+  </programme>
+  <programme start="20261125010000 +0000" stop="20261125030000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">MLB: BOSTON - CHICAGO CUBS</title>
+    <desc lang="hr">BOSTON - CHICAGO CUBS</desc>
+  </programme>
+  <programme start="20261125030000 +0000" stop="20261125050000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">DIJAMANTNA LIGA: RABAT</title>
+    <desc lang="hr">RABAT</desc>
+  </programme>
+  <programme start="20261125050000 +0000" stop="20261125080000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">NFL: BALTIMORE - LA CHARGERS</title>
+    <desc lang="hr">BALTIMORE - LA CHARGERS</desc>
+  </programme>
+  <programme start="20261125080000 +0000" stop="20261125100000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">COPA SUDAMERICANA: SAO PAULO - BOCA JUNIORS</title>
+    <desc lang="hr">SAO PAULO - BOCA JUNIORS</desc>
+  </programme>
+  <programme start="20261125100000 +0000" stop="20261125103000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">EMISIJA: ARENA SPECIJAL</title>
+    <desc lang="hr">ARENA SPECIJAL</desc>
+  </programme>
+  <programme start="20261125103000 +0000" stop="20261125110000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">EMISIJA: SPORT BEZ GRANICA</title>
+    <desc lang="hr">SPORT BEZ GRANICA</desc>
+  </programme>
+  <programme start="20261125110000 +0000" stop="20261125130000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">NHL: CAROLINA - EDMONTON</title>
+    <desc lang="hr">CAROLINA - EDMONTON</desc>
+  </programme>
+  <programme start="20261125130000 +0000" stop="20261125150000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">COPA LIBERTADORES: ESTUDIANTES - CORINTHIANS</title>
+    <desc lang="hr">ESTUDIANTES - CORINTHIANS</desc>
+  </programme>
+  <programme start="20261125150000 +0000" stop="20261125180000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">NFL: SAN FRANCISCO - MINNESOTA</title>
+    <desc lang="hr">SAN FRANCISCO - MINNESOTA</desc>
+  </programme>
+  <programme start="20261125180000 +0000" stop="20261125200000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">KVALIFIKACIJE ZA SP: SRBIJA - ISLAND</title>
+    <desc lang="hr">SRBIJA - ISLAND</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125220000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">CHAMPIONSHIP: STOKE - MILLWALL</title>
+    <desc lang="hr">STOKE - MILLWALL</desc>
+  </programme>
+  <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="Arena Sport 8 HR">
+    <title lang="hr">DOKUMENTARNI FILM: SON OF KONGO</title>
+    <desc lang="hr">SON OF KONGO</desc>
+  </programme>
   <programme start="20261124194500 +0000" stop="20261124230000 +0000" channel="Arena Sport 9 HR">
     <title lang="hr">EUROPSKA LIGA M: IZVIĐAČ - CSM BUCUREST</title>
     <desc lang="hr">IZVIĐAČ - CSM BUCUREST</desc>
   </programme>
+  <programme start="20261124194500 +0000" stop="20261124230000 +0000" channel="Arena Sport 9 HR">
+    <title lang="hr">EUROPSKA LIGA M: IZVIĐAČ - CSM BUCUREST</title>
+    <desc lang="hr">IZVIĐAČ - CSM BUCUREST</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125200000 +0000" channel="Arena Sport 9 HR">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125230000 +0000" channel="Arena Sport 9 HR">
+    <title lang="hr">LIGA PRVAKA: ATLETICO MADRID - VIKING</title>
+    <desc lang="hr">ATLETICO MADRID - VIKING</desc>
+  </programme>
   <programme start="20261124200000 +0000" stop="20261124230000 +0000" channel="Arena Sport 10 HR">
     <title lang="hr">LIGA PRVAKA: SLOVAN BRATISLAVA - BETIS</title>
     <desc lang="hr">SLOVAN BRATISLAVA - BETIS</desc>
+  </programme>
+  <programme start="20261124200000 +0000" stop="20261124230000 +0000" channel="Arena Sport 10 HR">
+    <title lang="hr">LIGA PRVAKA: SLOVAN BRATISLAVA - BETIS</title>
+    <desc lang="hr">SLOVAN BRATISLAVA - BETIS</desc>
+  </programme>
+  <programme start="20261124230000 +0000" stop="20261125200000 +0000" channel="Arena Sport 10 HR">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+  </programme>
+  <programme start="20261125200000 +0000" stop="20261125230000 +0000" channel="Arena Sport 10 HR">
+    <title lang="hr">LIGA PRVAKA: SHAKHTAR - FENERBAHCE</title>
+    <desc lang="hr">SHAKHTAR - FENERBAHCE</desc>
   </programme>
   <channel id="Hypermotion">
     <display-name>Hypermotion</display-name>
@@ -9464,43 +9980,43 @@
     <title>LALIGA TV HYPERMOTION 2</title>
     <desc>· Programa por determinar...</desc>
   </programme>
-  <programme start="20261124070000 +0100" stop="20261124083000 +0100" channel="Eurosport 1 ES">
+  <programme start="20261124065700 +0100" stop="20261124083400 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de saltos de esquí M - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <desc>Deportes,Saltos de esquí | 2026 | TP
 · El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
   </programme>
-  <programme start="20261124083000 +0100" stop="20261124100000 +0100" channel="Eurosport 1 ES">
+  <programme start="20261124083400 +0100" stop="20261124095900 +0100" channel="Eurosport 1 ES">
     <title>Mundial de snooker T25/26 · Final: Shaun Murphy - Wu Yize</title>
     <desc>Deportes,Snooker | 2026 | TP
 · El Mundial, el torneo profesional más importante en términos de puntos y de ranking, pone el colofón a la temporada de snooker. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2025, el vencedor fue Zhao Xintong.
 · País: Reino Unido</desc>
   </programme>
-  <programme start="20261124100000 +0100" stop="20261124110000 +0100" channel="Eurosport 1 ES">
+  <programme start="20261124095900 +0100" stop="20261124105900 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de saltos de esquí por equipos - Lillehammer T26/27 · Trampolín por equipos mixtos</title>
     <desc>Deportes,Saltos de esquí | 2026 | TP
 · El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
   </programme>
-  <programme start="20261124110000 +0100" stop="20261124120000 +0100" channel="Eurosport 1 ES">
+  <programme start="20261124105900 +0100" stop="20261124120000 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <desc>Deportes,Saltos de esquí | 2026 | TP
 · El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
   </programme>
-  <programme start="20261124120000 +0100" stop="20261124130000 +0100" channel="Eurosport 1 ES">
+  <programme start="20261124120000 +0100" stop="20261124125700 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de saltos de esquí M - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <desc>Deportes,Saltos de esquí | 2026 | TP
 · El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
   </programme>
-  <programme start="20261124130000 +0100" stop="20261124143000 +0100" channel="Eurosport 1 ES">
+  <programme start="20261124125700 +0100" stop="20261124142700 +0100" channel="Eurosport 1 ES">
     <title>Resumen de la temporada ciclista M</title>
     <desc>Deportes,Programa deportes | 2026 | TP | ★7.2/10
 · Un repaso a los mejores momentos de la temporada ciclista masculina. El trabajo hace especial hincapié a las grandes rondas por etapas y a las clásicas del UCI World Tour.
 · País: España</desc>
   </programme>
-  <programme start="20261124143000 +0100" stop="20261124150000 +0100" channel="Eurosport 1 ES">
+  <programme start="20261124142700 +0100" stop="20261124150000 +0100" channel="Eurosport 1 ES">
     <title>Copa del mundo de esquí alpino F - Gurgl T26/27 · Eslalon - 1ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP
 · La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
@@ -9604,7 +10120,7 @@
   </programme>
   <programme start="20261125083000 +0100" stop="20261125100000 +0100" channel="Eurosport 1 ES">
     <title>Abierto de Shenzhen de snooker T26/27 · Yuan Sijun vs Wu Yize</title>
-    <desc>Deportes,Snooker | 2026 | TP
+    <desc>Deportes,Snooker | 2026 | TP | ★5.8/10
 · El Abierto de Shenzhen de snooker es la sexta cita de ranking de la temporada.
 · País: China</desc>
   </programme>
@@ -9718,7 +10234,7 @@
   </programme>
   <programme start="20261126030000 +0100" stop="20261126050000 +0100" channel="Eurosport 1 ES">
     <title>Abierto de Shenzhen de snooker T26/27 · Yuan Sijun vs Wu Yize</title>
-    <desc>Deportes,Snooker | 2026 | TP
+    <desc>Deportes,Snooker | 2026 | TP | ★5.8/10
 · El Abierto de Shenzhen de snooker es la sexta cita de ranking de la temporada.
 · País: China</desc>
   </programme>
@@ -9728,37 +10244,37 @@
 · La de Garmisch Partenkirchen es la prueba más especial de la temporada y la segunda del prestigioso Torneo de los Cuatro Trampolines. Los mejores saltadores de esquí del mundo participan en este certamen que premia la regularidad.
 · País: Alemania</desc>
   </programme>
-  <programme start="20261124070000 +0100" stop="20261124074500 +0100" channel="Eurosport 2 ES">
+  <programme start="20261124065600 +0100" stop="20261124074000 +0100" channel="Eurosport 2 ES">
     <title>Copa del mundo de esquí alpino F - Gurgl T26/27 · Eslalon - 2ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP
 · La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
   </programme>
-  <programme start="20261124074500 +0100" stop="20261124083000 +0100" channel="Eurosport 2 ES">
+  <programme start="20261124074000 +0100" stop="20261124083200 +0100" channel="Eurosport 2 ES">
     <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 2ª manga</title>
     <desc>Deportes,Esquí alpino | 2026 | TP
 · La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
   </programme>
-  <programme start="20261124083000 +0100" stop="20261124100000 +0100" channel="Eurosport 2 ES">
+  <programme start="20261124083200 +0100" stop="20261124100300 +0100" channel="Eurosport 2 ES">
     <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <desc>Deportes,Saltos de esquí | 2026 | TP
 · El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
   </programme>
-  <programme start="20261124100000 +0100" stop="20261124110000 +0100" channel="Eurosport 2 ES">
+  <programme start="20261124100300 +0100" stop="20261124110200 +0100" channel="Eurosport 2 ES">
     <title>Mundial de Powerlifting Equipado</title>
     <desc>Deportes,Halterofilia | 2026 | TP | ★6.0/10
 · El Mundial de Powerlifting Equipado se celebra en Estambul.
 · País: Turquía</desc>
   </programme>
-  <programme start="20261124110000 +0100" stop="20261124130000 +0100" channel="Eurosport 2 ES">
+  <programme start="20261124110200 +0100" stop="20261124125900 +0100" channel="Eurosport 2 ES">
     <title>Abierto de Inglaterra de snooker T26/27 · Ali Carter vs Mark Williams</title>
     <desc>Deportes,Snooker | 2026 | TP
 · Las grandes estrellas del paño se miden en el Brentwood Centre de Essex. Todas ellas buscan relevar al ausente Mark Allen. Judd Trump y Kyren Wilson parten como favoritos, pero en el snooker nada está escrito.
 · País: Reino Unido</desc>
   </programme>
-  <programme start="20261124130000 +0100" stop="20261124140000 +0100" channel="Eurosport 2 ES">
+  <programme start="20261124125900 +0100" stop="20261124140000 +0100" channel="Eurosport 2 ES">
     <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <desc>Deportes,Saltos de esquí | 2026 | TP
 · El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
@@ -9897,7 +10413,7 @@
   </programme>
   <programme start="20261125110000 +0100" stop="20261125130000 +0100" channel="Eurosport 2 ES">
     <title>Abierto de Shenzhen de snooker T26/27 · Yuan Sijun vs Wu Yize</title>
-    <desc>Deportes,Snooker | 2026 | TP
+    <desc>Deportes,Snooker | 2026 | TP | ★5.8/10
 · El Abierto de Shenzhen de snooker es la sexta cita de ranking de la temporada.
 · País: China</desc>
   </programme>

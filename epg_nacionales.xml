@@ -32,36 +32,6 @@
     <display-name>La 2 OpB</display-name>
     <icon src="https://images.open-epg.com/5038.png" />
   </channel>
-  <programme start="20261124000000 +0000" stop="20261124010000 +0000" channel="CNN en espanol OpB">
-    <title>Directo USA</title>
-  </programme>
-  <programme start="20261124010000 +0000" stop="20261124020000 +0000" channel="CNN en espanol OpB">
-    <title>CNN negocios</title>
-  </programme>
-  <programme start="20261124020000 +0000" stop="20261124030000 +0000" channel="CNN en espanol OpB">
-    <title>Conclusiones</title>
-  </programme>
-  <programme start="20261124030000 +0000" stop="20261124040000 +0000" channel="CNN en espanol OpB">
-    <title>Deportes CNN</title>
-  </programme>
-  <programme start="20261124040000 +0000" stop="20261124050000 +0000" channel="CNN en espanol OpB">
-    <title>Perspectivas con Mario González</title>
-  </programme>
-  <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="CNN en espanol OpB">
-    <title>Directo USA</title>
-  </programme>
-  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="CNN en espanol OpB">
-    <title>CNN negocios</title>
-  </programme>
-  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="CNN en espanol OpB">
-    <title>Conclusiones</title>
-  </programme>
-  <programme start="20261124080000 +0000" stop="20261124090000 +0000" channel="CNN en espanol OpB">
-    <title>Deportes CNN</title>
-  </programme>
-  <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="CNN en espanol OpB">
-    <title>Directo USA</title>
-  </programme>
   <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="CNN en espanol OpB">
     <title>Perspectivas con Mario González</title>
   </programme>
@@ -193,24 +163,6 @@
   </programme>
   <programme start="20261126050000 +0000" stop="20261126060000 +0000" channel="CNN en espanol OpB">
     <title>Directo USA</title>
-  </programme>
-  <programme start="20261124000000 +0000" stop="20261124003000 +0000" channel="RT en espanol">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20261124003000 +0000" stop="20261124010000 +0000" channel="RT en espanol">
-    <title>Europa: furia en las calles</title>
-  </programme>
-  <programme start="20261124010000 +0000" stop="20261124013000 +0000" channel="RT en espanol">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20261124013000 +0000" stop="20261124020000 +0000" channel="RT en espanol">
-    <title>Entrevista</title>
-  </programme>
-  <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="RT en espanol">
-    <title>Noticias</title>
-  </programme>
-  <programme start="20261124023000 +0000" stop="20261124030000 +0000" channel="RT en espanol">
-    <title>Zoom+</title>
   </programme>
   <programme start="20261124030000 +0000" stop="20261124033000 +0000" channel="RT en espanol">
     <title>Noticias</title>
@@ -500,6 +452,24 @@
   <programme start="20261126023000 +0000" stop="20261126030000 +0000" channel="RT en espanol">
     <title>Entrevista</title>
   </programme>
+  <programme start="20261126030000 +0000" stop="20261126033000 +0000" channel="RT en espanol">
+    <title>Noticias</title>
+  </programme>
+  <programme start="20261126033000 +0000" stop="20261126040000 +0000" channel="RT en espanol">
+    <title>Ahí les va</title>
+  </programme>
+  <programme start="20261126040000 +0000" stop="20261126043000 +0000" channel="RT en espanol">
+    <title>El zoom</title>
+  </programme>
+  <programme start="20261126043000 +0000" stop="20261126050000 +0000" channel="RT en espanol">
+    <title>RT reporta</title>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126053000 +0000" channel="RT en espanol">
+    <title>Entrevista</title>
+  </programme>
+  <programme start="20261126053000 +0000" stop="20261126060000 +0000" channel="RT en espanol">
+    <title>Ahí les va</title>
+  </programme>
   <programme start="20261124020000 +0000" stop="20261124050000 +0000" channel="Canal Parlamento">
     <title>Canal Parlamentario</title>
   </programme>
@@ -549,6 +519,15 @@
     <title>Canal Parlamentario</title>
   </programme>
   <programme start="20261125220000 +0000" stop="20261125230000 +0000" channel="Canal Parlamento">
+    <title>Canal Parlamentario</title>
+  </programme>
+  <programme start="20261125230000 +0000" stop="20261126020000 +0000" channel="Canal Parlamento">
+    <title>Canal Parlamentario</title>
+  </programme>
+  <programme start="20261126020000 +0000" stop="20261126050000 +0000" channel="Canal Parlamento">
+    <title>Canal Parlamentario</title>
+  </programme>
+  <programme start="20261126050000 +0000" stop="20261126080000 +0000" channel="Canal Parlamento">
     <title>Canal Parlamentario</title>
   </programme>
   <programme start="20261124003000 +0000" stop="20261124004500 +0000" channel="CGTN Espanol OpB">
@@ -1232,28 +1211,28 @@
   <programme start="20261124093500 +0000" stop="20261124135500 +0000" channel="La 1 OpB">
     <title>Mañaneros 360</title>
   </programme>
-  <programme start="20261124135500 +0000" stop="20261124143500 +0000" channel="La 1 OpB">
+  <programme start="20261124135500 +0000" stop="20261124143000 +0000" channel="La 1 OpB">
     <title>Telediario 1</title>
   </programme>
-  <programme start="20261124143500 +0000" stop="20261124144000 +0000" channel="La 1 OpB">
+  <programme start="20261124143000 +0000" stop="20261124143500 +0000" channel="La 1 OpB">
     <title>Deportes 1</title>
   </programme>
-  <programme start="20261124144000 +0000" stop="20261124144500 +0000" channel="La 1 OpB">
+  <programme start="20261124143500 +0000" stop="20261124144000 +0000" channel="La 1 OpB">
     <title>El tiempo</title>
   </programme>
-  <programme start="20261124144500 +0000" stop="20261124145500 +0000" channel="La 1 OpB">
+  <programme start="20261124144000 +0000" stop="20261124145000 +0000" channel="La 1 OpB">
     <title>Redifusión La1</title>
   </programme>
-  <programme start="20261124145500 +0000" stop="20261124163500 +0000" channel="La 1 OpB">
-    <title>Directo Al Grano</title>
+  <programme start="20261124145000 +0000" stop="20261124165000 +0000" channel="La 1 OpB">
+    <title>Directo al grano</title>
   </programme>
-  <programme start="20261124163500 +0000" stop="20261124173500 +0000" channel="La 1 OpB">
+  <programme start="20261124165000 +0000" stop="20261124174000 +0000" channel="La 1 OpB">
     <title>Valle salvaje</title>
   </programme>
-  <programme start="20261124173500 +0000" stop="20261124183500 +0000" channel="La 1 OpB">
+  <programme start="20261124174000 +0000" stop="20261124184500 +0000" channel="La 1 OpB">
     <title>La Promesa</title>
   </programme>
-  <programme start="20261124183500 +0000" stop="20261124192500 +0000" channel="La 1 OpB">
+  <programme start="20261124184500 +0000" stop="20261124192500 +0000" channel="La 1 OpB">
     <title>Malas lenguas</title>
   </programme>
   <programme start="20261124192500 +0000" stop="20261124195500 +0000" channel="La 1 OpB">
@@ -1268,8 +1247,14 @@
   <programme start="20261124205500 +0000" stop="20261124221500 +0000" channel="La 1 OpB">
     <title>La Revuelta</title>
   </programme>
-  <programme start="20261124221500 +0000" stop="20261125034500 +0000" channel="La 1 OpB">
+  <programme start="20261124221500 +0000" stop="20261124233000 +0000" channel="La 1 OpB">
     <title>La cena de los idiotas</title>
+  </programme>
+  <programme start="20261124233000 +0000" stop="20261125004500 +0000" channel="La 1 OpB">
+    <title>La cena de los idiotas</title>
+  </programme>
+  <programme start="20261125004500 +0000" stop="20261125034500 +0000" channel="La 1 OpB">
+    <title>La noche en 24 horas</title>
   </programme>
   <programme start="20261125034500 +0000" stop="20261125050000 +0000" channel="La 1 OpB">
     <title>Noticias 24 h</title>
@@ -1328,32 +1313,35 @@
   <programme start="20261126050000 +0000" stop="20261126065000 +0000" channel="La 1 OpB">
     <title>Telediario matinal</title>
   </programme>
-  <programme start="20261124010000 +0000" stop="20261124013000 +0000" channel="La 2 OpB">
-    <title>Los conciertos de radio 3</title>
-  </programme>
   <programme start="20261124013000 +0000" stop="20261124031500 +0000" channel="La 2 OpB">
     <title>La piel fría</title>
   </programme>
   <programme start="20261124031500 +0000" stop="20261124041000 +0000" channel="La 2 OpB">
     <title>Las Rutas de Verónica</title>
   </programme>
-  <programme start="20261124041000 +0000" stop="20261124050000 +0000" channel="La 2 OpB">
+  <programme start="20261124041000 +0000" stop="20261124043000 +0000" channel="La 2 OpB">
     <title>¡Qué animal!</title>
   </programme>
-  <programme start="20261124050000 +0000" stop="20261124053000 +0000" channel="La 2 OpB">
+  <programme start="20261124043000 +0000" stop="20261124053000 +0000" channel="La 2 OpB">
     <title>La aventura del saber</title>
   </programme>
   <programme start="20261124053000 +0000" stop="20261124054500 +0000" channel="La 2 OpB">
     <title>That's english</title>
   </programme>
-  <programme start="20261124054500 +0000" stop="20261124061500 +0000" channel="La 2 OpB">
+  <programme start="20261124054500 +0000" stop="20261124055500 +0000" channel="La 2 OpB">
+    <title>That's english</title>
+  </programme>
+  <programme start="20261124055500 +0000" stop="20261124060500 +0000" channel="La 2 OpB">
+    <title>La 2 express</title>
+  </programme>
+  <programme start="20261124060500 +0000" stop="20261124063000 +0000" channel="La 2 OpB">
     <title>Pueblo de Dios</title>
   </programme>
-  <programme start="20261124061500 +0000" stop="20261124070000 +0000" channel="La 2 OpB">
-    <title>Arqueomanía</title>
+  <programme start="20261124063000 +0000" stop="20261124070500 +0000" channel="La 2 OpB">
+    <title>Yo soy de Formación Profesional</title>
   </programme>
-  <programme start="20261124070000 +0000" stop="20261124075000 +0000" channel="La 2 OpB">
-    <title>Documental</title>
+  <programme start="20261124070500 +0000" stop="20261124075000 +0000" channel="La 2 OpB">
+    <title>la asombrosa aventura estadounidense de George</title>
   </programme>
   <programme start="20261124075000 +0000" stop="20261124083000 +0000" channel="La 2 OpB">
     <title>Agrosfera</title>
@@ -1364,20 +1352,14 @@
   <programme start="20261124085500 +0000" stop="20261124095500 +0000" channel="La 2 OpB">
     <title>La aventura del saber</title>
   </programme>
-  <programme start="20261124095500 +0000" stop="20261124100000 +0000" channel="La 2 OpB">
-    <title>La 2 express</title>
+  <programme start="20261124095500 +0000" stop="20261124102000 +0000" channel="La 2 OpB">
+    <title>Zoom tendencias</title>
   </programme>
-  <programme start="20261124100000 +0000" stop="20261124102500 +0000" channel="La 2 OpB">
-    <title>El Chef Errante</title>
+  <programme start="20261124102000 +0000" stop="20261124114500 +0000" channel="La 2 OpB">
+    <title>Tequila</title>
   </programme>
-  <programme start="20261124102500 +0000" stop="20261124110000 +0000" channel="La 2 OpB">
-    <title>El Chef Errante</title>
-  </programme>
-  <programme start="20261124110000 +0000" stop="20261124123000 +0000" channel="La 2 OpB">
-    <title>Cine</title>
-  </programme>
-  <programme start="20261124123000 +0000" stop="20261124133000 +0000" channel="La 2 OpB">
-    <title>El cazador</title>
+  <programme start="20261124114500 +0000" stop="20261124133000 +0000" channel="La 2 OpB">
+    <title>Joaquín Murrieta</title>
   </programme>
   <programme start="20261124133000 +0000" stop="20261124143000 +0000" channel="La 2 OpB">
     <title>El cazador</title>
@@ -1385,53 +1367,41 @@
   <programme start="20261124143000 +0000" stop="20261124152000 +0000" channel="La 2 OpB">
     <title>Saber y ganar</title>
   </programme>
-  <programme start="20261124152000 +0000" stop="20261124161500 +0000" channel="La 2 OpB">
-    <title>Documental</title>
+  <programme start="20261124152000 +0000" stop="20261124162000 +0000" channel="La 2 OpB">
+    <title>El bisonte emblema de estados unidos</title>
   </programme>
-  <programme start="20261124161500 +0000" stop="20261124164500 +0000" channel="La 2 OpB">
-    <title>Tecnología animal</title>
+  <programme start="20261124162000 +0000" stop="20261124165000 +0000" channel="La 2 OpB">
+    <title>las aves del frio</title>
   </programme>
-  <programme start="20261124164500 +0000" stop="20261124183500 +0000" channel="La 2 OpB">
-    <title>Malas lenguas</title>
-  </programme>
-  <programme start="20261124183500 +0000" stop="20261124193000 +0000" channel="La 2 OpB">
+  <programme start="20261124184500 +0000" stop="20261124194000 +0000" channel="La 2 OpB">
     <title>Sukha</title>
   </programme>
-  <programme start="20261124193000 +0000" stop="20261124201000 +0000" channel="La 2 OpB">
+  <programme start="20261124194000 +0000" stop="20261124203000 +0000" channel="La 2 OpB">
     <title>Trivial Pursuit</title>
   </programme>
-  <programme start="20261124201000 +0000" stop="20261124204000 +0000" channel="La 2 OpB">
+  <programme start="20261124203000 +0000" stop="20261124210000 +0000" channel="La 2 OpB">
     <title>Cifras y letras</title>
   </programme>
-  <programme start="20261124204000 +0000" stop="20261124212000 +0000" channel="La 2 OpB">
+  <programme start="20261124210000 +0000" stop="20261124213000 +0000" channel="La 2 OpB">
     <title>Cifras y letras</title>
   </programme>
-  <programme start="20261124212000 +0000" stop="20261124222500 +0000" channel="La 2 OpB">
-    <title>Documaster</title>
+  <programme start="20261124213000 +0000" stop="20261124233500 +0000" channel="La 2 OpB">
+    <title>Historias lamentables</title>
   </programme>
-  <programme start="20261124222500 +0000" stop="20261124232500 +0000" channel="La 2 OpB">
-    <title>Documaster</title>
+  <programme start="20261124233500 +0000" stop="20261125005500 +0000" channel="La 2 OpB">
+    <title>Formentera Lady</title>
   </programme>
-  <programme start="20261124232500 +0000" stop="20261125005000 +0000" channel="La 2 OpB">
-    <title>Documental</title>
+  <programme start="20261125005500 +0000" stop="20261125015500 +0000" channel="La 2 OpB">
+    <title>Bella</title>
   </programme>
-  <programme start="20261125005000 +0000" stop="20261125011500 +0000" channel="La 2 OpB">
+  <programme start="20261125015500 +0000" stop="20261125022500 +0000" channel="La 2 OpB">
     <title>Los conciertos de radio 3</title>
   </programme>
-  <programme start="20261125011500 +0000" stop="20261125014000 +0000" channel="La 2 OpB">
-    <title>Sin equipaje</title>
+  <programme start="20261125022500 +0000" stop="20261125041000 +0000" channel="La 2 OpB">
+    <title>La mujer dormida</title>
   </programme>
-  <programme start="20261125014000 +0000" stop="20261125020000 +0000" channel="La 2 OpB">
-    <title>Sin equipaje</title>
-  </programme>
-  <programme start="20261125020000 +0000" stop="20261125030000 +0000" channel="La 2 OpB">
-    <title>El sistema solar</title>
-  </programme>
-  <programme start="20261125030000 +0000" stop="20261125042500 +0000" channel="La 2 OpB">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261125042500 +0000" stop="20261125050000 +0000" channel="La 2 OpB">
-    <title>La 2 express</title>
+  <programme start="20261125041000 +0000" stop="20261125050000 +0000" channel="La 2 OpB">
+    <title>¡Qué animal!</title>
   </programme>
   <programme start="20261125050000 +0000" stop="20261125053000 +0000" channel="La 2 OpB">
     <title>La aventura del saber</title>
@@ -1539,96 +1509,6 @@
     <display-name>Actualidad 360</display-name>
     <icon src="https://images.pluto.tv/channels/67517fae5534bb0008187997/colorLogoPNG.png" />
   </channel>
-  <programme channel="Actualidad 360" start="20261124060000 +0000" stop="20261124063000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124063000 +0000" stop="20261124070000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124070000 +0000" stop="20261124073000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124073000 +0000" stop="20261124080000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124080000 +0000" stop="20261124083000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124083000 +0000" stop="20261124090000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124090000 +0000" stop="20261124093000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124093000 +0000" stop="20261124100000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124100000 +0000" stop="20261124103000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124103000 +0000" stop="20261124110000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124110000 +0000" stop="20261124113000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124113000 +0000" stop="20261124120000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124120000 +0000" stop="20261124123000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124123000 +0000" stop="20261124130000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124130000 +0000" stop="20261124133000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124133000 +0000" stop="20261124140000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124140000 +0000" stop="20261124143000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124143000 +0000" stop="20261124150000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124150000 +0000" stop="20261124153000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124153000 +0000" stop="20261124160000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124160000 +0000" stop="20261124163000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124163000 +0000" stop="20261124170000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124170000 +0000" stop="20261124173000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124173000 +0000" stop="20261124180000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124180000 +0000" stop="20261124183000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124183000 +0000" stop="20261124190000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124190000 +0000" stop="20261124193000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124193000 +0000" stop="20261124200000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124200000 +0000" stop="20261124203000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
-  <programme channel="Actualidad 360" start="20261124203000 +0000" stop="20261124210000 +0000">
-    <title>Actualidad 360</title>
-  </programme>
   <programme channel="Actualidad 360" start="20261124210000 +0000" stop="20261124213000 +0000">
     <title>Actualidad 360</title>
   </programme>
@@ -1636,6 +1516,96 @@
     <title>Actualidad 360</title>
   </programme>
   <programme channel="Actualidad 360" start="20261124220000 +0000" stop="20261124223000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261124223000 +0000" stop="20261124230000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261124230000 +0000" stop="20261124233000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261124233000 +0000" stop="20261125000000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125000000 +0000" stop="20261125003000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125003000 +0000" stop="20261125010000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125010000 +0000" stop="20261125013000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125013000 +0000" stop="20261125020000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125020000 +0000" stop="20261125023000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125023000 +0000" stop="20261125030000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125030000 +0000" stop="20261125033000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125033000 +0000" stop="20261125040000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125040000 +0000" stop="20261125043000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125043000 +0000" stop="20261125050000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125050000 +0000" stop="20261125053000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125053000 +0000" stop="20261125060000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125060000 +0000" stop="20261125063000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125063000 +0000" stop="20261125070000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125070000 +0000" stop="20261125073000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125073000 +0000" stop="20261125080000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125080000 +0000" stop="20261125083000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125083000 +0000" stop="20261125090000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125090000 +0000" stop="20261125093000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125093000 +0000" stop="20261125100000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125100000 +0000" stop="20261125103000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125103000 +0000" stop="20261125110000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125110000 +0000" stop="20261125113000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125113000 +0000" stop="20261125120000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125120000 +0000" stop="20261125123000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125123000 +0000" stop="20261125130000 +0000">
+    <title>Actualidad 360</title>
+  </programme>
+  <programme channel="Actualidad 360" start="20261125130000 +0000" stop="20261125133000 +0000">
     <title>Actualidad 360</title>
   </programme>
   <channel id="El Pais TV">
@@ -1646,65 +1616,62 @@
     <display-name>El Confidencial</display-name>
     <icon src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC1400001L8_20241022T050529SQUARE.png" />
   </channel>
-  <programme channel="El Pais TV" start="20261124073259 +0000" stop="20261124090246 +0000">
+  <programme channel="El Pais TV" start="20261124205922 +0000" stop="20261124223104 +0000">
+    <title>La Mesa de HORA 25, con José Luis Sastre</title>
+  </programme>
+  <programme channel="El Pais TV" start="20261124223104 +0000" stop="20261124234057 +0000">
+    <title>Alejandro Amenábar y Vicky Martín Berrocal | A SOLAS CON</title>
+  </programme>
+  <programme channel="El Pais TV" start="20261124234057 +0000" stop="20261125002554 +0000">
+    <title>EL FARO DE MARA TORRES | Pablo Alborán: "Hubo mucha guitarra y mucho garito antes de Solamente Tú"</title>
+  </programme>
+  <programme channel="El Pais TV" start="20261125002554 +0000" stop="20261125012550 +0000">
     <title>Inmortales del ajedrez</title>
   </programme>
-  <programme channel="El Pais TV" start="20261124090246 +0000" stop="20261124093842 +0000">
-    <title>Descubrimientos</title>
-  </programme>
-  <programme channel="El Pais TV" start="20261124093842 +0000" stop="20261124102115 +0000">
-    <title>Investigación</title>
-  </programme>
-  <programme channel="El Pais TV" start="20261124102115 +0000" stop="20261124111514 +0000">
-    <title>Entrevista a Macron</title>
-  </programme>
-  <programme channel="El Pais TV" start="20261124111514 +0000" stop="20261124121730 +0000">
-    <title>Inmortales del ajedrez</title>
-  </programme>
-  <programme channel="El Pais TV" start="20261124121730 +0000" stop="20261124131727 +0000">
-    <title>Inmortales del ajedrez</title>
-  </programme>
-  <programme channel="El Pais TV" start="20261124131727 +0000" stop="20261124133207 +0000">
+  <programme channel="El Pais TV" start="20261125012550 +0000" stop="20261125014031 +0000">
     <title>GENTE QUE CUENTA</title>
   </programme>
-  <programme channel="El Pais TV" start="20261124133207 +0000" stop="20261124140904 +0000">
+  <programme channel="El Pais TV" start="20261125014031 +0000" stop="20261125021728 +0000">
     <title>El País</title>
   </programme>
-  <programme channel="El Pais TV" start="20261124140904 +0000" stop="20261124141916 +0000">
+  <programme channel="El Pais TV" start="20261125021728 +0000" stop="20261125022740 +0000">
     <title>Seis historias de cómo nos cambió la vida la pandemia de COVID</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124074751 +0000" stop="20261124084711 +0000">
-    <title>El bloqueo que casi impide la carrera musical de Begoña Vargas</title>
+  <programme channel="El Pais TV" start="20261125022740 +0000" stop="20261125024221 +0000">
+    <title>GENTE QUE CUENTA</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124084711 +0000" stop="20261124085508 +0000">
-    <title>Así se ha convertido el derecho a la vivienda en el primer problema de los españoles</title>
+  <programme channel="El Pais TV" start="20261125024221 +0000" stop="20261125033427 +0000">
+    <title>Cuestionario acelerado</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124085508 +0000" stop="20261124091002 +0000">
-    <title>El colapso del castrismo en Cuba o como el plan de Trump ha ahogado al régimen</title>
+  <programme channel="El Confidencial" start="20261124204944 +0000" stop="20261124213649 +0000">
+    <title>¿Es Marlaska intocable? ¿Cómo se lleva con Robles? Lo cuenta el periodista del dosier de tertulianos</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124091002 +0000" stop="20261124091115 +0000">
-    <title>Historias que deben ser contadas | Pasión con Alejandro Requeijo</title>
+  <programme channel="El Confidencial" start="20261124213649 +0000" stop="20261124223358 +0000">
+    <title>¿Vamos a morir todos? Lo que debes saber en la gran crisis de la IA</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124091115 +0000" stop="20261124091612 +0000">
-    <title>Historias que deben ser contadas. | Ocho historias, cinco pilares, una sola voz</title>
+  <programme channel="El Confidencial" start="20261124223358 +0000" stop="20261124230355 +0000">
+    <title>Mercedes Oblanca, presidenta de Accenture: "No hay éxito sin propósito"</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124091612 +0000" stop="20261124104116 +0000">
-    <title>Tenemos que escucharnos más, con Carlos Alsina y Marta García Aller</title>
+  <programme channel="El Confidencial" start="20261124230355 +0000" stop="20261125000644 +0000">
+    <title>Juan del Val: "Jamás te metas en un negocio conmigo"</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124104116 +0000" stop="20261124115222 +0000">
-    <title>Humor y política con Ortega, Goyo Jiménez, Laura Márquez y Arturo González-Campos</title>
+  <programme channel="El Confidencial" start="20261125000644 +0000" stop="20261125010214 +0000">
+    <title>Roberto Leal: “He descubierto que mi madre es una heroina y una guerrera”</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124115222 +0000" stop="20261124122622 +0000">
-    <title>Gonzalo Boye: "El Gobierno de Pedro Sánchez no vive de hacer política, vive de fabricar relatos"</title>
+  <programme channel="El Confidencial" start="20261125010214 +0000" stop="20261125014604 +0000">
+    <title>El dilema de Daniel Guzmán sobre seguir en el cine: "A día de hoy, no voy a hacer más películas"</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124122622 +0000" stop="20261124130925 +0000">
-    <title>Miguel Tellado: "Con el PSOE, ni a la esquina  con el PSOE es imposible llegar a ningún acuerdo"</title>
+  <programme channel="El Confidencial" start="20261125014604 +0000" stop="20261125022229 +0000">
+    <title>José Manuel Zapata, tenor: "Si no separamos obra y autor, no queda nadie vivo"</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124130925 +0000" stop="20261124135645 +0000">
-    <title>Paco Roca: Batman en Benidorm y tirar tus cenizas en la Ruta del Bakalao</title>
+  <programme channel="El Confidencial" start="20261125022229 +0000" stop="20261125023156 +0000">
+    <title>El incidente': La verdad tras el mito de la superinteligencia</title>
   </programme>
-  <programme channel="El Confidencial" start="20261124135645 +0000" stop="20261124144142 +0000">
-    <title>Antonio de la Torre: "Mi consuelo es que el éxito me llegó con madurez"</title>
+  <programme channel="El Confidencial" start="20261125023156 +0000" stop="20261125025613 +0000">
+    <title>Urbex: el hobby de visitar edificios abandonados</title>
+  </programme>
+  <programme channel="El Confidencial" start="20261125025613 +0000" stop="20261125031230 +0000">
+    <title>Ex-youtuber: tenía la vida que todos sueñan y lo dejó todo</title>
   </programme>
   <channel id="La 1">
     <display-name>La 1</display-name>
@@ -1915,61 +1882,58 @@
     <display-name>CNN en Español 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNN%20en%20Espa%C3%B1ol.png" />
   </channel>
-  <programme start="20261124010000 +0100" stop="20261124060000 +0100" channel="La 1">
-    <title>Noticias 24H</title>
+  <programme start="20261124074900 +0100" stop="20261124103600 +0100" channel="La 1">
+    <title>La hora de La 1: La hora de la actualidad T10 E232</title>
   </programme>
-  <programme start="20261124060000 +0100" stop="20261124075000 +0100" channel="La 1">
-    <title>Telediario Matinal</title>
+  <programme start="20261124103600 +0100" stop="20261124145500 +0100" channel="La 1">
+    <title>Mañaneros 360 T3 E827</title>
   </programme>
-  <programme start="20261124075000 +0100" stop="20261124103500 +0100" channel="La 1">
-    <title>La hora de La 1: La hora de la actualidad T10</title>
-  </programme>
-  <programme start="20261124103500 +0100" stop="20261124145500 +0100" channel="La 1">
-    <title>Mañaneros 360 T3</title>
-  </programme>
-  <programme start="20261124145500 +0100" stop="20261124153000 +0100" channel="La 1">
+  <programme start="20261124145500 +0100" stop="20261124153100 +0100" channel="La 1">
     <title>Telediario 1</title>
   </programme>
-  <programme start="20261124153000 +0100" stop="20261124153500 +0100" channel="La 1">
+  <programme start="20261124153100 +0100" stop="20261124153600 +0100" channel="La 1">
     <title>Deportes 1</title>
   </programme>
-  <programme start="20261124153500 +0100" stop="20261124154000 +0100" channel="La 1">
+  <programme start="20261124153600 +0100" stop="20261124153900 +0100" channel="La 1">
     <title>El tiempo</title>
   </programme>
-  <programme start="20261124154000 +0100" stop="20261124155000 +0100" channel="La 1">
+  <programme start="20261124153900 +0100" stop="20261124155000 +0100" channel="La 1">
     <title>Informativo territorial 2</title>
   </programme>
-  <programme start="20261124155000 +0100" stop="20261124174500 +0100" channel="La 1">
-    <title>Directo al grano T3</title>
+  <programme start="20261124155000 +0100" stop="20261124175500 +0100" channel="La 1">
+    <title>Directo al grano T3 E232</title>
   </programme>
-  <programme start="20261124174500 +0100" stop="20261124183500 +0100" channel="La 1">
-    <title>Valle Salvaje T4</title>
+  <programme start="20261124175500 +0100" stop="20261124184400 +0100" channel="La 1">
+    <title>Valle Salvaje T4 E110</title>
   </programme>
-  <programme start="20261124183500 +0100" stop="20261124193500 +0100" channel="La 1">
-    <title>La Promesa T1</title>
+  <programme start="20261124184400 +0100" stop="20261124194800 +0100" channel="La 1">
+    <title>La Promesa T1 E953</title>
   </programme>
-  <programme start="20261124193500 +0100" stop="20261124202500 +0100" channel="La 1">
-    <title>Malas lenguas T3</title>
+  <programme start="20261124194800 +0100" stop="20261124202500 +0100" channel="La 1">
+    <title>Malas lenguas T3 E506</title>
   </programme>
   <programme start="20261124202500 +0100" stop="20261124205500 +0100" channel="La 1">
-    <title>Aquí la Tierra</title>
+    <title>Aquí la Tierra T15 E888</title>
   </programme>
-  <programme start="20261124205500 +0100" stop="20261124214000 +0100" channel="La 1">
+  <programme start="20261124205500 +0100" stop="20261124215000 +0100" channel="La 1">
     <title>Telediario 2</title>
   </programme>
-  <programme start="20261124214000 +0100" stop="20261124214500 +0100" channel="La 1">
+  <programme start="20261124215000 +0100" stop="20261124215500 +0100" channel="La 1">
     <title>Deportes 2</title>
   </programme>
-  <programme start="20261124214500 +0100" stop="20261124230000 +0100" channel="La 1">
-    <title>La revuelta T3</title>
+  <programme start="20261124215500 +0100" stop="20261124231500 +0100" channel="La 1">
+    <title>La revuelta T3 E361</title>
   </programme>
-  <programme start="20261124230000 +0100" stop="20261125011000 +0100" channel="La 1">
-    <title>Dog House</title>
+  <programme start="20261124231500 +0100" stop="20261125003000 +0100" channel="La 1">
+    <title>La cena de los idiotas T1 · ¿Antes se vivía mejor?</title>
   </programme>
-  <programme start="20261125011000 +0100" stop="20261125031500 +0100" channel="La 1">
-    <title>Dog House</title>
+  <programme start="20261125003000 +0100" stop="20261125014500 +0100" channel="La 1">
+    <title>La cena de los idiotas T1 · El valor del dinero</title>
   </programme>
-  <programme start="20261125031500 +0100" stop="20261125060000 +0100" channel="La 1">
+  <programme start="20261125014500 +0100" stop="20261125044500 +0100" channel="La 1">
+    <title>La noche en 24 horas</title>
+  </programme>
+  <programme start="20261125044500 +0100" stop="20261125060000 +0100" channel="La 1">
     <title>Noticias 24H</title>
   </programme>
   <programme start="20261125060000 +0100" stop="20261125075000 +0100" channel="La 1">
@@ -1993,158 +1957,131 @@
   <programme start="20261125154000 +0100" stop="20261125155000 +0100" channel="La 1">
     <title>Informativo territorial 2</title>
   </programme>
-  <programme start="20261125155000 +0100" stop="20261125174500 +0100" channel="La 1">
+  <programme start="20261125155000 +0100" stop="20261125175000 +0100" channel="La 1">
     <title>Directo al grano T3</title>
   </programme>
-  <programme start="20261125174500 +0100" stop="20261125183500 +0100" channel="La 1">
+  <programme start="20261125175000 +0100" stop="20261125184000 +0100" channel="La 1">
     <title>Valle Salvaje T4</title>
   </programme>
-  <programme start="20261125183500 +0100" stop="20261125193500 +0100" channel="La 1">
+  <programme start="20261125184000 +0100" stop="20261125194500 +0100" channel="La 1">
     <title>La Promesa T1</title>
   </programme>
-  <programme start="20261125193500 +0100" stop="20261125202500 +0100" channel="La 1">
+  <programme start="20261125194500 +0100" stop="20261125202500 +0100" channel="La 1">
     <title>Malas lenguas T3</title>
   </programme>
   <programme start="20261125202500 +0100" stop="20261125205500 +0100" channel="La 1">
-    <title>Aquí la Tierra</title>
+    <title>Aquí la Tierra T15</title>
   </programme>
-  <programme start="20261125205500 +0100" stop="20261125214000 +0100" channel="La 1">
+  <programme start="20261125205500 +0100" stop="20261125215000 +0100" channel="La 1">
     <title>Telediario 2</title>
   </programme>
-  <programme start="20261125214000 +0100" stop="20261125214500 +0100" channel="La 1">
+  <programme start="20261125215000 +0100" stop="20261125215500 +0100" channel="La 1">
     <title>Deportes 2</title>
   </programme>
-  <programme start="20261125214500 +0100" stop="20261125230000 +0100" channel="La 1">
+  <programme start="20261125215500 +0100" stop="20261125231500 +0100" channel="La 1">
     <title>La revuelta T3</title>
   </programme>
-  <programme start="20261125230000 +0100" stop="20261126003000 +0100" channel="La 1">
-    <title>El Túnel: avanza y gana</title>
+  <programme start="20261125231500 +0100" stop="20261126005000 +0100" channel="La 1">
+    <title>El perro andaluz T2</title>
   </programme>
-  <programme start="20261126003000 +0100" stop="20261126015500 +0100" channel="La 1">
-    <title>The Floor</title>
+  <programme start="20261126005000 +0100" stop="20261126024500 +0100" channel="La 1">
+    <title>El perro andaluz T2</title>
   </programme>
-  <programme start="20261126015500 +0100" stop="20261126043000 +0100" channel="La 1">
-    <title>La noche en 24 horas</title>
-  </programme>
-  <programme start="20261126043000 +0100" stop="20261126060000 +0100" channel="La 1">
+  <programme start="20261126024500 +0100" stop="20261126060000 +0100" channel="La 1">
     <title>Noticias 24H</title>
   </programme>
-  <programme start="20261124001500 +0100" stop="20261124020000 +0100" channel="La 2">
-    <title>El estrangulador de Boston</title>
-  </programme>
-  <programme start="20261124020000 +0100" stop="20261124023000 +0100" channel="La 2">
-    <title>Conciertos de Radio-3 T28 · Alison Darwin</title>
-  </programme>
-  <programme start="20261124023000 +0100" stop="20261124041500 +0100" channel="La 2">
-    <title>La Piel Fria</title>
-  </programme>
-  <programme start="20261124041500 +0100" stop="20261124051000 +0100" channel="La 2">
-    <title>Las rutas de Verónica T1 · Murcia Noroeste</title>
-  </programme>
-  <programme start="20261124051000 +0100" stop="20261124053000 +0100" channel="La 2">
-    <title>¡Qué animal! T5 · Pieles</title>
-  </programme>
-  <programme start="20261124053000 +0100" stop="20261124063000 +0100" channel="La 2">
-    <title>La aventura del saber</title>
-  </programme>
-  <programme start="20261124063000 +0100" stop="20261124064500 +0100" channel="La 2">
+  <programme start="20261124062900 +0100" stop="20261124064300 +0100" channel="La 2">
     <title>That's English T25/26</title>
   </programme>
-  <programme start="20261124064500 +0100" stop="20261124065500 +0100" channel="La 2">
+  <programme start="20261124064300 +0100" stop="20261124065800 +0100" channel="La 2">
     <title>That's English T25/26</title>
   </programme>
-  <programme start="20261124065500 +0100" stop="20261124070500 +0100" channel="La 2">
+  <programme start="20261124065800 +0100" stop="20261124070100 +0100" channel="La 2">
     <title>La 2 express</title>
   </programme>
-  <programme start="20261124070500 +0100" stop="20261124073500 +0100" channel="La 2">
+  <programme start="20261124070100 +0100" stop="20261124073100 +0100" channel="La 2">
     <title>Pueblo de Dios T19/20</title>
   </programme>
-  <programme start="20261124073500 +0100" stop="20261124080500 +0100" channel="La 2">
-    <title>Yo soy de formación profesional</title>
+  <programme start="20261124073100 +0100" stop="20261124080200 +0100" channel="La 2">
+    <title>Yo soy de formación profesional T3 · País Vasco</title>
   </programme>
-  <programme start="20261124080500 +0100" stop="20261124085000 +0100" channel="La 2">
-    <title>Mi casa flotante</title>
+  <programme start="20261124080200 +0100" stop="20261124084800 +0100" channel="La 2">
+    <title>La asombrosa aventura estadounidense de George · El sur</title>
   </programme>
-  <programme start="20261124085000 +0100" stop="20261124093000 +0100" channel="La 2">
-    <title>Agrosfera T26</title>
+  <programme start="20261124084800 +0100" stop="20261124092900 +0100" channel="La 2">
+    <title>Agrosfera T26 E817</title>
   </programme>
-  <programme start="20261124093000 +0100" stop="20261124095500 +0100" channel="La 2">
+  <programme start="20261124092900 +0100" stop="20261124095500 +0100" channel="La 2">
     <title>Aquí hay trabajo</title>
   </programme>
-  <programme start="20261124095500 +0100" stop="20261124105500 +0100" channel="La 2">
+  <programme start="20261124095500 +0100" stop="20261124105300 +0100" channel="La 2">
     <title>La aventura del saber</title>
   </programme>
-  <programme start="20261124105500 +0100" stop="20261124115000 +0100" channel="La 2">
-    <title>Las rutas de Ambrosio</title>
+  <programme start="20261124105300 +0100" stop="20261124112100 +0100" channel="La 2">
+    <title>Zoom tendencias</title>
   </programme>
-  <programme start="20261124115000 +0100" stop="20261124133000 +0100" channel="La 2">
-    <title>Cine</title>
+  <programme start="20261124112100 +0100" stop="20261124124700 +0100" channel="La 2">
+    <title>Tequila</title>
   </programme>
-  <programme start="20261124133000 +0100" stop="20261124143500 +0100" channel="La 2">
-    <title>El cazador STARS</title>
+  <programme start="20261124124700 +0100" stop="20261124143200 +0100" channel="La 2">
+    <title>Joaquín Murrieta</title>
   </programme>
-  <programme start="20261124143500 +0100" stop="20261124153000 +0100" channel="La 2">
-    <title>El cazador STARS</title>
+  <programme start="20261124143200 +0100" stop="20261124153500 +0100" channel="La 2">
+    <title>El cazador T8 E139</title>
   </programme>
-  <programme start="20261124153000 +0100" stop="20261124162500 +0100" channel="La 2">
-    <title>Saber y ganar</title>
+  <programme start="20261124153500 +0100" stop="20261124162800 +0100" channel="La 2">
+    <title>Saber y ganar T30 E668</title>
   </programme>
-  <programme start="20261124162500 +0100" stop="20261124171500 +0100" channel="La 2">
-    <title>Infierno arábigo</title>
+  <programme start="20261124162800 +0100" stop="20261124172300 +0100" channel="La 2">
+    <title>El bisonte: emblema de Estados Unidos</title>
   </programme>
-  <programme start="20261124171500 +0100" stop="20261124174500 +0100" channel="La 2">
-    <title>Fauna letal</title>
+  <programme start="20261124172300 +0100" stop="20261124175200 +0100" channel="La 2">
+    <title>Las aves del frio E1</title>
   </programme>
-  <programme start="20261124174500 +0100" stop="20261124194500 +0100" channel="La 2">
-    <title>Malas lenguas T3</title>
+  <programme start="20261124175200 +0100" stop="20261124194700 +0100" channel="La 2">
+    <title>Malas lenguas T3 E506</title>
   </programme>
-  <programme start="20261124194500 +0100" stop="20261124204000 +0100" channel="La 2">
-    <title>Sukha T2</title>
+  <programme start="20261124194700 +0100" stop="20261124204000 +0100" channel="La 2">
+    <title>Sukha T2 E152</title>
   </programme>
-  <programme start="20261124204000 +0100" stop="20261124212500 +0100" channel="La 2">
-    <title>Trivial Pursuit T1</title>
+  <programme start="20261124204000 +0100" stop="20261124213000 +0100" channel="La 2">
+    <title>Trivial Pursuit T1 E36</title>
   </programme>
-  <programme start="20261124212500 +0100" stop="20261124220000 +0100" channel="La 2">
-    <title>Cifras y letras T3</title>
+  <programme start="20261124213000 +0100" stop="20261124220000 +0100" channel="La 2">
+    <title>Cifras y letras T3 E140</title>
   </programme>
   <programme start="20261124220000 +0100" stop="20261124223500 +0100" channel="La 2">
-    <title>Cifras y letras T3</title>
+    <title>Cifras y letras T4 E562</title>
   </programme>
-  <programme start="20261124223500 +0100" stop="20261125001500 +0100" channel="La 2">
-    <title>Cine</title>
+  <programme start="20261124223500 +0100" stop="20261125003500 +0100" channel="La 2">
+    <title>Historias lamentables</title>
   </programme>
-  <programme start="20261125001500 +0100" stop="20261125004000 +0100" channel="La 2">
-    <title>Versión española</title>
+  <programme start="20261125003500 +0100" stop="20261125015500 +0100" channel="La 2">
+    <title>Formentera Lady</title>
   </programme>
-  <programme start="20261125004000 +0100" stop="20261125022500 +0100" channel="La 2">
-    <title>Cine</title>
+  <programme start="20261125015500 +0100" stop="20261125025500 +0100" channel="La 2">
+    <title>Bella</title>
   </programme>
-  <programme start="20261125022500 +0100" stop="20261125025500 +0100" channel="La 2">
-    <title>Conciertos de Radio-3</title>
+  <programme start="20261125025500 +0100" stop="20261125032500 +0100" channel="La 2">
+    <title>Conciertos de Radio-3 T28 E289</title>
   </programme>
-  <programme start="20261125025500 +0100" stop="20261125035000 +0100" channel="La 2">
-    <title>Las rutas de Ambrosio</title>
+  <programme start="20261125032500 +0100" stop="20261125051000 +0100" channel="La 2">
+    <title>La mujer dormida</title>
   </programme>
-  <programme start="20261125035000 +0100" stop="20261125043500 +0100" channel="La 2">
-    <title>Mi casa flotante</title>
-  </programme>
-  <programme start="20261125043500 +0100" stop="20261125052000 +0100" channel="La 2">
-    <title>Infierno arábigo</title>
-  </programme>
-  <programme start="20261125052000 +0100" stop="20261125053000 +0100" channel="La 2">
-    <title>La 2 express</title>
+  <programme start="20261125051000 +0100" stop="20261125053000 +0100" channel="La 2">
+    <title>¡Qué animal! T5 · Sexo</title>
   </programme>
   <programme start="20261125053000 +0100" stop="20261125063000 +0100" channel="La 2">
     <title>La aventura del saber</title>
   </programme>
-  <programme start="20261125063000 +0100" stop="20261125064000 +0100" channel="La 2">
-    <title>That's English</title>
+  <programme start="20261125063000 +0100" stop="20261125064500 +0100" channel="La 2">
+    <title>That's English T25/26</title>
   </programme>
-  <programme start="20261125064000 +0100" stop="20261125065500 +0100" channel="La 2">
-    <title>That's English</title>
+  <programme start="20261125064500 +0100" stop="20261125065500 +0100" channel="La 2">
+    <title>That's English T25/26</title>
   </programme>
   <programme start="20261125065500 +0100" stop="20261125071500 +0100" channel="La 2">
-    <title>Zoom tendencias</title>
+    <title>La 2 express</title>
   </programme>
   <programme start="20261125071500 +0100" stop="20261125074500 +0100" channel="La 2">
     <title>Caravana educativa</title>
@@ -2153,10 +2090,10 @@
     <title>Flash Moda</title>
   </programme>
   <programme start="20261125081500 +0100" stop="20261125090000 +0100" channel="La 2">
-    <title>Mi casa flotante</title>
+    <title>La asombrosa aventura estadounidense de George</title>
   </programme>
   <programme start="20261125090000 +0100" stop="20261125093000 +0100" channel="La 2">
-    <title>Página 2</title>
+    <title>Página 2 T20</title>
   </programme>
   <programme start="20261125093000 +0100" stop="20261125095500 +0100" channel="La 2">
     <title>Aquí hay trabajo</title>
@@ -2164,95 +2101,71 @@
   <programme start="20261125095500 +0100" stop="20261125105500 +0100" channel="La 2">
     <title>La aventura del saber</title>
   </programme>
-  <programme start="20261125105500 +0100" stop="20261125110500 +0100" channel="La 2">
+  <programme start="20261125105500 +0100" stop="20261125111500 +0100" channel="La 2">
     <title>La 2 express</title>
   </programme>
-  <programme start="20261125110500 +0100" stop="20261125120000 +0100" channel="La 2">
-    <title>Las rutas de Ambrosio</title>
+  <programme start="20261125111500 +0100" stop="20261125125000 +0100" channel="La 2">
+    <title>Mestizo</title>
   </programme>
-  <programme start="20261125120000 +0100" stop="20261125133000 +0100" channel="La 2">
-    <title>Cine</title>
+  <programme start="20261125125000 +0100" stop="20261125143000 +0100" channel="La 2">
+    <title>Los desesperados</title>
   </programme>
-  <programme start="20261125133000 +0100" stop="20261125143500 +0100" channel="La 2">
-    <title>El cazador STARS</title>
+  <programme start="20261125143000 +0100" stop="20261125153000 +0100" channel="La 2">
+    <title>El cazador T8</title>
   </programme>
-  <programme start="20261125143500 +0100" stop="20261125153000 +0100" channel="La 2">
-    <title>El cazador STARS</title>
-  </programme>
-  <programme start="20261125153000 +0100" stop="20261125162500 +0100" channel="La 2">
+  <programme start="20261125153000 +0100" stop="20261125162000 +0100" channel="La 2">
     <title>Saber y ganar</title>
   </programme>
-  <programme start="20261125162500 +0100" stop="20261125172000 +0100" channel="La 2">
-    <title>Okavango: el río de los sueños</title>
+  <programme start="20261125162000 +0100" stop="20261125172500 +0100" channel="La 2">
+    <title>24 horas en la naturaleza</title>
   </programme>
-  <programme start="20261125172000 +0100" stop="20261125174500 +0100" channel="La 2">
-    <title>Fauna letal</title>
+  <programme start="20261125172500 +0100" stop="20261125175000 +0100" channel="La 2">
+    <title>Las aves del frio E1</title>
   </programme>
-  <programme start="20261125174500 +0100" stop="20261125194500 +0100" channel="La 2">
+  <programme start="20261125175000 +0100" stop="20261125194500 +0100" channel="La 2">
     <title>Malas lenguas T3</title>
   </programme>
-  <programme start="20261125194500 +0100" stop="20261125205000 +0100" channel="La 2">
+  <programme start="20261125194500 +0100" stop="20261125204000 +0100" channel="La 2">
     <title>Sukha T2</title>
   </programme>
-  <programme start="20261125205000 +0100" stop="20261125213500 +0100" channel="La 2">
+  <programme start="20261125204000 +0100" stop="20261125213000 +0100" channel="La 2">
     <title>Trivial Pursuit T1</title>
   </programme>
-  <programme start="20261125213500 +0100" stop="20261125221000 +0100" channel="La 2">
+  <programme start="20261125213000 +0100" stop="20261125220000 +0100" channel="La 2">
     <title>Cifras y letras T3</title>
   </programme>
-  <programme start="20261125221000 +0100" stop="20261125224500 +0100" channel="La 2">
+  <programme start="20261125220000 +0100" stop="20261125223500 +0100" channel="La 2">
     <title>Cifras y letras T3</title>
   </programme>
-  <programme start="20261125224500 +0100" stop="20261125232000 +0100" channel="La 2">
-    <title>Cifras y letras T3</title>
+  <programme start="20261125223500 +0100" stop="20261126000000 +0100" channel="La 2">
+    <title>Rita</title>
   </programme>
-  <programme start="20261125232000 +0100" stop="20261126002000 +0100" channel="La 2">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261126002000 +0100" stop="20261126010000 +0100" channel="La 2">
+  <programme start="20261126000000 +0100" stop="20261126004000 +0100" channel="La 2">
     <title>En portada</title>
   </programme>
-  <programme start="20261126010000 +0100" stop="20261126015500 +0100" channel="La 2">
+  <programme start="20261126004000 +0100" stop="20261126014000 +0100" channel="La 2">
     <title>Documentos TV</title>
   </programme>
-  <programme start="20261126015500 +0100" stop="20261126025500 +0100" channel="La 2">
-    <title>Documental</title>
+  <programme start="20261126014000 +0100" stop="20261126021000 +0100" channel="La 2">
+    <title>Metrópolis T25/26</title>
   </programme>
-  <programme start="20261126025500 +0100" stop="20261126032500 +0100" channel="La 2">
+  <programme start="20261126021000 +0100" stop="20261126024500 +0100" channel="La 2">
     <title>Conciertos de Radio-3</title>
   </programme>
-  <programme start="20261126032500 +0100" stop="20261126042000 +0100" channel="La 2">
-    <title>Las rutas de Ambrosio</title>
+  <programme start="20261126024500 +0100" stop="20261126042500 +0100" channel="La 2">
+    <title>El llanto</title>
   </programme>
-  <programme start="20261126042000 +0100" stop="20261126050500 +0100" channel="La 2">
-    <title>Infierno arábigo</title>
+  <programme start="20261126042500 +0100" stop="20261126045500 +0100" channel="La 2">
+    <title>En tren por Gran Bretaña</title>
   </programme>
-  <programme start="20261126050500 +0100" stop="20261126053000 +0100" channel="La 2">
-    <title>¡Qué animal! T8</title>
+  <programme start="20261126045500 +0100" stop="20261126052500 +0100" channel="La 2">
+    <title>En tren por Gran Bretaña</title>
   </programme>
-  <programme start="20261126053000 +0100" stop="20261126063000 +0100" channel="La 2">
+  <programme start="20261126052500 +0100" stop="20261126053500 +0100" channel="La 2">
+    <title>La 2 express</title>
+  </programme>
+  <programme start="20261126053500 +0100" stop="20261126063000 +0100" channel="La 2">
     <title>La aventura del saber</title>
-  </programme>
-  <programme start="20261124010100 +0100" stop="20261124021400 +0100" channel="Clan">
-    <title>Cuéntame cómo pasó T2 E8 · Arriba el telón</title>
-  </programme>
-  <programme start="20261124021400 +0100" stop="20261124032400 +0100" channel="Clan">
-    <title>Cuéntame cómo pasó T2 E9 · Secretos y ocultaciones</title>
-  </programme>
-  <programme start="20261124032400 +0100" stop="20261124042400 +0100" channel="Clan">
-    <title>Cuéntame cómo pasó T2 E10 · El veneno del teatro</title>
-  </programme>
-  <programme start="20261124042400 +0100" stop="20261124054400 +0100" channel="Clan">
-    <title>Cuéntame cómo pasó T2 E11 · Días de lluvia</title>
-  </programme>
-  <programme start="20261124054400 +0100" stop="20261124055500 +0100" channel="Clan">
-    <title>Gigantosaurus T1 E44 · Un pequeño favor</title>
-  </programme>
-  <programme start="20261124055500 +0100" stop="20261124060000 +0100" channel="Clan">
-    <title>Mya Go T1 E25 · va de excursión</title>
-  </programme>
-  <programme start="20261124060000 +0100" stop="20261124060600 +0100" channel="Clan">
-    <title>Simon T5 E1 · La merienda de la Abuelita Lobo</title>
   </programme>
   <programme start="20261124060600 +0100" stop="20261124061200 +0100" channel="Clan">
     <title>Simon T5 E2 · No toques el pañuelo de Gaspar</title>
@@ -2528,7 +2441,7 @@
     <title>Simon T5 E12 · Eso no vale</title>
   </programme>
   <programme start="20261125063200 +0100" stop="20261125065400 +0100" channel="Clan">
-    <title>La casa de muñecas de Gabby T1</title>
+    <title>La casa de muñecas de Gabby T3 E1 · El hotel gatuno</title>
   </programme>
   <programme start="20261125065400 +0100" stop="20261125070100 +0100" channel="Clan">
     <title>Bluey T2 E46 · Carrera de bebés</title>
@@ -2546,7 +2459,7 @@
     <title>La Casa De Mickey Mouse T3 E30 · La sorpresa de primavera de Mickey</title>
   </programme>
   <programme start="20261125074600 +0100" stop="20261125080900 +0100" channel="Clan">
-    <title>Marvel Spidey y su superequipo</title>
+    <title>Marvel Spidey y su superequipo T2 E5 · Pequeño Hulk / Fiesta sorpresa</title>
   </programme>
   <programme start="20261125080900 +0100" stop="20261125083200 +0100" channel="Clan">
     <title>La Princesa Sofía T2 E3 · La corona volante</title>
@@ -2639,34 +2552,34 @@
     <title>Los Casagrande T1 E14 · Como pez fuera del agua; Aire condicionado</title>
   </programme>
   <programme start="20261125141900 +0100" stop="20261125144000 +0100" channel="Clan">
-    <title>Los Green en la Gran Ciudad T1</title>
+    <title>Los Green en la Gran Ciudad T2 E7 · Un ambiente muy caldeado/ Bill-ienígenas</title>
   </programme>
   <programme start="20261125144000 +0100" stop="20261125150100 +0100" channel="Clan">
-    <title>Los Green en la Gran Ciudad T1</title>
+    <title>Los Green en la Gran Ciudad T2 E8 · Dentelladas abiertas/ El tejedor de sueños</title>
   </programme>
   <programme start="20261125150100 +0100" stop="20261125152200 +0100" channel="Clan">
-    <title>Los Green en la Gran Ciudad T1</title>
+    <title>Los Green en la Gran Ciudad T2 E9 · Subir de nivel/ El lado salvaje</title>
   </programme>
   <programme start="20261125152200 +0100" stop="20261125153000 +0100" channel="Clan">
-    <title>Superthings: Rivals of Kaboom, Kazoom Power</title>
+    <title>Superthings: Rescue Force T2 E15 · Esta base es nuestra</title>
   </programme>
   <programme start="20261125153000 +0100" stop="20261125153800 +0100" channel="Clan">
-    <title>Superthings: Rivals of Kaboom, Kazoom Power</title>
+    <title>Superthings: Rescue Force T2 E16 · Una Búsqueda Legendaria</title>
   </programme>
   <programme start="20261125153800 +0100" stop="20261125154500 +0100" channel="Clan">
-    <title>Superthings: Rivals of Kaboom, Kazoom Power</title>
+    <title>Superthings: Rescue Force T2 E17 · Batalla De Dulces</title>
   </programme>
   <programme start="20261125154500 +0100" stop="20261125155700 +0100" channel="Clan">
-    <title>Hello Kitty: Super Style! T1</title>
+    <title>Hello Kitty: Super Style! T7 E2 · Super Badtz</title>
   </programme>
   <programme start="20261125155700 +0100" stop="20261125160800 +0100" channel="Clan">
-    <title>Hello Kitty: Super Style! T1</title>
+    <title>Hello Kitty: Super Style! T6 E1 · El baile del smoothie</title>
   </programme>
   <programme start="20261125160800 +0100" stop="20261125161900 +0100" channel="Clan">
-    <title>Hello Kitty: Super Style! T1</title>
+    <title>Hello Kitty: Super Style! T9 E3 · Los juegos pingüineses</title>
   </programme>
   <programme start="20261125161900 +0100" stop="20261125163000 +0100" channel="Clan">
-    <title>Hello Kitty: Super Style! T1</title>
+    <title>Hello Kitty: Super Style! T10 E3 · Mundo dragón</title>
   </programme>
   <programme start="20261125163000 +0100" stop="20261125163700 +0100" channel="Clan">
     <title>Bluey T3 E27 · Muñeco de trapo</title>
@@ -2678,7 +2591,7 @@
     <title>La casa de Mickey Mouse T2 E4 · Bebé Goofy</title>
   </programme>
   <programme start="20261125170800 +0100" stop="20261125173100 +0100" channel="Clan">
-    <title>Marvel Spidey y su superequipo</title>
+    <title>Marvel Spidey y su superequipo T2 E6 · ¡No Puedo Dejar de Bailar! / La Hormiga Ladrona</title>
   </programme>
   <programme start="20261125173100 +0100" stop="20261125173800 +0100" channel="Clan">
     <title>Bluey T3 E45 · La gran final</title>
@@ -2705,13 +2618,13 @@
     <title>Los amigos del bloque Slip T1 E16 · Las olimpiadas de S.L.I.P</title>
   </programme>
   <programme start="20261125183600 +0100" stop="20261125185700 +0100" channel="Clan">
-    <title>Los Green en la Gran Ciudad T1</title>
+    <title>Los Green en la Gran Ciudad T1 E25 · Diente Doliente/ Hermanas de pijama</title>
   </programme>
   <programme start="20261125185700 +0100" stop="20261125191800 +0100" channel="Clan">
-    <title>Los Green en la Gran Ciudad T1</title>
+    <title>Los Green en la Gran Ciudad T1 E26 · El lío de la caravana/ Una locura de mansión</title>
   </programme>
   <programme start="20261125191800 +0100" stop="20261125193800 +0100" channel="Clan">
-    <title>Los Green en la Gran Ciudad T1</title>
+    <title>Los Green en la Gran Ciudad T1 E27 · El baile de San Valentín/ Green limpia las Calles</title>
   </programme>
   <programme start="20261125193800 +0100" stop="20261125200000 +0100" channel="Clan">
     <title>Una casa de locos T3 E8 · Unión escolar; El club de los poetas ansiosos</title>
@@ -2766,42 +2679,6 @@
   </programme>
   <programme start="20261126055500 +0100" stop="20261126060000 +0100" channel="Clan">
     <title>Mya Go T1 E29 · mecánica</title>
-  </programme>
-  <programme start="20261124004500 +0100" stop="20261124010000 +0100" channel="Canal 24 Horas">
-    <title>La gran decisión T1 · Análisis posterior debate a ocho</title>
-  </programme>
-  <programme start="20261124010000 +0100" stop="20261124013000 +0100" channel="Canal 24 Horas">
-    <title>Noticias 24H</title>
-  </programme>
-  <programme start="20261124013000 +0100" stop="20261124020000 +0100" channel="Canal 24 Horas">
-    <title>Noticias 24H</title>
-  </programme>
-  <programme start="20261124020000 +0100" stop="20261124023000 +0100" channel="Canal 24 Horas">
-    <title>Telediario Internacional</title>
-  </programme>
-  <programme start="20261124023000 +0100" stop="20261124030000 +0100" channel="Canal 24 Horas">
-    <title>Telediario Internacional</title>
-  </programme>
-  <programme start="20261124030000 +0100" stop="20261124033000 +0100" channel="Canal 24 Horas">
-    <title>Telediario Internacional</title>
-  </programme>
-  <programme start="20261124033000 +0100" stop="20261124040000 +0100" channel="Canal 24 Horas">
-    <title>Telediario Internacional</title>
-  </programme>
-  <programme start="20261124040000 +0100" stop="20261124043000 +0100" channel="Canal 24 Horas">
-    <title>Telediario Internacional</title>
-  </programme>
-  <programme start="20261124043000 +0100" stop="20261124050000 +0100" channel="Canal 24 Horas">
-    <title>La hora cultural</title>
-  </programme>
-  <programme start="20261124050000 +0100" stop="20261124053000 +0100" channel="Canal 24 Horas">
-    <title>Telediario Internacional</title>
-  </programme>
-  <programme start="20261124053000 +0100" stop="20261124060000 +0100" channel="Canal 24 Horas">
-    <title>Telediario Internacional</title>
-  </programme>
-  <programme start="20261124060000 +0100" stop="20261124075000 +0100" channel="Canal 24 Horas">
-    <title>Telediario Matinal</title>
   </programme>
   <programme start="20261124075000 +0100" stop="20261124103500 +0100" channel="Canal 24 Horas">
     <title>La hora de La 1: La hora de la actualidad T10 E232</title>
@@ -2891,7 +2768,7 @@
     <title>Telediario Matinal</title>
   </programme>
   <programme start="20261125075000 +0100" stop="20261125103500 +0100" channel="Canal 24 Horas">
-    <title>La hora de La 1: La hora de la actualidad</title>
+    <title>La hora de La 1: La hora de la actualidad T10 E233</title>
   </programme>
   <programme start="20261125103500 +0100" stop="20261125110000 +0100" channel="Canal 24 Horas">
     <title>Diario 24</title>
@@ -2971,12 +2848,6 @@
   <programme start="20261126053000 +0100" stop="20261126060000 +0100" channel="Canal 24 Horas">
     <title>Telediario Internacional</title>
   </programme>
-  <programme start="20261124003000 +0100" stop="20261124022000 +0100" channel="TRECE">
-    <title>El Partidazo de COPE</title>
-  </programme>
-  <programme start="20261124022000 +0100" stop="20261124062000 +0100" channel="TRECE">
-    <title>De compras</title>
-  </programme>
   <programme start="20261124062000 +0100" stop="20261124080000 +0100" channel="TRECE">
     <title>De compras</title>
   </programme>
@@ -2999,28 +2870,31 @@
     <title>Ecclesia</title>
   </programme>
   <programme start="20261124133000 +0100" stop="20261124143000 +0100" channel="TRECE">
-    <title>A un paso del cielo T7</title>
+    <title>A un paso del cielo T7 E7 · Solo por amor I</title>
   </programme>
   <programme start="20261124143000 +0100" stop="20261124145000 +0100" channel="TRECE">
     <title>TRECE y Cope. Es noticia</title>
   </programme>
-  <programme start="20261124145000 +0100" stop="20261124165000 +0100" channel="TRECE">
-    <title>Cine</title>
+  <programme start="20261124145000 +0100" stop="20261124171000 +0100" channel="TRECE">
+    <title>El capitán Jones</title>
   </programme>
-  <programme start="20261124165000 +0100" stop="20261124184000 +0100" channel="TRECE">
-    <title>Cine</title>
+  <programme start="20261124171000 +0100" stop="20261124185000 +0100" channel="TRECE">
+    <title>La isla de los corsarios</title>
   </programme>
-  <programme start="20261124184000 +0100" stop="20261124204500 +0100" channel="TRECE">
-    <title>Cine</title>
+  <programme start="20261124185000 +0100" stop="20261124204500 +0100" channel="TRECE">
+    <title>Sed de inocencia</title>
   </programme>
-  <programme start="20261124204500 +0100" stop="20261124210000 +0100" channel="TRECE">
-    <title>TRECE y Cope. Es noticia</title>
-  </programme>
-  <programme start="20261124210000 +0100" stop="20261125003000 +0100" channel="TRECE">
+  <programme start="20261124204500 +0100" stop="20261124220000 +0100" channel="TRECE">
     <title>El cascabel</title>
   </programme>
-  <programme start="20261125003000 +0100" stop="20261125022000 +0100" channel="TRECE">
+  <programme start="20261124220000 +0100" stop="20261125003000 +0100" channel="TRECE">
+    <title>El cascabel</title>
+  </programme>
+  <programme start="20261125003000 +0100" stop="20261125014500 +0100" channel="TRECE">
     <title>El Partidazo de COPE</title>
+  </programme>
+  <programme start="20261125014500 +0100" stop="20261125022000 +0100" channel="TRECE">
+    <title>De compras</title>
   </programme>
   <programme start="20261125022000 +0100" stop="20261125080000 +0100" channel="TRECE">
     <title>De compras</title>
@@ -3044,24 +2918,27 @@
     <title>Ecclesia</title>
   </programme>
   <programme start="20261125133000 +0100" stop="20261125143000 +0100" channel="TRECE">
-    <title>A un paso del cielo T7</title>
+    <title>A un paso del cielo T7 E8 · Solo por amor II</title>
   </programme>
-  <programme start="20261125143000 +0100" stop="20261125145000 +0100" channel="TRECE">
+  <programme start="20261125143000 +0100" stop="20261125144500 +0100" channel="TRECE">
     <title>TRECE y Cope. Es noticia</title>
   </programme>
-  <programme start="20261125145000 +0100" stop="20261125164500 +0100" channel="TRECE">
-    <title>Cine</title>
+  <programme start="20261125144500 +0100" stop="20261125163500 +0100" channel="TRECE">
+    <title>La colina de las botas</title>
   </programme>
-  <programme start="20261125164500 +0100" stop="20261125190000 +0100" channel="TRECE">
-    <title>Cine</title>
+  <programme start="20261125163500 +0100" stop="20261125184000 +0100" channel="TRECE">
+    <title>Shalako</title>
   </programme>
-  <programme start="20261125190000 +0100" stop="20261125204500 +0100" channel="TRECE">
-    <title>Cine</title>
+  <programme start="20261125184000 +0100" stop="20261125204500 +0100" channel="TRECE">
+    <title>Una bala para el diablo</title>
   </programme>
   <programme start="20261125204500 +0100" stop="20261125210000 +0100" channel="TRECE">
     <title>TRECE y Cope. Es noticia</title>
   </programme>
-  <programme start="20261125210000 +0100" stop="20261126003000 +0100" channel="TRECE">
+  <programme start="20261125210000 +0100" stop="20261125220000 +0100" channel="TRECE">
+    <title>El cascabel</title>
+  </programme>
+  <programme start="20261125220000 +0100" stop="20261126003000 +0100" channel="TRECE">
     <title>El cascabel</title>
   </programme>
   <programme start="20261126003000 +0100" stop="20261126020000 +0100" channel="TRECE">
@@ -3069,90 +2946,6 @@
   </programme>
   <programme start="20261126020000 +0100" stop="20261126060000 +0100" channel="TRECE">
     <title>De compras</title>
-  </programme>
-  <programme start="20261124000000 +0100" stop="20261124001200 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124001200 +0100" stop="20261124003000 +0100" channel="Euronews en espanol">
-    <title>News</title>
-  </programme>
-  <programme start="20261124003000 +0100" stop="20261124004300 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124004300 +0100" stop="20261124010000 +0100" channel="Euronews en espanol">
-    <title>News</title>
-  </programme>
-  <programme start="20261124010000 +0100" stop="20261124011000 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124011000 +0100" stop="20261124012000 +0100" channel="Euronews en espanol">
-    <title>Made in Europe</title>
-  </programme>
-  <programme start="20261124012000 +0100" stop="20261124013000 +0100" channel="Euronews en espanol">
-    <title>Made in Europe</title>
-  </programme>
-  <programme start="20261124013000 +0100" stop="20261124014200 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124014200 +0100" stop="20261124020000 +0100" channel="Euronews en espanol">
-    <title>News</title>
-  </programme>
-  <programme start="20261124020000 +0100" stop="20261124021200 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124021200 +0100" stop="20261124023000 +0100" channel="Euronews en espanol">
-    <title>News</title>
-  </programme>
-  <programme start="20261124023000 +0100" stop="20261124024200 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124024200 +0100" stop="20261124030000 +0100" channel="Euronews en espanol">
-    <title>News</title>
-  </programme>
-  <programme start="20261124030000 +0100" stop="20261124031200 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124031200 +0100" stop="20261124032200 +0100" channel="Euronews en espanol">
-    <title>Made in Europe</title>
-  </programme>
-  <programme start="20261124032200 +0100" stop="20261124033000 +0100" channel="Euronews en espanol">
-    <title>Made in Europe</title>
-  </programme>
-  <programme start="20261124033000 +0100" stop="20261124034200 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124034200 +0100" stop="20261124040000 +0100" channel="Euronews en espanol">
-    <title>News</title>
-  </programme>
-  <programme start="20261124040000 +0100" stop="20261124041200 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124041200 +0100" stop="20261124043000 +0100" channel="Euronews en espanol">
-    <title>News</title>
-  </programme>
-  <programme start="20261124043000 +0100" stop="20261124044200 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124044200 +0100" stop="20261124050000 +0100" channel="Euronews en espanol">
-    <title>News</title>
-  </programme>
-  <programme start="20261124050000 +0100" stop="20261124051000 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124051000 +0100" stop="20261124052000 +0100" channel="Euronews en espanol">
-    <title>Made in Europe</title>
-  </programme>
-  <programme start="20261124052000 +0100" stop="20261124053000 +0100" channel="Euronews en espanol">
-    <title>Made in Europe</title>
-  </programme>
-  <programme start="20261124053000 +0100" stop="20261124054200 +0100" channel="Euronews en espanol">
-    <title>Euronews Hoy</title>
-  </programme>
-  <programme start="20261124054200 +0100" stop="20261124060000 +0100" channel="Euronews en espanol">
-    <title>News</title>
-  </programme>
-  <programme start="20261124060000 +0100" stop="20261124061200 +0100" channel="Euronews en espanol">
-    <title>Al despertar Europa</title>
   </programme>
   <programme start="20261124061200 +0100" stop="20261124063000 +0100" channel="Euronews en espanol">
     <title>News</title>
@@ -3709,21 +3502,6 @@
   <programme start="20261126054200 +0100" stop="20261126060000 +0100" channel="Euronews en espanol">
     <title>News</title>
   </programme>
-  <programme start="20261124000000 +0100" stop="20261124010100 +0100" channel="El Toro TV">
-    <title>Goles con Parrado</title>
-  </programme>
-  <programme start="20261124010100 +0100" stop="20261124025600 +0100" channel="El Toro TV">
-    <title>Dando caña</title>
-  </programme>
-  <programme start="20261124025600 +0100" stop="20261124050000 +0100" channel="El Toro TV">
-    <title>El gato al agua</title>
-  </programme>
-  <programme start="20261124050000 +0100" stop="20261124052400 +0100" channel="El Toro TV">
-    <title>Pulso Económico</title>
-  </programme>
-  <programme start="20261124052400 +0100" stop="20261124070000 +0100" channel="El Toro TV">
-    <title>La redacción abierta</title>
-  </programme>
   <programme start="20261124070000 +0100" stop="20261124101100 +0100" channel="El Toro TV">
     <title>Mañanas en libertad</title>
   </programme>
@@ -3820,12 +3598,6 @@
   <programme start="20261126052500 +0100" stop="20261126070000 +0100" channel="El Toro TV">
     <title>La redacción abierta</title>
   </programme>
-  <programme start="20261124000000 +0100" stop="20261124033000 +0100" channel="Negocios TV">
-    <title>Lo mejor de Negocios TV</title>
-  </programme>
-  <programme start="20261124033000 +0100" stop="20261124070000 +0100" channel="Negocios TV">
-    <title>Lo mejor de Negocios TV</title>
-  </programme>
   <programme start="20261124070000 +0100" stop="20261124103000 +0100" channel="Negocios TV">
     <title>Business Connection</title>
   </programme>
@@ -3909,45 +3681,6 @@
   </programme>
   <programme start="20261126033000 +0100" stop="20261126070000 +0100" channel="Negocios TV">
     <title>Lo mejor de Negocios TV</title>
-  </programme>
-  <programme start="20261124000000 +0100" stop="20261124004500 +0100" channel="CGTN Espanol">
-    <title>El proyector</title>
-  </programme>
-  <programme start="20261124004500 +0100" stop="20261124013000 +0100" channel="CGTN Espanol">
-    <title>El proyector</title>
-  </programme>
-  <programme start="20261124013000 +0100" stop="20261124014500 +0100" channel="CGTN Espanol">
-    <title>Saboreando china</title>
-  </programme>
-  <programme start="20261124014500 +0100" stop="20261124020000 +0100" channel="CGTN Espanol">
-    <title>Nihao china</title>
-  </programme>
-  <programme start="20261124020000 +0100" stop="20261124023000 +0100" channel="CGTN Espanol">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261124023000 +0100" stop="20261124030000 +0100" channel="CGTN Espanol">
-    <title>Así es China</title>
-  </programme>
-  <programme start="20261124030000 +0100" stop="20261124033000 +0100" channel="CGTN Espanol">
-    <title>CGTN noticias</title>
-  </programme>
-  <programme start="20261124033000 +0100" stop="20261124040000 +0100" channel="CGTN Espanol">
-    <title>Prisma</title>
-  </programme>
-  <programme start="20261124040000 +0100" stop="20261124043000 +0100" channel="CGTN Espanol">
-    <title>Ronda Artística</title>
-  </programme>
-  <programme start="20261124043000 +0100" stop="20261124050000 +0100" channel="CGTN Espanol">
-    <title>América ahora</title>
-  </programme>
-  <programme start="20261124050000 +0100" stop="20261124053000 +0100" channel="CGTN Espanol">
-    <title>Diálogo</title>
-  </programme>
-  <programme start="20261124053000 +0100" stop="20261124060000 +0100" channel="CGTN Espanol">
-    <title>Documental</title>
-  </programme>
-  <programme start="20261124060000 +0100" stop="20261124064500 +0100" channel="CGTN Espanol">
-    <title>El proyector</title>
   </programme>
   <programme start="20261124064500 +0100" stop="20261124073000 +0100" channel="CGTN Espanol">
     <title>El proyector</title>
@@ -4271,61 +4004,82 @@
     <title>Estudio Estadio El Debate T26/27 · Lunes 22 noviembre</title>
   </programme>
   <programme start="20261124142000 +0100" stop="20261124150000 +0100" channel="Teledeporte">
-    <title>DIRECTO Martes 24 noviembre T2026 · Estadio 2.0</title>
+    <title>Estadio 2.0 T2026 · Martes 24 noviembre</title>
   </programme>
-  <programme start="20261124150000 +0100" stop="20261124150500 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · AEK Atenas - Real Madrid</title>
+  <programme start="20261124150000 +0100" stop="20261124151500 +0100" channel="Teledeporte">
+    <title>Estudio Estadio Retro T1 · Real Madrid - PSV Eindhoven</title>
   </programme>
-  <programme start="20261124150500 +0100" stop="20261124151100 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · Barcelona - Aston Villa</title>
+  <programme start="20261124151500 +0100" stop="20261124153000 +0100" channel="Teledeporte">
+    <title>Estudio Estadio Retro T1 · PSV Eindhoven - Real Madrid</title>
   </programme>
-  <programme start="20261124151100 +0100" stop="20261124151600 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · Atlético de Madrid - Bayern Múnich</title>
+  <programme start="20261124153000 +0100" stop="20261124154500 +0100" channel="Teledeporte">
+    <title>Estudio Estadio Retro T1 · PSV Eindhoven - Real Madrid</title>
   </programme>
-  <programme start="20261124151600 +0100" stop="20261124152200 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · Villarreal - PSG</title>
-  </programme>
-  <programme start="20261124152200 +0100" stop="20261124152700 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · Borussia Dortmund - Betis</title>
-  </programme>
-  <programme start="20261124152700 +0100" stop="20261124153300 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · Slavia Praga - Arsenal</title>
-  </programme>
-  <programme start="20261124153300 +0100" stop="20261124153800 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · Lens - Como</title>
-  </programme>
-  <programme start="20261124153800 +0100" stop="20261124154400 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · Leipzig - Manchester United</title>
-  </programme>
-  <programme start="20261124154400 +0100" stop="20261124154900 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · Fenerbahçe - Liverpool</title>
-  </programme>
-  <programme start="20261124154900 +0100" stop="20261124155500 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · PSV Eindhoven - Brujas</title>
-  </programme>
-  <programme start="20261124155500 +0100" stop="20261124160000 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · Manchester United - Roma</title>
+  <programme start="20261124154500 +0100" stop="20261124160000 +0100" channel="Teledeporte">
+    <title>Estudio Estadio Retro T1 · Real Madrid - PSV Eindhoven</title>
   </programme>
   <programme start="20261124160000 +0100" stop="20261124162000 +0100" channel="Teledeporte">
     <title>Mundial Sub-17 M T2026 · Brasil - Irlanda</title>
   </programme>
   <programme start="20261124162000 +0100" stop="20261124183000 +0100" channel="Teledeporte">
-    <title>DIRECTO Fase de grupos: Honduras - Colombia T2026 · Mundial Sub-17 M</title>
+    <title>Mundial Sub-17 M T2026 · Fase de grupos: Honduras - Colombia</title>
   </programme>
-  <programme start="20261124183000 +0100" stop="20261124190000 +0100" channel="Teledeporte">
-    <title>Mundial Sub-17 M T2026 · España - Fiyi</title>
-  </programme>
-  <programme start="20261124190000 +0100" stop="20261124191300 +0100" channel="Teledeporte">
+  <programme start="20261124183000 +0100" stop="20261124184500 +0100" channel="Teledeporte">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Levante UD - Elche CF</title>
   </programme>
-  <programme start="20261124191300 +0100" stop="20261124192500 +0100" channel="Teledeporte">
+  <programme start="20261124184500 +0100" stop="20261124190000 +0100" channel="Teledeporte">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Ceuta FC - UD Almería</title>
   </programme>
-  <programme start="20261124192500 +0100" stop="20261124212000 +0100" channel="Teledeporte">
-    <title>Resúmenes UEFA Champions League T26/27 · Jornada 4</title>
+  <programme start="20261124190000 +0100" stop="20261124190500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Barcelona - Aston Villa</title>
+  </programme>
+  <programme start="20261124190500 +0100" stop="20261124191100 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Atlético de Madrid - Bayern Múnich</title>
+  </programme>
+  <programme start="20261124191100 +0100" stop="20261124191600 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Villarreal - PSG</title>
+  </programme>
+  <programme start="20261124191600 +0100" stop="20261124192200 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Borussia Dortmund - Betis</title>
+  </programme>
+  <programme start="20261124192200 +0100" stop="20261124192700 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Slavia Praga - Arsenal</title>
+  </programme>
+  <programme start="20261124192700 +0100" stop="20261124193300 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Lens - Como</title>
+  </programme>
+  <programme start="20261124193300 +0100" stop="20261124193800 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Leipzig - Manchester United</title>
+  </programme>
+  <programme start="20261124193800 +0100" stop="20261124194400 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Fenerbahçe - Liverpool</title>
+  </programme>
+  <programme start="20261124194400 +0100" stop="20261124194900 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Manchester United - Roma</title>
+  </programme>
+  <programme start="20261124194900 +0100" stop="20261124195500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · PSV Eindhoven - Brujas</title>
+  </programme>
+  <programme start="20261124195500 +0100" stop="20261124200000 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · AEK Atenas - Real Madrid</title>
+  </programme>
+  <programme start="20261124200000 +0100" stop="20261124201500 +0100" channel="Teledeporte">
+    <title>Estudio Estadio Retro T1 · Real Madrid - PSV Eindhoven</title>
+  </programme>
+  <programme start="20261124201500 +0100" stop="20261124203000 +0100" channel="Teledeporte">
+    <title>Estudio Estadio Retro T1 · PSV Eindhoven - Real Madrid</title>
+  </programme>
+  <programme start="20261124203000 +0100" stop="20261124204500 +0100" channel="Teledeporte">
+    <title>Estudio Estadio Retro T1 · PSV Eindhoven - Real Madrid</title>
+  </programme>
+  <programme start="20261124204500 +0100" stop="20261124210000 +0100" channel="Teledeporte">
+    <title>Estudio Estadio Retro T1 · Real Madrid - PSV Eindhoven</title>
+  </programme>
+  <programme start="20261124210000 +0100" stop="20261124212000 +0100" channel="Teledeporte">
+    <title>Mundial Sub-17 M T2026 · Fase de grupos: Honduras - Colombia</title>
   </programme>
   <programme start="20261124212000 +0100" stop="20261124230000 +0100" channel="Teledeporte">
-    <title>Martes 24 noviembre T26/27 · Estudio Estadio Champions Resúmenes</title>
+    <title>DIRECTO Martes 24 noviembre T26/27 · Estudio Estadio Champions Resúmenes</title>
   </programme>
   <programme start="20261124230000 +0100" stop="20261125000000 +0100" channel="Teledeporte">
     <title>Martes 24 noviembre T26/27 · Estudio Estadio Champions</title>
@@ -4334,7 +4088,7 @@
     <title>Martes 24 noviembre T26/27 · Estudio Estadio Champions Tiempo Extra</title>
   </programme>
   <programme start="20261125010000 +0100" stop="20261125012000 +0100" channel="Teledeporte">
-    <title>Fase de grupos: Honduras - Colombia T2026 · Mundial Sub-17 M</title>
+    <title>Mundial Sub-17 M T2026 · Fase de grupos: Honduras - Colombia</title>
   </programme>
   <programme start="20261125012000 +0100" stop="20261125015000 +0100" channel="Teledeporte">
     <title>Mundial Sub-17 M T2026 · España - Fiyi</title>
@@ -4346,7 +4100,7 @@
     <title>Martes 24 noviembre T26/27 · Estudio Estadio Champions Tiempo Extra</title>
   </programme>
   <programme start="20261125035000 +0100" stop="20261125053500 +0100" channel="Teledeporte">
-    <title>Fase de grupos: Honduras - Colombia T2026 · Mundial Sub-17 M</title>
+    <title>Mundial Sub-17 M T2026 · Fase de grupos: Honduras - Colombia</title>
   </programme>
   <programme start="20261125053500 +0100" stop="20261125054800 +0100" channel="Teledeporte">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Levante UD - Elche CF</title>
@@ -4354,23 +4108,131 @@
   <programme start="20261125054800 +0100" stop="20261125060000 +0100" channel="Teledeporte">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Ceuta FC - UD Almería</title>
   </programme>
-  <programme start="20261125060000 +0100" stop="20261125100000 +0100" channel="Teledeporte">
-    <title>Teledeporte</title>
+  <programme start="20261125060000 +0100" stop="20261125063500 +0100" channel="Teledeporte">
+    <title>Cross de Atapuerca T2026 · Carrera F</title>
   </programme>
-  <programme start="20261125100000 +0100" stop="20261125140000 +0100" channel="Teledeporte">
-    <title>Teledeporte</title>
+  <programme start="20261125063500 +0100" stop="20261125071000 +0100" channel="Teledeporte">
+    <title>Cross de Atapuerca T2026 · Carrera M</title>
   </programme>
-  <programme start="20261125140000 +0100" stop="20261125180000 +0100" channel="Teledeporte">
-    <title>Teledeporte</title>
+  <programme start="20261125071000 +0100" stop="20261125080500 +0100" channel="Teledeporte">
+    <title>Mundial de Gravel - Resumen</title>
   </programme>
-  <programme start="20261125180000 +0100" stop="20261125220000 +0100" channel="Teledeporte">
-    <title>Teledeporte</title>
+  <programme start="20261125080500 +0100" stop="20261125090500 +0100" channel="Teledeporte">
+    <title>Martes 24 noviembre T26/27 · Estudio Estadio Champions</title>
   </programme>
-  <programme start="20261125220000 +0100" stop="20261126020000 +0100" channel="Teledeporte">
-    <title>Teledeporte</title>
+  <programme start="20261125090500 +0100" stop="20261125100500 +0100" channel="Teledeporte">
+    <title>Martes 24 noviembre T26/27 · Estudio Estadio Champions Tiempo Extra</title>
   </programme>
-  <programme start="20261126020000 +0100" stop="20261126060000 +0100" channel="Teledeporte">
-    <title>Teledeporte</title>
+  <programme start="20261125100500 +0100" stop="20261125101000 +0100" channel="Teledeporte">
+    <title>Informativo Deportes 24H</title>
+  </programme>
+  <programme start="20261125101000 +0100" stop="20261125102000 +0100" channel="Teledeporte">
+    <title>Resumen División de Honor de baloncesto en silla de ruedas T26/27 · Martes 24 noviembre</title>
+  </programme>
+  <programme start="20261125102000 +0100" stop="20261125103500 +0100" channel="Teledeporte">
+    <title>Hola Golf T2026 · Lunes 23 noviembre</title>
+  </programme>
+  <programme start="20261125103500 +0100" stop="20261125110000 +0100" channel="Teledeporte">
+    <title>Guerreras DHF T26/27 · Martes 24 noviembre</title>
+  </programme>
+  <programme start="20261125110000 +0100" stop="20261125120000 +0100" channel="Teledeporte">
+    <title>Copa del mundo de High Diving - Zhaoqing T2026 · Finales</title>
+  </programme>
+  <programme start="20261125120000 +0100" stop="20261125122000 +0100" channel="Teledeporte">
+    <title>Resúmenes Liga F T26/27 · Jornada 12Jornada 12: Badalona Women - Deportivo</title>
+  </programme>
+  <programme start="20261125122000 +0100" stop="20261125132000 +0100" channel="Teledeporte">
+    <title>Martes 24 noviembre T26/27 · Estudio Estadio Champions</title>
+  </programme>
+  <programme start="20261125132000 +0100" stop="20261125142000 +0100" channel="Teledeporte">
+    <title>Martes 24 noviembre T26/27 · Estudio Estadio Champions Tiempo Extra</title>
+  </programme>
+  <programme start="20261125142000 +0100" stop="20261125150000 +0100" channel="Teledeporte">
+    <title>DIRECTO Miércoles 25 noviembre T2026 · Estadio 2.0</title>
+  </programme>
+  <programme start="20261125150000 +0100" stop="20261125150500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Real Madrid - PSV Eindhoven</title>
+  </programme>
+  <programme start="20261125150500 +0100" stop="20261125151000 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · S. Bratislava - Betis</title>
+  </programme>
+  <programme start="20261125151000 +0100" stop="20261125151500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Arsenal - Borussia Dortmund</title>
+  </programme>
+  <programme start="20261125151500 +0100" stop="20261125152000 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Manchester City - Nápoles</title>
+  </programme>
+  <programme start="20261125152000 +0100" stop="20261125152500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Como - AEK Atenas</title>
+  </programme>
+  <programme start="20261125152500 +0100" stop="20261125153000 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Galatasaray - Aston Villa</title>
+  </programme>
+  <programme start="20261125153000 +0100" stop="20261125153500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Feyenoord - Oporto</title>
+  </programme>
+  <programme start="20261125153500 +0100" stop="20261125154000 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Leipzig - Lens</title>
+  </programme>
+  <programme start="20261125154000 +0100" stop="20261125154500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Bodo Glimt - LASK</title>
+  </programme>
+  <programme start="20261125154500 +0100" stop="20261125160000 +0100" channel="Teledeporte">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Levante UD - Elche CF</title>
+  </programme>
+  <programme start="20261125160000 +0100" stop="20261125162000 +0100" channel="Teledeporte">
+    <title>Mundial Sub-17 M T2026 · Fase de grupos: Honduras - Colombia</title>
+  </programme>
+  <programme start="20261125162000 +0100" stop="20261125183000 +0100" channel="Teledeporte">
+    <title>DIRECTO Fase de grupos: Dinamarca - Argentina T2026 · Mundial Sub-17 M</title>
+  </programme>
+  <programme start="20261125183000 +0100" stop="20261125183500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Real Madrid - PSV Eindhoven</title>
+  </programme>
+  <programme start="20261125183500 +0100" stop="20261125184000 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · S. Bratislava - Betis</title>
+  </programme>
+  <programme start="20261125184000 +0100" stop="20261125184500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Arsenal - Borussia Dortmund</title>
+  </programme>
+  <programme start="20261125184500 +0100" stop="20261125185000 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Manchester City - Nápoles</title>
+  </programme>
+  <programme start="20261125185000 +0100" stop="20261125185500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Como - AEK Atenas</title>
+  </programme>
+  <programme start="20261125185500 +0100" stop="20261125210000 +0100" channel="Teledeporte">
+    <title>DIRECTO Tercera ronda: Sporting Huelva - Badalona Women T26/27 · Copa de la Reina</title>
+  </programme>
+  <programme start="20261125210000 +0100" stop="20261125212000 +0100" channel="Teledeporte">
+    <title>Resúmenes Liga F T26/27 · Jornada 12: Barcelona - Athletic</title>
+  </programme>
+  <programme start="20261125212000 +0100" stop="20261125230000 +0100" channel="Teledeporte">
+    <title>Miércoles 25 noviembre T26/27 · Estudio Estadio Champions Resúmenes</title>
+  </programme>
+  <programme start="20261125230000 +0100" stop="20261126000000 +0100" channel="Teledeporte">
+    <title>Miércoles 25 noviembre T26/27 · Estudio Estadio Champions</title>
+  </programme>
+  <programme start="20261126000000 +0100" stop="20261126010000 +0100" channel="Teledeporte">
+    <title>Miércoles 25 noviembre T26/27 · Estudio Estadio Champions Tiempo Extra</title>
+  </programme>
+  <programme start="20261126010000 +0100" stop="20261126014500 +0100" channel="Teledeporte">
+    <title>Resúmenes UEFA Champions League T26/27 · Real Madrid - PSV Eindhoven</title>
+  </programme>
+  <programme start="20261126014500 +0100" stop="20261126020500 +0100" channel="Teledeporte">
+    <title>Fase de grupos: Dinamarca - Argentina T2026 · Mundial Sub-17 M</title>
+  </programme>
+  <programme start="20261126020500 +0100" stop="20261126030500 +0100" channel="Teledeporte">
+    <title>Miércoles 25 noviembre T26/27 · Estudio Estadio Champions</title>
+  </programme>
+  <programme start="20261126030500 +0100" stop="20261126040500 +0100" channel="Teledeporte">
+    <title>Miércoles 25 noviembre T26/27 · Estudio Estadio Champions Tiempo Extra</title>
+  </programme>
+  <programme start="20261126040500 +0100" stop="20261126055000 +0100" channel="Teledeporte">
+    <title>Tercera ronda: Sporting Huelva - Badalona Women T26/27 · Copa de la Reina</title>
+  </programme>
+  <programme start="20261126055000 +0100" stop="20261126060500 +0100" channel="Teledeporte">
+    <title>Hola Golf T2026 · Lunes 23 noviembre</title>
   </programme>
   <programme start="20261124000000 +0100" stop="20261124001000 +0100" channel="NHK World Espanol">
     <title>NHK Newsline</title>
